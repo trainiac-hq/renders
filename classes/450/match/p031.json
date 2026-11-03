@@ -1,0 +1,171 @@
+{
+ "ref": "p031",
+ "side": "near",
+ "model": {
+  "w1-top-front": [
+   3.53,
+   2.96
+  ],
+  "w1-bottom-front": [
+   3.53,
+   1.93
+  ],
+  "w1-top-rear": [
+   4.76,
+   2.96
+  ],
+  "w1-bottom-rear": [
+   4.76,
+   1.93
+  ],
+  "s1-top-front": [
+   7.72,
+   2.96
+  ],
+  "s1-bottom-front": [
+   7.72,
+   1.93
+  ],
+  "s4-top-rear": [
+   14.12,
+   2.96
+  ],
+  "s4-bottom-rear": [
+   14.12,
+   1.93
+  ]
+ },
+ "points": {
+  "door1-front-top": [
+   700.6,
+   427.2
+  ],
+  "door1-rear-top": [
+   752.5,
+   430.3
+  ],
+  "w1-top-front": [
+   638.6,
+   472.8
+  ],
+  "w1-bottom-front": [
+   640.2,
+   594.5
+  ],
+  "w1-top-rear": [
+   679.5,
+   474.3
+  ],
+  "w1-bottom-rear": [
+   680.1,
+   593.8
+  ],
+  "s1-top-front": [
+   771.1,
+   482.6
+  ],
+  "s1-bottom-front": [
+   771.1,
+   582.0
+  ],
+  "s4-top-rear": [
+   910.0,
+   490.3
+  ],
+  "s4-bottom-rear": [
+   909.2,
+   570.9
+  ],
+  "door2-front-top": [
+   920.3,
+   462.9
+  ],
+  "door2-rear-top": [
+   946.0,
+   464.6
+  ],
+  "lamp2-head": [
+   388.1,
+   649.0
+  ],
+  "lamp0-marker": [
+   439.1,
+   652.3
+  ],
+  "lamp1-tail": [
+   418.3,
+   675.2
+  ],
+  "lamp5-marker": [
+   129.6,
+   630.5
+  ],
+  "lamp4-tail": [
+   144.7,
+   655.7
+  ],
+  "gangway-frame-top-near": [
+   350.2,
+   351.9
+  ],
+  "gangway-frame-top-far": [
+   185.7,
+   351.9
+  ]
+ },
+ "holdout": [
+  "door1-rear-top",
+  "w1-bottom-front",
+  "s4-top-rear",
+  "door2-rear-top"
+ ],
+ "readings": {
+  "door1-*": "first-class door's pale leaves, outer corners (g31b, 3.2x)",
+  "w1-*": "the one window between the cab door and door 1, outer corners of its black frame",
+  "s1-*, s4-*": "first and fourth saloon windows behind door 1, frame corners",
+  "door2-*": "navy door 2 in the white zone, leaf corners between the pale edges (g31d, 5.8x)",
+  "lamp*": "lamp centres on the near (image right) and far groups (g31c, 3x): near head inboard, marker outboard, tail below between",
+  "gangway-frame-top-*": "the frame's front: virtual corners where its top edge and side edges meet (the corners are chamfered)",
+  "focalPx": "EXIF: Canon EOS R50 (APS-C, 22.3 mm wide), 34 mm, frame 3:2 uncropped at 1600 px",
+  "door bottoms": "dropped: the plug doors' leaves tuck in at the bottom (reader 2, s-door1-016), which the model's door outline does not, so a picked bottom corner is not the landmark's place"
+ },
+ "focalPx": 2439,
+ "surface": {
+  "number-centre": [
+   430.7,
+   402.2
+  ],
+  "glass-top-outer": [
+   472.7,
+   429.1
+  ],
+  "glass-top-inner": [
+   380.4,
+   429.1
+  ],
+  "glass-bottom-outer": [
+   462.6,
+   570.1
+  ],
+  "glass-bottom-inner": [
+   372.0,
+   570.1
+  ],
+  "surround-top-outer": [
+   478,
+   416
+  ],
+  "surround-bottom-outer": [
+   466,
+   600
+  ],
+  "panel-bottom-outer": [
+   470,
+   690
+  ],
+  "panel-top-inner": [
+   350,
+   595
+  ]
+ }
+}

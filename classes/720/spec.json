@@ -1,0 +1,590 @@
+{
+ "class": "720",
+ "subject": "Class 720 Aventra, Greater Anglia and c2c, 2025-26",
+ "method": "Body from the GA 720/5 diagram (the 345's template, two-door layout) at the published 24.2 m, nose the 345's, face measured on 720524; every number's source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 31.57,
+  "pxPerMVertical": 33.2,
+  "railY": 185.5,
+  "faceX": 0,
+  "notes": "dia GA-Class-720 (720/5): the 345's car-length template (car 1 0-764 px, car 2 778-1502) with the 720's two-door layout; lengths taken as published 24.2 m for both cars (31.6 and 29.9 px/m: the template is not to scale); vertical 33.2 px/m from row 185.5 as the 345's"
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.1,
+   "cantrail": 3.32,
+   "roof": 3.76,
+   "window": [
+    1.97,
+    2.94
+   ]
+  },
+  "wheel": 0.825,
+  "wheelbase": 2.25,
+  "windowRadius": 0.1,
+  "cab": {
+   "length": 24.2,
+   "doors": [
+    {
+     "x": 2.36,
+     "w": 0.792,
+     "cab": true,
+     "window": [
+      2.45,
+      2.97
+     ],
+     "panes": [
+      -0.12,
+      0.15
+     ],
+     "span": [
+      1.13,
+      3.2
+     ]
+    },
+    {
+     "x": 7.016,
+     "w": 1.806,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 18.451,
+     "w": 1.806,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     4.086,
+     5.607
+    ],
+    [
+     8.426,
+     9.946
+    ],
+    [
+     10.199,
+     11.72
+    ],
+    [
+     11.973,
+     13.494
+    ],
+    [
+     13.747,
+     15.268
+    ],
+    [
+     15.521,
+     17.041
+    ],
+    [
+     19.86,
+     21.381
+    ],
+    [
+     21.634,
+     23.155
+    ]
+   ],
+   "bogies": [
+    4.355,
+    21.08
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 4.6,
+     "w": 2.1
+    },
+    {
+     "kind": "pod",
+     "x": 12.8,
+     "w": 5.0
+    }
+   ],
+   "under": [
+    [
+     7.5,
+     13.8
+    ],
+    [
+     14.8,
+     18.0
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      1.02,
+      2.62
+     ],
+     [
+      1.36,
+      3.18
+     ],
+     [
+      1.62,
+      3.2,
+      1
+     ],
+     [
+      1.7,
+      3.12
+     ],
+     [
+      1.7,
+      2.66
+     ],
+     [
+      1.64,
+      2.58,
+      1
+     ]
+    ]
+   ]
+  },
+  "next": {
+   "length": 24.2,
+   "doors": [
+    {
+     "x": 6.066,
+     "w": 1.905,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 18.133,
+     "w": 1.905,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     1.103,
+     2.707
+    ],
+    [
+     2.975,
+     4.579
+    ],
+    [
+     7.554,
+     9.159
+    ],
+    [
+     9.426,
+     11.03
+    ],
+    [
+     11.298,
+     12.902
+    ],
+    [
+     13.17,
+     14.774
+    ],
+    [
+     15.041,
+     16.646
+    ],
+    [
+     19.621,
+     21.225
+    ],
+    [
+     21.493,
+     23.097
+    ]
+   ],
+   "bogies": [
+    3.292,
+    20.908
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 4.2
+    },
+    {
+     "kind": "pod",
+     "x": 11.5,
+     "w": 5.0
+    }
+   ],
+   "under": [
+    [
+     7.0,
+     12.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.32,
+     0.5,
+     1
+    ],
+    [
+     0.15,
+     0.59
+    ],
+    [
+     0.03,
+     0.71
+    ],
+    [
+     0.0,
+     0.95
+    ],
+    [
+     0.0,
+     1.19
+    ],
+    [
+     0.03,
+     1.43
+    ],
+    [
+     0.12,
+     1.67
+    ],
+    [
+     0.22,
+     1.91
+    ],
+    [
+     0.34,
+     2.15
+    ],
+    [
+     0.46,
+     2.39
+    ],
+    [
+     0.62,
+     2.64
+    ],
+    [
+     0.8,
+     2.88
+    ],
+    [
+     0.99,
+     3.12
+    ],
+    [
+     1.21,
+     3.36
+    ],
+    [
+     1.42,
+     3.6
+    ],
+    [
+     1.64,
+     3.72
+    ],
+    [
+     1.85,
+     3.76,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.772,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.45
+    ]
+   ],
+   "squareness": 3,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.386,
+   "mask": [
+    [
+     0,
+     3.76
+    ],
+    [
+     0.62,
+     3.74
+    ],
+    [
+     1.0,
+     3.63
+    ],
+    [
+     1.1,
+     3.5
+    ],
+    [
+     0.98,
+     3.3
+    ],
+    [
+     0.95,
+     2.9
+    ],
+    [
+     0.93,
+     2.5
+    ],
+    [
+     0.9,
+     2.32
+    ],
+    [
+     0.8,
+     2.27,
+     1
+    ],
+    [
+     0,
+     2.27,
+     1
+    ]
+   ],
+   "panelCentre": [
+    {
+     "half": 1.06,
+     "lo": 1.26,
+     "hi": 2.27,
+     "r": [
+      0.12,
+      0.02,
+      0.02,
+      0.12
+     ]
+    }
+   ],
+   "darkCentre": [
+    {
+     "half": 0.75,
+     "lo": 0.45,
+     "hi": 1.13,
+     "r": [
+      0,
+      0.06,
+      0.06,
+      0
+     ]
+    }
+   ],
+   "screen": {
+    "half": 0.8,
+    "halfTop": 0.88,
+    "lo": 2.39,
+    "hi": 3.42,
+    "r": [
+     0.12,
+     0.3,
+     0.3,
+     0.12
+    ]
+   },
+   "pods": [
+    {
+     "inner": 0.65,
+     "outer": 1.04,
+     "lo": 1.35,
+     "hi": 1.97,
+     "r": [
+      0.12,
+      0.2,
+      0.12,
+      0.12
+     ]
+    }
+   ],
+   "headlamps": "below",
+   "lampRim": "black",
+   "grilles": [
+    {
+     "half": 0.37,
+     "lo": 1.31,
+     "hi": 1.75,
+     "r": 0.04
+    }
+   ],
+   "lineBoxes": [
+    {
+     "half": 0.42,
+     "lo": 1.83,
+     "hi": 2.23,
+     "r": 0.06
+    }
+   ],
+   "lines": [
+    [
+     [
+      1.06,
+      1.2
+     ],
+     [
+      1.3,
+      1.18
+     ]
+    ]
+   ],
+   "number": {
+    "text": "524",
+    "m": -0.86,
+    "y": 2.11,
+    "height": 0.1,
+    "color": "#4A4A4A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -0.12,
+      2.2
+     ],
+     "tip": [
+      -0.75,
+      3.3
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "orangeLine": [
+    3.28,
+    3.31
+   ],
+   "bandLo": 1.88,
+   "bandHi": 3.0,
+   "sweep": [
+    [
+     0.63,
+     1.37
+    ],
+    [
+     5.86,
+     1.82
+    ]
+   ],
+   "sweepW": 0.1,
+   "lowerTop": 1.55,
+   "lowerFront": [
+    [
+     2.6,
+     1.1
+    ],
+    [
+     5.13,
+     1.55
+    ]
+   ],
+   "nose": [
+    [
+     1.29,
+     3.26
+    ],
+    [
+     0.95,
+     2.7
+    ],
+    [
+     0.6,
+     2.25
+    ]
+   ],
+   "noseW": 0.16,
+   "branding": [
+    {
+     "logo": "LE",
+     "at": [
+      4.22,
+      1.77
+     ],
+     "height": 0.18
+    }
+   ],
+   "brandingCC": [
+    {
+     "logo": "CC",
+     "at": [
+      10.6,
+      1.63
+     ],
+     "height": 0.2,
+     "color": "#D6318F"
+    }
+   ],
+   "cheekW": 0.22
+  }
+ },
+ "trace": {
+  "calibration": "dia GA-Class-720 (720/5): the 345's car-length template (car 1 0-764 px, car 2 778-1502) with the 720's two-door layout; lengths taken as published 24.2 m for both cars (31.6 and 29.9 px/m: the template is not to scale); vertical 33.2 px/m from row 185.5 as the 345's",
+  "heights": "the 345's (same body, diagram template); window glass col 150 rows 88-120 -> 1.97-2.94 m",
+  "cab.doors": "dia row 100: cab door 62-87 px; doors 193-250, 554-611 (red #991425)",
+  "cab.windows": "dia row 100 glass runs 129-177 ... 683-731 px",
+  "cab.bogies": "dia wheel row 170: wheels 90-113/162-185, 618-641/690-713 px",
+  "next": "dia row 100 from 778: windows 811-859 ... 1421-1469, doors 931-988, 1292-1349; wheels 829-852/901-924, 1356-1379/1428-1451",
+  "nose": "the 345's: the 720 diagram's nose outline is the same pixel for pixel",
+  "face": "720524 near head-on (Colchester, 1280 px), scaled across by the body's half-width at the pods (195 px for 1.386 m: 141 px/m) from the grille's centre, up from the pods' centre at 1.655 m (the family's): the yellow panel +-1.06 m, 1.26-2.27 m, the pods set in its outer ends (0.65-1.04 m out, 1.35-1.97), grille +-0.37, 1.31-1.75, wiper housing 1.83-2.23; the black frame round the screen +-0.92 m down to the yellow's top, the glass +-0.80 at its foot (2.39 m) to +-0.88; the accent stripe (red on LE, magenta on c2c) on the cheek outboard of the frame from the roof cap down to the yellow; white bumper below with the coupler's recess +-0.75 m up to 1.13 m; number on the yellow at the left",
+  "livery": "dia col 150: dark roof cap to 3.32, black window band 1.88-3.0 m (rows 85-120 with the windows), light body, red line row 133 (1.58 m), dark grey lower band 1.13-1.55 (rows 134-148) on LE; its front edge rises back to 5.13 m at 1.55 m (row 130); the accent sweep a thin line from 0.63 m at 1.37 m to 5.86 m at 1.82 m (dia); review of the sheets (720573, 720606): the windows are plain glass in the white, not in a continuous black band (the band covered the doors' tops: removed); the cheek accent is a broad band about 0.22 m across the corner from the roof to the yellow; the thin slanting accent along the side is Greater Anglia's only",
+  "livery.branding": "Greater Anglia (LE key only; c2c's 720s carry no large mark on the cab car's side): LE ('greateranglia', its own red and grey) under the first window behind the cab door, on 720573 (Marks Tey) read along by a projective fit through the cab door's edges and the first window's (1.96/2.76/4.09/5.61 m; residuals to 15 cm: the template's window is not quite where the photo has it), up from the window's foot (1.97 m, 420 px/m): 3.62-4.83 m, 1.66-1.88 m with the descenders; 0.18 m tall at the artwork's 7.9 aspect",
+  "livery.brandingCC": "c2c (the c2c logo, in the magenta) on the white under the windows behind door 1: 720606 (Shoeburyness-bound, three-quarter) puts it about a third of the way from door 1's rear edge (7.92 m) to door 2's front (17.55 m) on the photo, foreshortened; taken 10.6 m without a camera fit (approximate, +-0.5 m); 0.2 m tall against the 0.51 m white band, centred 1.63 m"
+ },
+ "views": {}
+}

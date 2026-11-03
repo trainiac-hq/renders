@@ -1,0 +1,980 @@
+{
+ "class": "150",
+ "subject": "Class 150/1 and 150/2, two cars",
+ "method": "stage A 150+155",
+ "model": {
+  "heights": {
+   "bottom": 1.0,
+   "cantrail": 3.43,
+   "roof": 3.773,
+   "window": [
+    2.02,
+    3.11
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 19.741,
+   "doors": [
+    {
+     "x": 1.719,
+     "w": 0.874,
+     "cab": true
+    },
+    {
+     "x": 6.53,
+     "w": 1.22,
+     "leaves": 2
+    },
+    {
+     "x": 13.56,
+     "w": 1.22,
+     "leaves": 2
+    }
+   ],
+   "windows": [
+    [
+     3.24,
+     4.93
+    ],
+    [
+     8.13,
+     9.82
+    ],
+    [
+     10.27,
+     11.96
+    ],
+    [
+     15.15,
+     16.84
+    ],
+    [
+     18.26,
+     18.99
+    ]
+   ],
+   "bogies": [
+    2.02,
+    16.37
+   ],
+   "under": [
+    [
+     4.6,
+     15.2
+    ]
+   ]
+  },
+  "next": {
+   "length": 19.741,
+   "doors": [
+    {
+     "x": 6.18,
+     "w": 1.22,
+     "leaves": 2
+    },
+    {
+     "x": 13.21,
+     "w": 1.22,
+     "leaves": 2
+    }
+   ],
+   "windows": [
+    [
+     0.75,
+     2.44
+    ],
+    [
+     2.9,
+     4.59
+    ],
+    [
+     14.81,
+     16.5
+    ]
+   ],
+   "bogies": [
+    3.371,
+    17.721
+   ],
+   "under": [
+    [
+     4.6,
+     15.2
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.06,
+     0.872,
+     1
+    ],
+    [
+     0.0,
+     0.912,
+     1
+    ],
+    [
+     0.0,
+     3.5
+    ],
+    [
+     0.056,
+     3.552
+    ],
+    [
+     0.141,
+     3.601
+    ],
+    [
+     0.254,
+     3.65
+    ],
+    [
+     0.38,
+     3.7
+    ],
+    [
+     0.578,
+     3.749
+    ],
+    [
+     0.69,
+     3.773,
+     1
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      0.634,
+      2.91
+     ],
+     [
+      0.634,
+      2.19
+     ],
+     [
+      1.043,
+      2.19
+     ],
+     [
+      1.043,
+      2.91
+     ]
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "gasket"
+  },
+  "face": {
+   "halfWidth": 1.4,
+   "depth": 1.7,
+   "bottom": 0.872,
+   "panel": [
+    {
+     "m": [
+      -1.4,
+      1.4
+     ],
+     "y": [
+      1.2,
+      3.5
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "m": [
+      0.557,
+      1.272
+     ],
+     "y": [
+      2.121,
+      3.3
+     ],
+     "r": [
+      0.03,
+      0.08,
+      0.08,
+      0.03
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      -1.4,
+      1.4
+     ],
+     "y": [
+      0.92,
+      1.2
+     ]
+    },
+    {
+     "m": [
+      0.62,
+      1.171
+     ],
+     "y": [
+      1.277,
+      1.534
+     ],
+     "r": 0.04,
+     "mirror": true
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.61,
+      1.2
+     ],
+     "y": [
+      2.186,
+      2.947
+     ],
+     "r": 0.03,
+     "mirror": true
+    },
+    {
+     "m": [
+      0.61,
+      1.2
+     ],
+     "y": [
+      3.061,
+      3.225
+     ],
+     "r": 0.03,
+     "mirror": true
+    }
+   ],
+   "gangway": {
+    "m": [
+     -0.312,
+     0.312
+    ],
+    "y": [
+     1.053,
+     3.112
+    ],
+    "r": 0.03
+   },
+   "gangwayFrame": {
+    "outline": {
+     "m": [
+      -0.555,
+      0.555
+     ],
+     "y": [
+      0.912,
+      3.438
+     ],
+     "r": [
+      0.03,
+      0.1,
+      0.1,
+      0.03
+     ]
+    },
+    "depth": 0.3
+   },
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 0.941,
+      "y": 1.408,
+      "r": 0.09
+     },
+     {
+      "kind": "tail",
+      "m": 0.744,
+      "y": 1.408,
+      "r": 0.08
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.03
+   }
+  },
+  "variants": {
+   "NT": {
+    "face": {
+     "halfWidth": 1.4,
+     "depth": 1.7,
+     "bottom": 0.55,
+     "panel": [
+      {
+       "m": [
+        -1.4,
+        1.4
+       ],
+       "y": [
+        1.054,
+        3.5
+       ]
+      }
+     ],
+     "dark": [
+      {
+       "m": [
+        -1.342,
+        1.342
+       ],
+       "y": [
+        2.163,
+        3.51
+       ],
+       "r": [
+        0.03,
+        0.1,
+        0.1,
+        0.03
+       ]
+      },
+      {
+       "m": [
+        0.681,
+        1.247
+       ],
+       "y": [
+        1.249,
+        1.517
+       ],
+       "r": 0.04,
+       "mirror": true
+      },
+      {
+       "m": [
+        -1.4,
+        1.4
+       ],
+       "y": [
+        0.92,
+        1.054
+       ]
+      }
+     ],
+     "screens": [
+      {
+       "m": [
+        0.628,
+        1.208
+       ],
+       "y": [
+        2.242,
+        3.198
+       ],
+       "r": 0.03,
+       "mirror": true
+      },
+      {
+       "m": [
+        -0.3,
+        0.3
+       ],
+       "y": [
+        2.242,
+        3.198
+       ],
+       "r": 0.03
+      }
+     ],
+     "lamps": {
+      "units": [
+       {
+        "kind": "head",
+        "m": 1.012,
+        "y": 1.388,
+        "r": 0.085
+       },
+       {
+        "kind": "tail",
+        "m": 0.812,
+        "y": 1.388,
+        "r": 0.075
+       }
+      ],
+      "order": "head outboard",
+      "rim": 0.03
+     },
+     "gangway": null,
+     "gangwayFrame": null
+    }
+   },
+   "LM": {
+    "face": {
+     "halfWidth": 1.4,
+     "depth": 1.7,
+     "bottom": 0.55,
+     "panel": [
+      {
+       "m": [
+        -1.4,
+        1.4
+       ],
+       "y": [
+        1.054,
+        3.5
+       ]
+      }
+     ],
+     "dark": [
+      {
+       "m": [
+        -1.342,
+        1.342
+       ],
+       "y": [
+        2.163,
+        3.51
+       ],
+       "r": [
+        0.03,
+        0.1,
+        0.1,
+        0.03
+       ]
+      },
+      {
+       "m": [
+        0.681,
+        1.247
+       ],
+       "y": [
+        1.249,
+        1.517
+       ],
+       "r": 0.04,
+       "mirror": true
+      },
+      {
+       "m": [
+        -1.4,
+        1.4
+       ],
+       "y": [
+        0.92,
+        1.054
+       ]
+      }
+     ],
+     "screens": [
+      {
+       "m": [
+        0.628,
+        1.208
+       ],
+       "y": [
+        2.242,
+        3.198
+       ],
+       "r": 0.03,
+       "mirror": true
+      },
+      {
+       "m": [
+        -0.3,
+        0.3
+       ],
+       "y": [
+        2.242,
+        3.198
+       ],
+       "r": 0.03
+      }
+     ],
+     "lamps": {
+      "units": [
+       {
+        "kind": "head",
+        "m": 1.012,
+        "y": 1.388,
+        "r": 0.085
+       },
+       {
+        "kind": "tail",
+        "m": 0.812,
+        "y": 1.388,
+        "r": 0.075
+       }
+      ],
+      "order": "head outboard",
+      "rim": 0.03
+     },
+     "gangway": null,
+     "gangwayFrame": null
+    },
+    "cab": {
+     "windows": [
+      [
+       3.24,
+       4.93
+      ],
+      [
+       8.13,
+       9.82
+      ],
+      [
+       10.27,
+       11.96
+      ],
+      [
+       15.15,
+       16.84
+      ],
+      [
+       17.3,
+       19.1
+      ]
+     ]
+    }
+   }
+  },
+  "plough": {
+   "top": 0.5,
+   "bottom": 0.18,
+   "halfWidth": 1.19,
+   "ahead": 0.3,
+   "sides": 0.0,
+   "rake": 0.05,
+   "color": "#E0A040"
+  }
+ },
+ "liveries": {
+  "GW": {
+   "body": "#2B3D40",
+   "roof": "#90959E",
+   "doors": "#74727C",
+   "panel": "#FEC734",
+   "face": "#FEC734",
+   "gangway": "#FEC734",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "bands": [
+    {
+     "y": [
+      1.61,
+      1.73
+     ],
+     "color": "#74727C",
+     "from": 0.0,
+     "to": 19.741,
+     "car": "cab"
+    },
+    {
+     "y": [
+      1.61,
+      1.73
+     ],
+     "color": "#74727C",
+     "from": 0.0,
+     "to": 19.741,
+     "car": "next"
+    }
+   ]
+  },
+  "NT": {
+   "body": "#ADABAB",
+   "roof": "#67727F",
+   "doors": "#ADABAB",
+   "panel": "#FFD837",
+   "face": "#FFD837",
+   "gangway": "#FFD837",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       0.9
+      ],
+      [
+       3.6,
+       0.9
+      ],
+      [
+       4.4,
+       1.8
+      ],
+      [
+       5.28,
+       3.5
+      ],
+      [
+       -0.1,
+       3.5
+      ]
+     ],
+     "color": "#4B578D",
+     "layer": "under"
+    },
+    {
+     "car": "next",
+     "pts": [
+      [
+       19.841,
+       0.9
+      ],
+      [
+       16.141,
+       0.9
+      ],
+      [
+       15.341,
+       1.8
+      ],
+      [
+       14.460999999999999,
+       3.5
+      ],
+      [
+       19.841,
+       3.5
+      ]
+     ],
+     "color": "#4B578D",
+     "layer": "under"
+    }
+   ]
+  },
+  "AW": {
+   "body": "#A8B1B5",
+   "roof": "#697074",
+   "doors": "#C21410",
+   "panel": "#F6BF02",
+   "face": "#F6BF02",
+   "gangway": "#F6BF02",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "bands": [
+    {
+     "y": [
+      2.0,
+      3.15
+     ],
+     "color": "#2B3236",
+     "from": 2.29,
+     "to": 5.7,
+     "car": "cab"
+    },
+    {
+     "y": [
+      2.0,
+      3.15
+     ],
+     "color": "#2B3236",
+     "from": 7.41,
+     "to": 12.86,
+     "car": "cab"
+    },
+    {
+     "y": [
+      2.0,
+      3.15
+     ],
+     "color": "#2B3236",
+     "from": 14.47,
+     "to": 17.48,
+     "car": "cab"
+    },
+    {
+     "y": [
+      3.45,
+      3.62
+     ],
+     "color": "#D04050"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "AW",
+     "at": [
+      3.56,
+      1.375
+     ],
+     "height": 0.38
+    },
+    {
+     "logo": "AW",
+     "at": [
+      16.181,
+      1.375
+     ],
+     "height": 0.38,
+     "car": "next"
+    }
+   ]
+  },
+  "LM": {
+   "body": "#B8B8B8",
+   "roof": "#726964",
+   "doors": "#B8B8B8",
+   "panel": "#FEC401",
+   "face": "#FEC401",
+   "gangway": "#FEC401",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       0.9
+      ],
+      [
+       5.25,
+       0.9
+      ],
+      [
+       5.25,
+       3.5
+      ],
+      [
+       -0.1,
+       3.5
+      ]
+     ],
+     "color": "#314645",
+     "layer": "under"
+    },
+    {
+     "car": "next",
+     "pts": [
+      [
+       19.841,
+       0.9
+      ],
+      [
+       14.491,
+       0.9
+      ],
+      [
+       14.491,
+       3.5
+      ],
+      [
+       19.841,
+       3.5
+      ]
+     ],
+     "color": "#314645",
+     "layer": "under"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       8.394,
+       3.322
+      ],
+      [
+       9.64,
+       3.322
+      ],
+      [
+       9.64,
+       3.038
+      ],
+      [
+       8.394,
+       3.038
+      ]
+     ],
+     "color": "#397A62",
+     "what": "green block over the window pillar"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       9.856,
+       3.322
+      ],
+      [
+       10.402,
+       3.322
+      ],
+      [
+       10.22,
+       1.972
+      ],
+      [
+       9.784,
+       1.055
+      ],
+      [
+       9.316,
+       1.055
+      ],
+      [
+       9.784,
+       1.972
+      ]
+     ],
+     "color": "#1E2422",
+     "what": "dark streak down the pillar, tapering"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       9.031,
+       1.93
+      ],
+      [
+       9.424,
+       1.93
+      ],
+      [
+       9.245,
+       1.538
+      ]
+     ],
+     "color": "#397A62",
+     "what": "green taper"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       10.293,
+       1.972
+      ],
+      [
+       10.696,
+       1.972
+      ],
+      [
+       10.476,
+       1.605
+      ]
+     ],
+     "color": "#397A62",
+     "what": "green taper"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       10.843,
+       1.905
+      ],
+      [
+       11.251,
+       1.905
+      ],
+      [
+       10.807,
+       1.305
+      ],
+      [
+       10.512,
+       0.972
+      ],
+      [
+       10.183,
+       0.972
+      ],
+      [
+       10.512,
+       1.372
+      ]
+     ],
+     "color": "#1E2422",
+     "what": "dark streak, tapering"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       16.779,
+       3.338
+      ],
+      [
+       18.033,
+       3.338
+      ],
+      [
+       18.67,
+       1.038
+      ],
+      [
+       17.402,
+       1.038
+      ]
+     ],
+     "color": "#397A62",
+     "what": "broad green band near the car end"
+    }
+   ],
+   "faceShapes": [
+    {
+     "m": [
+      -1.4,
+      1.4
+     ],
+     "y": [
+      1.054,
+      1.22
+     ],
+     "color": "#397A62"
+    },
+    {
+     "m": [
+      0.534,
+      1.26
+     ],
+     "y": [
+      1.054,
+      1.22
+     ],
+     "mirror": true,
+     "color": "#1A1A1A"
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dia2 (GWR Class 150-2): 70.97 px/m along (car px 59-1460 = 19.741 m published for the 150/2), ~81.2 px/m up from roof row 26 (rail row not verified)",
+  "model.cab": "from the face: cab window 0.634-1.043 (y 2.19-2.91), cab door 1.282-2.156, door 1 two-leaf 5.65-7.41, door 2 12.68-14.44, glass 3.24-4.93, 8.13-9.82, 10.27-11.96, 15.15-16.84, toilet window 18.26-18.99 (dia1); photo cross-checks (LNR 150139, NT 150118, AW 150256) within 0.1-0.3 m; bogies 2.02/16.37 from the diagram (14.35 apart against 14.17 published: uncertain)",
+  "model.next": "from its inner end: windows 0.75-2.44, 2.90-4.59, doors 5.30-7.06, 12.33-14.09, window 14.81-16.50 (its cab at the far end: cab door 17.59-18.46, cab window 18.70-19.11, not seen)",
+  "model.heights": "glass ~2.02-3.11 with a hopper on top; cantrail ~3.43 (dia2); bottom as before",
+  "model.nose.profile": "dia2: flat face 0.95-3.50, then (0.056,3.552), (0.141,3.601), (0.254,3.65), (0.38,3.70), (0.578,3.749), (0.69,3.773); below 0.95 not read (old shape)",
+  "model.face": "150/2 (GW pT head-on, half-width 1.40): screen surround m 0.557-1.272 y 2.121-3.300, glass 0.61-1.20 y 2.186-2.947, top pane y 3.061-3.225; gangway frame +-0.555 y 0.912-3.438 (0.30 proud, dia2 bellows); door +-0.312 y 1.053-3.112; lamp box m 0.62-1.171 y 1.277-1.534, head m 0.941 outboard, LED tail m 0.744, y 1.408, r ~0.09; yellow down to 1.20, black lower front to 0.92",
+  "model.variants": "NT and LM run 150/1s (NT 41 of 68, LM all 3: Wikipedia 2026-10-05): no gangway, one black band +-1.342 y 2.163-3.510 round three windows (outer gaskets 0.541-1.301, glass 0.628-1.208 y 2.242-3.198, centre glass +-0.300); lamp box m 0.681-1.247 y 1.249-1.517, head m 1.012, red tail m 0.812 (LNR pB137; the outermost marker lamp m 1.159 not drawn); NT 150/1 p108 box 0.70-1.26, head 1.021, tail 0.824 (within 1 cm)",
+  "liveries.GW": "green-T #2B3D40 (overcast, cab side), door-Ex #74727C, yellow-T #FEC734 (overcast head-on), roof-T #D9E1EE divided by 2.5 for sky light; waist line 1.61-1.73 grey (green on the doors not drawn)",
+  "liveries.NT": "purple-118 #4B578D (the raw median: the balanced one is lit by sun), white-118 #ADABAB, yellow-118 balanced #FFD837; roof: roof-118 is a reflection (iqr 41-53) so the 158's NT roof sample (nt-roof #9EAEC1) divided by 2.5 is used; purple ends ~5.28 m at the cantrail curving forward to ~3.6 at the solebar",
+  "liveries.AW": "white-256 #A8B1B5, red-256 balanced #C21410 (raw iqr 143: unreliable; the 153's TfW red agrees in hue), black window panels band-256 #2B3236 at 2.29-5.70, 7.41-12.86, 14.47-17.48, pinkish-red cantrail band (pink-256 saturates: drawn #D04050, not sampled), yellow-256 #F6BF02, roof roof-256 /2.5",
+  "liveries.LM": "LNR (London Northwestern, Marston Vale 150/1s): green cab section to ~5.25 m (green-Bl #507E74, sun), silver beyond (silver-Bl #59656C), the front's green band 1.054-1.220 (frontgreen-B137 #028475 head-on) with black step panels m 0.534-1.26, yellow-B137 #FEC401; roof-Bl #ADA199 divided by 2.5; the green and white vertical stripes on the silver not drawn",
+  "notes": "Not measured: the noses below 0.95 m, the 150/1's marker lamp, the GW waist line's green on the doors, LNR stripes.",
+  "model.doors.width": "camera-free check on p256 (TfW 150256, side three-quarter; s256a/s256b grids at 2x): a 1D projective fit along the bodyside through 8 window edges and the two door centres (residuals 0-25 cm, a pixel being 3-6 cm here) puts the door centres within 0.1 m of the model's but the red door leaves 1.15-1.23 m wide, not 1.76 (the diagram's 1.76 includes the frames each side): drawn 1.22. The fit extrapolates the cab window and cab door 0.2-0.5 m behind the model's; extrapolated, so not applied",
+  "liveries.AW.redband": "the pinkish-red band sits on the roof's curve above the cantrail: on p256 (band256 grid, 117 px/m from the window glass 2.02-3.11 = 128 px) it is 24 px tall starting 18 px above the side's top: drawn 3.45-3.62 (was 3.30-3.40 on the side, too thin and too low)",
+  "liveries.AW.branding": "TfW roundel and 'Trafnidiaeth Cymru / Transport for Wales' on p256 (lg150 grid, 3x): 793-890 px along, read through the side fit (s256): 2.67-4.44 m; height 770-818 px at 117 px/m below the glass (2.02 at 718 px): 1.17-1.58 m. Height by width at the artwork's aspect 0.35, as read 0.41: mean 0.38, centred 3.56/1.375. The bilingual 'Cymru a'r Gororau / Wales and Borders' beside it is not in the artwork and not drawn",
+  "model.variants.LM.windows": "150/1 window layout checked against the 150/1 diagram (dia1, GWR Class 150-1: cab door 1.30-2.14, windows 3.21-4.99, door 5.65-7.42, 8.08-9.89, 10.24-12.01, door 12.68-14.45, 15.10-16.89, toilet window 18.28-18.99: the same as the model's) and on LNR 150141 (p141, w141 grid): a 1D fit through the window and door fronts (residuals under 12 cm) gives the same layout except that where the diagram has the small toilet window LNR's car has a full window, 17.30-19.21 m (drawn to 19.10, clear of the car end): applied to the LM variant only",
+  "liveries.LM.stripes": "LNR's streaks on the silver (p141, 150141, st141 grid at 2x): each traced as a polygon in source pixels and mapped along the car through the same 1D fit (window/door fronts, residuals under 12 cm) and up linearly from the cantrail (row 545 = 3.43 m) to the door foot (row 840 = 0.98 m), 120 px/m: a green block over the w2/w3 pillar, a dark tapering streak down that pillar, two short green tapers and a second dark streak below the windows, and a broad slanted green band near the car end. Plain livery shapes (no new option needed); the dots/graded fade of the real streaks not drawn; cab car only, colours green-Bl #507E74 and a near-black #1E2422 (not sampled)",
+  "liveries.LM.colours": "resampled on p141 (150141, overcast; round-9 render read grey and teal): silver body (985-1010, 730-790) (198,179,151), warm, drawn as the grey of its luminance #B8B8B8 (no neutral on that photo); cab section dark green (705-720, 700-780) #314645 (pBl's green-Bl #507E74 was sunlit); the streaks' and car-end band's green (1140-1155, 720-790) #397A62, the front band the same",
+  "model.nose.profile.lower": "below the body: the diagrams (150 dia2, 153, 155, 156) draw the cab face flat and vertical down to its lowest painted item, with the headstock, coupler and snowplough under it; there is no sloping chin (the old flatProfile slanted back from 1.05 to 0.55 m at 0.25 m). Now the face runs straight down to 0.912 m (the lowest face item measured head-on) and steps back 6 cm to 0.872, the coupler and plough below as the pipeline draws them",
+  "liveries.branding.next": "the second car is a mirrored driving car: branding repeated at the mirrored position (length minus x), not measured on that car",
+  "model.plough": "150265 at St Budeaux (pSB, plough grid; 220 px/m from the head lamps 415 px apart, lamp row 1100 = 1.408 m). Second pass: the blade's ends (nearest the face, so least shifted by the high camera) run rows 1290-1360: top 0.55, foot 0.23 m; its middle reads lower (to row 1450) because the V's point is nearer the camera, which looks down on it. Drawn: blade 0.50-0.18 m (0.32 m tall), half-width 1.19 m (top edge 1495-2020 px), the point 0.45 m ahead of the face with the ends at the face, foot raked 0.05 m. Colour: the photo's plough (144,99,70) in shade is more orange than the face yellow: #E0A040 (not balanced). First pass (0.55-0.12 m, point 0.35 m, ends 0.05 m, face yellow) rendered as a tall flat slab ; point moved back to 0.30 m: on the photo it sits under the coupler head, not ahead of it"
+ },
+ "views": {}
+}

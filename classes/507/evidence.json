@@ -1,0 +1,667 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-507-Merseyrail-New-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_507_Merseyrail_New_Diagram.png",
+   "author": "Class_313_London_Overground_Diagram.PNG: Unisouth derivative work: Philphos (talk)",
+   "licence": "CC BY-SA 3.0",
+   "date": "2011-01-19",
+   "kind": "diagram",
+   "unit": "507 (3 cars), Merseyrail silver/yellow (2000s scheme)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dia508": {
+   "file": "refs/Class-508-BR-Corporate-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_508_BR_Corporate_Diagram.png",
+   "author": "Feathers44",
+   "licence": "CC BY-SA 3.0",
+   "date": "2017-07-30",
+   "kind": "diagram",
+   "unit": "508/0 (4 cars) as built, BR blue/grey",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p014": {
+   "file": "refs/507014-leaving-Hoylake-for-Liverpool.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507014_leaving_Hoylake_for_Liverpool.jpg",
+   "author": "Rodhullandemu",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-03-03",
+   "kind": "photo",
+   "unit": "507014, grey Good Communications",
+   "view": "head-on, low camera, centred",
+   "light": "low sun on the face"
+  },
+  "p009o": {
+   "file": "refs/507009-Orrell-Park-December-5th-2022.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507009%2C_Orrell_Park%2C_December_5th_2022.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-12-05",
+   "kind": "photo",
+   "unit": "507009, grey Good Communications",
+   "view": "nearly head-on from the left, platform height, nose right",
+   "light": "overcast"
+  },
+  "p009a": {
+   "file": "refs/507009-Aintree-December-5th-2022-55008066123.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507009%2C_Aintree%2C_December_5th_2022_-_55008066123.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-12-05",
+   "kind": "photo",
+   "unit": "507009",
+   "view": "front three-quarter, right side, long lens",
+   "light": "overcast"
+  },
+  "p009t": {
+   "file": "refs/507009-Town-Green-December-5th-2022.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507009%2C_Town_Green%2C_December_5th_2022.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-12-05",
+   "kind": "photo",
+   "unit": "507009",
+   "view": "front three-quarter, left side",
+   "light": "overcast"
+  },
+  "p010": {
+   "file": "refs/507010-Sandhills-December-5th-2022-55008066103.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507010%2C_Sandhills%2C_December_5th_2022_-_55008066103.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-12-05",
+   "kind": "photo",
+   "unit": "507010, grey",
+   "view": "front three-quarter, left side",
+   "light": "overcast, dull"
+  },
+  "p033": {
+   "file": "refs/507033-Moreton-December-4th-2022.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507033%2C_Moreton%2C_December_4th_2022.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-12-04",
+   "kind": "photo",
+   "unit": "507033, grey",
+   "view": "front three-quarter, left side",
+   "light": "overcast"
+  },
+  "p008": {
+   "file": "refs/507008-Kirkby-December-5th-2022-55007894751.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507008%2C_Kirkby%2C_December_5th_2022_-_55007894751.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-12-05",
+   "kind": "photo",
+   "unit": "507008",
+   "view": "front three-quarter, right side",
+   "light": "overcast"
+  },
+  "p029": {
+   "file": "refs/507029-at-Manor-Road-station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507029_at_Manor_Road_station.jpg",
+   "author": "Rodhullandemu",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-03-05",
+   "kind": "photo",
+   "unit": "507029, yellow Good Communications",
+   "view": "front three-quarter, left side",
+   "light": "sun"
+  },
+  "p031": {
+   "file": "refs/507031-leaving-Moreton-station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507031_leaving_Moreton_station.jpg",
+   "author": "Rodhullandemu",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-10-23",
+   "kind": "photo",
+   "unit": "507031",
+   "view": "head-on, long lens",
+   "light": "overcast"
+  },
+  "p002": {
+   "file": "refs/507002-leaving-Hall-Road-station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:507002_leaving_Hall_Road_station.jpg",
+   "author": "Rodhullandemu",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-03-01",
+   "kind": "photo",
+   "unit": "507002",
+   "view": "head-on from the left, low",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-014",
+   "ref": "p014",
+   "box": [
+    1240,
+    520,
+    2500,
+    1760
+   ],
+   "feature": "whole front, head-on",
+   "reading": "Flat yellow face, full width. A black band across the top holds both screens, the gangway door's upper half and the destination displays; thin orange line along its top edge, turning down the band's sides. Yellow dome above with one round lamp. M roundel low left, black number low right, a black teardrop lamp pod under each, yellow valance at the bottom with dark slots."
+  },
+  {
+   "id": "f-band-014",
+   "ref": "p014",
+   "box": [
+    1280,
+    630,
+    2470,
+    1230
+   ],
+   "feature": "window band: screens, gangway door window, destination displays",
+   "reading": "Two near-square screens in heavy black riveted rubber frames with big rounded corners; the gangway door window between them, taller, in its own frame. Above the left screen a blank dark display box, above the right one an amber dot-matrix display. Wiper only on the right screen, hanging from the top.",
+   "reader2": "Black band: left screen with blank panel above, gangway window with markers above, right screen with orange LED display above; one wiper on the right screen pivoting at the top; orange line turns a short way down the band's outer edges. Agrees."
+  },
+  {
+   "id": "f-dome-014",
+   "ref": "p014",
+   "box": [
+    1600,
+    520,
+    2150,
+    760
+   ],
+   "feature": "dome: roof lamp, marker lamps, orange line",
+   "reading": "Roof lamp: one round LED cluster in a black ring, on a raised yellow plinth at the top centre of the dome. Two grey-white round marker lenses just under the orange line, either side of the centre, their tops touching the line. Orange line full width at the band top.",
+   "reader2": "Round black-rimmed LED lamp centred on the yellow dome; orange line across, black below; two grey marker discs hanging just under the line. Agrees."
+  },
+  {
+   "id": "f-pod-l-014",
+   "ref": "p014",
+   "box": [
+    1320,
+    1380,
+    1680,
+    1620
+   ],
+   "feature": "lamp pod, image left",
+   "reading": "Black teardrop pod, wide end outboard and higher, tapering inboard and down (about 20 deg). Large clear headlamp with a black bezel at the outboard end; smaller red LED tail lamp in a grey ring at the inboard end, lower.",
+   "reader2": "Black oval pod, wide upper-left tapering lower-right; large clear headlamp upper left (outboard, higher), small red LED lower right (inboard, lower). Agrees."
+  },
+  {
+   "id": "f-pod-r-014",
+   "ref": "p014",
+   "box": [
+    2060,
+    1380,
+    2440,
+    1620
+   ],
+   "feature": "lamp pod, image right",
+   "reading": "Mirror of the left: headlamp outboard and higher, red LED tail inboard and lower, black pod tapering inboard.",
+   "reader2": "Mirror image: headlamp upper right outboard and higher, red LED with grey ring lower left inboard. Agrees."
+  },
+  {
+   "id": "f-gangway-014",
+   "ref": "p014",
+   "box": [
+    1690,
+    640,
+    2080,
+    1670
+   ],
+   "feature": "gangway door and its frame",
+   "reading": "Gangway door: upper half black (in the band) with its window; lower half yellow with a vertical grab handle; dark vertical strips either side (frame / hinge), a second dark bar on the right; a dark sill under the door.",
+   "reader2": "Black upper half with rounded window, yellow lower leaf with handle, black vertical rails either side, worn step at the bottom. Agrees."
+  },
+  {
+   "id": "f-lower-014",
+   "ref": "p014",
+   "box": [
+    1260,
+    1560,
+    2480,
+    1760
+   ],
+   "feature": "below the pods: recesses, valance",
+   "reading": "Under the pods a horizontal dark slot on each side (left one with a yellow box at its inner end), then a yellow valance ledge across the full width; coupler and underframe below.",
+   "reader2": "Yellow valances left and right, dark recessed gap in the middle under the gangway with a grey step plate; coupler and pipework below. Adds the step plate; the slots under the pods not called out."
+  },
+  {
+   "id": "f-logo-014",
+   "ref": "p014",
+   "box": [
+    1400,
+    1190,
+    1650,
+    1420
+   ],
+   "feature": "logo on the front",
+   "reading": "Merseyrail M roundel: dark grey disc, orange-yellow M, no ring, no wordmark."
+  },
+  {
+   "id": "f-number-014",
+   "ref": "p014",
+   "box": [
+    2120,
+    1230,
+    2460,
+    1340
+   ],
+   "feature": "unit number",
+   "reading": "Unit number 507014 in black sans digits on the yellow, about a sixth of the face width."
+  },
+  {
+   "id": "f-face-009o",
+   "ref": "p009o",
+   "box": [
+    200,
+    260,
+    720,
+    780
+   ],
+   "feature": "whole front, overcast, December 2022",
+   "reading": "Same face in overcast light, December 2022: roof LED lamp lit, markers grey, number 507009. The yellow only wraps the corner radius; the bodyside behind is grey-blue silver."
+  },
+  {
+   "id": "f-wiper-009o",
+   "ref": "p009o",
+   "box": [
+    540,
+    340,
+    700,
+    560
+   ],
+   "feature": "windscreen, image right, wiper",
+   "reading": "Right screen: one wiper, pivot at the top of the screen near its outer side, blade hanging down and inboard; amber display above.",
+   "reader2": "One wiper, pivot at the top edge, arm hanging down at an angle; display above. Agrees (pivot placement 'left of centre' vs ours near the outer corner: see settlement).",
+   "settled": "Pivot: 507014 (sharper, head-on) puts it at the screen's top, 0.95 m out of 1.24, i.e. the outer half; the 009o crop is three-quarter. Kept 507014."
+  },
+  {
+   "id": "s-corner-009o",
+   "ref": "p009o",
+   "box": [
+    690,
+    280,
+    900,
+    800
+   ],
+   "feature": "cab corner and cab side: yellow wrap, orange line, cab window, low yellow line",
+   "reading": "Cab corner from the right: yellow ends at the corner; the orange line comes down the front corner and runs back along the bodyside just under the roof curve; grey bodyside; cab side window and the cab door (dark recess); a thin yellow line low along the bodyside.",
+   "reader2": "Yellow ends at the corner; grey side; behind the corner a dark recess with a tall narrow window (cab door), then a window, then a passenger door; yellow leaves, red/orange opening edges; orange cantrail line, thin yellow line low; line-art; no roundel. Agrees."
+  },
+  {
+   "id": "s-door1-009o",
+   "ref": "p009o",
+   "box": [
+    790,
+    370,
+    860,
+    700
+   ],
+   "feature": "first bodyside door",
+   "reading": "First passenger door: yellow leaves with tall narrow windows, an orange-red seal round the opening, a dark gap between the leaves.",
+   "reader2": "Yellow leaf, red/orange frame round the opening, black seal between. Agrees."
+  },
+  {
+   "id": "s-cab-010",
+   "ref": "p010",
+   "box": [
+    600,
+    330,
+    830,
+    860
+   ],
+   "feature": "cab side from the left: cab window, cab door",
+   "reading": "Cab side from the left: a small fixed window nearest the front, then the cab door with a droplight window; door seals dark; yellow face ends at the corner; low yellow line on the grey.",
+   "reader2": "From the front: a door-shaped recess with a curved top containing a tall narrow window and a slim slot, read as the cab door; saw no fixed window before it. DISAGREES on the fixed window.",
+   "settled": "Settled with the tighter crop s-cabwin-010 and 508138 Walton (s-cabwin-138w): one rain-strip arc spans two openings; nearest the front a short fixed window (its own rounded frame), behind it the cab door with the taller droplight, its front seal running down between them. The 507 diagram draws the same (fixed window 132-161 px under the arc, door 168-230). Kept."
+  },
+  {
+   "id": "s-side-009a",
+   "ref": "p009a",
+   "box": [
+    780,
+    380,
+    1240,
+    700
+   ],
+   "feature": "bodyside, three cars: livery, doors, windows",
+   "reading": "Three grey cars: yellow door leaves with orange surrounds, black-framed windows in pairs, orange cantrail line, faint yellow line-art graphics and a thin yellow line low down. No logo on the bodysides.",
+   "reader2": "Grey bodyside, paired windows, yellow leaves, red/orange door edges, orange cantrail line, thin low yellow line, yellow line-art, no roundel. Agrees."
+  },
+  {
+   "id": "s-roof-009a",
+   "ref": "p009a",
+   "box": [
+    790,
+    380,
+    1240,
+    470
+   ],
+   "feature": "roof",
+   "reading": "Light grey roof, no pantograph (third rail), small fittings only."
+  },
+  {
+   "id": "s-bogies-009a",
+   "ref": "p009a",
+   "box": [
+    780,
+    600,
+    1240,
+    720
+   ],
+   "feature": "bogies and underframe",
+   "reading": "Dark grey bogies and underframe boxes, nothing coloured."
+  },
+  {
+   "id": "d-cab-dia",
+   "ref": "dia",
+   "box": [
+    60,
+    30,
+    560,
+    369
+   ],
+   "feature": "diagram: cab end",
+   "reading": "Diagram cab end: front vertical at x 75; fixed cab window 132-161, cab door outline 168-230 with window 182-216; yellow-and-white swirl livery (2000s scheme, not the final one)."
+  },
+  {
+   "id": "d-car1-dia",
+   "ref": "dia",
+   "box": [
+    60,
+    30,
+    1600,
+    369
+   ],
+   "feature": "diagram: driving car",
+   "reading": "Driving car 75-1524 px: window, door, two windows, door, two windows; doors 499 px apart; gangway 1524-1581."
+  },
+  {
+   "id": "d-cab-dia508",
+   "ref": "dia508",
+   "box": [
+    100,
+    30,
+    600,
+    376
+   ],
+   "feature": "508 diagram: cab end",
+   "reading": "508 BR diagram: same cab door and window spacing from the front as the 507 diagram, the whole cab end shifted 46 px (front at 121): the car is drawn 0.63 m shorter, saloon features at the same pixels."
+  },
+  {
+   "id": "s-cabwin-010",
+   "ref": "p010",
+   "box": [
+    700,
+    330,
+    820,
+    640
+   ],
+   "feature": "cab side, tight: fixed window and cab door",
+   "reading": "Under one rounded rain strip: a short window nearest the front (top half only) and, behind the door's front seal, the cab door's tall droplight. Dark and soft, but two separate openings."
+  },
+  {
+   "id": "f-face-009a",
+   "ref": "p009a",
+   "box": [
+    495,
+    365,
+    805,
+    665
+   ],
+   "feature": "face, near three-quarter (507009)",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "f-pod-r-009a",
+   "ref": "p009a",
+   "box": [
+    700,
+    580,
+    795,
+    650
+   ],
+   "feature": "near lamp pod (right as seen)",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "f-dome-009a",
+   "ref": "p009a",
+   "box": [
+    600,
+    370,
+    700,
+    425
+   ],
+   "feature": "roof lamp and markers",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "s-corner-door-009a",
+   "ref": "p009a",
+   "box": [
+    760,
+    380,
+    915,
+    650
+   ],
+   "feature": "cab corner, cab door and door 1, near side",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "s-door1-009a",
+   "ref": "p009a",
+   "box": [
+    868,
+    430,
+    910,
+    650
+   ],
+   "feature": "door 1, near side",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "s-windows-009a",
+   "ref": "p009a",
+   "box": [
+    840,
+    440,
+    1010,
+    560
+   ],
+   "feature": "saloon windows, near side, whole car",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "f-face-009t",
+   "ref": "p009t",
+   "box": [
+    900,
+    190,
+    1425,
+    740
+   ],
+   "feature": "face, far three-quarter (507009)",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "f-band-009t",
+   "ref": "p009t",
+   "box": [
+    915,
+    240,
+    1420,
+    540
+   ],
+   "feature": "black band: screens, gangway window, display",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "f-lower-009t",
+   "ref": "p009t",
+   "box": [
+    915,
+    520,
+    1425,
+    745
+   ],
+   "feature": "lower face: roundel, number, pods",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "f-logo-009t",
+   "ref": "p009t",
+   "box": [
+    970,
+    540,
+    1065,
+    640
+   ],
+   "feature": "M roundel",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "s-cab-009t",
+   "ref": "p009t",
+   "box": [
+    790,
+    320,
+    885,
+    650
+   ],
+   "feature": "cab door and fixed window, far side",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  },
+  {
+   "id": "s-door1-009t",
+   "ref": "p009t",
+   "box": [
+    660,
+    385,
+    725,
+    650
+   ],
+   "feature": "door 1, far side",
+   "reading": "for the camera-match pairs (2026-10-06); judged against the render in checklist.md"
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-009o",
+   "ref": "p009o",
+   "box": [
+    419,
+    322,
+    429,
+    334
+   ],
+   "what": "marker lamp lens, unlit (grey-white diffuser)",
+   "neutralIs": 200
+  },
+  {
+   "id": "yellow-009o",
+   "ref": "p009o",
+   "box": [
+    222,
+    560,
+    262,
+    600
+   ],
+   "what": "yellow face",
+   "neutral": "white-009o"
+  },
+  {
+   "id": "silver-009o",
+   "ref": "p009o",
+   "box": [
+    765,
+    470,
+    780,
+    520
+   ],
+   "what": "grey bodyside at the cab corner",
+   "neutral": "white-009o"
+  },
+  {
+   "id": "orange-009o",
+   "ref": "p009o",
+   "box": [
+    300,
+    316,
+    400,
+    320
+   ],
+   "what": "orange line over the window band",
+   "neutral": "white-009o"
+  },
+  {
+   "id": "disc-009o",
+   "ref": "p009o",
+   "box": [
+    305,
+    560,
+    325,
+    567
+   ],
+   "what": "logo disc, dark grey",
+   "neutral": "white-009o"
+  },
+  {
+   "id": "mlogo-009o",
+   "ref": "p009o",
+   "box": [
+    292,
+    585,
+    300,
+    605
+   ],
+   "what": "logo M, orange",
+   "neutral": "white-009o"
+  },
+  {
+   "id": "black-009o",
+   "ref": "p009o",
+   "box": [
+    300,
+    370,
+    380,
+    390
+   ],
+   "what": "window band, black",
+   "neutral": "white-009o"
+  },
+  {
+   "id": "yellow-014",
+   "ref": "p014",
+   "box": [
+    1800,
+    1300,
+    1950,
+    1360
+   ],
+   "what": "yellow gangway door, low sun"
+  },
+  {
+   "id": "disc-014",
+   "ref": "p014",
+   "box": [
+    1436,
+    1290,
+    1466,
+    1330
+   ],
+   "what": "logo disc, low sun"
+  },
+  {
+   "id": "mlogo-014",
+   "ref": "p014",
+   "box": [
+    1500,
+    1280,
+    1550,
+    1300
+   ],
+   "what": "logo M, low sun"
+  }
+ ],
+ "secondReader": "A subagent given only the crop files (no context) read the front, livery, door and cab-side crops; its readings are in each crop's `reader2`; disagreements settled in `settled`."
+}

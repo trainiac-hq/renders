@@ -1,0 +1,121 @@
+{
+ "ref": "p214",
+ "side": "far",
+ "model": {
+  "w1-top-front": [
+   2.005,
+   2.89
+  ],
+  "w1-bottom-rear": [
+   2.578,
+   2.07
+  ],
+  "w2-top-rear": [
+   3.997,
+   2.89
+  ],
+  "s1-top-front": [
+   7.981,
+   2.89
+  ],
+  "s1-bottom-front": [
+   7.981,
+   2.07
+  ],
+  "s5-top-rear": [
+   15.074,
+   2.89
+  ],
+  "s5-bottom-rear": [
+   15.074,
+   2.07
+  ]
+ },
+ "points": {
+  "lamp0-head": [
+   2239,
+   1012
+  ],
+  "lamp0-tail": [
+   2208,
+   1012
+  ],
+  "lamp1-head": [
+   1922,
+   1018
+  ],
+  "lamp1-tail": [
+   1965,
+   1018
+  ],
+  "door1-front-top": [
+   1140,
+   629
+  ],
+  "w1-top-front": [
+   1509,
+   686
+  ],
+  "w1-bottom-rear": [
+   1440,
+   876
+  ],
+  "w2-top-rear": [
+   1286,
+   700
+  ],
+  "s1-top-front": [
+   986,
+   730
+  ],
+  "s1-bottom-front": [
+   986,
+   848
+  ],
+  "s5-top-rear": [
+   652,
+   744
+  ],
+  "s5-bottom-rear": [
+   652,
+   835
+  ],
+  "door0-rear-top": [
+   1546,
+   584
+  ],
+  "door0-rear-bottom": [
+   1556,
+   1094
+  ],
+  "door0-front-bottom": [
+   1700,
+   1110
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "w2-top-rear",
+  "s5-bottom-rear",
+  "door0-rear-top",
+  "door0-rear-bottom",
+  "door0-front-bottom"
+ ],
+ "readings": {
+  "lamp0-head": "near-side box (image right), clear headlamp, ellipse 2228-2249 x 994-1031",
+  "lamp0-tail": "its LED tail 2196-2220 x 993-1031",
+  "lamp1-head": "far box (image left), lit headlamp 1905-1940 x 996-1040",
+  "lamp1-tail": "its tail 1950-1980 x 998-1039",
+  "door1-front-top": "first passenger door's cab-side edge meets its top",
+  "w1-top-front": "first cab-end window, glass top front corner (virtual, edges extended)",
+  "w1-bottom-rear": "same window, bottom rear",
+  "w2-top-rear": "second window, top rear",
+  "s1-top-front": "first saloon window on the silver, glass top front",
+  "s1-bottom-front": "same, bottom front",
+  "s5-top-rear": "fifth saloon window, top rear",
+  "s5-bottom-rear": "same, bottom rear",
+  "door0-rear-top": "cab door's rear edge meets its top seam",
+  "door0-rear-bottom": "rear edge at the bottom of the leaf",
+  "door0-front-bottom": "front edge at the bottom (the seam's lowest visible point)"
+ }
+}

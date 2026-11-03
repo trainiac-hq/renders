@@ -1,0 +1,516 @@
+{
+ "class": "168",
+ "subject": "Class 168/1-3, Chiltern",
+ "method": "171 geometry, 168 stage A readings",
+ "model": {
+  "heights": {
+   "bottom": 0.967,
+   "cantrail": 3.28,
+   "roof": 3.78,
+   "window": [
+    1.995,
+    2.9
+   ]
+  },
+  "wheel": 0.836,
+  "wheelbase": 2.51,
+  "cab": {
+   "length": 23.62,
+   "doors": [
+    {
+     "x": 1.675,
+     "w": 0.99,
+     "cab": true
+    },
+    {
+     "x": 6.724,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    },
+    {
+     "x": 18.0465,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    }
+   ],
+   "windows": [
+    [
+     2.358,
+     3.66
+    ],
+    [
+     3.975,
+     5.497
+    ],
+    [
+     7.951,
+     9.472
+    ],
+    [
+     9.788,
+     11.309
+    ],
+    [
+     11.624,
+     13.146
+    ],
+    [
+     13.461,
+     14.983
+    ],
+    [
+     15.298,
+     16.82
+    ],
+    [
+     19.273,
+     20.795
+    ],
+    [
+     21.11,
+     22.632
+    ]
+   ],
+   "bogies": [
+    3.605,
+    20.781
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 5.5,
+     "w": 2.4
+    },
+    {
+     "kind": "pod",
+     "x": 16.4,
+     "w": 2.4
+    }
+   ],
+   "under": [
+    [
+     6.48,
+     18.25
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.62,
+   "doors": [
+    {
+     "x": 5.573,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    },
+    {
+     "x": 16.895,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    }
+   ],
+   "windows": [
+    [
+     1.0,
+     2.95
+    ],
+    [
+     3.15,
+     4.5
+    ],
+    [
+     6.9,
+     8.42
+    ],
+    [
+     8.74,
+     10.26
+    ],
+    [
+     10.58,
+     12.1
+    ],
+    [
+     12.42,
+     13.94
+    ],
+    [
+     14.26,
+     15.78
+    ],
+    [
+     18.2,
+     19.7
+    ],
+    [
+     20.0,
+     21.5
+    ]
+   ],
+   "bogies": [
+    2.84,
+    20.02
+   ],
+   "under": [
+    [
+     6.0,
+     18.0
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.35,
+     0.62,
+     1
+    ],
+    [
+     0.05,
+     0.64
+    ],
+    [
+     0.0,
+     0.65
+    ],
+    [
+     0.0,
+     1.33
+    ],
+    [
+     0.11,
+     1.92
+    ],
+    [
+     0.22,
+     2.31
+    ],
+    [
+     0.44,
+     3.0
+    ],
+    [
+     0.59,
+     3.39
+    ],
+    [
+     0.69,
+     3.59
+    ],
+    [
+     0.75,
+     3.68
+    ],
+    [
+     0.99,
+     3.78,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.345,
+   "depth": 1.5,
+   "panel": [
+    {
+     "pts": [
+      [
+       0,
+       1.92
+      ],
+      [
+       0.93,
+       1.92,
+       1
+      ],
+      [
+       0.93,
+       1.4
+      ],
+      [
+       0.8,
+       1.28
+      ],
+      [
+       0.5,
+       1.25
+      ],
+      [
+       0,
+       1.25
+      ]
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      -0.98,
+      0.98
+     ],
+     "y": [
+      3.29,
+      3.525
+     ],
+     "r": [
+      0,
+      0.15,
+      0.15,
+      0
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "m": [
+      -1.03,
+      1.03
+     ],
+     "y": [
+      2.03,
+      3.28
+     ],
+     "r": [
+      0.08,
+      0.14,
+      0.14,
+      0.08
+     ]
+    },
+    {
+     "m": [
+      0.48,
+      1.165
+     ],
+     "y": [
+      0.64,
+      1.01
+     ],
+     "mirror": true
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.035,
+      0.97
+     ],
+     "y": [
+      2.09,
+      3.26
+     ],
+     "r": [
+      0.04,
+      0.1,
+      0.1,
+      0.04
+     ],
+     "mirror": true
+    }
+   ],
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 0.98,
+      "y": 1.54,
+      "r": 0.1
+     },
+     {
+      "kind": "tail",
+      "m": 0.85,
+      "y": 1.44,
+      "r": 0.07
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.05
+   },
+   "number": {
+    "text": "168216",
+    "m": -0.52,
+    "y": 1.8,
+    "height": 0.1,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.54,
+      2.05
+     ],
+     "tip": [
+      0.05,
+      2.9
+     ],
+     "mirror": true
+    }
+   ]
+  }
+ },
+ "liveries": {
+  "CH": {
+   "body": "#DDDFD9",
+   "roof": "#766F67",
+   "doors": "#DDDFD9",
+   "panel": "#F3C344",
+   "face": "#F3C344",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "bands": [
+    {
+     "y": [
+      1.91,
+      2.99
+     ],
+     "color": "#353D41",
+     "from": 2.2,
+     "to": 23.0,
+     "car": "cab"
+    },
+    {
+     "y": [
+      1.91,
+      2.99
+     ],
+     "color": "#353D41",
+     "from": 0.5,
+     "to": 23.0,
+     "car": "next"
+    },
+    {
+     "y": [
+      3.28,
+      3.305
+     ],
+     "color": "#E07A2C"
+    },
+    {
+     "y": [
+      1.55,
+      1.605
+     ],
+     "color": "#1F2E4D",
+     "from": 2.2,
+     "to": 23.7,
+     "car": "cab"
+    },
+    {
+     "y": [
+      1.55,
+      1.605
+     ],
+     "color": "#1F2E4D",
+     "from": -0.1,
+     "to": 23.7,
+     "car": "next"
+    },
+    {
+     "y": [
+      3.15,
+      3.19
+     ],
+     "color": "#A9BDC4",
+     "from": 2.2,
+     "to": 23.7,
+     "car": "cab"
+    },
+    {
+     "y": [
+      3.15,
+      3.19
+     ],
+     "color": "#A9BDC4",
+     "from": -0.1,
+     "to": 23.7,
+     "car": "next"
+    }
+   ],
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       1.18,
+       0.967
+      ],
+      [
+       2.17,
+       0.967
+      ],
+      [
+       2.17,
+       3.25
+      ],
+      [
+       1.18,
+       3.25
+      ]
+     ],
+     "color": "#3B4446"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "CH",
+     "at": [
+      2.78,
+      1.49
+     ],
+     "height": 0.14
+    }
+   ]
+  }
+ },
+ "trace": {
+  "model": "the 168/1-3 is a Turbostar body (stage A: '168/1-3 (171 shell)'; 23 of 28 168s are Turbostar-fronted, 5 are 168/0 Clubmans): the 171's measured geometry and face (classes/171/spec.json) used, with the 168's own lamps; NOT measured on a 168 diagram",
+  "model.face.lamps": "168/1 and /3 (17 units, the majority): a light grey figure-of-eight, head upper-outer m ~0.98 y 1.54, marker lower-inner m 0.85 y 1.44 (171-shell scale: 'shaky'); the separate yellow-ringed tail at the yellow panel's lower corner (m 0.65 y 1.41) not drawn yet",
+  "liveries.CH": "refreshed Chiltern: silver body silver-hw #DDDFD9 (sun, used as neutral), dark grey window band band-hw #353D41 (its height assumed as the window frames' 1.91-2.99: not read), orange cantrail line, roof roof-hw #B3A99D /2.5, face yellow yellow-mar #F3C344, silver door leaves, dark grey cab door (#3B4446); the pale teal band and the navy waist line not drawn (teal sample unreliable, no heights read)",
+  "notes": "The 168/0 Clubman front (5 units) not drawn as a variant.",
+  "liveries.CH.branding": "'Chiltern railways' below the navy waist line just behind the cab door (mar, 168215; chlogo grid, source rows): vertical scale from the cab door's droplight glass (1.82-3.06 m, as the Turbostar's, rows 410-985: 464 px/m); the logo rows 1105-1170: 0.14 m high, centred 1.49 m; along it starts 0.13 m behind the cab door's rear edge (2.17 m), 0.95 m long at the artwork's aspect: centre 2.78 m. (First placement used the wrong scale: 0.12 m at 1.285 m.) +-0.1 m",
+  "liveries.CH.lines": "the refreshed livery's lines on mar at the same scale: navy waist line rows 1090-1115 (31,46,78) -> 1.55-1.605 m, #1F2E4D (the navy-mar sample); pale teal band rows 346-366 under the orange cantrail line (169,189,196) -> 3.15-3.19 m, #A9BDC4; both from behind the cab door to the car end, and along the second car"
+ },
+ "views": {}
+}

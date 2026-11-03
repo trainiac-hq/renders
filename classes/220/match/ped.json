@@ -1,0 +1,125 @@
+{
+ "ref": "ped",
+ "side": "far",
+ "note": "220023, Edinburgh 2026-09-01, three-quarter front from the train's right (bodyside left of the face). Points read on 1.75x/4x/1.33x grids (es-tools logoprev ped2-ped5).",
+ "points": {
+  "d1f-mid": [
+   1653.75,
+   1580
+  ],
+  "d1r-mid": [
+   1571,
+   1580
+  ],
+  "wA-ft": [
+   1525,
+   1482
+  ],
+  "wA-fb": [
+   1507,
+   1697
+  ],
+  "wA-rt": [
+   1447,
+   1491
+  ],
+  "wA-rb": [
+   1440,
+   1694
+  ],
+  "wB-f-mid": [
+   1420,
+   1597
+  ],
+  "wB-r-mid": [
+   1343,
+   1597
+  ],
+  "wC-f-mid": [
+   1326,
+   1594
+  ],
+  "wC-r-mid": [
+   1260,
+   1594
+  ]
+ },
+ "model": {
+  "d1f-mid": [
+   6.8,
+   2.46
+  ],
+  "d1r-mid": [
+   7.89,
+   2.46
+  ],
+  "wA-ft": [
+   8.92,
+   2.9
+  ],
+  "wA-fb": [
+   8.92,
+   2.02
+  ],
+  "wA-rt": [
+   10.45,
+   2.9
+  ],
+  "wA-rb": [
+   10.45,
+   2.02
+  ],
+  "wB-f-mid": [
+   11.06,
+   2.46
+  ],
+  "wB-r-mid": [
+   12.59,
+   2.46
+  ],
+  "wC-f-mid": [
+   13.2,
+   2.46
+  ],
+  "wC-r-mid": [
+   14.72,
+   2.46
+  ]
+ },
+ "holdout": [
+  "wC-r-mid",
+  "d1r-mid"
+ ],
+ "facePairs": {
+  "tail": {
+   "far": [
+    2611,
+    1938
+   ],
+   "near": [
+    3294,
+    1900
+   ]
+  },
+  "screenBottom": {
+   "far": [
+    2592,
+    1600
+   ],
+   "near": [
+    3110,
+    1638
+   ]
+  },
+  "washerEnds": {
+   "far": [
+    2848,
+    1712
+   ],
+   "near": [
+    3095,
+    1709
+   ]
+  }
+ }
+}

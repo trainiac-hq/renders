@@ -1,0 +1,148 @@
+{
+ "ref": "pkgx",
+ "side": "near",
+ "points": {
+  "door0-rear-top": [
+   2132,
+   605
+  ],
+  "door1-front-top": [
+   2438,
+   628
+  ],
+  "door1-rear-top": [
+   2582,
+   640
+  ],
+  "door1-front-bottom": [
+   2423,
+   1471
+  ],
+  "door1-rear-bottom": [
+   2568,
+   1441
+  ],
+  "door2-front-top": [
+   3101,
+   692
+  ],
+  "door2-rear-top": [
+   3186,
+   694
+  ],
+  "door2-front-bottom": [
+   3093,
+   1332
+  ],
+  "win-a-front-top": [
+   2187,
+   760
+  ],
+  "win3-front-top": [
+   2611,
+   780
+  ],
+  "win6-rear-top": [
+   3095,
+   802
+  ],
+  "lamp0-head": [
+   1716,
+   1370
+  ],
+  "lamp0-tail": [
+   1624,
+   1394
+  ],
+  "screen-d0-top-near": [
+   1827,
+   618
+  ],
+  "screen-d0-bottom-near": [
+   1838,
+   1167
+  ],
+  "screen-d1-top-far": [
+   849,
+   604
+  ],
+  "screen-d1-bottom-far": [
+   800,
+   1146
+  ]
+ },
+ "holdout": [
+  "door1-rear-bottom",
+  "win3-front-top",
+  "door2-rear-top",
+  "lamp0-head",
+  "lamp0-tail",
+  "screen-d0-top-near",
+  "screen-d0-bottom-near",
+  "screen-d1-top-far",
+  "screen-d1-bottom-far"
+ ],
+ "model": {
+  "win-a-front-top": [
+   2.4,
+   2.87
+  ],
+  "win3-front-top": [
+   6.871,
+   2.87
+  ],
+  "win6-rear-top": [
+   13.933,
+   2.87
+  ]
+ },
+ "modelFace": {
+  "screen-d0-top-near": [
+   -1.345,
+   3.26
+  ],
+  "screen-d0-bottom-near": [
+   -1.345,
+   1.84
+  ],
+  "screen-d1-top-far": [
+   1.345,
+   3.26
+  ],
+  "screen-d1-bottom-far": [
+   1.345,
+   1.84
+  ]
+ },
+ "readings": {
+  "note": "387124 GN at King's Cross, train's LEFT side (nose image-left) = near. Picks from pick.py panels (r 40-80). Window points are the black aperture's corners (GN paints the pillars between windows black, so the rounded grey rims inside are the separate windows; aperture ends = first/last window ends). Gangway door/frame not picked: the frame stands 0.47 m proud and its corners are r 0.15 curves.",
+  "lamp0-head": "headlamp lens (grey reflector disc inside the black bezel), centre of x 1681-1751, y 1319-1421",
+  "lamp0-tail": "lit red LED disc, centre of x 1587-1661, y 1359-1429",
+  "screen-d0-top-near": "near screen's black surround (dark rrect, m -1.345, 3.26): top edge under the orange line y 618, near edge against the white wrap x 1827",
+  "screen-d0-bottom-near": "black surround bottom (meets yellow panel) y 1167, near edge x 1838",
+  "screen-d1-top-far": "far screen black, top-far: black begins x 849 at y 604; the white to its left is the far cab corner's silhouette, so the edge may be occluded",
+  "screen-d1-bottom-far": "far black/yellow boundary y 1146, far edge x 800 (grey beyond = far corner silhouette): weak",
+  "door0-rear-top": "cab door rear seal x 2132, top under the cantrail gutter y 605",
+  "door1-front-top": "green leaf front edge x 2438, top y 628",
+  "door1-rear-top": "green leaf rear edge x 2582, top y 640",
+  "door1-front-bottom": "front seal where it meets the body's bottom edge (2423,1471); the green leaf itself stops ~0.1 m higher above a light threshold",
+  "door1-rear-bottom": "rear seal at the body bottom (2568,1441), same caveat",
+  "door2-front-top": "leaf front edge x 3101, top y 692",
+  "door2-rear-top": "leaf rear edge x 3186, top y 694 (kgx-d2 grid, +-3 px)",
+  "door2-front-bottom": "2026-10-06: front seal where it meets the body's bottom edge (3093,1332), as door 1's bottom picks are; the old pick (3097,1308) was the top of the yellow threshold, ~25 px (0.08 m) high",
+  "win-a-front-top": "black aperture front-top corner (2187,760) (rim corner is (2192,767))",
+  "win3-front-top": "aperture front-top behind door1 (2611,780)",
+  "win6-rear-top": "aperture rear-top before door2 (3095,802); aperture ends ~6 px before door2's leaf",
+  "_note": "window-opening model points moved to the spec's updated opening (top 2.87, window a front 2.20)",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side near, lamp0, screen-d0 near (z -1.345, right as seen) / d1 far correct. No change.",
+  "_shift": "cab-car model points moved back 0.20 m with the spec",
+  "_exif": "EXIF from the Commons original (5472x3648, 104 mm equivalent): the copy in refs/ is the same frame scaled, so the focal length is fixed from it (2026-10-06; the free solve had put the principal point far off centre).",
+  "_face": "2026-10-06: the face points are held out, not fitted. Picked right (re-checked on panels), but the model's face does not sit where the photo puts it relative to the bodyside: with the camera from the bodyside points and the EXIF focal, every face point lands 0.16-0.27 m further across on the face plane (lamps +0.21/+0.18, near screen +0.27/+0.22, far screen +0.20/+0.16; heights within 0.05 except the screen tops, 0.09-0.12 low), which at this 17 deg view is the face ~0.6-0.8 m further ahead of the doors than the model, or a mix of further ahead and ~6% smaller. A model error (see notes.md 'Camera matches'); fitting them drags the bodyside 30-50 px and gave rms 32."
+ },
+ "exif": {
+  "focal35mm": 104,
+  "width": 5472,
+  "height": 3648
+ },
+ "focalPx": "exif"
+}

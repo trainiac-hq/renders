@@ -1,0 +1,580 @@
+{
+ "class": "380",
+ "subject": "Class 380 in ScotRail livery",
+ "method": "No usable side diagram: both Commons drawings (First ScotRail, and the small pantograph view) are the 20 m Desiro UK template, while a 380 car is 23.78 m. The cab end is measured side-on on p107 (380107, Paisley) scaled from the cab door's height; the car's layout by a 1D projective fit along 380013's window line (cab door window from p107, car end at 23.78 m, both doors 1.64 m wide as measured on the 450); the face across by a symmetric projective fit on p002 (head-on) and up from p107's heights; heights of the body section are the 450's (the same Desiro UK body).",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 29.006882989183875,
+  "pxPerMVertical": 29.5,
+  "railY": 178,
+  "faceX": 40,
+  "notes": "p107 side-on: cab door 0.95-3.41 m = rows 589-1474 (360 px/m), its front edge at px 1570; rail at row 1816. p013: X(m) = (a m + b)/(c m + 1), a -3.058, b 929.3, c 0.0383 (residuals 0.2-4.3 px). p002: symmetric fit a 736.8, b 1825.3, c 0.2595 (half-width 1.40 m at sx 1250/2110). The overlay uses the small pantograph diagram (a 20 m template), for orientation only."
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.95,
+   "cantrail": 3.43,
+   "roof": 3.78,
+   "window": [
+    1.93,
+    2.96
+   ]
+  },
+  "windowRadius": 0.1,
+  "wheel": 0.85,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 23.78,
+   "doors": [
+    {
+     "x": 2.375,
+     "w": 0.91,
+     "cab": true,
+     "window": [
+      1.92,
+      3.17
+     ],
+     "panes": [
+      -0.22,
+      0.22
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    },
+    {
+     "x": 5.5,
+     "w": 1.64,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.6
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    },
+    {
+     "x": 16.615,
+     "w": 1.64,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.6
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    }
+   ],
+   "windows": [
+    [
+     3.35,
+     4.29
+    ],
+    [
+     6.75,
+     7.94
+    ],
+    [
+     8.52,
+     10.55
+    ],
+    [
+     11.12,
+     13.23
+    ],
+    [
+     13.53,
+     15.2
+    ],
+    [
+     18.04,
+     20.13
+    ],
+    [
+     20.38,
+     21.99
+    ]
+   ],
+   "bogies": [
+    4.1,
+    20.5
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 11,
+     "w": 3.0
+    }
+   ],
+   "under": [
+    [
+     6.0,
+     18.4
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.57,
+   "doors": [
+    {
+     "x": 6.0,
+     "w": 1.64,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.6
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    },
+    {
+     "x": 17.6,
+     "w": 1.64,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.6
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    }
+   ],
+   "windows": [
+    [
+     1.2,
+     2.6
+    ],
+    [
+     2.9,
+     4.3
+    ],
+    [
+     7.5,
+     9.0
+    ],
+    [
+     9.3,
+     11.1
+    ],
+    [
+     11.4,
+     13.2
+    ],
+    [
+     13.5,
+     15.0
+    ],
+    [
+     19.3,
+     20.7
+    ],
+    [
+     21.0,
+     22.4
+    ]
+   ],
+   "bogies": [
+    4.0,
+    20.3
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 3.0
+    },
+    {
+     "kind": "pod",
+     "x": 10.3,
+     "w": 3.0
+    }
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.4,
+     0.45,
+     1
+    ],
+    [
+     0.15,
+     0.55
+    ],
+    [
+     0.12,
+     0.9
+    ],
+    [
+     0.16,
+     1.15
+    ],
+    [
+     0.3,
+     1.3
+    ],
+    [
+     0.4,
+     1.8
+    ],
+    [
+     0.52,
+     2.4
+    ],
+    [
+     0.64,
+     3.0
+    ],
+    [
+     0.76,
+     3.5
+    ],
+    [
+     0.95,
+     3.7
+    ],
+    [
+     1.5,
+     3.78,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.8,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.6,
+     0.15
+    ],
+    [
+     1.3,
+     0.14
+    ],
+    [
+     1.6,
+     0.14
+    ],
+    [
+     2.55,
+     0.28
+    ],
+    [
+     3.5,
+     0.39
+    ]
+   ],
+   "squareness": 5
+  },
+  "face": {
+   "halfWidth": 1.4,
+   "surround": {
+    "inner": 0.82,
+    "outer": 1.36,
+    "lo": 1.98,
+    "hi": 3.17,
+    "rOuterTop": 0.18,
+    "r": 0.06
+   },
+   "glass": {
+    "inner": 0.88,
+    "outer": 1.3,
+    "lo": 2.05,
+    "hi": 3.11,
+    "r": 0.05
+   },
+   "panel": {
+    "inner": 0.45,
+    "outer": 1.3,
+    "lo": 1.4,
+    "hi": 1.97,
+    "rOuterBottom": 0.15
+   },
+   "strip": {
+    "inner": 0.77,
+    "outer": 1.39,
+    "lo": 1.9,
+    "hi": 3.24,
+    "rTop": 0.2
+   },
+   "lamps": {
+    "head": {
+     "m": 1.02,
+     "y": 1.64,
+     "r": 0.1
+    },
+    "tail": {
+     "m": 0.79,
+     "y": 1.565,
+     "r": 0.07
+    },
+    "ring": 0.02
+   },
+   "gangwayFrame": {
+    "half": 0.73,
+    "lo": 1.12,
+    "hi": 3.73,
+    "r": 0.12,
+    "depth": 0.3,
+    "color": "#1B1C1E",
+    "bellows": "#1B1C1E",
+    "rake": 0.2
+   },
+   "gangwayDoor": {
+    "half": 0.52,
+    "lo": 1.24,
+    "hi": 3.42,
+    "seams": [
+     0.25,
+     0.5,
+     0.75
+    ],
+    "lowerTo": null
+   },
+   "lower": {
+    "top": 1.1
+   },
+   "number": {
+    "text": "380 002",
+    "m": 0.93,
+    "y": 3.21,
+    "height": 0.12
+   },
+   "wiper": {
+    "pivot": [
+     0.86,
+     1.95
+    ],
+    "tip": [
+     0.65,
+     2.67
+    ],
+    "mirrored": true
+   }
+  },
+  "livery": {
+   "navy": "#1A2466",
+   "doors": "#AEB3B9",
+   "yellow": "#EDB51C",
+   "black": "#141518",
+   "glass": "#1A1D22",
+   "roof": "#8A8F96",
+   "orange": "#D9702A",
+   "white": "#E9EAEA",
+   "orangeLine": [
+    3.42,
+    3.45
+   ],
+   "saltire": [
+    [
+     1.65,
+     3.5
+    ],
+    [
+     2.3,
+     3.5
+    ],
+    [
+     2.2,
+     2.5
+    ],
+    [
+     2.1,
+     1.6
+    ],
+    [
+     2.3,
+     1.0
+    ],
+    [
+     1.5,
+     1.0
+    ],
+    [
+     0.95,
+     1.6
+    ],
+    [
+     1.07,
+     2.5
+    ]
+   ],
+   "dot": 0.055,
+   "branding": [
+    {
+     "logo": "SR",
+     "at": [
+      10.87,
+      1.565
+     ],
+     "height": 0.66,
+     "color": "#EEF1F5"
+    }
+   ],
+   "endInset": 0.6
+  }
+ },
+ "trace": {
+  "body": "heights: the 450's (the Desiro UK body section). Layout on the far side by the 1D fit on p013: cab door window centre 845 px = 2.375 m (p107: the window centred in the door), door 1 731.6-777 px and door 2 521-553 px (1.64 m each), car end 449 px = 23.78 m: door 1 centre 5.50 m, door 2 16.62 m (residuals 0.2-4.3 px); windows back-projected: 3.35-4.29, 6.75-7.94, 8.52-10.55, 11.12-13.23, 13.53-15.20, 18.04-20.13, 20.38-21.99 m. Bogies and car 2 are not measured (the old data's, car 2 rescaled to 23.57 m)",
+  "cab.doors[0]": "p107 side-on: the cab door outline 0.91 m wide, its front edge 1.92 m behind the gangway frame's foot (the nose tip); its window centred, in two panes",
+  "nose.profile": "p107 side-on: the gangway frame's front from 1.12 m (taken as the tip) leaning back 0.52 m by 3.73 m; the face's centreline 0.3 m behind it (the bellows' depth); the corner where face meets side 0.44 m behind the frame at 1.61 m, 0.58 m at 2.55 m and 0.69 m at 3.75 m (form.setback, less the face's own 0.3 m); the lower nose a bulge 0.12-0.15 m behind the tip from 0.5 to 1.15 m",
+  "face": "p002 head-on, symmetric projective fit (rms 23 px, the face is raked and curved): frame +-0.73 m, door +-0.52 m, glass +-0.88..1.35 m; heights on the frame's 2.61 m (349 px): glass 2.05-3.11 m, door 1.24-3.42 m; lamps: headlamp outboard (-1.02 m, 1.64 m), LED tail inboard (-0.80 m, 1.60 m) in one yellow trapezoid recess -1.25..-0.45 m, 1.44-1.84 m; the LED tail lowered to 1.565 m: through the camera solved on p013 (telephoto, 13440 px) it measures 1.54 m against p002s 1.60",
+  "face.livery": "p002, p013, p107: the face navy; yellow only as a thin rim round each screen's black surround and the lamp recess; the gangway door all yellow (two leaves) in a black frame on black bellows; white number over the near screen ('380 002'), the unit's last three digits over the far one",
+  "livery": "navy #1A2466 (p013 sunlit #101A68 and #2F407C), doors light grey (p107 #D3D5D2 white dots; doors #AEB3B9 by eye against them), yellow #EDB51C (p107 trims #B07415 in shade, p002 gangway #AC7B43 weathered): raw",
+  "livery.saltire": "p107 side-on: the white dot field behind the cab, its outline at 3.5 m 1.65-2.3 m from the tip, at 2.5 m 1.07-2.2, at 1.6 m 0.95-2.1, at 1.0 m 1.5-2.3; dots about 0.11 m across (44 px)",
+  "livery.branding": "SR (the ScotRail logo: dotted saltire, 'ScotRail', 'Scotland's Railway'), white, on the leading car between door 1 and door 2: 380013 (p013) through its projective fit along the car (X = (a m + b)/(c m + 1), calibration notes): the logo's ends at px 613.8 and 652.5 are 11.88 m and 9.87 m; up its side the window's foot (1.93 m, row 508) and the bodyside's foot (0.95 m, row 597) give 90.8 px/m there, so rows 512.5-570 are 1.88-1.25 m: 0.63 m tall against 2.0 m long (the artwork is 2.9 wide to 1 tall, so 0.66 m tall, 1.9 m long), centred 10.87 m, 1.565 m",
+  "livery.endInset": "380013 (p013): the dotted saltire also flanks every gangway between cars (both car ends there), as the old data had it; its outline taken as the cab end's, 0.6 m nearer the car's end since there is no nose (read by eye on p013, not measured)"
+ },
+ "views": {
+  "match-p013": {
+   "matrix": [
+    [
+     -0.29580017286731475,
+     0.000890985896261506,
+     -0.9552494249544459,
+     -142.37538293554113
+    ],
+    [
+     -0.9552299683561599,
+     -0.00672613909559869,
+     0.29578787434098214,
+     48.51539229228376
+    ],
+    [
+     -0.006161597678911193,
+     0.9999769823335932,
+     0.0028406895366993473,
+     3.364473916456024
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 377.9999999233793,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1280,
+    852
+   ]
+  },
+  "match-p013-flat": {
+   "matrix": [
+    [
+     -0.29580017286731475,
+     0.000890985896261506,
+     -0.9552494249544459,
+     -142.37538293554113
+    ],
+    [
+     -0.9552299683561599,
+     -0.00672613909559869,
+     0.29578787434098214,
+     48.51539229228376
+    ],
+    [
+     -0.006161597678911193,
+     0.9999769823335932,
+     0.0028406895366993473,
+     3.364473916456024
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 377.9999999233793,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1280,
+    852
+   ],
+   "flat": true
+  }
+ },
+ "elevation": {
+  "colours": {
+   "glass": "#1A1D22"
+  },
+  "colourTol": {
+   "glass": 14
+  },
+  "checks": []
+ },
+ "pairs": [
+  {
+   "id": "corner-door",
+   "crop": "s-cab-013",
+   "view": "match-p013",
+   "box": [
+    -0.6,
+    9,
+    0.3,
+    3.95,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "face",
+   "crop": "f-face-002",
+   "view": "close",
+   "box": [
+    -0.6,
+    1.7,
+    0.3,
+    3.95,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "dia-cab",
+   "crop": "d-cab",
+   "view": "elevation",
+   "box": [
+    -0.6,
+    8.0,
+    0.3,
+    3.95,
+    -1.46,
+    -1.3
+   ]
+  }
+ ]
+}

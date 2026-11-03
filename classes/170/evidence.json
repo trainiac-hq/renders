@@ -1,0 +1,1586 @@
+{
+ "class": "170",
+ "subject": "Class 170 Turbostar: CrossCountry (refurbished red), Northern, EMR, ScotRail; TfW and WMR as last run",
+ "refs": {
+  "dxc": {
+   "file": "refs/Class-170-Cross-Country-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_170_Cross_Country_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-05-28",
+   "kind": "diagram",
+   "unit": "170/1 3-car, CrossCountry 2008 silver/maroon livery (geometry only)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dem2": {
+   "file": "refs/Class-170-East-Midlands-Railway-2-Car-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_170_East_Midlands_Railway_2-Car_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-20",
+   "kind": "diagram",
+   "unit": "170 2-car, EMR Regional livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dem3": {
+   "file": "refs/Class-170-East-Midlands-Railway-3-Car-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_170_East_Midlands_Railway_3-Car_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-20",
+   "kind": "diagram",
+   "unit": "170 3-car, EMR Regional livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dnt": {
+   "file": "refs/Class-170-Arriva-Northern-Diagram-3-Car.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_170_Arriva_Northern_Diagram_3_Car.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-20",
+   "kind": "diagram",
+   "unit": "170/4 3-car, Northern livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dwm": {
+   "file": "refs/Class-170-West-Midlands-Railway-2-Car.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_170_West_Midlands_Railway_2_Car.png",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-09-17",
+   "kind": "diagram",
+   "unit": "170/5 2-car, WMR livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "sxc": {
+   "file": "refs/CrossCountry-Class-170-1-6.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:CrossCountry_Class_170-1-6.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "diagram",
+   "unit": "XC 170 (old livery), 119 px strip",
+   "view": "side, livery only",
+   "light": "flat"
+  },
+  "snt": {
+   "file": "refs/Northern-Class-170-4.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Northern_Class_170-4.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-02-02",
+   "kind": "diagram",
+   "unit": "Northern 170/4, 119 px strip",
+   "view": "side, livery only",
+   "light": "flat"
+  },
+  "ssr": {
+   "file": "refs/Scotrail-Class-170-3-4.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Scotrail_Class_170-3-4.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "diagram",
+   "unit": "ScotRail 170/4, 119 px strip",
+   "view": "side, livery only",
+   "light": "flat"
+  },
+  "saw": {
+   "file": "refs/TfW-Class-170-2-2-Car.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:TfW_Class_170-2_2_Car.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "diagram",
+   "unit": "TfW 170/2 2-car, 119 px strip",
+   "view": "side, livery only",
+   "light": "flat"
+  },
+  "swm": {
+   "file": "refs/West-Midlands-Trains-Class-170-6.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:West_Midlands_Trains_Class_170-6.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "diagram",
+   "unit": "WMR 170/6, 119 px strip",
+   "view": "side, livery only",
+   "light": "flat"
+  },
+  "x112": {
+   "file": "refs/CrossCountry-170112-at-Cardiff-Central-19-May-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:CrossCountry_170112_at_Cardiff_Central_19_May_2025.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2025-05-19",
+   "kind": "photo",
+   "unit": "170112 (170/1, refurbished, 3 cars)",
+   "view": "three-quarter, cab end right, near side visible; Nikon D3500 34 mm (51 mm eq.), cropped from 6000x4000 to 5044x3533",
+   "light": "bright sun from the front left, hard shadows"
+  },
+  "x101": {
+   "file": "refs/170101-BHM-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170101_BHM_2025.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-03-08",
+   "kind": "photo",
+   "unit": "170101 (170/1, first refurbished)",
+   "view": "head-on, slightly from the right, close; Canon EOS M5 26 mm (APS-C), downsized whole frame",
+   "light": "station, artificial plus daylight"
+  },
+  "x101s": {
+   "file": "refs/Red-Green-machines-170101-of-Cross-Country-passes-66602-of-Heavy-Haul-at-Bromford-Bridge-220726.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Red_%26_Green_machines_-_170101_of_Cross_Country_passes_66602_of_Heavy_Haul_at_Bromford_Bridge_220726.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2026-07-22",
+   "kind": "photo",
+   "unit": "170101",
+   "view": "side-on, nose left, slight perspective (nearer at the nose)",
+   "light": "overcast bright"
+  },
+  "x113": {
+   "file": "refs/XC-170-113.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:XC_170_113.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-08-03",
+   "kind": "photo",
+   "unit": "170113",
+   "view": "three-quarter, cab end right; Nikon D3400 52 mm (78 mm eq.), full 6000x4000 frame",
+   "light": "station roof, diffuse"
+  },
+  "n476": {
+   "file": "refs/Sheffield-BR-170-476-2308-02.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Sheffield_BR_%27170_476%27_2308_02.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 2.0",
+   "date": "2023-08-02",
+   "kind": "photo",
+   "unit": "170476 (170/4)",
+   "view": "three-quarter, cab end left; Canon EOS M50 18 mm, cropped 6000->5328 wide",
+   "light": "overcast"
+  },
+  "n459": {
+   "file": "refs/170459-Beverley-Flemingate-LC.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170459_Beverley_Flemingate_LC.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 2.0",
+   "date": "2024-10-14",
+   "kind": "photo",
+   "unit": "170459 (170/4)",
+   "view": "head-on, slightly from the left",
+   "light": "sun from the left"
+  },
+  "n474": {
+   "file": "refs/170474-Hessle-111024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170474_Hessle_111024.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 2.0",
+   "date": "2024-10-11",
+   "kind": "photo",
+   "unit": "170474 (170/4)",
+   "view": "from above, three-quarter, cab end right",
+   "light": "low sun"
+  },
+  "e533": {
+   "file": "refs/EMR-170533-55117953666.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:EMR_170533_-_55117953666.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2026-02-23",
+   "kind": "photo",
+   "unit": "170533 (170/5)",
+   "view": "head-on, slightly from the right; iPhone 15 26 mm eq., cropped",
+   "light": "overcast"
+  },
+  "e418": {
+   "file": "refs/EMR-170418-55118348050.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:EMR_170418_-_55118348050.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2026-02-21",
+   "kind": "photo",
+   "unit": "170418 (170/4 at EMR)",
+   "view": "three-quarter, cab end left, close; iPhone 15 (83 mm eq. reported), cropped",
+   "light": "overcast"
+  },
+  "e505": {
+   "file": "refs/Lincoln-EMR-170505-Crewe-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Lincoln_-_EMR_170505_Crewe_service.JPG",
+   "author": "Geof Sheppard (see SOURCES.md)",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-09-04",
+   "kind": "photo",
+   "unit": "170505 (170/5, 2 cars)",
+   "view": "near side-on, cab end left",
+   "light": "overcast, over-exposed sky"
+  },
+  "s428": {
+   "file": "refs/170428-at-Bow-of-Fife.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170428_at_Bow_of_Fife.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-05",
+   "kind": "photo",
+   "unit": "170428 (170/4)",
+   "view": "three-quarter, cab end left",
+   "light": "sun, broken cloud"
+  },
+  "s408": {
+   "file": "refs/170-408-and-170-409-Aberdeen.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170_408_and_170_409_Aberdeen.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-02",
+   "kind": "photo",
+   "unit": "170408 (170/4)",
+   "view": "side, slightly from the front, cab end left",
+   "light": "under a station roof"
+  },
+  "s427": {
+   "file": "refs/170-427-at-Perth-with-a-train-for-Dundee.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170_427_at_Perth_with_a_train_for_Dundee.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-02",
+   "kind": "photo",
+   "unit": "170427 (170/4), tail lamps lit",
+   "view": "three-quarter, cab end right",
+   "light": "low sun"
+  },
+  "a205": {
+   "file": "refs/Gloucester-TfW-170205-Maesteg-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Gloucester_-_TfW_170205_Maesteg_service.JPG",
+   "author": "Geof Sheppard (see SOURCES.md)",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-06-08",
+   "kind": "photo",
+   "unit": "170205 (170/2)",
+   "view": "three-quarter close, near side left; Canon 550D 23 mm, downsized whole frame",
+   "light": "sun"
+  },
+  "a271": {
+   "file": "refs/Chepstow-TfW-170271-Cheltenham-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Chepstow_-_TfW_170271_Cheltenham_service.JPG",
+   "author": "Geof Sheppard (see SOURCES.md)",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-06-08",
+   "kind": "photo",
+   "unit": "170271 (170/2 2-car)",
+   "view": "three-quarter, cab end left; Canon 550D 18 mm, downsized whole frame",
+   "light": "sun"
+  },
+  "a207": {
+   "file": "refs/Caerdydd-Canolog-TfW-170207.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Caerdydd_Canolog_-_TfW_170207.JPG",
+   "author": "Geof Sheppard (see SOURCES.md)",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-02-20",
+   "kind": "photo",
+   "unit": "170207 (170/2)",
+   "view": "side-on, cab end left; Canon 49 mm",
+   "light": "station roof, diffuse"
+  },
+  "l509": {
+   "file": "refs/WMR-170509-at-Shrewsbury-24.10.18.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:WMR_170509_at_Shrewsbury_24.10.18.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-10-24",
+   "kind": "photo",
+   "unit": "170509 (170/5)",
+   "view": "three-quarter close, cab end left",
+   "light": "low sun from the left"
+  },
+  "l635": {
+   "file": "refs/170635-at-Rugeley-TV.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:170635_at_Rugeley_TV.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-03-05",
+   "kind": "photo",
+   "unit": "170635 (170/6)",
+   "view": "head-on, slightly from the left; Nikon D3300 210 mm (315 mm eq.), full frame: near orthographic",
+   "light": "overcast bright"
+  },
+  "l506": {
+   "file": "refs/Birmingham-New-Street-WMT-170506-platform-11.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Birmingham_New_Street_-_WMT_170506_platform_11.JPG",
+   "author": "Geof Sheppard (see SOURCES.md)",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-09-10",
+   "kind": "photo",
+   "unit": "170506 (170/5)",
+   "view": "side-on, cab end left; 18 mm",
+   "light": "artificial, underground platform"
+  },
+  "l20": {
+   "file": "refs/20200119-Shrewsbury-station-plt-5-west-midlands-train.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20200119_Shrewsbury_station_plt_5_west_midlands_train.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-01-19",
+   "kind": "photo",
+   "unit": "WMR 170 (number not legible)",
+   "view": "three-quarter, cab end right",
+   "light": "station, mixed"
+  },
+  "x111": {
+   "file": "refs/Cheltenham-Spa-CrossCountry-170111-arriving-from-Cardiff.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Cheltenham_Spa_-_CrossCountry_170111_arriving_from_Cardiff.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "photo",
+   "unit": "170111, OLD XC livery (pre-refurbishment)",
+   "view": "front three-quarter",
+   "light": "daylight"
+  },
+  "x105": {
+   "file": "refs/Melton-Mowbray-CrossCountry-170105-Birmingham-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Melton_Mowbray_-_CrossCountry_170105_Birmingham_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "photo",
+   "unit": "170105, OLD XC livery",
+   "view": "from above",
+   "light": "daylight"
+  }
+ },
+ "crops": [
+  {
+   "id": "d-nose",
+   "ref": "dxc",
+   "box": [
+    30,
+    20,
+    260,
+    345
+   ],
+   "feature": "diagram nose and cab door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dxc",
+   "box": [
+    30,
+    20,
+    720,
+    345
+   ],
+   "feature": "diagram cab end to door 1",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-door1",
+   "ref": "dxc",
+   "box": [
+    440,
+    60,
+    640,
+    280
+   ],
+   "feature": "diagram first bodyside door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dxc",
+   "box": [
+    600,
+    60,
+    1460,
+    280
+   ],
+   "feature": "diagram saloon windows between the doors",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-carend",
+   "ref": "dxc",
+   "box": [
+    1650,
+    20,
+    1950,
+    345
+   ],
+   "feature": "diagram car joint",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-x101",
+   "ref": "x101",
+   "box": [
+    270,
+    40,
+    1560,
+    1770
+   ],
+   "feature": "XC whole front, head-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-x101",
+   "ref": "x101",
+   "box": [
+    270,
+    990,
+    560,
+    1220
+   ],
+   "feature": "XC photo-left lamp cluster and marker, head-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-x101",
+   "ref": "x101",
+   "box": [
+    1020,
+    1010,
+    1390,
+    1220
+   ],
+   "feature": "XC photo-right lamp cluster and marker, head-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-screen-x101",
+   "ref": "x101",
+   "box": [
+    370,
+    250,
+    1345,
+    900
+   ],
+   "feature": "XC windscreen, surround, pillar, wipers",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-cap-x101",
+   "ref": "x101",
+   "box": [
+    400,
+    40,
+    1345,
+    320
+   ],
+   "feature": "XC yellow cap over the screen, roof dome",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lower-x101",
+   "ref": "x101",
+   "box": [
+    285,
+    1210,
+    1553,
+    1766
+   ],
+   "feature": "XC lower front, coupler",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-x112",
+   "ref": "x112",
+   "box": [
+    2960,
+    1150,
+    3640,
+    2150
+   ],
+   "feature": "XC front three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-near-x112",
+   "ref": "x112",
+   "box": [
+    3040,
+    1720,
+    3270,
+    1860
+   ],
+   "feature": "XC near-side lamp cluster and marker, three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cabside-x112",
+   "ref": "x112",
+   "box": [
+    2700,
+    1250,
+    3060,
+    2000
+   ],
+   "feature": "XC cab side: cab door, droplight, cream X",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-x112",
+   "ref": "x112",
+   "box": [
+    2040,
+    1240,
+    3200,
+    2050
+   ],
+   "feature": "XC cab corner and first bodyside door, three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-door1-x112",
+   "ref": "x112",
+   "box": [
+    2050,
+    1360,
+    2310,
+    1910
+   ],
+   "feature": "XC first bodyside door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-x112",
+   "ref": "x112",
+   "box": [
+    950,
+    1150,
+    3640,
+    2200
+   ],
+   "feature": "XC cab car livery: red, cream X, silver rear",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-x101s",
+   "ref": "x101s",
+   "box": [
+    940,
+    400,
+    2150,
+    900
+   ],
+   "feature": "XC cab side, side-on: cab door, X, two windows, door 1",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-saloon-x101s",
+   "ref": "x101s",
+   "box": [
+    2100,
+    450,
+    3500,
+    900
+   ],
+   "feature": "XC saloon windows between the doors, side-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-bogie-x101s",
+   "ref": "x101s",
+   "box": [
+    1200,
+    780,
+    2000,
+    1000
+   ],
+   "feature": "XC leading bogie",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-n459",
+   "ref": "n459",
+   "box": [
+    1040,
+    280,
+    2010,
+    1680
+   ],
+   "feature": "NT whole front, head-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-n459",
+   "ref": "n459",
+   "box": [
+    1050,
+    1080,
+    1270,
+    1270
+   ],
+   "feature": "NT photo-left lamp cluster",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-n459",
+   "ref": "n459",
+   "box": [
+    1735,
+    1080,
+    2010,
+    1280
+   ],
+   "feature": "NT photo-right lamp cluster",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-n476",
+   "ref": "n476",
+   "box": [
+    384,
+    900,
+    2060,
+    1900
+   ],
+   "feature": "NT cab corner and first door, three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-n476",
+   "ref": "n476",
+   "box": [
+    384,
+    900,
+    2745,
+    2000
+   ],
+   "feature": "NT cab car livery",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-door1-n476",
+   "ref": "n476",
+   "box": [
+    1880,
+    1170,
+    2060,
+    1710
+   ],
+   "feature": "NT first bodyside door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-side-n474",
+   "ref": "n474",
+   "box": [
+    1370,
+    630,
+    3130,
+    1560
+   ],
+   "feature": "NT cab car from above, side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-e533",
+   "ref": "e533",
+   "box": [
+    290,
+    190,
+    2180,
+    2500
+   ],
+   "feature": "EM whole front, head-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-e533",
+   "ref": "e533",
+   "box": [
+    310,
+    1640,
+    700,
+    1950
+   ],
+   "feature": "EM photo-left cluster and ringed marker",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-e533",
+   "ref": "e533",
+   "box": [
+    1480,
+    1690,
+    2025,
+    1975
+   ],
+   "feature": "EM photo-right cluster and ringed marker",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-e418",
+   "ref": "e418",
+   "box": [
+    150,
+    60,
+    1690,
+    2000
+   ],
+   "feature": "EM 170/4 front, three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-e418",
+   "ref": "e418",
+   "box": [
+    1300,
+    200,
+    2250,
+    1600
+   ],
+   "feature": "EM cab corner and first door, three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-door1-e418",
+   "ref": "e418",
+   "box": [
+    1985,
+    440,
+    2180,
+    1415
+   ],
+   "feature": "EM first bodyside door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-side-e505",
+   "ref": "e505",
+   "box": [
+    190,
+    900,
+    2660,
+    1530
+   ],
+   "feature": "EM 170/5 2-car, side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-e505",
+   "ref": "e505",
+   "box": [
+    190,
+    900,
+    1370,
+    1500
+   ],
+   "feature": "EM cab car livery, side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-s428",
+   "ref": "s428",
+   "box": [
+    840,
+    680,
+    1730,
+    1730
+   ],
+   "feature": "SR whole front",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-s428",
+   "ref": "s428",
+   "box": [
+    849,
+    1365,
+    1010,
+    1490
+   ],
+   "feature": "SR photo-left cluster",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-s428",
+   "ref": "s428",
+   "box": [
+    1402,
+    1353,
+    1600,
+    1500
+   ],
+   "feature": "SR photo-right cluster",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-s428",
+   "ref": "s428",
+   "box": [
+    1575,
+    735,
+    2215,
+    1575
+   ],
+   "feature": "SR cab corner and first door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-s408",
+   "ref": "s408",
+   "box": [
+    220,
+    900,
+    3020,
+    1975
+   ],
+   "feature": "SR cab car side: saltire dots, windows, door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-door1-s408",
+   "ref": "s408",
+   "box": [
+    1900,
+    1080,
+    2200,
+    1640
+   ],
+   "feature": "SR first bodyside door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-s427",
+   "ref": "s427",
+   "box": [
+    2715,
+    466,
+    3703,
+    1920
+   ],
+   "feature": "SR front, tail lamps lit",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-s427",
+   "ref": "s427",
+   "box": [
+    3483,
+    1371,
+    3703,
+    1536
+   ],
+   "feature": "SR photo-right cluster, tail lit",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-a205",
+   "ref": "a205",
+   "box": [
+    715,
+    20,
+    1260,
+    670
+   ],
+   "feature": "TfW whole front",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-a205",
+   "ref": "a205",
+   "box": [
+    727,
+    493,
+    850,
+    600
+   ],
+   "feature": "TfW photo-left cluster and marker",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-a205",
+   "ref": "a205",
+   "box": [
+    1141,
+    483,
+    1260,
+    575
+   ],
+   "feature": "TfW photo-right cluster and marker",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cabside-a205",
+   "ref": "a205",
+   "box": [
+    585,
+    117,
+    742,
+    625
+   ],
+   "feature": "TfW cab side, cab door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-a271",
+   "ref": "a271",
+   "box": [
+    263,
+    293,
+    917,
+    683
+   ],
+   "feature": "TfW cab corner and first door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-door1-a271",
+   "ref": "a271",
+   "box": [
+    839,
+    390,
+    935,
+    620
+   ],
+   "feature": "TfW first bodyside door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-a207",
+   "ref": "a207",
+   "box": [
+    410,
+    312,
+    1366,
+    702
+   ],
+   "feature": "TfW 170/2 cab side, side-on",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-l635",
+   "ref": "l635",
+   "box": [
+    1570,
+    480,
+    2700,
+    2010
+   ],
+   "feature": "WMR whole front, near-orthographic",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-l635",
+   "ref": "l635",
+   "box": [
+    1640,
+    1300,
+    1900,
+    1470
+   ],
+   "feature": "WMR photo-left cluster and marker",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-l635",
+   "ref": "l635",
+   "box": [
+    2320,
+    1340,
+    2580,
+    1490
+   ],
+   "feature": "WMR photo-right cluster and marker",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-screen-l635",
+   "ref": "l635",
+   "box": [
+    1700,
+    620,
+    2560,
+    1290
+   ],
+   "feature": "WMR windscreen, cap, surround",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-l509",
+   "ref": "l509",
+   "box": [
+    384,
+    137,
+    1755,
+    1810
+   ],
+   "feature": "WMR front three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-l509",
+   "ref": "l509",
+   "box": [
+    1536,
+    329,
+    2743,
+    1783
+   ],
+   "feature": "WMR cab corner and first door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-l506",
+   "ref": "l506",
+   "box": [
+    40,
+    400,
+    880,
+    760
+   ],
+   "feature": "WMR cab car livery: gold, diamonds, door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-door1-l506",
+   "ref": "l506",
+   "box": [
+    630,
+    455,
+    840,
+    740
+   ],
+   "feature": "WMR first bodyside door",
+   "reading": "",
+   "reading2": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "silver-x101s",
+   "ref": "x101s",
+   "box": [
+    2750,
+    780,
+    3000,
+    830
+   ],
+   "what": "silver rear bodyside of the cab car (neutral)",
+   "neutralIs": 200
+  },
+  {
+   "id": "red-x101s",
+   "ref": "x101s",
+   "box": [
+    1660,
+    745,
+    1830,
+    800
+   ],
+   "what": "XC red bodyside",
+   "neutral": "silver-x101s"
+  },
+  {
+   "id": "cream-x101s",
+   "ref": "x101s",
+   "box": [
+    1880,
+    745,
+    1930,
+    820
+   ],
+   "what": "XC cream door leaf",
+   "neutral": "silver-x101s"
+  },
+  {
+   "id": "roof-x101s",
+   "ref": "x101s",
+   "box": [
+    2450,
+    470,
+    3000,
+    490
+   ],
+   "what": "XC roof",
+   "neutral": "silver-x101s"
+  },
+  {
+   "id": "yellow-x112",
+   "ref": "x112",
+   "box": [
+    3220,
+    1740,
+    3420,
+    1780
+   ],
+   "what": "XC front yellow (sun)"
+  },
+  {
+   "id": "cap-x112",
+   "ref": "x112",
+   "box": [
+    3100,
+    1240,
+    3300,
+    1268
+   ],
+   "what": "XC yellow cap"
+  },
+  {
+   "id": "redfront-x112",
+   "ref": "x112",
+   "box": [
+    3430,
+    1940,
+    3580,
+    2020
+   ],
+   "what": "XC red lower front (sun)"
+  },
+  {
+   "id": "dome-x112",
+   "ref": "x112",
+   "box": [
+    3068,
+    1203,
+    3165,
+    1234
+   ],
+   "what": "XC grey cab roof"
+  },
+  {
+   "id": "yellow-x101",
+   "ref": "x101",
+   "box": [
+    600,
+    1150,
+    900,
+    1200
+   ],
+   "what": "XC front yellow (station)"
+  },
+  {
+   "id": "purple-n476",
+   "ref": "n476",
+   "box": [
+    1050,
+    1650,
+    1170,
+    1740
+   ],
+   "what": "NT blue-purple cab side",
+   "neutral": "door-n476"
+  },
+  {
+   "id": "yellow-n476",
+   "ref": "n476",
+   "box": [
+    480,
+    1618,
+    713,
+    1700
+   ],
+   "what": "NT front yellow",
+   "neutral": "door-n476"
+  },
+  {
+   "id": "cap-n476",
+   "ref": "n476",
+   "box": [
+    603,
+    1010,
+    1015,
+    1050
+   ],
+   "what": "NT yellow cap",
+   "neutral": "door-n476"
+  },
+  {
+   "id": "roof-n476",
+   "ref": "n476",
+   "box": [
+    1550,
+    1010,
+    1700,
+    1040
+   ],
+   "what": "NT roof",
+   "neutral": "door-n476"
+  },
+  {
+   "id": "door-n476",
+   "ref": "n476",
+   "box": [
+    1985,
+    1550,
+    2030,
+    1650
+   ],
+   "what": "NT first door, white like the body (neutral)",
+   "neutralIs": 235
+  },
+  {
+   "id": "lower-n476",
+   "ref": "n476",
+   "box": [
+    823,
+    1838,
+    1179,
+    1890
+   ],
+   "what": "NT lower front",
+   "neutral": "door-n476"
+  },
+  {
+   "id": "silver-e418",
+   "ref": "e418",
+   "box": [
+    2095,
+    1030,
+    2140,
+    1180
+   ],
+   "what": "EM silver door (neutral)",
+   "neutralIs": 200
+  },
+  {
+   "id": "purple-e418",
+   "ref": "e418",
+   "box": [
+    2250,
+    560,
+    2400,
+    600
+   ],
+   "what": "EM purple bodyside",
+   "neutral": "silver-e418"
+  },
+  {
+   "id": "yellow-e418",
+   "ref": "e418",
+   "box": [
+    442,
+    1148,
+    662,
+    1259
+   ],
+   "what": "EM front yellow",
+   "neutral": "silver-e418"
+  },
+  {
+   "id": "cap-e418",
+   "ref": "e418",
+   "box": [
+    442,
+    254,
+    1325,
+    325
+   ],
+   "what": "EM yellow cap",
+   "neutral": "silver-e418"
+  },
+  {
+   "id": "lower-e418",
+   "ref": "e418",
+   "box": [
+    552,
+    1524,
+    994,
+    1590
+   ],
+   "what": "EM purple lower front",
+   "neutral": "silver-e418"
+  },
+  {
+   "id": "roof-e418",
+   "ref": "e418",
+   "box": [
+    1850,
+    260,
+    2050,
+    300
+   ],
+   "what": "EM roof",
+   "neutral": "silver-e418"
+  },
+  {
+   "id": "door-s428",
+   "ref": "s428",
+   "box": [
+    2120,
+    1300,
+    2160,
+    1420
+   ],
+   "what": "SR silver-grey door (in shade: not usable as neutral)"
+  },
+  {
+   "id": "blue-s428",
+   "ref": "s428",
+   "box": [
+    1880,
+    880,
+    2050,
+    940
+   ],
+   "what": "SR blue bodyside"
+  },
+  {
+   "id": "yellow-s428",
+   "ref": "s428",
+   "box": [
+    1058,
+    1341,
+    1279,
+    1420
+   ],
+   "what": "SR front yellow"
+  },
+  {
+   "id": "cap-s428",
+   "ref": "s428",
+   "box": [
+    1033,
+    775,
+    1574,
+    820
+   ],
+   "what": "SR yellow cap"
+  },
+  {
+   "id": "roof-s428",
+   "ref": "s428",
+   "box": [
+    1722,
+    738,
+    1968,
+    785
+   ],
+   "what": "SR roof"
+  },
+  {
+   "id": "lower-s428",
+   "ref": "s428",
+   "box": [
+    1150,
+    1520,
+    1300,
+    1550
+   ],
+   "what": "SR lower front"
+  },
+  {
+   "id": "white-a271",
+   "ref": "a271",
+   "box": [
+    930,
+    515,
+    1050,
+    540
+   ],
+   "what": "TfW white bodyside (neutral)",
+   "neutralIs": 235
+  },
+  {
+   "id": "red-a271",
+   "ref": "a271",
+   "box": [
+    849,
+    410,
+    897,
+    507
+   ],
+   "what": "TfW red door",
+   "neutral": "white-a271"
+  },
+  {
+   "id": "grey-a271",
+   "ref": "a271",
+   "box": [
+    927,
+    590,
+    1073,
+    605
+   ],
+   "what": "TfW lower bodyside",
+   "neutral": "white-a271"
+  },
+  {
+   "id": "yellow-a205",
+   "ref": "a205",
+   "box": [
+    858,
+    439,
+    1024,
+    459
+   ],
+   "what": "TfW front yellow"
+  },
+  {
+   "id": "cap-a205",
+   "ref": "a205",
+   "box": [
+    800,
+    83,
+    1073,
+    105
+   ],
+   "what": "TfW cap"
+  },
+  {
+   "id": "lower-a205",
+   "ref": "a205",
+   "box": [
+    800,
+    663,
+    1073,
+    702
+   ],
+   "what": "TfW lower front"
+  },
+  {
+   "id": "roof-a205",
+   "ref": "a205",
+   "box": [
+    780,
+    39,
+    878,
+    58
+   ],
+   "what": "TfW cab roof"
+  },
+  {
+   "id": "band-l509",
+   "ref": "l509",
+   "box": [
+    2760,
+    1180,
+    2880,
+    1240
+   ],
+   "what": "WMR dark band under the saloon windows"
+  },
+  {
+   "id": "gold-l509",
+   "ref": "l509",
+   "box": [
+    1650,
+    1400,
+    1800,
+    1550
+   ],
+   "what": "WMR gold cab side"
+  },
+  {
+   "id": "yellow-l509",
+   "ref": "l509",
+   "box": [
+    686,
+    1481,
+    1097,
+    1591
+   ],
+   "what": "WMR front yellow"
+  },
+  {
+   "id": "cap-l509",
+   "ref": "l509",
+   "box": [
+    823,
+    329,
+    1536,
+    405
+   ],
+   "what": "WMR cap"
+  },
+  {
+   "id": "valance-l509",
+   "ref": "l509",
+   "box": [
+    439,
+    1755,
+    713,
+    1860
+   ],
+   "what": "WMR black lower front"
+  },
+  {
+   "id": "gold-l635",
+   "ref": "l635",
+   "box": [
+    1620,
+    1180,
+    1700,
+    1260
+   ],
+   "what": "WMR gold face (head-on)"
+  },
+  {
+   "id": "yellow-l635",
+   "ref": "l635",
+   "box": [
+    1950,
+    1300,
+    2200,
+    1350
+   ],
+   "what": "WMR front yellow (head-on)"
+  }
+ ]
+}

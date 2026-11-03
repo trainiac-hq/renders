@@ -1,0 +1,32 @@
+{
+ "class": "180",
+ "refs": {
+  "dia": {
+   "file": "refs/Grand-Central-Class-180.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Grand_Central_Class_180.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "kind": "diagram"
+  },
+  "pnth": {
+   "file": "refs/180107-at-Northallerton.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:180107_at_Northallerton.jpg",
+   "author": "The joy of all things",
+   "licence": "CC BY-SA 4.0",
+   "kind": "photo",
+   "unit": "180107",
+   "view": "near head-on"
+  },
+  "pmx": {
+   "file": "refs/50901-Adelante-of-Grand-CEntral-at-Maxey-LC-111124.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:50901_Adelante_of_Grand_CEntral_at_Maxey_LC_111124.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-11-11",
+   "kind": "photo",
+   "unit": "180 (Grand Central)",
+   "view": "side three-quarter"
+  }
+ },
+ "crops": {}
+}

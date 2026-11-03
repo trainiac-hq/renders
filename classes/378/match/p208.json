@@ -1,0 +1,196 @@
+{
+ "ref": "p208",
+ "side": "far",
+ "points": {
+  "lamp2-head": [
+   2661,
+   1734
+  ],
+  "lamp2-tail": [
+   2753,
+   1752
+  ],
+  "lamp1-head": [
+   2765,
+   1639
+  ],
+  "lamp0-head": [
+   3296,
+   1685
+  ],
+  "lamp0-tail": [
+   3241,
+   1715
+  ],
+  "frame-seal-top-right": [
+   2846,
+   999
+  ],
+  "frame-seal-top-left": [
+   3113,
+   999
+  ],
+  "frame-seal-bottom-right": [
+   2886,
+   1903
+  ],
+  "frame-seal-bottom-left": [
+   3154,
+   1880
+  ],
+  "screen-surround-right-bottom-out": [
+   2571,
+   1557
+  ],
+  "screen-surround-right-top-out": [
+   2568,
+   1053
+  ],
+  "screen-surround-left-bottom-out": [
+   3358,
+   1524
+  ],
+  "door0-front-top": [
+   2312,
+   1066
+  ],
+  "door0-rear-top": [
+   2166,
+   1074
+  ],
+  "door1-front-top": [
+   1770,
+   1164
+  ],
+  "door1-rear-top": [
+   1611,
+   1182
+  ],
+  "door1-front-bottom": [
+   1781,
+   1755
+  ],
+  "door2-front-top": [
+   1110,
+   1236
+  ],
+  "door2-front-bottom": [
+   1118,
+   1617
+  ],
+  "band-top-2.62": [
+   2089,
+   1209
+  ],
+  "band-bottom-2.62": [
+   2069,
+   1566
+  ],
+  "band-top-3.86": [
+   1906,
+   1222
+  ],
+  "band-top-4.72": [
+   1802,
+   1229
+  ],
+  "band-top-9.65": [
+   1361,
+   1260
+  ],
+  "band-bottom-11.25": [
+   1256,
+   1488
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "door2-front-top",
+  "band-bottom-11.25"
+ ],
+ "model": {
+  "band-top-2.62": [
+   2.62,
+   2.865
+  ],
+  "band-bottom-2.62": [
+   2.62,
+   1.75
+  ],
+  "band-top-3.86": [
+   3.86,
+   2.865
+  ],
+  "band-top-4.72": [
+   4.72,
+   2.865
+  ],
+  "band-top-9.65": [
+   9.65,
+   2.865
+  ],
+  "band-bottom-11.25": [
+   11.25,
+   1.75
+  ]
+ },
+ "modelFace": {
+  "frame-seal-top-right": [
+   0.44,
+   3.42
+  ],
+  "frame-seal-top-left": [
+   -0.44,
+   3.42
+  ],
+  "frame-seal-bottom-right": [
+   0.44,
+   0.97
+  ],
+  "frame-seal-bottom-left": [
+   -0.44,
+   0.97
+  ],
+  "screen-surround-right-bottom-out": [
+   1.29,
+   1.9
+  ],
+  "screen-surround-right-top-out": [
+   1.29,
+   3.29
+  ],
+  "screen-surround-left-bottom-out": [
+   -1.29,
+   1.9
+  ]
+ },
+ "readings": {
+  "lamp2-head": "train's right cluster (left as seen), clear headlamp: rim ellipse 2622-2700 x 1688-1781, centre",
+  "lamp2-tail": "same cluster, red LED disc 2733-2774 x 1722-1782, centre",
+  "lamp1-head": "round spot lamp over the train's right cluster (scene z +0.77): ring 2750-2781 x 1600-1680, centre",
+  "lamp0-head": "train's left cluster (right as seen), clear headlamp rim 3262-3330, centre",
+  "lamp0-tail": "same cluster, red LED disc 3240-3280 x 1690-1740, centre",
+  "frame-seal-top-right": "front door seal line, top corner on the train's right (left as seen): line centre 2841-2852 / 993-1005 (seal centreline = spec outline +-0.44, 3.42)",
+  "frame-seal-top-left": "same, train's left (right as seen): line 3109-3116 / 993-1006",
+  "frame-seal-bottom-right": "door seal line's lower end at the blue band's bottom (0.97), line 2881-2891",
+  "frame-seal-bottom-left": "same, train's left: line 3150-3157, blue band bottom ~1880",
+  "screen-surround-right-bottom-out": "black screen surround (train's right, z +1.29, 1.9): outer edge x 2571, bottom edge 1557, edge intersection",
+  "screen-surround-right-top-out": "same surround, outer edge 2568 and top edge 1053 under the cap line (edge intersection, the corner itself is rounded)",
+  "screen-surround-left-bottom-out": "train's left screen surround outer edge 3358, bottom 1524 at its outer end (edge intersection)",
+  "door0-front-top": "cab door front seal (x 2308-2317) meets its top seal (1061-1071)",
+  "door0-rear-top": "cab door rear seal 2163-2168 meets top 1072-1076",
+  "door1-front-top": "first passenger door: front seal 1768-1772 meets the leaf-top line at 1164 (the seal runs on up to the cantrail stripe: a panel joint, not the door)",
+  "door1-rear-top": "rear seal ~1611 at the leaf-top line 1182",
+  "door1-front-bottom": "front seal's lower end at the bottom of the blue (span 0.97); soft, +-4 px",
+  "door2-front-top": "second passenger door front seal 1109-1111 meets leaf top 1234-1238",
+  "door2-front-bottom": "its front seal's lower end at the bottom of the blue, soft (+-5 px)",
+  "_audit": "2026-10-05 re-pick under the settled conventions (z = -m; side far = bodyside left of the face = train's right). Old solve was degenerate (focal 3.9e9, rms 110 px): 9 fit points with three mislabelled/unsupported (band-start-top was on the cab door, not a band; seam points on the curved cab corner; one modelFace point), nothing below waist level on the bodyside and no spread in depth on the face. Replaced with 25 points: lamps incl. the round lamp, door seal corners, screen surround corners, door corners incl. bottoms, window corners. Window points are on the window band (spec windowBandY [1.75,2.865]) at each pane's frame edge: the model draws the band at those heights, not the panes, which are ~0.1 m shorter in the photo.",
+  "band-top-2.62": "window band top edge (windowBandY 2.865) where window [2.62,3.86]'s frame front edge meets it (x 2089)",
+  "band-bottom-2.62": "window band bottom edge (1.75) under that frame's front edge (x 2069)",
+  "band-top-3.86": "band top at that window's rear frame edge (x 1906)",
+  "band-top-4.72": "band top at small window [4.24,4.72]'s rear frame edge (x 1802)",
+  "band-top-9.65": "band top at window [9.65,11.25]'s front frame edge (x 1361)",
+  "band-bottom-11.25": "band bottom at that window's rear frame edge (x 1256)",
+  "_result": "2026-10-05: fit rms 17.4 px, held-out 2.3/4.8/4.7 cm (ok). Bodyside alone (p208side) fits at 6.0 px; the excess is the face: seal tops and the screen surround's top corner read ~0.10 m low against the bodyside camera (seal bottoms and screen bottoms ~0.02-0.06), lamps ~0.05 low. Picks re-checked on 90 px panels; this is a model finding (face top too high, or the face's upper rake too shallow). Cab door rear / first pane front are ~0.1 m closer together in the photo than the spec (0.58 m)."
+ }
+}

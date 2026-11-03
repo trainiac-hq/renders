@@ -1,0 +1,133 @@
+{
+ "ref": "p108",
+ "side": "near",
+ "note": "508108 at Meols (the rendered unit), nose left, bodyside right of the face: the train's left side (near, -Y). lamp0 = the pod right as seen. Points placed 2026-10-06 on 2-3x gridded crops (g108-f, g108-s). No EXIF on the Commons file. Used for the livery pairs (grey unit).",
+ "points": {
+  "lamp2-head": [
+   485,
+   432.5
+  ],
+  "lamp3-head": [
+   463.5,
+   455
+  ],
+  "lamp1-head": [
+   501.5,
+   457.5
+  ],
+  "lamp4-head": [
+   361,
+   682.5
+  ],
+  "lamp4-tail": [
+   393.5,
+   699
+  ],
+  "lamp0-head": [
+   612.5,
+   682.5
+  ],
+  "lamp0-tail": [
+   581,
+   701
+  ],
+  "door1-seal-front-top": [
+   786.7,
+   500.7
+  ],
+  "door1-seal-rear-top": [
+   817.3,
+   503.3
+  ],
+  "door2-seal-front-top": [
+   886,
+   511.7
+  ],
+  "door2-seal-rear-top": [
+   908.3,
+   514
+  ],
+  "w1-centre-top": [
+   760.8,
+   520.8
+  ],
+  "w3-centre-top": [
+   841.3,
+   527.5
+  ],
+  "w4-centre-top": [
+   869.7,
+   529.5
+  ],
+  "w5-centre-top": [
+   924.5,
+   533.7
+  ],
+  "w6-centre-top": [
+   944.5,
+   535.3
+  ]
+ },
+ "model": {
+  "door1-seal-front-top": [
+   6.14,
+   2.956
+  ],
+  "door1-seal-rear-top": [
+   7.96,
+   2.956
+  ],
+  "door2-seal-front-top": [
+   12.898,
+   2.956
+  ],
+  "door2-seal-rear-top": [
+   14.718,
+   2.956
+  ],
+  "w1-centre-top": [
+   4.694,
+   2.709
+  ],
+  "w3-centre-top": [
+   9.36,
+   2.709
+  ],
+  "w4-centre-top": [
+   11.437,
+   2.709
+  ],
+  "w5-centre-top": [
+   16.179,
+   2.709
+  ],
+  "w6-centre-top": [
+   18.256,
+   2.709
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "door1-seal-front-top",
+  "door1-seal-rear-top",
+  "w1-centre-top"
+ ],
+ "readings": {
+  "lamp2-head": "roof LED lamp disc, centre (g108-f)",
+  "lamp3-head": "left (far) marker disc (g108-f)",
+  "lamp1-head": "right (near) marker disc (g108-f)",
+  "lamp4-head": "far pod's head lens (g108-f)",
+  "lamp4-tail": "far pod's red LED (g108-f)",
+  "lamp0-head": "near pod's head lens (g108-f)",
+  "lamp0-tail": "near pod's red LED (g108-f)",
+  "door1-seal-front-top": "door 1 orange seal, outer front-top corner (g108-s); model point: the seal outer corner",
+  "door1-seal-rear-top": "door 1 orange seal, outer rear-top corner (g108-s)",
+  "door2-seal-front-top": "door 2 orange seal, outer front-top corner (g108-s)",
+  "door2-seal-rear-top": "door 2 orange seal, outer rear-top corner (g108-s)",
+  "w1-centre-top": "first saloon window: mean of the dark glass top corners 748,520 / 773,522 (g108-s)",
+  "w3-centre-top": "mean of 831,527 / 852,528 (g108-s)",
+  "w4-centre-top": "mean of 860,529 / 879,530 (g108-s)",
+  "w5-centre-top": "mean of 917,533 / 932,534 (g108-s)",
+  "w6-centre-top": "mean of 937,535 / 952,536 (g108-s)"
+ }
+}

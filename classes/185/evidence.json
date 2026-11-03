@@ -1,0 +1,110 @@
+{
+ "class": "185",
+ "subject": "Class 185 in TransPennine Express livery",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-185-TPE-2016-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_185_TPE_(2016)_Diagram.png",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "diagram",
+   "view": "side elevation (20 m template)",
+   "light": "flat colours"
+  },
+  "p121": {
+   "file": "refs/-GBR-Greater-Manchester-TransPennine-Express-Class-185-185121-Manchester-Victoria-2025-06-12.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:(GBR-Greater_Manchester)_TransPennine_Express_Class_185_185121_@_Manchester_Victoria_2025-06-12.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-12",
+   "kind": "photo",
+   "unit": "185121",
+   "view": "near head-on",
+   "light": "station shade"
+  },
+  "p135": {
+   "file": "refs/185135-Hull-Paragon-121024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:185135_Hull_Paragon_121024.jpg",
+   "author": "see SOURCES.md",
+   "licence": "see SOURCES.md",
+   "date": "2024-10-12",
+   "kind": "photo",
+   "unit": "185135",
+   "view": "three-quarter, nose left",
+   "light": "overcast"
+  },
+  "p119": {
+   "file": "refs/MAN-PIC-185119.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:MAN_PIC_185119.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC0",
+   "kind": "photo",
+   "unit": "185119",
+   "view": "three-quarter, nose right",
+   "light": "station"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-121",
+   "ref": "p121",
+   "box": [
+    1800,
+    500,
+    3700,
+    2100
+   ],
+   "feature": "front",
+   "reading": "Yellow face up to an orange line; one black band round two screens dipping at the centre; a chrome-rimmed teardrop housing a side leaning in at the bottom, red tail upper outboard, headlamp lower inboard; the TPE star on the yellow; ribbed skirts and the coupler below."
+  },
+  {
+   "id": "s-cab-119",
+   "ref": "p119",
+   "box": [
+    300,
+    700,
+    3840,
+    2400
+   ],
+   "feature": "cab car side",
+   "reading": "Silver with the blue cab end, navy rays to door 1, purple low on the nose; the TransPennine Express wordmark behind door 1."
+  },
+  {
+   "id": "s-corner-door-135",
+   "ref": "p135",
+   "box": [
+    150,
+    240,
+    700,
+    480
+   ],
+   "feature": "cab corner, cab door and door 1",
+   "reading": "Yellow face wrapping the corner; the blue cab end with navy rays; the cab door; door 1 grey with the wordmark behind it."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    1720,
+    369
+   ],
+   "feature": "diagram cab car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "yellow-121",
+   "ref": "p121",
+   "box": [
+    3000,
+    1850,
+    3100,
+    1900
+   ],
+   "what": "face yellow, raw"
+  }
+ ]
+}

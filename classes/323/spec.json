@@ -1,0 +1,1057 @@
+{
+ "class": "323",
+ "subject": "Class 323 in West Midlands Railway livery",
+ "method": "Side elevation from the Chiltern006 WMR diagram (dia), whose two axes are drawn at different scales and are calibrated separately; front measured head-on on pcov with a symmetric projective fit; colours from p214 normalised to its silver bodyside.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 73.3,
+  "pxPerMVertical": 81.7,
+  "railY": 348,
+  "faceX": 27,
+  "notes": "Horizontal: cab car 27..1700 px = 22.81 m and car 2 1757..3411 px = 22.84 m (published body lengths) -> 73.3/72.4 px/m; but bogie centres 1128 px apart (published 16.0 m) and wheels 59 px (0.84 m) give 70.5 px/m, so the drawn bogies are 2.7% close together: positions are taken as fractions of the drawn car, bogie spacing from the published figure. Vertical: rail 348 to roof 40 = 308 px for 3.769 m -> 81.7 px/m, 13% more than horizontally: the drawing is stretched vertically."
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.0,
+   "cantrail": 3.38,
+   "roof": 3.769,
+   "window": [
+    2.07,
+    2.89
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 22.81,
+   "doors": [
+    {
+     "x": 1.23,
+     "w": 1.06,
+     "cab": true,
+     "window": [
+      1.87,
+      3.01
+     ],
+     "span": [
+      1.016,
+      3.354
+     ],
+     "panes": [
+      -0.25,
+      0.25
+     ]
+    },
+    {
+     "x": 6.69,
+     "w": 1.733,
+     "leaves": 2,
+     "panes": [
+      0.183,
+      0.634
+     ],
+     "window": [
+      2.044,
+      3.084
+     ],
+     "span": [
+      1.016,
+      3.354
+     ]
+    },
+    {
+     "x": 16.364,
+     "w": 1.733,
+     "leaves": 2,
+     "panes": [
+      0.183,
+      0.634
+     ],
+     "window": [
+      2.044,
+      3.084
+     ],
+     "span": [
+      1.016,
+      3.354
+     ]
+    }
+   ],
+   "windows": [
+    [
+     2.005,
+     2.578
+    ],
+    [
+     2.838,
+     3.997
+    ],
+    [
+     4.256,
+     5.416
+    ],
+    [
+     7.981,
+     9.113
+    ],
+    [
+     9.399,
+     10.627
+    ],
+    [
+     10.914,
+     12.141
+    ],
+    [
+     12.428,
+     13.656
+    ],
+    [
+     13.942,
+     15.074
+    ],
+    [
+     17.653,
+     18.785
+    ],
+    [
+     19.071,
+     20.204
+    ],
+    [
+     20.49,
+     21.036
+    ],
+    [
+     21.322,
+     22.455
+    ]
+   ],
+   "bogies": [
+    3.52,
+    19.52
+   ]
+  },
+  "next": {
+   "length": 22.84,
+   "doors": [
+    {
+     "x": 6.525,
+     "w": 1.754,
+     "leaves": 2,
+     "panes": [
+      0.183,
+      0.634
+     ],
+     "window": [
+      2.044,
+      3.084
+     ],
+     "span": [
+      1.016,
+      3.354
+     ]
+    },
+    {
+     "x": 16.315,
+     "w": 1.754,
+     "leaves": 2,
+     "panes": [
+      0.183,
+      0.634
+     ],
+     "window": [
+      2.044,
+      3.084
+     ],
+     "span": [
+      1.016,
+      3.354
+     ]
+    }
+   ],
+   "windows": [
+    [
+     0.359,
+     1.505
+    ],
+    [
+     1.795,
+     2.348
+    ],
+    [
+     2.638,
+     3.784
+    ],
+    [
+     4.074,
+     4.626
+    ],
+    [
+     7.83,
+     8.976
+    ],
+    [
+     9.266,
+     10.509
+    ],
+    [
+     10.799,
+     12.042
+    ],
+    [
+     12.331,
+     13.574
+    ],
+    [
+     13.864,
+     15.01
+    ],
+    [
+     17.62,
+     18.766
+    ],
+    [
+     19.056,
+     20.203
+    ],
+    [
+     20.492,
+     21.044
+    ],
+    [
+     21.334,
+     22.481
+    ]
+   ],
+   "bogies": [
+    3.42,
+    19.42
+   ],
+   "pantograph": 3.3
+  },
+  "nose": {
+   "profile": [
+    [
+     0.06,
+     0.27,
+     1
+    ],
+    [
+     0.1,
+     0.51
+    ],
+    [
+     0.07,
+     0.76
+    ],
+    [
+     0.04,
+     1.0
+    ],
+    [
+     0.0,
+     1.49
+    ],
+    [
+     0.0,
+     1.86
+    ],
+    [
+     0.01,
+     2.11
+    ],
+    [
+     0.05,
+     2.35
+    ],
+    [
+     0.1,
+     2.59
+    ],
+    [
+     0.12,
+     2.84
+    ],
+    [
+     0.16,
+     3.08
+    ],
+    [
+     0.23,
+     3.33
+    ],
+    [
+     0.34,
+     3.57
+    ],
+    [
+     0.49,
+     3.7
+    ],
+    [
+     1.0,
+     3.769,
+     1
+    ]
+   ]
+  },
+  "face": {
+   "halfWidth": 1.4,
+   "surround": {
+    "inner": 0.035,
+    "outer": 1.155,
+    "lo": 1.895,
+    "hi": 3.287,
+    "rOuterTop": 0.18,
+    "rOuterBottom": 0.15
+   },
+   "glass": {
+    "inner": 0.045,
+    "outer": 1.11,
+    "lo": 2.216,
+    "hi": 3.259,
+    "rOuterTop": 0.12
+   },
+   "lowerGlass": {
+    "inner": 0.06,
+    "outer": 1.09,
+    "lo": 1.933,
+    "hi": 2.112
+   },
+   "lampBox": {
+    "inner": 0.627,
+    "outer": 1.185,
+    "lo": 1.333,
+    "hi": 1.587
+   },
+   "lamps": {
+    "tail": {
+     "m": 0.737,
+     "y": 1.458,
+     "r": 0.095
+    },
+    "head": {
+     "m": 0.946,
+     "y": 1.458,
+     "r": 0.098
+    }
+   },
+   "hatch": {
+    "inner": 0.8,
+    "outer": 1.02,
+    "lo": 1.656,
+    "hi": 1.853
+   },
+   "number": {
+    "text": "323214",
+    "m": 0.0,
+    "y": 1.369,
+    "height": 0.1
+   },
+   "yellowTop": 3.582,
+   "valanceTop": 1.279,
+   "wrap": 0.27,
+   "wiper": {
+    "pivot": [
+     0.6,
+     2.166
+    ],
+    "tip": [
+     0.12,
+     3.08
+    ],
+    "mirrored": true
+   }
+  },
+  "livery": {
+   "face": "#F2BE10",
+   "gold": "#B76009",
+   "doors": "#B76009",
+   "silver": "#C8C8C8",
+   "roof": "#8A8C8E",
+   "orange": "#E8782C",
+   "valance": "#50555C",
+   "panel": "#3A3B3D",
+   "pillar": "#16171A",
+   "glass": "#1E2226",
+   "shard": "#C8C8C8",
+   "orangeLine": [
+    3.37,
+    3.39
+   ],
+   "goldTo": 4.46,
+   "windowBandFrom": 7.9,
+   "panelBand": [
+    1.48,
+    2.89
+   ],
+   "shardZone": [
+    [
+     4.325,
+     3.39
+    ],
+    [
+     4.365,
+     3.21
+    ],
+    [
+     4.406,
+     3.06
+    ],
+    [
+     4.352,
+     2.91
+    ],
+    [
+     4.3,
+     2.07
+    ],
+    [
+     4.365,
+     2.03
+    ],
+    [
+     4.434,
+     1.88
+    ],
+    [
+     4.502,
+     1.74
+    ],
+    [
+     4.447,
+     1.59
+    ],
+    [
+     4.42,
+     1.44
+    ],
+    [
+     4.447,
+     1.3
+    ],
+    [
+     4.461,
+     1.0
+    ]
+   ],
+   "shardRight": 5.8,
+   "diamonds": [
+    [
+     [
+      4.556,
+      3.39
+     ],
+     [
+      4.693,
+      3.354
+     ],
+     [
+      4.625,
+      3.133
+     ],
+     [
+      4.5,
+      3.354
+     ]
+    ],
+    [
+     [
+      4.884,
+      3.39
+     ],
+     [
+      4.952,
+      3.146
+     ],
+     [
+      4.884,
+      2.901
+     ],
+     [
+      4.816,
+      3.146
+     ]
+    ],
+    [
+     [
+      5.15,
+      3.39
+     ],
+     [
+      5.198,
+      3.317
+     ],
+     [
+      5.143,
+      3.17
+     ],
+     [
+      5.088,
+      3.317
+     ]
+    ],
+    [
+     [
+      5.307,
+      3.268
+     ],
+     [
+      5.361,
+      3.133
+     ],
+     [
+      5.307,
+      2.987
+     ],
+     [
+      5.252,
+      3.133
+     ]
+    ],
+    [
+     [
+      4.706,
+      3.133
+     ],
+     [
+      4.775,
+      2.95
+     ],
+     [
+      4.706,
+      2.8
+     ],
+     [
+      4.638,
+      2.95
+     ]
+    ],
+    [
+     [
+      4.734,
+      2.069
+     ],
+     [
+      4.802,
+      1.995
+     ],
+     [
+      4.734,
+      1.75
+     ],
+     [
+      4.666,
+      1.995
+     ]
+    ],
+    [
+     [
+      5.048,
+      2.069
+     ],
+     [
+      5.143,
+      1.726
+     ],
+     [
+      5.048,
+      1.346
+     ],
+     [
+      4.952,
+      1.726
+     ]
+    ],
+    [
+     [
+      5.32,
+      2.02
+     ],
+     [
+      5.375,
+      1.885
+     ],
+     [
+      5.32,
+      1.738
+     ],
+     [
+      5.266,
+      1.885
+     ]
+    ],
+    [
+     [
+      4.843,
+      1.75
+     ],
+     [
+      4.938,
+      1.408
+     ],
+     [
+      4.843,
+      1.028
+     ],
+     [
+      4.747,
+      1.408
+     ]
+    ],
+    [
+     [
+      5.32,
+      1.677
+     ],
+     [
+      5.402,
+      1.359
+     ],
+     [
+      5.32,
+      1.016
+     ],
+     [
+      5.239,
+      1.359
+     ]
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.8,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.15
+    ]
+   ],
+   "squareness": 10
+  }
+ },
+ "trace": {
+  "calibration": "see calibration.notes",
+  "heights": "dia col 488/1000: orange line rows 71-73 (3.39-3.37 m), body bottom row 266 (1.00 m), cab windows rows 112-179 (2.89-2.07 m), saloon dark panel to row 227 (1.48 m), at 81.7 px/m vertical from the rail at row 348",
+  "cab.doors[0]": "Camera match (classes/323/match/p214.json): with the camera solved from eight bodyside points alone (rms 5.2 px), the cab door's picked edges back-project to 0.74 m (front, low) and 1.73-1.79 m (rear) along the side: 0.1-0.2 m further back than the diagram's 0.52-1.65 m, which the earlier 1D fit along the window line had seemed to confirm. Moved to 0.70-1.76 m, leaving 0.43 m of body between the corner and the door (review: 'the door is right at the front'). Window a narrow slot 0.50 m wide, centred",
+  "cab.doors[1..2]": "dia row 200: 455-582 and 1164-1291 px; leaves 62 px; door windows 472-505/532-565 px (0.183-0.634 m from centre), rows 96-181; door rows 74-265",
+  "cab.windows": "dia row 140: glass #100F13 between #080808 pillars: 175-217, 236-321, 340-425 (gold cab end); 613-696, 717-807, 828-918, 939-1029, 1050-1133, 1322-1405, 1426-1509, 1530-1570, 1591-1674",
+  "next": "dia row 140 from 1757 px: 1783-1866, 1887-1927, 1948-2031, 2052-2092, 2324-2407, 2428-2518, 2539-2629, 2650-2740, 2761-2844, 3033-3116, 3137-3220, 3241-3281, 3302-3385; doors 2166-2293, 2875-3002",
+  "bogies": "published 16.0 m over bogie centres (Wikipedia), centred where the diagram centres them (11.52 m on the cab car)",
+  "nose.profile": "dia: leftmost drawn pixel per row 46-326, x at 73.3 px/m from 27 px, y at 81.7 px/m",
+  "face": "pcov head-on, symmetric 1D projective fit (c = -1.1e-4): edges +-1.40 m; vertical scale from roof (sy 75 = 3.769 m) to the yellow's foot (sy 1005 = 0.99 m, the diagram's valance top) is 0.002988 m/sx against 0.003005 horizontally: the two agree to 0.6%",
+  "face.surround": "pcov sx 135/905, sy 255-775: one black band, outer corners rounded, split by a yellow divider sx 525-548 (+-0.035 m) with the wiper bar at sy 662-690",
+  "face.lamps": "pcov boxes sx 125-328 / 745-915, sy 885-995: a yellow box with a dark rim, headlamp (clear) outboard, tail (red LED) inboard, same size, same height; f-lamps-l-cov, f-lamps-r-cov, f-lamps-r-210 agree; each lamp sits in its own black ring inside the yellow box (lamps pairs, first render had one pill-shaped recess)",
+  "face.number": "p219 '323219' and p210 '323210' black, centred low between the lamp boxes",
+  "face.wiper": "pcov and p219: both wipers park up towards the centre divider, mirrored",
+  "livery": "p214 samples normalised to its silver car side taken as #C8C8C8 (silver-214): gold #B76009 (gold-214), door gold #B3611A (door-214), valance #636171, logo panel #4C464A; face yellow raw from pcov (#FFD823) as no neutral is on the face",
+  "livery.shards": "dia: the grey zone's left edge per row and each gold diamond as a connected component (top, right, bottom, left points) in 345-454 px; the photos (p214, p210) show the zone white/silver, not the diagram's grey ; drawn with sharp points (radius 0.02/0.015 m) after reader 2 called the first render's diamonds rounded blobs",
+  "livery.goldTo": "dia row 200: gold to 355 px (4.46 m), the zone to door 1 at 454 px",
+  "next.pantograph": "dia roof rows 20-36: pantograph base 1980-2045 px on car 2 (3.3 m from its inner end); p210 shows it at car 2's end next to the cab car. The old data had it mid-car (11.4 m)",
+  "livery.valance": "second reader: cool blue-grey slate; between the raw samples (#4A4C4B, #45444F) and the diagram's #4B4860, cooled",
+  "livery.panel": "second reader (323 pairs): the band is neutral charcoal; the normalised p214 sample (#4C464A) rendered plum. Raw darkband-210 #282826 and the reader agree on a neutral dark grey",
+  "livery.face": "pcov raw #FFD823 rendered lemon beside the photos (reader 2: deeper amber-gold); set to a warmer warning yellow",
+  "cab.doors[0].panes": "dia cols 87-128: the cab door's window is a tall narrow slot (0.56 m wide), not the whole leaf (reader 2, cab-side)",
+  "form": "The cab corner: pcov head-on, the face's curve starts about 0.15 m in from the silhouette (the screen surround stops at 1.155 m, the edge at 1.40 m); the side diagram shows the corner 0.15-0.27 m deep with the yellow on it. The pipeline's default corner (0.22 m deep, squareness 6, so curving over ~0.28 m) put the cab door's front edge and grab rail at the bend (review of the close render; bodyside check: 23 mm onto the corner at the door top). The door stays where both the diagram (0.52-1.65 m) and a projective fit along 323214's window line (0.44-1.60 m, from six window edges, residuals under 0.05 m) put it",
+  "face.vertical": "Camera match on p214 (side-only camera, rms 5.2 px; then a search of the lamps' height in the full solve, rms 20.6 -> 12.6 px at +0.25 m) put the lamps 0.25 m higher than the first face reading. That reading had anchored pcov's vertical scale on the yellow's foot taken as 0.99 m (the bodyside's bottom), but the front valance is taller (the diagram's nose column has the valance from 1.54 m). Every face height re-scaled from the roof: y' = 3.769 - 0.896 (3.769 - y), which puts the lamp centres at 1.44 m and the valance top at 1.28 m"
+ },
+ "views": {
+  "ref-214": {
+   "azimuth": 36,
+   "elevation": 3,
+   "lens": 70,
+   "frame": 12,
+   "size": [
+    1300,
+    750
+   ]
+  },
+  "ref-cov": {
+   "azimuth": 6,
+   "elevation": 4,
+   "lens": 120,
+   "frame": 3,
+   "size": [
+    900,
+    1000
+   ]
+  },
+  "match-p214": {
+   "matrix": [
+    [
+     -0.505983713227734,
+     -0.022902264485277594,
+     -0.8622389275773397,
+     -7.091909705526988
+    ],
+    [
+     -0.8624667262430618,
+     0.00013711184245657424,
+     0.506113749392287,
+     8.399773262642297
+    ],
+    [
+     -0.011472927780219687,
+     0.9997376993400765,
+     -0.01982181743334389,
+     2.432263246040598
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 35.97748480283807,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    982
+   ]
+  },
+  "match-p214-flat": {
+   "matrix": [
+    [
+     -0.505983713227734,
+     -0.022902264485277594,
+     -0.8622389275773397,
+     -7.091909705526988
+    ],
+    [
+     -0.8624667262430618,
+     0.00013711184245657424,
+     0.506113749392287,
+     8.399773262642297
+    ],
+    [
+     -0.011472927780219687,
+     0.9997376993400765,
+     -0.01982181743334389,
+     2.432263246040598
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 35.97748480283807,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    982
+   ],
+   "flat": true
+  }
+ },
+ "elevation": {
+  "colours": {
+   "door": "#B76009",
+   "glass": "#1E2226",
+   "gold": "#B76009",
+   "silver": "#C8C8C8",
+   "panel": "#3A3B3D",
+   "shard": "#C8C8C8",
+   "valance": "#50555C",
+   "orange": "#E8782C"
+  },
+  "colourTol": {
+   "glass": 10,
+   "door": 20,
+   "gold": 20
+  },
+  "checks": [
+   {
+    "kind": "edge",
+    "what": "gold ends at the shards above the windows (dia 4.35 at 2.91 m)",
+    "car": "cab",
+    "y": 3.0,
+    "start": 3.5,
+    "direction": "back",
+    "to": "shard",
+    "x": 4.4
+   },
+   {
+    "kind": "edge",
+    "what": "gold ends at the shards below the windows (dia 4.45 at 1.59 m)",
+    "car": "cab",
+    "y": 1.59,
+    "start": 3.5,
+    "direction": "back",
+    "to": "shard",
+    "x": 4.447
+   },
+   {
+    "kind": "column",
+    "what": "dark panel round the saloon windows, at a pillar (dia rows 112-227)",
+    "car": "next",
+    "x": 9.12,
+    "y": [
+     1.48,
+     2.89
+    ],
+    "colour": "panel",
+    "tol": 0.05,
+    "colourTol": 12
+   },
+   {
+    "kind": "run",
+    "what": "diamond (dia 4.75-4.94 at 1.41 m)",
+    "car": "cab",
+    "y": 1.408,
+    "x": [
+     4.747,
+     4.938
+    ],
+    "colour": "gold",
+    "tol": 0.05
+   }
+  ]
+ },
+ "pairs": [
+  {
+   "id": "corner-door",
+   "crop": "s-corner-door-214",
+   "view": "ref-214",
+   "box": [
+    -0.1,
+    7.7,
+    0.6,
+    3.8,
+    -1.46,
+    -1.2
+   ]
+  },
+  {
+   "id": "face",
+   "crop": "f-face-210",
+   "view": "ref-214",
+   "box": [
+    -0.1,
+    0.6,
+    0.3,
+    3.9,
+    -1.5,
+    1.5
+   ]
+  },
+  {
+   "id": "lamps-near",
+   "crop": "f-lamps-r-210",
+   "view": "ref-214",
+   "box": [
+    -0.05,
+    0.1,
+    1.0,
+    1.4,
+    -1.25,
+    -0.58
+   ]
+  },
+  {
+   "id": "lamps-head-on",
+   "crop": "f-lamps-l-cov",
+   "view": "ref-cov",
+   "box": [
+    -0.05,
+    0.1,
+    1.0,
+    1.4,
+    0.58,
+    1.25
+   ]
+  },
+  {
+   "id": "screens",
+   "crop": "f-screens-cov",
+   "view": "ref-cov",
+   "box": [
+    -0.05,
+    0.3,
+    1.6,
+    3.3,
+    -1.3,
+    1.3
+   ]
+  },
+  {
+   "id": "number",
+   "crop": "f-number-219",
+   "view": "ref-cov",
+   "box": [
+    -0.05,
+    0.1,
+    1.0,
+    1.2,
+    -0.4,
+    0.4
+   ]
+  },
+  {
+   "id": "lower",
+   "crop": "f-lower-cov",
+   "view": "ref-cov",
+   "box": [
+    -0.1,
+    0.4,
+    0.2,
+    1.05,
+    -1.3,
+    1.3
+   ]
+  },
+  {
+   "id": "dome",
+   "crop": "f-dome-cov",
+   "view": "ref-cov",
+   "box": [
+    -0.05,
+    1.0,
+    3.3,
+    3.8,
+    -1.3,
+    1.3
+   ]
+  },
+  {
+   "id": "cab-side",
+   "crop": "s-cab-210",
+   "view": "ref-214",
+   "box": [
+    -0.1,
+    1.8,
+    0.9,
+    3.5,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "shards",
+   "crop": "s-shards-210",
+   "view": "ref-214",
+   "box": [
+    3.9,
+    6.0,
+    0.9,
+    3.5,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "door",
+   "crop": "s-door1-210",
+   "view": "ref-214",
+   "box": [
+    5.7,
+    7.7,
+    0.9,
+    3.5,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "livery",
+   "crop": "s-livery-214",
+   "view": "ref-214",
+   "box": [
+    0.0,
+    8.0,
+    0.5,
+    3.8,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "silver-car",
+   "crop": "s-silver-214",
+   "view": "ref-214",
+   "box": [
+    7.8,
+    15.2,
+    0.8,
+    3.6,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "dia-cab",
+   "crop": "d-cab",
+   "view": "elevation",
+   "box": [
+    -0.2,
+    5.8,
+    0.5,
+    3.8,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "dia-shards",
+   "crop": "d-shards",
+   "view": "elevation",
+   "box": [
+    4.0,
+    6.0,
+    0.9,
+    3.5,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "dia-door",
+   "crop": "d-door1",
+   "view": "elevation",
+   "box": [
+    5.6,
+    7.8,
+    0.9,
+    3.5,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "dia-saloon",
+   "crop": "d-saloon",
+   "view": "elevation",
+   "box": [
+    7.6,
+    15.8,
+    0.5,
+    3.8,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "dia-nose",
+   "crop": "d-nose",
+   "view": "elevation",
+   "box": [
+    -0.2,
+    2.2,
+    -0.4,
+    4.1,
+    -1.46,
+    -1.3
+   ]
+  }
+ ]
+}

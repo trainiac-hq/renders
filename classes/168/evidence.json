@@ -1,0 +1,607 @@
+{
+ "class": "168",
+ "subject": "Class 168 (Chiltern Railways) in the refreshed silver livery (from October 2024), Turbostar-fronted 168/1-/3",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-171-Southern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_171_Southern_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-05-28",
+   "kind": "diagram",
+   "unit": "171/7 Turbostar (same bodyshell, doors and windows as 168/1-/3)",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "Geometry only: no tall side diagram of a Turbostar-fronted 168 exists on Commons; the 168/1-/3 are Turbostar bodies (Wikipedia: 'of the same design as the Class 170'), car length 23.62 m as the 171"
+  },
+  "dia0": {
+   "file": "refs/Class-168-Chiltern-Railways-Diagram-1.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_168_Chiltern_Railways_Diagram_1.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-05-29",
+   "kind": "diagram",
+   "unit": "168/0 Clubman, pre-2024 Chiltern livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "Clubman variant geometry only (24.10 m cab car); livery out of date"
+  },
+  "dia2": {
+   "file": "refs/Chiltern-Class-168-2-3-Car.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Chiltern_Class_168_2_3_Car.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-06-22",
+   "kind": "diagram",
+   "unit": "168/2, 3 cars",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "119 px, 2020: the pre-refresh livery (grey/white); window and door layout only"
+  },
+  "dia0w": {
+   "file": "refs/Chiltern-Class-168-0.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Chiltern_Class_168_0.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-06-22",
+   "kind": "diagram",
+   "unit": "168/0",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "119 px, 2020, pre-refresh"
+  },
+  "mk": {
+   "file": "refs/British-Rail-Class-168-at-Milton-Keynes-Central.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_168_at_Milton_Keynes_Central.jpg",
+   "author": "Jsalty254",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-01-21",
+   "kind": "photo",
+   "unit": "168328 (168/3)",
+   "view": "front three-quarter, near side to the left",
+   "light": "bright overcast, low sun from the left"
+  },
+  "dor": {
+   "file": "refs/168106-Dorridge-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:168106_Dorridge_2025.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-28",
+   "kind": "photo",
+   "unit": "168106 (168/1)",
+   "view": "head-on, very close (wide angle), slightly left",
+   "light": "overcast"
+  },
+  "hat": {
+   "file": "refs/Class-168-168-216-Chiltern-Railways-Hatton-South-Junction-11-11-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_168_168_216_Chiltern_Railways_Hatton_South_Junction_11-11-2024.jpg",
+   "author": "Rob Hodgkins",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-12-13",
+   "kind": "photo",
+   "unit": "168216 (168/2)",
+   "view": "front three-quarter from above, near side left",
+   "light": "low autumn sun",
+   "note": "photo taken 2024-11-11 (title); upload 2024-12-13"
+  },
+  "hw": {
+   "file": "refs/High-Wycombe-Chiltern-168321-165036-arriving-from-Birmingham.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:High_Wycombe_-_Chiltern_168321%2B165036_arriving_from_Birmingham.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-23",
+   "kind": "photo",
+   "unit": "168321 (168/3)",
+   "view": "three-quarter, cab car side, near side left",
+   "light": "strong sun"
+  },
+  "mar": {
+   "file": "refs/Marylebone-Chiltern-168215.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Marylebone_-_Chiltern_168215.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-23",
+   "kind": "photo",
+   "unit": "168215 (168/2)",
+   "view": "cab side close, three-quarter",
+   "light": "trainshed, diffuse"
+  },
+  "ox": {
+   "file": "refs/Oxford-Chiltern-168216-Oxford-to-Birmingham-special.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Oxford_-_Chiltern_168216_Oxford_to_Birmingham_special.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-23",
+   "kind": "photo",
+   "unit": "168216 (168/2)",
+   "view": "three-quarter, long side",
+   "light": "sun"
+  },
+  "b216": {
+   "file": "refs/168216-Bicester-North-May-11th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:168216,_Bicester_North,_May_11th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-11",
+   "kind": "photo",
+   "unit": "168216 (168/2)",
+   "view": "head-on, slightly right; headlamp lit",
+   "light": "overcast"
+  },
+  "b002": {
+   "file": "refs/168002-Bicester-North-May-11th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:168002,_Bicester_North,_May_11th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-11",
+   "kind": "photo",
+   "unit": "168002 (168/0 Clubman)",
+   "view": "three-quarter, distant",
+   "light": "sun"
+  },
+  "nea": {
+   "file": "refs/168-003-Neasden-South-Junc.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:168_003_Neasden_South_Junc.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-19",
+   "kind": "photo",
+   "unit": "168003 (168/0 Clubman)",
+   "view": "front three-quarter from above",
+   "light": "overcast",
+   "note": "2026-06-17 per description"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-mk",
+   "ref": "mk",
+   "box": [
+    2200,
+    480,
+    3480,
+    2100
+   ],
+   "feature": "whole front, 168/3"
+  },
+  {
+   "id": "f-lamps-l-mk",
+   "ref": "mk",
+   "box": [
+    2228,
+    1455,
+    2605,
+    1695
+   ],
+   "feature": "left lamp group (near): figure-of-eight cluster + separate ringed lamp"
+  },
+  {
+   "id": "f-lamps-r-mk",
+   "ref": "mk",
+   "box": [
+    3185,
+    1445,
+    3465,
+    1690
+   ],
+   "feature": "right lamp group (far)"
+  },
+  {
+   "id": "f-screens-mk",
+   "ref": "mk",
+   "box": [
+    2240,
+    600,
+    3370,
+    1360
+   ],
+   "feature": "windscreen, pillar, wipers, destination display"
+  },
+  {
+   "id": "f-panel-mk",
+   "ref": "mk",
+   "box": [
+    2320,
+    1330,
+    3370,
+    1720
+   ],
+   "feature": "lower yellow panel outline, number"
+  },
+  {
+   "id": "f-top-mk",
+   "ref": "mk",
+   "box": [
+    2240,
+    480,
+    3380,
+    680
+   ],
+   "feature": "upper yellow band, orange line"
+  },
+  {
+   "id": "f-lower-mk",
+   "ref": "mk",
+   "box": [
+    2200,
+    1700,
+    3480,
+    2100
+   ],
+   "feature": "valance boxes, coupler"
+  },
+  {
+   "id": "f-face-dor",
+   "ref": "dor",
+   "box": [
+    280,
+    360,
+    1700,
+    1700
+   ],
+   "feature": "whole front 168/1, close"
+  },
+  {
+   "id": "f-lamps-dor",
+   "ref": "dor",
+   "box": [
+    290,
+    1150,
+    900,
+    1450
+   ],
+   "feature": "left lamps 168/1"
+  },
+  {
+   "id": "f-face-b216",
+   "ref": "b216",
+   "box": [
+    188,
+    205,
+    585,
+    745
+   ],
+   "feature": "whole front 168/2, head-on"
+  },
+  {
+   "id": "f-lamps-l-b216",
+   "ref": "b216",
+   "box": [
+    195,
+    505,
+    280,
+    580
+   ],
+   "feature": "left lamps 168/2: horizontal cluster, headlamp lit"
+  },
+  {
+   "id": "f-lamps-r-b216",
+   "ref": "b216",
+   "box": [
+    450,
+    505,
+    548,
+    580
+   ],
+   "feature": "right lamps 168/2"
+  },
+  {
+   "id": "s-cab-mar",
+   "ref": "mar",
+   "box": [
+    1000,
+    230,
+    1780,
+    1370
+   ],
+   "feature": "cab side: grey trapezoid, cab door, lines"
+  },
+  {
+   "id": "s-lines-mar",
+   "ref": "mar",
+   "box": [
+    1180,
+    250,
+    2600,
+    460
+   ],
+   "feature": "cantrail: orange line, pale teal band"
+  },
+  {
+   "id": "s-logo-mar",
+   "ref": "mar",
+   "box": [
+    1760,
+    920,
+    2620,
+    1240
+   ],
+   "feature": "navy waist line, logo, halftone dots"
+  },
+  {
+   "id": "f-lamps-mar",
+   "ref": "mar",
+   "box": [
+    730,
+    1110,
+    920,
+    1330
+   ],
+   "feature": "near lamps 168/2 three-quarter, tail lit"
+  },
+  {
+   "id": "s-corner-door-hw",
+   "ref": "hw",
+   "box": [
+    1330,
+    920,
+    2190,
+    1510
+   ],
+   "feature": "cab front corner and the first doors, three-quarter"
+  },
+  {
+   "id": "s-livery-hw",
+   "ref": "hw",
+   "box": [
+    730,
+    1020,
+    1800,
+    1400
+   ],
+   "feature": "cab car livery: window band, lines, logo, door"
+  },
+  {
+   "id": "s-door1-hw",
+   "ref": "hw",
+   "box": [
+    1340,
+    1060,
+    1460,
+    1385
+   ],
+   "feature": "first bodyside door"
+  },
+  {
+   "id": "s-cab-hw",
+   "ref": "hw",
+   "box": [
+    1640,
+    1020,
+    1800,
+    1400
+   ],
+   "feature": "cab door and cab side"
+  },
+  {
+   "id": "s-side-ox",
+   "ref": "ox",
+   "box": [
+    300,
+    810,
+    1860,
+    1360
+   ],
+   "feature": "cab car side, long"
+  },
+  {
+   "id": "f-face-hat",
+   "ref": "hat",
+   "box": [
+    2340,
+    900,
+    3120,
+    2080
+   ],
+   "feature": "front 168/2 three-quarter from above"
+  },
+  {
+   "id": "v-face-nea",
+   "ref": "nea",
+   "box": [
+    2830,
+    1580,
+    3430,
+    2450
+   ],
+   "feature": "variant: 168/0 Clubman front, refreshed livery"
+  },
+  {
+   "id": "v-face-b002",
+   "ref": "b002",
+   "box": [
+    830,
+    400,
+    1010,
+    680
+   ],
+   "feature": "variant: 168/0 Clubman front"
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    40,
+    25,
+    220,
+    345
+   ],
+   "feature": "Turbostar diagram nose"
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    40,
+    25,
+    720,
+    345
+   ],
+   "feature": "Turbostar diagram cab end"
+  },
+  {
+   "id": "d-door1",
+   "ref": "dia",
+   "box": [
+    455,
+    60,
+    620,
+    270
+   ],
+   "feature": "Turbostar diagram first door"
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    600,
+    25,
+    1300,
+    345
+   ],
+   "feature": "Turbostar diagram saloon"
+  },
+  {
+   "id": "d0-nose",
+   "ref": "dia0",
+   "box": [
+    40,
+    20,
+    400,
+    345
+   ],
+   "feature": "Clubman diagram nose"
+  }
+ ],
+ "samples": [
+  {
+   "id": "silver-mar",
+   "ref": "mar",
+   "box": [
+    1520,
+    1180,
+    1740,
+    1280
+   ],
+   "what": "silver bodyside below the navy line (cab door)",
+   "neutralIs": 200
+  },
+  {
+   "id": "band-top-mar",
+   "ref": "mar",
+   "box": [
+    1900,
+    440,
+    2400,
+    480
+   ],
+   "what": "bodyside between the teal band and the window tops",
+   "neutral": "silver-mar"
+  },
+  {
+   "id": "band-low-mar",
+   "ref": "mar",
+   "box": [
+    2280,
+    935,
+    2500,
+    970
+   ],
+   "what": "bodyside below the windows, above the navy line",
+   "neutral": "silver-mar"
+  },
+  {
+   "id": "teal-mar",
+   "ref": "mar",
+   "box": [
+    1900,
+    398,
+    2400,
+    415
+   ],
+   "what": "pale teal band",
+   "neutral": "silver-mar"
+  },
+  {
+   "id": "navy-mar",
+   "ref": "mar",
+   "box": [
+    1500,
+    1108,
+    1720,
+    1124
+   ],
+   "what": "navy waist line",
+   "neutral": "silver-mar"
+  },
+  {
+   "id": "yellow-mar",
+   "ref": "mar",
+   "box": [
+    600,
+    1000,
+    700,
+    1100
+   ],
+   "what": "face yellow (other surface; no neutral)"
+  },
+  {
+   "id": "silver-hw",
+   "ref": "hw",
+   "box": [
+    1455,
+    1300,
+    1490,
+    1330
+   ],
+   "what": "silver bodyside, sun",
+   "neutralIs": 200
+  },
+  {
+   "id": "band-hw",
+   "ref": "hw",
+   "box": [
+    1470,
+    1262,
+    1680,
+    1274
+   ],
+   "what": "band below the windows, sun",
+   "neutral": "silver-hw"
+  },
+  {
+   "id": "roof-hw",
+   "ref": "hw",
+   "box": [
+    1520,
+    1018,
+    1640,
+    1032
+   ],
+   "what": "roof",
+   "neutral": "silver-hw"
+  },
+  {
+   "id": "yellow-mk",
+   "ref": "mk",
+   "box": [
+    2700,
+    1450,
+    2900,
+    1550
+   ],
+   "what": "face yellow, 168328"
+  },
+  {
+   "id": "silver-mk",
+   "ref": "mk",
+   "box": [
+    3380,
+    1700,
+    3440,
+    1780
+   ],
+   "what": "silver face corner, 168328"
+  }
+ ]
+}

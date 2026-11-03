@@ -1,0 +1,55 @@
+{
+ "ref": "p012",
+ "side": "near",
+ "points": {
+  "lamp2-head": [
+   531.0,
+   672.0
+  ],
+  "lamp0-marker": [
+   579.6,
+   669.1
+  ],
+  "lamp1-tail": [
+   561.6,
+   693.3
+  ],
+  "lamp5-marker": [
+   278.8,
+   685.7
+  ],
+  "lamp4-tail": [
+   297.1,
+   706.9
+  ],
+  "gangway-frame-top-far": [
+   330.7,
+   413.6
+  ],
+  "gangway-frame-top-near": [
+   484.4,
+   413.6
+  ],
+  "door1-front-top": [
+   670.0,
+   453.0
+  ],
+  "door1-rear-top": [
+   699.0,
+   459.0
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "gangway-frame-top-near"
+ ],
+ "readings": {
+  "lamp*": "z11 ring extents, near group; far group from the g12 grid",
+  "gangway-frame-*": "frame plate's top edge and side edges, virtual corners (g12)",
+  "door1-front-top": "leaf's front top at the start of its blue band (z11), the corner itself just off the crop: approximate",
+  "door1-*": "g12b (5x): the leaf's front edge inside its yellow outline, top at the blue band; bottom where the leaf meets the step",
+  "focalPx": "EXIF: Canon EOS R50 (APS-C, 22.3 mm wide), 45 mm, frame 3:2 uncropped at 1600 px",
+  "door bottoms": "dropped: the plug doors' leaves tuck in at the bottom (reader 2, s-door1-016), which the model's door outline does not, so a picked bottom corner is not the landmark's place"
+ },
+ "focalPx": 3229
+}

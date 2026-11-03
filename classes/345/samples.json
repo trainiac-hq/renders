@@ -1,0 +1,196 @@
+{
+ "white-042": {
+  "ref": "p042",
+  "box": [
+   1880,
+   1300,
+   1990,
+   1480
+  ],
+  "what": "white bodyside, cab side ahead of the cab door, sunlit",
+  "median": "#B1B6B3",
+  "iqr": [
+   3,
+   4,
+   4
+  ]
+ },
+ "blue-042": {
+  "ref": "p042",
+  "box": [
+   2986,
+   1493,
+   3200,
+   1578
+  ],
+  "what": "blue lower band behind the first door, sunlit",
+  "median": "#4D5977",
+  "iqr": [
+   21,
+   18,
+   9
+  ],
+  "balanced": "#6875A0",
+  "neutral": "white-042"
+ },
+ "purple-042": {
+  "ref": "p042",
+  "box": [
+   2218,
+   1640,
+   2290,
+   1740
+  ],
+  "what": "bright purple wedge under the cab door",
+  "median": "#553A8D",
+  "iqr": [
+   18,
+   23,
+   7
+  ],
+  "balanced": "#734CBD",
+  "neutral": "white-042"
+ },
+ "door-042": {
+  "ref": "p042",
+  "box": [
+   2613,
+   1536,
+   2641,
+   1813
+  ],
+  "what": "door leaf",
+  "median": "#3F486C",
+  "iqr": [
+   103,
+   96,
+   71
+  ],
+  "balanced": "#555F91",
+  "neutral": "white-042"
+ },
+ "mask-042": {
+  "ref": "p042",
+  "box": [
+   619,
+   1643,
+   665,
+   1771
+  ],
+  "what": "lower mask beside the grille",
+  "median": "#757D82",
+  "iqr": [
+   8,
+   7,
+   8
+  ],
+  "balanced": "#9FA5AE",
+  "neutral": "white-042"
+ },
+ "orange-019": {
+  "ref": "p019",
+  "box": [
+   1596,
+   639,
+   1606,
+   642
+  ],
+  "what": "orange line over the screen (2-3 px thick: its brightest rows)",
+  "median": "#F38440",
+  "iqr": [
+   100,
+   117,
+   42
+  ],
+  "balanced": "#EC803F",
+  "neutral": "white-019"
+ },
+ "white-019": {
+  "ref": "p019",
+  "box": [
+   1355,
+   860,
+   1385,
+   950
+  ],
+  "what": "white cab side in sun",
+  "median": "#F8F7F3",
+  "iqr": [
+   8,
+   6,
+   5
+  ]
+ },
+ "blue-019": {
+  "ref": "p019",
+  "box": [
+   1000,
+   700,
+   1060,
+   740
+  ],
+  "what": "blue lower band, car 1",
+  "median": "#28262D",
+  "iqr": [
+   45,
+   76,
+   136
+  ],
+  "balanced": "#27252C",
+  "neutral": "white-019"
+ },
+ "roof-019": {
+  "ref": "p019",
+  "box": [
+   1100,
+   520,
+   1200,
+   560
+  ],
+  "what": "roof",
+  "median": "#EBEFF5",
+  "iqr": [
+   5,
+   4,
+   5
+  ],
+  "balanced": "#E4E8F2",
+  "neutral": "white-019"
+ },
+ "black-042": {
+  "ref": "p042",
+  "box": [
+   900,
+   2380,
+   1100,
+   2420
+  ],
+  "what": "black bumper/skirt",
+  "median": "#020404",
+  "iqr": [
+   5,
+   5,
+   5
+  ],
+  "balanced": "#030505",
+  "neutral": "white-042"
+ },
+ "roofcap-019": {
+  "ref": "p019",
+  "box": [
+   1500,
+   600,
+   1560,
+   618
+  ],
+  "what": "dark cap over the cab roof",
+  "median": "#1B2239",
+  "iqr": [
+   5,
+   5,
+   4
+  ],
+  "balanced": "#1A2138",
+  "neutral": "white-019"
+ }
+}

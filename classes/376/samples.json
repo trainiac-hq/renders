@@ -1,0 +1,294 @@
+{
+ "white-026": {
+  "ref": "p026",
+  "box": [
+   560,
+   300,
+   680,
+   500
+  ],
+  "what": "white bodyside of 376026 (cab side, same platform light as 376031 beside it): neutral",
+  "median": "#D9D6CC",
+  "iqr": [
+   8,
+   5,
+   4
+  ]
+ },
+ "navy-cabdoor-026": {
+  "ref": "p026",
+  "box": [
+   1260,
+   600,
+   1420,
+   640
+  ],
+  "what": "navy, 376031 cab door below its window",
+  "median": "#242F4F",
+  "iqr": [
+   29,
+   21,
+   12
+  ],
+  "balanced": "#28355D",
+  "neutral": "white-026"
+ },
+ "navy-cabside-026": {
+  "ref": "p026",
+  "box": [
+   980,
+   440,
+   1080,
+   520
+  ],
+  "what": "navy, 376031 cab side ahead of the cab door",
+  "median": "#13295E",
+  "iqr": [
+   15,
+   9,
+   6
+  ],
+  "balanced": "#152E6F",
+  "neutral": "white-026"
+ },
+ "orange-panel-026": {
+  "ref": "p026",
+  "box": [
+   1490,
+   230,
+   1590,
+   270
+  ],
+  "what": "orange panel over the first saloon window, 376031",
+  "median": "#FE6608",
+  "iqr": [
+   2,
+   2,
+   1
+  ],
+  "balanced": "#FF7209",
+  "neutral": "white-026"
+ },
+ "orange-line-026": {
+  "ref": "p026",
+  "box": [
+   1150,
+   184,
+   1162,
+   186
+  ],
+  "what": "orange cantrail line, 376031 (3 px tall)",
+  "median": "#EA8046",
+  "iqr": [
+   11,
+   12,
+   3
+  ],
+  "balanced": "#FF9052",
+  "neutral": "white-026"
+ },
+ "white-door-026": {
+  "ref": "p026",
+  "box": [
+   260,
+   560,
+   420,
+   640
+  ],
+  "what": "white livery: 376026 cab door, lower",
+  "median": "#D7D9D8",
+  "iqr": [
+   7,
+   9,
+   9
+  ],
+  "balanced": "#EEF3FE",
+  "neutral": "white-026"
+ },
+ "roof-016": {
+  "ref": "p016",
+  "box": [
+   1600,
+   1000,
+   1900,
+   1040
+  ],
+  "what": "saloon roof, car 1 (overcast sky light)",
+  "median": "#E5E8EC",
+  "iqr": [
+   7,
+   5,
+   7
+  ]
+ },
+ "navy-side-016": {
+  "ref": "p016",
+  "box": [
+   1600,
+   1380,
+   1700,
+   1450
+  ],
+  "what": "navy bodyside below the window band, car 1",
+  "median": "#222237",
+  "iqr": [
+   14,
+   14,
+   15
+  ],
+  "balanced": "#242338",
+  "neutral": "roof-016"
+ },
+ "blue-door-016": {
+  "ref": "p016",
+  "box": [
+   1885,
+   1200,
+   1894,
+   1300
+  ],
+  "what": "light blue door leaf (front leaf of door 1)",
+  "median": "#7BB8DC",
+  "iqr": [
+   21,
+   27,
+   67
+  ],
+  "balanced": "#81BEE0",
+  "neutral": "roof-016"
+ },
+ "blue-door2-016": {
+  "ref": "p016",
+  "box": [
+   1822,
+   1200,
+   1832,
+   1300
+  ],
+  "what": "light blue door leaf (rear leaf of door 1)",
+  "median": "#53AAD7",
+  "iqr": [
+   19,
+   16,
+   18
+  ],
+  "balanced": "#57B0DB",
+  "neutral": "roof-016"
+ },
+ "orange-panel-016": {
+  "ref": "p016",
+  "box": [
+   1950,
+   1125,
+   2100,
+   1160
+  ],
+  "what": "orange panel over the ringed window",
+  "median": "#E98759",
+  "iqr": [
+   6,
+   6,
+   6
+  ],
+  "balanced": "#F48C5B",
+  "neutral": "roof-016"
+ },
+ "yellow-016": {
+  "ref": "p016",
+  "box": [
+   2600,
+   1420,
+   2800,
+   1500
+  ],
+  "what": "front yellow (overcast)",
+  "median": "#F0AF42",
+  "iqr": [
+   5,
+   6,
+   5
+  ],
+  "balanced": "#FCB543",
+  "neutral": "roof-016"
+ },
+ "navy-lower-016": {
+  "ref": "p016",
+  "box": [
+   2430,
+   1600,
+   2530,
+   1630
+  ],
+  "what": "navy lower front under the yellow",
+  "median": "#151539",
+  "iqr": [
+   7,
+   6,
+   8
+  ]
+ },
+ "yellow-035": {
+  "ref": "p035",
+  "box": [
+   1000,
+   580,
+   1100,
+   640
+  ],
+  "what": "front yellow, sunlit (no neutral on the face)",
+  "median": "#CAA54B",
+  "iqr": [
+   3,
+   8,
+   16
+  ]
+ },
+ "navy-dome-035": {
+  "ref": "p035",
+  "box": [
+   1100,
+   60,
+   1200,
+   120
+  ],
+  "what": "navy dome over the screens, sunlit",
+  "median": "#394F92",
+  "iqr": [
+   8,
+   9,
+   11
+  ]
+ },
+ "band-035": {
+  "ref": "p035",
+  "box": [
+   1240,
+   488,
+   1300,
+   520
+  ],
+  "what": "black strip under the screens",
+  "median": "#3A3A43",
+  "iqr": [
+   8,
+   5,
+   7
+  ]
+ },
+ "bezel-035": {
+  "ref": "p035",
+  "box": [
+   1340,
+   590,
+   1360,
+   598
+  ],
+  "what": "lamp bezel plate (yellow, slightly lighter than the panel), no neutral",
+  "median": "#D2A94C",
+  "iqr": [
+   9,
+   14,
+   29
+  ]
+ }
+}

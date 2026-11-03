@@ -1,0 +1,958 @@
+{
+ "class": "376",
+ "subject": "Class 376 Electrostar, Southeastern, as running in 2025-2026 (navy majority; white minority)",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-376-Southeastern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_376_Southeastern_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY 3.0",
+   "date": "2008-03-12",
+   "kind": "diagram",
+   "unit": "376 (5 cars)",
+   "livery": "early white with navy lower band (not current)",
+   "view": "side elevation, nose left (train's left side)",
+   "light": "flat colours"
+  },
+  "diaw": {
+   "file": "refs/Southeastern-Class-376.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Southeastern_Class_376.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-03-30",
+   "kind": "diagram",
+   "unit": "376",
+   "livery": "white",
+   "view": "side, whole unit, 119 px tall (too small to measure)",
+   "light": "flat colours"
+  },
+  "p019": {
+   "file": "refs/376019-376014-Petts-Wood-October-17th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376019_%26_376014,_Petts_Wood,_October_17th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-10-17",
+   "kind": "photo",
+   "unit": "376019",
+   "livery": "navy",
+   "view": "front three-quarter, train's LEFT side visible on the image right",
+   "light": "dusk, overcast, tail lamps lit"
+  },
+  "p035": {
+   "file": "refs/376035-376024-London-Bridge-May-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376035_%26_376024,_London_Bridge,_May_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "376035",
+   "livery": "navy",
+   "view": "near head-on, train's RIGHT side visible on the image left",
+   "light": "sun from behind camera, headlamps lit"
+  },
+  "p016": {
+   "file": "refs/376016-passes-Wandsworth-Road-20-11-25-54936341620-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376016_passes_Wandsworth_Road_20_11_25_(54936341620).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-11-20",
+   "kind": "photo",
+   "unit": "376016",
+   "livery": "navy",
+   "view": "front three-quarter, train's RIGHT side visible (bodyside to the left of the face), 3840 px, nearly straight track",
+   "light": "overcast"
+  },
+  "p010": {
+   "file": "refs/376010-at-London-Bridge-181125-54933055739-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376010_at_London_Bridge_181125_(54933055739).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-11-18",
+   "kind": "photo",
+   "unit": "376010",
+   "livery": "navy",
+   "view": "long telephoto three-quarter, train's LEFT side visible, face near frontal, 3840 px",
+   "light": "overcast"
+  },
+  "p023": {
+   "file": "refs/376023-London-Victoria-October-17th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376023,_London_Victoria,_October_17th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-10-17",
+   "kind": "photo",
+   "unit": "376023",
+   "livery": "navy",
+   "view": "front three-quarter, train's RIGHT side visible, close",
+   "light": "station roof, diffuse"
+  },
+  "p026": {
+   "file": "refs/376026-376031-London-Bridge-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376026_%26_376031,_London_Bridge,_September_18th_2025.jpg",
+   "author": "Matt Taylor",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "376026 (white, right side) and 376031 (navy, left side)",
+   "livery": "both",
+   "view": "near side-on close-up of two cab ends nose to nose: 376026 (white, nose right, its RIGHT side) and 376031 (navy, nose left, its LEFT side)",
+   "light": "station roof, diffuse"
+  },
+  "p031": {
+   "file": "refs/376031-376005-London-Bridge-September-30th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376031_%26_376005,_London_Bridge,_September_30th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-30",
+   "kind": "photo",
+   "unit": "376031",
+   "livery": "navy",
+   "view": "front three-quarter, train's left side visible, close",
+   "light": "evening, station lights"
+  },
+  "p013": {
+   "file": "refs/376013-Greenwich-September-30th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376013,_Greenwich,_September_30th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-30",
+   "kind": "photo",
+   "unit": "376013",
+   "livery": "white",
+   "view": "front three-quarter",
+   "light": "sun"
+  },
+  "p017": {
+   "file": "refs/376017-376021-New-Eltham-September-30th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:376017_%26_376021,_New_Eltham,_September_30th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-30",
+   "kind": "photo",
+   "unit": "376017",
+   "livery": "navy",
+   "view": "front three-quarter, train's left side visible",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-lamps-l-035",
+   "ref": "p035",
+   "box": [
+    770,
+    590,
+    950,
+    720
+   ],
+   "feature": "lamp cluster, viewer's left (m<0, train's right)",
+   "reading": "One figure-of-eight bezel in a yellow plate a shade lighter than the panel, black outline, 8 screws. Large round headlamp (lit, warm white) outboard and higher; small round LED tail lamp (grey dot matrix, unlit) inboard and lower, about 0.6 the headlamp's diameter.",
+   "reading2": "Peanut/figure-8 yellow bezel, thin dark outline, 8 screws; big lamp (lit) left/outboard and higher, small grey LED lamp right and lower (about 0.24 vs 0.37 of the crop)."
+  },
+  {
+   "id": "f-lamps-r-035",
+   "ref": "p035",
+   "box": [
+    1275,
+    580,
+    1440,
+    710
+   ],
+   "feature": "lamp cluster, viewer's right (m>0, train's left)",
+   "reading": "Mirror of the left cluster: large clear faceted headlamp outboard (towards the body edge, right) and higher, small LED tail lamp (5x6 dots, unlit) inboard and lower; yellow plate, black outline, 8 screws.",
+   "reading2": "Mirror-image peanut bezel; big clear prismatic lamp right and higher, small LED-grid lamp left and lower; about 8 screws."
+  },
+  {
+   "id": "f-band-035",
+   "ref": "p035",
+   "box": [
+    740,
+    140,
+    1460,
+    530
+   ],
+   "feature": "windscreen band: three panes, pillars, black strip",
+   "reading": "One black band from the orange line down to a black strip under the glass, three panes split by two thin pillars; panes look 0.33/0.28/0.26 of the crop wide only by perspective (fit: equal, 0.80 m). Three pantograph wipers pivoting on the strip: left and centre arms park up and to the right, the right arm up and to the left. Orange LED destination display at the top of the left pane. Settled: equal panes from the projective fit.",
+   "reading2": "3 panes with pillars (0.33/0.28/0.26 of crop); 3 wipers, left and centre lean up-right, right leans up-left; destination display top of left pane; orange line along the top dipping at the ends."
+  },
+  {
+   "id": "f-screen-l-035",
+   "ref": "p035",
+   "box": [
+    760,
+    160,
+    1012,
+    530
+   ],
+   "feature": "left windscreen pane (m<0) with destination display and wiper",
+   "reading": "Left pane, near-square corners in a thin black seal inside the black band; destination display across its top; wiper pivot bottom middle, arm up-right with a tall blade.",
+   "reading2": "Rectangular pane, slight radii (~0.03), thin frame; display at top; wiper pivots bottom, leans up-right."
+  },
+  {
+   "id": "f-screen-c-035",
+   "ref": "p035",
+   "box": [
+    990,
+    160,
+    1240,
+    530
+   ],
+   "feature": "centre windscreen pane and wiper",
+   "reading": "Centre pane, square-ish corners, thin frame; wiper pivots bottom centre, arm up-right.",
+   "reading2": "Taller pane, small radii, iridescent glass; wiper pivots bottom middle, leans up-right."
+  },
+  {
+   "id": "f-screen-r-035",
+   "ref": "p035",
+   "box": [
+    1200,
+    150,
+    1450,
+    530
+   ],
+   "feature": "right windscreen pane (m>0) and wiper",
+   "reading": "Right pane, square-ish corners; the arch inside is the cab's sun-blind housing seen through the glass, not the glass outline; wiper pivots bottom right, parks up-left. The orange line drops diagonally at the corner.",
+   "reading2": "Pane with slight radius; arched dark shape top left inside; wiper pivots bottom right leaning up-left; orange line drops at the right."
+  },
+  {
+   "id": "f-yellow-035",
+   "ref": "p035",
+   "box": [
+    740,
+    500,
+    1460,
+    790
+   ],
+   "feature": "warning yellow: extent, corners, edges",
+   "reading": "One yellow band from the bottom of the black strip (straight top edge, square top corners at the face corners) down to a straight bottom edge just below the lamps; outer bottom corners a large radius (~0.2 m); navy below. Number top left; a navy slotted bracket right of centre at the bottom.",
+   "reading2": "Yellow panel, straight top, bottom left corner curves in, right side curves in; number top left; clusters left and right; small dark hook bottom centre-right; dark blue below."
+  },
+  {
+   "id": "f-number-035",
+   "ref": "p035",
+   "box": [
+    770,
+    545,
+    950,
+    605
+   ],
+   "feature": "unit number",
+   "reading": "'376 035' in a dark navy-black medium-weight sans-serif, top left of the yellow, above the left cluster.",
+   "reading2": "'376 035', dark navy/black medium-bold sans-serif."
+  },
+  {
+   "id": "f-lower-035",
+   "ref": "p035",
+   "box": [
+    740,
+    740,
+    1460,
+    1060
+   ],
+   "feature": "lower front: navy valance, coupler recess, coupler",
+   "reading": "Navy lower front: two rounded bumper blocks with a horizontal crease, a central rectangular recess (about 1 m wide) holding the grey Dellner coupler head with two round openings and a black cylinder below.",
+   "reading2": "Dark blue lower front, rounded bumper blocks, central recessed opening with a grey coupler (two holes) and black cylinder."
+  },
+  {
+   "id": "f-dome-035",
+   "ref": "p035",
+   "box": [
+    990,
+    0,
+    1220,
+    110
+   ],
+   "feature": "roof dome and marker light",
+   "reading": "Navy roof dome; a raised D-shaped surround (flat bottom, round top) outlined by a thin bright line, holding a grey-white oval marker lens about half its width.",
+   "reading2": "D/teardrop recess with pale outline, flat bottom; smaller grey-white oval lens inside, unlit."
+  },
+  {
+   "id": "f-cap-035",
+   "ref": "p035",
+   "box": [
+    740,
+    0,
+    1460,
+    200
+   ],
+   "feature": "navy above the screens, orange line over the band",
+   "reading": "Navy above the screens (no yellow cap, unlike the 377); the D-shaped marker on top; thin orange line along the top of the band, turning up at both corners into the cantrail line.",
+   "reading2": "Blue dome, D-shaped lamp recess at top centre; orange stripe bending up at both ends."
+  },
+  {
+   "id": "f-iron-035",
+   "ref": "p035",
+   "box": [
+    1170,
+    660,
+    1230,
+    750
+   ],
+   "feature": "bracket on the yellow under the centre",
+   "reading": "A navy lamp-iron bracket: tall rounded-top plate with a vertical slot, on a smaller slotted link to the navy below.",
+   "reading2": "Dark navy hook: rounded-top bracket with vertical slot plus a smaller slotted link below."
+  },
+  {
+   "id": "f-corner-r-035",
+   "ref": "p035",
+   "box": [
+    1360,
+    120,
+    1500,
+    800
+   ],
+   "feature": "face corner, viewer's right",
+   "reading": "Viewer's right face corner: navy body rounding back from the yellow and the band; orange line turns up round the corner."
+  },
+  {
+   "id": "s-cab-r-035",
+   "ref": "p035",
+   "box": [
+    470,
+    140,
+    790,
+    760
+   ],
+   "feature": "train's right side behind the corner: cab door, orange panel",
+   "reading": "Train's right side behind the corner: plain navy cab side (latch and step only, no window), cab door with one tall barred window, then the orange-ringed saloon window with the thick orange panel over it, then door 1 (open, light blue edge).",
+   "reading2": "From the front: glossy navy panel with latch, door gap, tall narrow door window, then window with orange panel over it, light blue strip."
+  },
+  {
+   "id": "f-face-016",
+   "ref": "p016",
+   "box": [
+    2380,
+    1000,
+    2980,
+    1700
+   ],
+   "feature": "whole face, three-quarter",
+   "reading": "Whole face three-quarter: navy above the band and below the yellow, three panes, three wipers, figure-of-eight clusters, number top left."
+  },
+  {
+   "id": "f-lamps-near-016",
+   "ref": "p016",
+   "box": [
+    2420,
+    1420,
+    2560,
+    1530
+   ],
+   "feature": "near lamp cluster (train's right)",
+   "reading": "Near cluster (train's right): headlamp outboard, higher; LED tail inboard, lower; yellow plate, black outline."
+  },
+  {
+   "id": "f-lamps-far-016",
+   "ref": "p016",
+   "box": [
+    2830,
+    1410,
+    2960,
+    1520
+   ],
+   "feature": "far lamp cluster (train's left)",
+   "reading": "Far cluster (train's left): headlamp outboard (towards the far corner), tail inboard."
+  },
+  {
+   "id": "f-corner-door-016",
+   "ref": "p016",
+   "box": [
+    1880,
+    1020,
+    2480,
+    1700
+   ],
+   "feature": "cab corner, cab door and first door, train's right side",
+   "reading": "Train's right side: face corner, plain navy cab side with latch and sticker (no window), cab door with one barred window, then the orange-ringed window section, then door 1 with an orange head.",
+   "reading2": "No window between corner and cab door; plain navy, sticker, latch; cab door with one tall window split by a bar; then orange outlined window block."
+  },
+  {
+   "id": "s-plain-016",
+   "ref": "p016",
+   "box": [
+    2240,
+    1040,
+    2440,
+    1660
+   ],
+   "feature": "cab side ahead of the cab door, train's right side (no window)",
+   "reading": "Plain navy panel ahead of the cab door (right side): latch and a sticker only.",
+   "reading2": "Plain navy, no window; sticker, latch with blue handle."
+  },
+  {
+   "id": "s-cabdoor-016",
+   "ref": "p016",
+   "box": [
+    2140,
+    1060,
+    2300,
+    1640
+   ],
+   "feature": "cab door, train's right side",
+   "reading": "Cab door, navy, one tall window split by a transom about 40% down, yellow grab rail visible inside; full height to the cantrail line; flush, no outside rail.",
+   "reading2": "Navy cab door, one tall window split 40/60 by a bar, yellow rail inside; latch lower right."
+  },
+  {
+   "id": "s-ring-016",
+   "ref": "p016",
+   "box": [
+    1890,
+    1100,
+    2190,
+    1420
+   ],
+   "feature": "orange panel and ringed first saloon window",
+   "reading": "Orange outline round the first saloon window: thick top panel (with a tan vent), thin vertical bars both ends, a thin bottom bar; inside, navy then black frame with a narrow pane at the rear and a wide pane at the front with a hopper. Settled: top 0.24 m, bars ~0.05 m, bottom 0.04 m.",
+   "reading2": "Thick orange top band (~0.12 of height) with vent; thin left/right lines; medium bottom band; narrow left window + wide right with hopper; button panel at the far left."
+  },
+  {
+   "id": "s-door1-016",
+   "ref": "p016",
+   "box": [
+    1780,
+    1100,
+    1930,
+    1530
+   ],
+   "feature": "first passenger door (car 1)",
+   "reading": "Door 1: two light-blue leaves, each with one tall narrow dark window; orange head above (car 1 door 1 only). Reader 2 put the windows to the left of each leaf: settled on the 6x zoom (c376/w/d1.png): the front leaf's front part is hidden behind the opening's reveal from this angle, so the windows are about centred in each leaf.",
+   "reading2": "Two pale blue leaves, curved seam; tall narrow window per leaf placed towards each leaf's left; orange head above."
+  },
+  {
+   "id": "s-door2-016",
+   "ref": "p016",
+   "box": [
+    1300,
+    1110,
+    1420,
+    1470
+   ],
+   "feature": "second passenger door (car 1)",
+   "reading": "Door 2: same light-blue leaves and windows, head above is navy (no orange).",
+   "reading2": "Pale blue two-leaf door, navy head with orange stripe at top, button panel right."
+  },
+  {
+   "id": "s-band-016",
+   "ref": "p016",
+   "box": [
+    1380,
+    1180,
+    1810,
+    1350
+   ],
+   "feature": "window band between the doors",
+   "reading": "Between the doors: narrow pane, three wide panes with hoppers, narrow pane, all flush black-framed."
+  },
+  {
+   "id": "s-carend-016",
+   "ref": "p016",
+   "box": [
+    1110,
+    1110,
+    1230,
+    1430
+   ],
+   "feature": "car 1 rear end and car 2 front",
+   "reading": "Car end: body tapers in at the corner, navy, a dark gap to car 2; the light grey roof runs to the end, the orange cantrail line continues on car 2.",
+   "reading2": "Gap between coaches, white/grey roof, orange stripe, dark navy wedge."
+  },
+  {
+   "id": "s-bogie-016",
+   "ref": "p016",
+   "box": [
+    1880,
+    1500,
+    2380,
+    1800
+   ],
+   "feature": "leading bogie",
+   "reading": "Leading bogie under the cab: grey frame, axleboxes hidden behind frames; not usable for axle picks."
+  },
+  {
+   "id": "s-roof-016",
+   "ref": "p016",
+   "box": [
+    1300,
+    940,
+    2450,
+    1130
+   ],
+   "feature": "roof line and cantrail",
+   "reading": "Saloon roof light grey/white with flat equipment covers; only the cab dome is navy. Orange cantrail line along the top of the navy side."
+  },
+  {
+   "id": "s-cab-l-026",
+   "ref": "p026",
+   "box": [
+    1080,
+    140,
+    1480,
+    800
+   ],
+   "feature": "train's left side (navy 376031): fixed cab window and cab door",
+   "reading": "Train's LEFT side (376031): small fixed window ahead of the cab door, then the cab door (window with transom, yellow rail inside, 'H'), then the orange ring's front bar.",
+   "reading2": "Yes, small window ahead of the door; door with barred window; orange panel at right edge."
+  },
+  {
+   "id": "s-window-l-026",
+   "ref": "p026",
+   "box": [
+    1090,
+    240,
+    1220,
+    430
+   ],
+   "feature": "fixed cab-side window, train's left",
+   "reading": "Fixed cab-side window: black glazing in a rounded rectangle, top-front corner radius large (~0.08 m), bottom-front smaller, rear corners square against the door seal; cream interior frame visible through it.",
+   "reading2": "Black frame, large top-left radius (~0.12 of width), smaller bottom-left (~0.06), square right corners."
+  },
+  {
+   "id": "s-cab-r-026",
+   "ref": "p026",
+   "box": [
+    200,
+    140,
+    760,
+    800
+   ],
+   "feature": "train's right side (white 376026): cab door, no window ahead",
+   "reading": "Train's RIGHT side (white 376026): no window between the corner and the cab door; cab door with transom window, plain panel with latch.",
+   "reading2": "No window between the door and the front; door with barred window."
+  },
+  {
+   "id": "s-nose-026",
+   "ref": "p026",
+   "box": [
+    850,
+    100,
+    1010,
+    940
+   ],
+   "feature": "nose profile side-on (navy)",
+   "reading": "Navy nose in profile: yellow face standing about 0.05 m ahead of the band at lamp height, the band leaning back gently, dome rounding back; navy valance below the yellow, its bottom sweeping back."
+  },
+  {
+   "id": "s-ring-l-026",
+   "ref": "p026",
+   "box": [
+    1440,
+    150,
+    1600,
+    600
+   ],
+   "feature": "orange panel and ring, train's left",
+   "reading": "Ring front end, left side: thick top panel, front vertical bar, thin bottom bar; navy inside, black window frame.",
+   "reading2": "Thick orange top band, thin left strip, thinnest bottom band; navy panel inside."
+  },
+  {
+   "id": "s-carend-l-026",
+   "ref": "p026",
+   "box": [
+    880,
+    680,
+    1250,
+    1000
+   ],
+   "feature": "lower cab side and valance, side-on",
+   "reading": "Valance side-on: navy block with a round lamp-like fitting, bottom sweeping back towards the front."
+  },
+  {
+   "id": "f-lamps-l-019",
+   "ref": "p019",
+   "box": [
+    155,
+    580,
+    265,
+    690
+   ],
+   "feature": "lamp cluster viewer's left, lit tail",
+   "reading": "Lamps lit as tail: small LED lamp lit red, inboard; headlamp outboard, higher, unlit.",
+   "reading2": "Small lamp lit red, inboard (towards the centre); big lamp upper, unlit."
+  },
+  {
+   "id": "f-lamps-r-019",
+   "ref": "p019",
+   "box": [
+    510,
+    620,
+    660,
+    730
+   ],
+   "feature": "lamp cluster viewer's right, lit tail",
+   "reading": "Same: red LED tail inboard and lower, clear headlamp outboard and higher.",
+   "reading2": "Red lamp inboard, big lamp outboard and higher."
+  },
+  {
+   "id": "f-dest-019",
+   "ref": "p019",
+   "box": [
+    200,
+    280,
+    320,
+    345
+   ],
+   "feature": "destination display",
+   "reading": "Orange LED destination display, black background, rectangular."
+  },
+  {
+   "id": "s-cab-l-019",
+   "ref": "p019",
+   "box": [
+    740,
+    270,
+    1040,
+    700
+   ],
+   "feature": "train's left side: fixed window, cab door, orange panel, door 1",
+   "reading": "Left side: small window ahead of the cab door, cab door, orange ring, door 1 with orange head and light blue leaves.",
+   "reading2": "Small window ahead of cab door; cab door; orange ring; pale blue leaf with orange head."
+  },
+  {
+   "id": "s-cab-l-010",
+   "ref": "p010",
+   "box": [
+    1020,
+    1420,
+    1290,
+    1780
+   ],
+   "feature": "train's left side cab end, sunlit",
+   "reading": "Left side, sunlit: window ahead of cab door, door, ring with vent, door 1 light blue with orange head.",
+   "reading2": "Small window ahead; cab door; orange panel with vent; pale blue leaf, orange head."
+  },
+  {
+   "id": "f-face-010",
+   "ref": "p010",
+   "box": [
+    650,
+    1350,
+    1050,
+    1900
+   ],
+   "feature": "face near frontal (telephoto)",
+   "reading": "Near frontal: same face, used for proportions only."
+  },
+  {
+   "id": "s-car2-010",
+   "ref": "p010",
+   "box": [
+    1600,
+    1430,
+    2200,
+    1720
+   ],
+   "feature": "car 2 doors and ends",
+   "reading": "Car 2: navy, light blue leaves, no orange shapes; narrow/wide/wide/wide/narrow panes between the doors."
+  },
+  {
+   "id": "f-corner-door-023",
+   "ref": "p023",
+   "box": [
+    640,
+    380,
+    1100,
+    820
+   ],
+   "feature": "train's right side: corner, cab door, orange panel, door 1 (open)",
+   "reading": "Right side: plain cab side, cab door, orange ring, door 1 open.",
+   "reading2": "No window ahead of the cab door; cab door; orange-outlined window block; open door at left."
+  },
+  {
+   "id": "s-door1-023",
+   "ref": "p023",
+   "box": [
+    580,
+    420,
+    720,
+    800
+   ],
+   "feature": "door 1 open, leaf and pocket",
+   "reading": "Door 1 open: leaves slide into the bodyside; inner face cream with yellow grab rails.",
+   "reading2": "Open door, cream inner leaf, yellow handrails."
+  },
+  {
+   "id": "s-cab-l-031",
+   "ref": "p031",
+   "box": [
+    600,
+    300,
+    860,
+    760
+   ],
+   "feature": "train's left side: fixed window and cab door",
+   "reading": "Left side: fixed window ahead of the cab door confirmed.",
+   "reading2": "Small window ahead of the cab door."
+  },
+  {
+   "id": "logo-se-016",
+   "ref": "p016",
+   "box": [
+    1500,
+    1360,
+    1630,
+    1430
+   ],
+   "feature": "southeastern wordmark, cab car, right side",
+   "reading": "lower-case 'southeastern' in one word below the window line between doors 2 and 3: 'south' white, 'eastern' light blue; reads normally, so 'south' is the rear half on this side. Ascenders reach ~1383 px, baseline ~1410 px; no descenders."
+  },
+  {
+   "id": "logo-se-l-010",
+   "ref": "p010",
+   "box": [
+    1340,
+    1630,
+    1420,
+    1690
+   ],
+   "feature": "southeastern wordmark, cab car, left side",
+   "reading": "same wordmark, same place between doors 2 and 3, reading normally ('south' at the front end on this side); jpeg-blocky but the white/blue split is clear."
+  },
+  {
+   "id": "logo-se-next-010",
+   "ref": "p010",
+   "box": [
+    1850,
+    1615,
+    1910,
+    1665
+   ],
+   "feature": "southeastern wordmark, next car, left side",
+   "reading": "the next car carries the same wordmark mid-bodyside between its two doors, under the window line, at the same height as on the cab car."
+  },
+  {
+   "id": "logo-se-next-016",
+   "ref": "p016",
+   "box": [
+    820,
+    1320,
+    940,
+    1400
+   ],
+   "feature": "southeastern wordmark, next car, right side (far, foreshortened)",
+   "reading": "wordmark visible mid-bodyside between the next car's doors on the right side too, too small to measure."
+  },
+  {
+   "id": "logo-wc-016",
+   "ref": "p016",
+   "box": [
+    1760,
+    1370,
+    1940,
+    1430
+   ],
+   "feature": "wheelchair pictograms flanking cab-car door 2, right side",
+   "reading": "two small blue squares with a white wheelchair, one each side of door 2 (the accessible door), on the bodyside just clear of the door edges, below the window line."
+  },
+  {
+   "id": "logo-wc-010",
+   "ref": "p010",
+   "box": [
+    1205,
+    1620,
+    1290,
+    1680
+   ],
+   "feature": "wheelchair pictograms flanking cab-car door 2, left side",
+   "reading": "the same blue wheelchair squares either side of door 2 on the left side; the next car's doors carry none (logo-se-next-010)."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-026",
+   "ref": "p026",
+   "box": [
+    560,
+    300,
+    680,
+    500
+   ],
+   "what": "white bodyside of 376026 (cab side, same platform light as 376031 beside it): neutral"
+  },
+  {
+   "id": "navy-cabdoor-026",
+   "ref": "p026",
+   "box": [
+    1260,
+    600,
+    1420,
+    640
+   ],
+   "what": "navy, 376031 cab door below its window",
+   "neutral": "white-026"
+  },
+  {
+   "id": "navy-cabside-026",
+   "ref": "p026",
+   "box": [
+    980,
+    440,
+    1080,
+    520
+   ],
+   "what": "navy, 376031 cab side ahead of the cab door",
+   "neutral": "white-026"
+  },
+  {
+   "id": "orange-panel-026",
+   "ref": "p026",
+   "box": [
+    1490,
+    230,
+    1590,
+    270
+   ],
+   "what": "orange panel over the first saloon window, 376031",
+   "neutral": "white-026"
+  },
+  {
+   "id": "orange-line-026",
+   "ref": "p026",
+   "box": [
+    1150,
+    184,
+    1162,
+    186
+   ],
+   "what": "orange cantrail line, 376031 (3 px tall)",
+   "neutral": "white-026"
+  },
+  {
+   "id": "white-door-026",
+   "ref": "p026",
+   "box": [
+    260,
+    560,
+    420,
+    640
+   ],
+   "what": "white livery: 376026 cab door, lower",
+   "neutral": "white-026"
+  },
+  {
+   "id": "roof-016",
+   "ref": "p016",
+   "box": [
+    1600,
+    1000,
+    1900,
+    1040
+   ],
+   "what": "saloon roof, car 1 (overcast sky light)"
+  },
+  {
+   "id": "navy-side-016",
+   "ref": "p016",
+   "box": [
+    1600,
+    1380,
+    1700,
+    1450
+   ],
+   "what": "navy bodyside below the window band, car 1",
+   "neutral": "roof-016"
+  },
+  {
+   "id": "blue-door-016",
+   "ref": "p016",
+   "box": [
+    1885,
+    1200,
+    1894,
+    1300
+   ],
+   "what": "light blue door leaf (front leaf of door 1)",
+   "neutral": "roof-016"
+  },
+  {
+   "id": "blue-door2-016",
+   "ref": "p016",
+   "box": [
+    1822,
+    1200,
+    1832,
+    1300
+   ],
+   "what": "light blue door leaf (rear leaf of door 1)",
+   "neutral": "roof-016"
+  },
+  {
+   "id": "orange-panel-016",
+   "ref": "p016",
+   "box": [
+    1950,
+    1125,
+    2100,
+    1160
+   ],
+   "what": "orange panel over the ringed window",
+   "neutral": "roof-016"
+  },
+  {
+   "id": "yellow-016",
+   "ref": "p016",
+   "box": [
+    2600,
+    1420,
+    2800,
+    1500
+   ],
+   "what": "front yellow (overcast)",
+   "neutral": "roof-016"
+  },
+  {
+   "id": "navy-lower-016",
+   "ref": "p016",
+   "box": [
+    2430,
+    1600,
+    2530,
+    1630
+   ],
+   "what": "navy lower front under the yellow"
+  },
+  {
+   "id": "yellow-035",
+   "ref": "p035",
+   "box": [
+    1000,
+    580,
+    1100,
+    640
+   ],
+   "what": "front yellow, sunlit (no neutral on the face)"
+  },
+  {
+   "id": "navy-dome-035",
+   "ref": "p035",
+   "box": [
+    1100,
+    60,
+    1200,
+    120
+   ],
+   "what": "navy dome over the screens, sunlit"
+  },
+  {
+   "id": "band-035",
+   "ref": "p035",
+   "box": [
+    1240,
+    488,
+    1300,
+    520
+   ],
+   "what": "black strip under the screens"
+  },
+  {
+   "id": "bezel-035",
+   "ref": "p035",
+   "box": [
+    1340,
+    590,
+    1360,
+    598
+   ],
+   "what": "lamp bezel plate (yellow, slightly lighter than the panel), no neutral"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "yellow-142": {
+  "ref": "p142",
+  "box": [
+   700,
+   650,
+   800,
+   700
+  ],
+  "what": "face yellow (artificial light, raw)",
+  "median": "#796449",
+  "iqr": [
+   73,
+   70,
+   60
+  ]
+ }
+}

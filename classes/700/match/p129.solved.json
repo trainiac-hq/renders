@@ -1,0 +1,145 @@
+{
+ "photo": "p129",
+ "size": [
+  1600,
+  1067
+ ],
+ "fit": [
+  "lamp0-tail",
+  "lamp1-tail",
+  "lamp1-head",
+  "w1-top-front",
+  "door1-front-top"
+ ],
+ "holdout": [
+  "lamp0-head",
+  "w1-top-rear"
+ ],
+ "rmsFit": 4.06,
+ "outliers": [],
+ "focalPx": 2798.0,
+ "principal": [
+  800.0,
+  533.5
+ ],
+ "k1": 0.0,
+ "fitErrors": {
+  "lamp0-tail": {
+   "px": 0.71,
+   "cm": 0.41,
+   "projected": [
+    1253.5,
+    634.7
+   ]
+  },
+  "lamp1-tail": {
+   "px": 5.77,
+   "cm": 3.27,
+   "projected": [
+    854.0,
+    638.2
+   ]
+  },
+  "lamp1-head": {
+   "px": 5.45,
+   "cm": 3.09,
+   "projected": [
+    886.3,
+    641.2
+   ]
+  },
+  "w1-top-front": {
+   "px": 3.66,
+   "cm": 2.47,
+   "projected": [
+    751.3,
+    462.3
+   ]
+  },
+  "door1-front-top": {
+   "px": 2.34,
+   "cm": 1.76,
+   "projected": [
+    714.8,
+    428.8
+   ]
+  }
+ },
+ "heldOut": {
+  "lamp0-head": {
+   "px": 8.14,
+   "cm": 4.7,
+   "projected": [
+    1227.0,
+    638.2
+   ]
+  },
+  "w1-top-rear": {
+   "px": 18.3,
+   "cm": 13.29,
+   "projected": [
+    721.3,
+    480.4
+   ]
+  }
+ },
+ "conditioning": {
+  "flatness": 0.0421,
+  "offPlane": 3,
+  "faceSigmaCm": {
+   "lamp0-tail": 2.34,
+   "lamp0-head": 2.17,
+   "lamp1-tail": 1.63,
+   "lamp1-head": 1.54,
+   "screen0-top-near": 2.65,
+   "screen0-top-far": 2.11,
+   "screen0-bottom-near": 2.23,
+   "screen0-bottom-far": 1.53,
+   "nose-tip": 1.79
+  },
+  "faceScored": false
+ },
+ "notScored": [
+  "lamp0-head"
+ ],
+ "worstHeldOutCm": 13.29,
+ "ok": false,
+ "camera": {
+  "matrix": [
+   [
+    -0.1615691837164238,
+    -0.062173497978976415,
+    -0.9849009366541729,
+    -15.094252917118299
+   ],
+   [
+    -0.9867811920075924,
+    -0.0025447949654188945,
+    0.1620382767084961,
+    4.047765942682967
+   ],
+   [
+    -0.012580857414486307,
+    0.9980621123796067,
+    -0.06094047800168758,
+    1.3398119607553063
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "lens": 62.955,
+  "shift": [
+   0.0,
+   0.0
+  ],
+  "size": [
+   1600,
+   1067
+  ],
+  "k1": 0.0
+ }
+}

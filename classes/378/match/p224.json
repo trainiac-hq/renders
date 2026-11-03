@@ -1,0 +1,173 @@
+{
+ "ref": "p224",
+ "side": "far",
+ "points": {
+  "lamp2-head": [
+   2612,
+   1852.5
+  ],
+  "lamp2-tail": [
+   2709.5,
+   1875
+  ],
+  "lamp1-head": [
+   2719,
+   1762
+  ],
+  "lamp0-head": [
+   3397,
+   1835
+  ],
+  "lamp0-tail": [
+   3308,
+   1864
+  ],
+  "frame-seal-top-right": [
+   2830,
+   1115
+  ],
+  "frame-seal-top-left": [
+   3161,
+   1108
+  ],
+  "frame-seal-bottom-right": [
+   2856,
+   2037
+  ],
+  "frame-seal-bottom-left": [
+   3185,
+   2037
+  ],
+  "screen-surround-right-bottom-out": [
+   2513,
+   1674
+  ],
+  "screen-surround-left-bottom-out": [
+   3483,
+   1658
+  ],
+  "marker-centre": [
+   2993,
+   1016
+  ],
+  "door0-front-top": [
+   2383,
+   1174
+  ],
+  "door0-rear-top": [
+   2321,
+   1177
+  ],
+  "door1-front-top": [
+   2119,
+   1262
+  ],
+  "door1-rear-top": [
+   2028,
+   1273
+  ],
+  "door2-front-top": [
+   1671,
+   1331
+  ],
+  "band-top-2.62": [
+   2272,
+   1323
+  ],
+  "band-top-9.65": [
+   1858,
+   1375
+  ],
+  "band-bottom-9.65": [
+   1853,
+   1690
+  ],
+  "band-top-13.17": [
+   1695,
+   1392
+  ],
+  "door2-rear-top": [
+   1613,
+   1338
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "door2-front-top",
+  "marker-centre"
+ ],
+ "model": {
+  "band-top-2.62": [
+   2.62,
+   2.865
+  ],
+  "band-top-9.65": [
+   9.65,
+   2.865
+  ],
+  "band-bottom-9.65": [
+   9.65,
+   1.75
+  ],
+  "band-top-13.17": [
+   13.17,
+   2.865
+  ]
+ },
+ "modelFace": {
+  "frame-seal-top-right": [
+   0.44,
+   3.42
+  ],
+  "frame-seal-top-left": [
+   -0.44,
+   3.42
+  ],
+  "frame-seal-bottom-right": [
+   0.44,
+   0.97
+  ],
+  "frame-seal-bottom-left": [
+   -0.44,
+   0.97
+  ],
+  "screen-surround-right-bottom-out": [
+   1.29,
+   1.9
+  ],
+  "screen-surround-left-bottom-out": [
+   -1.29,
+   1.9
+  ],
+  "marker-centre": [
+   0.06,
+   3.675
+  ]
+ },
+ "readings": {
+  "lamp2-head": "lampL grid: headlamp lens 2567-2657 x 1808-1897, centre (train's right cluster, left as seen)",
+  "lamp2-tail": "LED lens 2680-2739 x 1845-1905",
+  "lamp1-head": "round spot lamp over the train's right cluster (scene z +0.77): round lamp ring centre (lampL grid)",
+  "lamp0-head": "numR grid: lens 3355-3439 x 1793-1877 (train's left cluster, right as seen)",
+  "lamp0-tail": "3279-3337 x 1835-1893",
+  "frame-seal-top-right": "front door seal line centre at its top corner on the train's right (left as seen): line 2823-2837 / 1110-1120 (spec outline +-0.44, 3.42)",
+  "frame-seal-top-left": "same, train's left: line 3156-3165 / 1104-1112",
+  "frame-seal-bottom-right": "seal line (2850-2862) at the blue band's bottom, in the shadow gap (0.97)",
+  "frame-seal-bottom-left": "seal line (3179-3190) at the blue band's bottom",
+  "screen-surround-right-bottom-out": "black surround outer bottom corner, train's right (z +1.29, 1.9): edges 2514 / 1675",
+  "screen-surround-left-bottom-out": "same, train's left: edges 3483 / 1658 (re-picked: was 1671, on the yellow below the rim)",
+  "marker-centre": "centre of the D housing's outline box (2888-3098 x 965-1067), not the LED cluster (which sits left of centre in it); spec m -0.06 -> z +0.06",
+  "door0-front-top": "cab door front seal 2382-2388 meets its top seal 1170-1178",
+  "door0-rear-top": "cab door rear seal ~2321 meets top 1175-1180",
+  "door1-front-top": "first passenger door front seal 2117-2121, top of the orange surround 1262",
+  "door1-rear-top": "rear seal 2026-2029, door top line 1274",
+  "door2-front-top": "second passenger door front seal 1670-1673, top line 1330-1332",
+  "band-top-2.62": "window band top edge (2.865) at window [2.62,3.86]'s front frame end (x 2272)",
+  "_audit": "2026-10-05, settled conventions: side was 'near' but the bodyside shows LEFT of the face (train's right): now 'far'. Every modelFace z negated (z = -m; spot-centre +0.77 is now the scene's lamp1-head, the round lamp over the train's right cluster). Lamp names were already right (lamp0 = right as seen). Seal corners re-picked on the seal line's centre at the spec outline (+-0.44, 3.42 / 0.97) instead of 'outer' 0.48/3.44; recess-bottom-near dropped (a point on a rounded corner); this is a three-quarter view, so cab door, two passenger doors and the window band were added on the bodyside.",
+  "band-top-9.65": "band top at window [9.65,11.25]'s front frame end (x 1858)",
+  "band-bottom-9.65": "band bottom (1.75) under that frame end (x 1853)",
+  "band-top-13.17": "band top at small window [13.17,13.89]'s front frame end (x 1695)",
+  "door2-rear-top": "second passenger door rear seal ~1613 at the leaf top 1338",
+  "_result": "2026-10-05: fit rms 12.8 px, held-out lamp0-tail 0.9 cm, door2-front-top 0.5 cm, marker-centre 13.9 cm (FAIL). Same face finding as p208: both seal-top corners project 22-26 px (~0.07 m) above the picks. The marker housing is centred on the door in the photo but the model's (z +0.06, set back 0.28 m) projects 46 px left and 23 px high: the spec's marker m -0.06 reads as about +0.05, or its set-back/height is too large."
+ }
+}

@@ -1,0 +1,482 @@
+{
+ "white-208": {
+  "ref": "p208",
+  "box": [
+   1880,
+   1580,
+   1960,
+   1640
+  ],
+  "what": "bodyside white/silver below the window band (cab car, original)",
+  "median": "#D8D5CA",
+  "iqr": [
+   8,
+   7,
+   6
+  ]
+ },
+ "door-208": {
+  "ref": "p208",
+  "box": [
+   1715,
+   1540,
+   1740,
+   1640
+  ],
+  "what": "door leaf orange (original)",
+  "median": "#EE6C15",
+  "iqr": [
+   8,
+   13,
+   13
+  ],
+  "balanced": "#F87217",
+  "neutral": "white-208"
+ },
+ "blue-208": {
+  "ref": "p208",
+  "box": [
+   1900,
+   1725,
+   1990,
+   1765
+  ],
+  "what": "blue skirt band, bodyside",
+  "median": "#0C3888",
+  "iqr": [
+   5,
+   5,
+   9
+  ],
+  "balanced": "#0C3B97",
+  "neutral": "white-208"
+ },
+ "band-208": {
+  "ref": "p208",
+  "box": [
+   1860,
+   1300,
+   1886,
+   1440
+  ],
+  "what": "black window band between windows",
+  "median": "#3D4248",
+  "iqr": [
+   8,
+   7,
+   8
+  ],
+  "balanced": "#404650",
+  "neutral": "white-208"
+ },
+ "roof-208": {
+  "ref": "p208",
+  "box": [
+   1400,
+   1080,
+   1600,
+   1120
+  ],
+  "what": "roof grey above the cantrail line",
+  "median": "#B7C6D0",
+  "iqr": [
+   6,
+   6,
+   8
+  ],
+  "balanced": "#BFD1E8",
+  "neutral": "white-208"
+ },
+ "yellow-208": {
+  "ref": "p208",
+  "box": [
+   2900,
+   1620,
+   2990,
+   1800
+  ],
+  "what": "face yellow (door lower half); no neutral on the face plane",
+  "median": "#B38000",
+  "iqr": [
+   5,
+   3,
+   1
+  ]
+ },
+ "yellowside-208": {
+  "ref": "p208",
+  "box": [
+   2330,
+   1250,
+   2440,
+   1500
+  ],
+  "what": "yellow wrap on the cab side (same plane as white-208)",
+  "median": "#F2CA08",
+  "iqr": [
+   2,
+   2,
+   4
+  ],
+  "balanced": "#FCD509",
+  "neutral": "white-208"
+ },
+ "white-tmd07": {
+  "ref": "tmd07",
+  "box": [
+   100,
+   1100,
+   600,
+   1300
+  ],
+  "what": "bodyside white under the band, depot light",
+  "median": "#E1DBD1",
+  "iqr": [
+   8,
+   9,
+   9
+  ]
+ },
+ "door-tmd07": {
+  "ref": "tmd07",
+  "box": [
+   1150,
+   1300,
+   1500,
+   1600
+  ],
+  "what": "door leaf orange, depot light",
+  "median": "#F87D10",
+  "iqr": [
+   10,
+   15,
+   13
+  ],
+  "balanced": "#FF8912",
+  "neutral": "white-tmd07"
+ },
+ "blue-tmd07": {
+  "ref": "tmd07",
+  "box": [
+   100,
+   1600,
+   700,
+   1850
+  ],
+  "what": "blue skirt band, depot light",
+  "median": "#032963",
+  "iqr": [
+   8,
+   13,
+   14
+  ],
+  "balanced": "#032D72",
+  "neutral": "white-tmd07"
+ },
+ "white-228": {
+  "ref": "p228",
+  "box": [
+   505,
+   642,
+   550,
+   660
+  ],
+  "what": "refreshed bodyside white below the black upper body",
+  "median": "#D0C6B5",
+  "iqr": [
+   9,
+   14,
+   9
+  ]
+ },
+ "black-228": {
+  "ref": "p228",
+  "box": [
+   560,
+   500,
+   600,
+   520
+  ],
+  "what": "refreshed black upper body (between windows)",
+  "median": "#2C2726",
+  "iqr": [
+   5,
+   3,
+   6
+  ],
+  "balanced": "#322E31",
+  "neutral": "white-228"
+ },
+ "door-228": {
+  "ref": "p228",
+  "box": [
+   744,
+   570,
+   756,
+   630
+  ],
+  "what": "refreshed door leaf orange",
+  "median": "#842E10",
+  "iqr": [
+   240,
+   105,
+   11
+  ],
+  "balanced": "#953715",
+  "neutral": "white-228"
+ },
+ "blue-228": {
+  "ref": "p228",
+  "box": [
+   565,
+   668,
+   635,
+   688
+  ],
+  "what": "refreshed blue skirt band",
+  "median": "#09368B",
+  "iqr": [
+   10,
+   12,
+   12
+  ],
+  "balanced": "#0A40B4",
+  "neutral": "white-228"
+ },
+ "wedge-228": {
+  "ref": "p228",
+  "box": [
+   1003,
+   570,
+   1015,
+   630
+  ],
+  "what": "refreshed orange wedge on the front corner",
+  "median": "#FF831A",
+  "iqr": [
+   1,
+   3,
+   5
+  ],
+  "balanced": "#FF9B22",
+  "neutral": "white-228"
+ },
+ "navy-207": {
+  "ref": "p207",
+  "box": [
+   1560,
+   850,
+   1740,
+   900
+  ],
+  "what": "refreshed navy cap above the screens (gloss, reflections); no neutral on the face",
+  "median": "#4C555F",
+  "iqr": [
+   7,
+   8,
+   7
+  ]
+ },
+ "yellow-207": {
+  "ref": "p207",
+  "box": [
+   1880,
+   1650,
+   1960,
+   1800
+  ],
+  "what": "refreshed face yellow, door lower half",
+  "median": "#C7A024",
+  "iqr": [
+   4,
+   4,
+   12
+  ]
+ },
+ "orange-207": {
+  "ref": "p207",
+  "box": [
+   1880,
+   1858,
+   1980,
+   1895
+  ],
+  "what": "refreshed face orange band at the centre",
+  "median": "#CB640C",
+  "iqr": [
+   4,
+   5,
+   4
+  ]
+ },
+ "yellow-224": {
+  "ref": "p224",
+  "box": [
+   2880,
+   1750,
+   2990,
+   1900
+  ],
+  "what": "original face yellow, door lower half, sun",
+  "median": "#F6D458",
+  "iqr": [
+   5,
+   7,
+   6
+  ]
+ },
+ "orange-224": {
+  "ref": "p224",
+  "box": [
+   2900,
+   1978,
+   2990,
+   1992
+  ],
+  "what": "original face orange line at the centre",
+  "median": "#EF903B",
+  "iqr": [
+   3,
+   3,
+   4
+  ]
+ },
+ "blue-224": {
+  "ref": "p224",
+  "box": [
+   2900,
+   2001,
+   2990,
+   2022
+  ],
+  "what": "original face blue band at the centre",
+  "median": "#3763C3",
+  "iqr": [
+   4,
+   3,
+   4
+  ]
+ },
+ "navy-228": {
+  "ref": "p228",
+  "box": [
+   1040,
+   430,
+   1080,
+   445
+  ],
+  "what": "refreshed cab top (dome above the cap line), same photo and light as white-228",
+  "median": "#15171F",
+  "iqr": [
+   6,
+   6,
+   4
+  ],
+  "balanced": "#181B28",
+  "neutral": "white-228"
+ },
+ "white-r208": {
+  "ref": "p208",
+  "box": [
+   1240,
+   1505,
+   1268,
+   1528
+  ],
+  "what": "bodyside white just left of the roundel (same panel, same light)",
+  "median": "#C2C2B8",
+  "iqr": [
+   19,
+   19,
+   21
+  ]
+ },
+ "ring-208": {
+  "ref": "p208",
+  "box": [
+   1294,
+   1503,
+   1302,
+   1510
+  ],
+  "what": "roundel ring orange, top of the ring",
+  "median": "#DD742D",
+  "iqr": [
+   12,
+   8,
+   10
+  ],
+  "balanced": "#FF903B",
+  "neutral": "white-r208"
+ },
+ "bar-208": {
+  "ref": "p208",
+  "box": [
+   1294,
+   1533,
+   1308,
+   1536
+  ],
+  "what": "roundel bar blue, top edge band above the text",
+  "median": "#3A326B",
+  "iqr": [
+   14,
+   19,
+   37
+  ],
+  "balanced": "#483E8C",
+  "neutral": "white-r208"
+ },
+ "white-r230": {
+  "ref": "p230",
+  "box": [
+   1820,
+   700,
+   1850,
+   725
+  ],
+  "what": "bodyside white right of the roundel (same panel)",
+  "median": "#E3E4DF",
+  "iqr": [
+   1,
+   2,
+   2
+  ]
+ },
+ "ring-230": {
+  "ref": "p230",
+  "box": [
+   1786,
+   694,
+   1794,
+   700
+  ],
+  "what": "roundel ring orange, top of the ring",
+  "median": "#F68C3E",
+  "iqr": [
+   10,
+   5,
+   11
+  ],
+  "balanced": "#FF9343",
+  "neutral": "white-r230"
+ },
+ "bar-230": {
+  "ref": "p230",
+  "box": [
+   1782,
+   730,
+   1800,
+   733
+  ],
+  "what": "roundel bar blue, bottom band under the text",
+  "median": "#3E2287",
+  "iqr": [
+   55,
+   56,
+   17
+  ],
+  "balanced": "#412491",
+  "neutral": "white-r230"
+ }
+}

@@ -1,0 +1,584 @@
+{
+ "emr-door": {
+  "ref": "pemr",
+  "box": [
+   767,
+   900,
+   793,
+   933
+  ],
+  "what": "EMR silver door (neutral)",
+  "median": "#B1B3AD",
+  "iqr": [
+   2,
+   1,
+   2
+  ]
+ },
+ "emr-body": {
+  "ref": "pemr",
+  "box": [
+   993,
+   973,
+   1093,
+   990
+  ],
+  "what": "EMR purple bodyside, cab car",
+  "median": "#411729",
+  "iqr": [
+   4,
+   2,
+   3
+  ],
+  "balanced": "#491A2F",
+  "neutral": "emr-door"
+ },
+ "emr-roof": {
+  "ref": "pemr",
+  "box": [
+   1000,
+   630,
+   1400,
+   650
+  ],
+  "what": "EMR roof grey",
+  "median": "#A6AAAA",
+  "iqr": [
+   11,
+   9,
+   8
+  ],
+  "balanced": "#BCBFC5",
+  "neutral": "emr-door"
+ },
+ "emr-face": {
+  "ref": "pemr2",
+  "box": [
+   862,
+   757,
+   1046,
+   788
+  ],
+  "what": "EMR face yellow under the lamp box",
+  "median": "#FFEC40",
+  "iqr": [
+   1,
+   11,
+   13
+  ]
+ },
+ "emr-lowface": {
+  "ref": "pemr2",
+  "box": [
+   886,
+   905,
+   1046,
+   930
+  ],
+  "what": "EMR purple lower face band",
+  "median": "#703947",
+  "iqr": [
+   39,
+   11,
+   23
+  ]
+ },
+ "emr-skirt": {
+  "ref": "pemr2",
+  "box": [
+   837,
+   960,
+   1034,
+   1022
+  ],
+  "what": "EMR grey skirt",
+  "median": "#898B87",
+  "iqr": [
+   10,
+   11,
+   11
+  ]
+ },
+ "gw-body": {
+  "ref": "pgw",
+  "box": [
+   1450,
+   1133,
+   1650,
+   1200
+  ],
+  "what": "GWR green bodyside",
+  "median": "#3F464A",
+  "iqr": [
+   8,
+   5,
+   4
+  ]
+ },
+ "gw-door": {
+  "ref": "pgw",
+  "box": [
+   1300,
+   1150,
+   1320,
+   1250
+  ],
+  "what": "GWR grey door leaf",
+  "median": "#4F4C4B",
+  "iqr": [
+   14,
+   13,
+   13
+  ]
+ },
+ "gw-line": {
+  "ref": "pgw",
+  "box": [
+   1450,
+   1101,
+   1650,
+   1109
+  ],
+  "what": "GWR grey line under the windows",
+  "median": "#7F8386",
+  "iqr": [
+   9,
+   9,
+   10
+  ]
+ },
+ "gw-face": {
+  "ref": "pgw",
+  "box": [
+   562,
+   658,
+   713,
+   1207
+  ],
+  "what": "GWR gangway door yellow",
+  "median": "#CD9F1D",
+  "iqr": [
+   25,
+   20,
+   5
+  ]
+ },
+ "gw-skirt": {
+  "ref": "pgw",
+  "box": [
+   795,
+   1371,
+   905,
+   1508
+  ],
+  "what": "GWR yellow skirt",
+  "median": "#CFA440",
+  "iqr": [
+   36,
+   32,
+   23
+  ]
+ },
+ "gw-roof": {
+  "ref": "pgw",
+  "box": [
+   1371,
+   507,
+   1920,
+   535
+  ],
+  "what": "GWR roof",
+  "median": "#D0CFD5",
+  "iqr": [
+   13,
+   11,
+   9
+  ]
+ },
+ "nt-white": {
+  "ref": "pnt",
+  "box": [
+   886,
+   1359,
+   1182,
+   1447
+  ],
+  "what": "Northern white bodyside (neutral)",
+  "median": "#A5A7A0",
+  "iqr": [
+   6,
+   5,
+   6
+  ]
+ },
+ "nt-blue": {
+  "ref": "pnt",
+  "box": [
+   2068,
+   1418,
+   2245,
+   1536
+  ],
+  "what": "Northern blue cab end",
+  "median": "#032B79",
+  "iqr": [
+   16,
+   11,
+   10
+  ],
+  "balanced": "#043EB6",
+  "neutral": "nt-white"
+ },
+ "nt-face": {
+  "ref": "pnt",
+  "box": [
+   2686,
+   957,
+   2840,
+   1557
+  ],
+  "what": "Northern face yellow",
+  "median": "#E89A01",
+  "iqr": [
+   7,
+   9,
+   2
+  ],
+  "balanced": "#FFDD02",
+  "neutral": "nt-white"
+ },
+ "nt-skirt": {
+  "ref": "pnt",
+  "box": [
+   2304,
+   1743,
+   2540,
+   1920
+  ],
+  "what": "Northern skirt grey",
+  "median": "#45413A",
+  "iqr": [
+   27,
+   17,
+   20
+  ],
+  "balanced": "#645D57",
+  "neutral": "nt-white"
+ },
+ "nt-roof": {
+  "ref": "pnt",
+  "box": [
+   1477,
+   857,
+   1772,
+   901
+  ],
+  "what": "Northern roof",
+  "median": "#9EAEC1",
+  "iqr": [
+   8,
+   8,
+   13
+  ],
+  "balanced": "#E6FAFF",
+  "neutral": "nt-white"
+ },
+ "sr-dot": {
+  "ref": "psr",
+  "box": [
+   1477,
+   1019,
+   1507,
+   1049
+  ],
+  "what": "ScotRail white saltire dot (neutral)",
+  "median": "#F1F1F1",
+  "iqr": [
+   7,
+   8,
+   9
+  ]
+ },
+ "sr-body": {
+  "ref": "psr",
+  "box": [
+   2363,
+   857,
+   2659,
+   901
+  ],
+  "what": "ScotRail blue above the windows",
+  "median": "#54549B",
+  "iqr": [
+   18,
+   17,
+   7
+  ],
+  "balanced": "#54549A",
+  "neutral": "sr-dot"
+ },
+ "sr-door": {
+  "ref": "psr",
+  "box": [
+   1838,
+   1300,
+   1867,
+   1477
+  ],
+  "what": "ScotRail grey door",
+  "median": "#AAA8A4",
+  "iqr": [
+   17,
+   17,
+   15
+  ],
+  "balanced": "#A9A7A3",
+  "neutral": "sr-dot"
+ },
+ "sr-face": {
+  "ref": "psr",
+  "box": [
+   783,
+   827,
+   916,
+   1477
+  ],
+  "what": "ScotRail gangway door yellow",
+  "median": "#F7CD03",
+  "iqr": [
+   7,
+   7,
+   7
+  ],
+  "balanced": "#F6CC03",
+  "neutral": "sr-dot"
+ },
+ "sr-skirt": {
+  "ref": "psr",
+  "box": [
+   1093,
+   1743,
+   1270,
+   1832
+  ],
+  "what": "ScotRail yellow skirt",
+  "median": "#FBD727",
+  "iqr": [
+   10,
+   12,
+   19
+  ],
+  "balanced": "#FAD627",
+  "neutral": "sr-dot"
+ },
+ "sr-roof": {
+  "ref": "psr",
+  "box": [
+   2068,
+   680,
+   2363,
+   709
+  ],
+  "what": "ScotRail roof",
+  "median": "#F6F7FA",
+  "iqr": [
+   9,
+   7,
+   8
+  ],
+  "balanced": "#F5F6F9",
+  "neutral": "sr-dot"
+ },
+ "aw-body": {
+  "ref": "paw",
+  "box": [
+   886,
+   1300,
+   1182,
+   1388
+  ],
+  "what": "TfW grey bodyside",
+  "median": "#70665D",
+  "iqr": [
+   12,
+   12,
+   11
+  ]
+ },
+ "aw-door": {
+  "ref": "paw",
+  "box": [
+   1786,
+   1332,
+   1808,
+   1560
+  ],
+  "what": "TfW red door leaf",
+  "median": "#5B1E1B",
+  "iqr": [
+   6,
+   7,
+   8
+  ]
+ },
+ "aw-face": {
+  "ref": "paw",
+  "box": [
+   2806,
+   591,
+   3072,
+   1477
+  ],
+  "what": "TfW gangway door yellow",
+  "median": "#E8B01C",
+  "iqr": [
+   19,
+   21,
+   8
+  ]
+ },
+ "aw-skirt": {
+  "ref": "paw",
+  "box": [
+   2245,
+   1920,
+   2600,
+   2068
+  ],
+  "what": "TfW yellow skirt",
+  "median": "#D49416",
+  "iqr": [
+   22,
+   23,
+   8
+  ]
+ },
+ "aw-roof": {
+  "ref": "paw",
+  "box": [
+   1214,
+   649,
+   1525,
+   690
+  ],
+  "what": "TfW roof",
+  "median": "#CDD1D9",
+  "iqr": [
+   125,
+   133,
+   140
+  ]
+ },
+ "aw-band": {
+  "ref": "paw",
+  "box": [
+   1204,
+   1021,
+   1225,
+   1166
+  ],
+  "what": "TfW black window band",
+  "median": "#313130",
+  "iqr": [
+   43,
+   43,
+   45
+  ]
+ },
+ "sw-navy": {
+  "ref": "psw",
+  "box": [
+   471,
+   1214,
+   600,
+   1250
+  ],
+  "what": "SWR 158 dark cab end, low",
+  "median": "#3E3B46",
+  "iqr": [
+   10,
+   11,
+   10
+  ]
+ },
+ "sw-silver": {
+  "ref": "psw",
+  "box": [
+   214,
+   1471,
+   343,
+   1514
+  ],
+  "what": "SWR 158 silver section",
+  "median": "#9E9B96",
+  "iqr": [
+   11,
+   11,
+   10
+  ]
+ },
+ "sw-door": {
+  "ref": "psw",
+  "box": [
+   806,
+   1471,
+   827,
+   1600
+  ],
+  "what": "SWR 158 first door",
+  "median": "#83807D",
+  "iqr": [
+   99,
+   100,
+   102
+  ]
+ },
+ "sw-face": {
+  "ref": "psw",
+  "box": [
+   1433,
+   1152,
+   1580,
+   1713
+  ],
+  "what": "SWR 158 gangway door yellow",
+  "median": "#917728",
+  "iqr": [
+   16,
+   15,
+   12
+  ]
+ },
+ "sw-lowface": {
+  "ref": "psw",
+  "box": [
+   1063,
+   1772,
+   1300,
+   1891
+  ],
+  "what": "SWR 158 lower face",
+  "median": "#151517",
+  "iqr": [
+   12,
+   12,
+   11
+  ]
+ },
+ "sw-roof": {
+  "ref": "psw",
+  "box": [
+   571,
+   1050,
+   857,
+   1071
+  ],
+  "what": "SWR 158 roof",
+  "median": "#D1D1D5",
+  "iqr": [
+   63,
+   47,
+   24
+  ]
+ }
+}

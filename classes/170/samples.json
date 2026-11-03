@@ -1,0 +1,688 @@
+{
+ "silver-x101s": {
+  "ref": "x101s",
+  "box": [
+   2750,
+   780,
+   3000,
+   830
+  ],
+  "what": "silver rear bodyside of the cab car (neutral)",
+  "median": "#DCD9D2",
+  "iqr": [
+   18,
+   19,
+   20
+  ]
+ },
+ "red-x101s": {
+  "ref": "x101s",
+  "box": [
+   1660,
+   745,
+   1830,
+   800
+  ],
+  "what": "XC red bodyside",
+  "median": "#F6414D",
+  "iqr": [
+   3,
+   11,
+   10
+  ],
+  "balanced": "#E03C49",
+  "neutral": "silver-x101s"
+ },
+ "cream-x101s": {
+  "ref": "x101s",
+  "box": [
+   1880,
+   745,
+   1930,
+   820
+  ],
+  "what": "XC cream door leaf",
+  "median": "#F8F5EC",
+  "iqr": [
+   6,
+   6,
+   11
+  ],
+  "balanced": "#E1E2E1",
+  "neutral": "silver-x101s"
+ },
+ "roof-x101s": {
+  "ref": "x101s",
+  "box": [
+   2450,
+   470,
+   3000,
+   490
+  ],
+  "what": "XC roof",
+  "median": "#E9EBED",
+  "iqr": [
+   6,
+   9,
+   9
+  ],
+  "balanced": "#D4D9E2",
+  "neutral": "silver-x101s"
+ },
+ "yellow-x112": {
+  "ref": "x112",
+  "box": [
+   3220,
+   1740,
+   3420,
+   1780
+  ],
+  "what": "XC front yellow (sun)",
+  "median": "#7E5C02",
+  "iqr": [
+   5,
+   4,
+   3
+  ]
+ },
+ "cap-x112": {
+  "ref": "x112",
+  "box": [
+   3100,
+   1240,
+   3300,
+   1268
+  ],
+  "what": "XC yellow cap",
+  "median": "#85681E",
+  "iqr": [
+   6,
+   7,
+   28
+  ]
+ },
+ "redfront-x112": {
+  "ref": "x112",
+  "box": [
+   3430,
+   1940,
+   3580,
+   2020
+  ],
+  "what": "XC red lower front (sun)",
+  "median": "#470F19",
+  "iqr": [
+   44,
+   8,
+   7
+  ]
+ },
+ "dome-x112": {
+  "ref": "x112",
+  "box": [
+   3068,
+   1203,
+   3165,
+   1234
+  ],
+  "what": "XC grey cab roof",
+  "median": "#273851",
+  "iqr": [
+   3,
+   3,
+   3
+  ]
+ },
+ "yellow-x101": {
+  "ref": "x101",
+  "box": [
+   600,
+   1150,
+   900,
+   1200
+  ],
+  "what": "XC front yellow (station)",
+  "median": "#D6950E",
+  "iqr": [
+   12,
+   19,
+   42
+  ]
+ },
+ "purple-n476": {
+  "ref": "n476",
+  "box": [
+   1050,
+   1650,
+   1170,
+   1740
+  ],
+  "what": "NT blue-purple cab side",
+  "median": "#282D74",
+  "iqr": [
+   8,
+   7,
+   7
+  ],
+  "balanced": "#313792",
+  "neutral": "door-n476"
+ },
+ "yellow-n476": {
+  "ref": "n476",
+  "box": [
+   480,
+   1618,
+   713,
+   1700
+  ],
+  "what": "NT front yellow",
+  "median": "#ECAA13",
+  "iqr": [
+   5,
+   8,
+   11
+  ],
+  "balanced": "#FFD018",
+  "neutral": "door-n476"
+ },
+ "cap-n476": {
+  "ref": "n476",
+  "box": [
+   603,
+   1010,
+   1015,
+   1050
+  ],
+  "what": "NT yellow cap",
+  "median": "#E3AF59",
+  "iqr": [
+   7,
+   5,
+   16
+  ],
+  "balanced": "#FFD670",
+  "neutral": "door-n476"
+ },
+ "roof-n476": {
+  "ref": "n476",
+  "box": [
+   1550,
+   1010,
+   1700,
+   1040
+  ],
+  "what": "NT roof",
+  "median": "#ABBCBC",
+  "iqr": [
+   107,
+   93,
+   93
+  ],
+  "balanced": "#CDE6EC",
+  "neutral": "door-n476"
+ },
+ "door-n476": {
+  "ref": "n476",
+  "box": [
+   1985,
+   1550,
+   2030,
+   1650
+  ],
+  "what": "NT first door, white like the body (neutral)",
+  "median": "#C4C0BB",
+  "iqr": [
+   11,
+   14,
+   17
+  ]
+ },
+ "lower-n476": {
+  "ref": "n476",
+  "box": [
+   823,
+   1838,
+   1179,
+   1890
+  ],
+  "what": "NT lower front",
+  "median": "#2A2B67",
+  "iqr": [
+   10,
+   11,
+   35
+  ],
+  "balanced": "#323581",
+  "neutral": "door-n476"
+ },
+ "silver-e418": {
+  "ref": "e418",
+  "box": [
+   2095,
+   1030,
+   2140,
+   1180
+  ],
+  "what": "EM silver door (neutral)",
+  "median": "#8C8E8C",
+  "iqr": [
+   44,
+   41,
+   34
+  ]
+ },
+ "purple-e418": {
+  "ref": "e418",
+  "box": [
+   2250,
+   560,
+   2400,
+   600
+  ],
+  "what": "EM purple bodyside",
+  "median": "#695A5D",
+  "iqr": [
+   7,
+   6,
+   4
+  ],
+  "balanced": "#967F85",
+  "neutral": "silver-e418"
+ },
+ "yellow-e418": {
+  "ref": "e418",
+  "box": [
+   442,
+   1148,
+   662,
+   1259
+  ],
+  "what": "EM front yellow",
+  "median": "#F8D133",
+  "iqr": [
+   4,
+   4,
+   5
+  ],
+  "balanced": "#FFFF49",
+  "neutral": "silver-e418"
+ },
+ "cap-e418": {
+  "ref": "e418",
+  "box": [
+   442,
+   254,
+   1325,
+   325
+  ],
+  "what": "EM yellow cap",
+  "median": "#F2D158",
+  "iqr": [
+   8,
+   8,
+   7
+  ],
+  "balanced": "#FFFF7E",
+  "neutral": "silver-e418"
+ },
+ "lower-e418": {
+  "ref": "e418",
+  "box": [
+   552,
+   1524,
+   994,
+   1590
+  ],
+  "what": "EM purple lower front",
+  "median": "#2D1A2E",
+  "iqr": [
+   26,
+   14,
+   22
+  ],
+  "balanced": "#402542",
+  "neutral": "silver-e418"
+ },
+ "roof-e418": {
+  "ref": "e418",
+  "box": [
+   1850,
+   260,
+   2050,
+   300
+  ],
+  "what": "EM roof",
+  "median": "#636052",
+  "iqr": [
+   23,
+   23,
+   24
+  ],
+  "balanced": "#8D8775",
+  "neutral": "silver-e418"
+ },
+ "door-s428": {
+  "ref": "s428",
+  "box": [
+   2120,
+   1300,
+   2160,
+   1420
+  ],
+  "what": "SR silver-grey door (in shade: not usable as neutral)",
+  "median": "#2B3E3E",
+  "iqr": [
+   29,
+   39,
+   43
+  ]
+ },
+ "blue-s428": {
+  "ref": "s428",
+  "box": [
+   1880,
+   880,
+   2050,
+   940
+  ],
+  "what": "SR blue bodyside",
+  "median": "#344771",
+  "iqr": [
+   5,
+   6,
+   6
+  ]
+ },
+ "yellow-s428": {
+  "ref": "s428",
+  "box": [
+   1058,
+   1341,
+   1279,
+   1420
+  ],
+  "what": "SR front yellow",
+  "median": "#FFEB68",
+  "iqr": [
+   1,
+   2,
+   12
+  ]
+ },
+ "cap-s428": {
+  "ref": "s428",
+  "box": [
+   1033,
+   775,
+   1574,
+   820
+  ],
+  "what": "SR yellow cap",
+  "median": "#FFE95E",
+  "iqr": [
+   1,
+   5,
+   16
+  ]
+ },
+ "roof-s428": {
+  "ref": "s428",
+  "box": [
+   1722,
+   738,
+   1968,
+   785
+  ],
+  "what": "SR roof",
+  "median": "#A7BCD0",
+  "iqr": [
+   18,
+   25,
+   32
+  ]
+ },
+ "lower-s428": {
+  "ref": "s428",
+  "box": [
+   1150,
+   1520,
+   1300,
+   1550
+  ],
+  "what": "SR lower front",
+  "median": "#1E205D",
+  "iqr": [
+   5,
+   4,
+   24
+  ]
+ },
+ "white-a271": {
+  "ref": "a271",
+  "box": [
+   930,
+   515,
+   1050,
+   540
+  ],
+  "what": "TfW white bodyside (neutral)",
+  "median": "#95A1AE",
+  "iqr": [
+   10,
+   13,
+   19
+  ]
+ },
+ "red-a271": {
+  "ref": "a271",
+  "box": [
+   849,
+   410,
+   897,
+   507
+  ],
+  "what": "TfW red door",
+  "median": "#792A30",
+  "iqr": [
+   101,
+   32,
+   34
+  ],
+  "balanced": "#BF3D41",
+  "neutral": "white-a271"
+ },
+ "grey-a271": {
+  "ref": "a271",
+  "box": [
+   927,
+   590,
+   1073,
+   605
+  ],
+  "what": "TfW lower bodyside",
+  "median": "#171617",
+  "iqr": [
+   13,
+   12,
+   11
+  ],
+  "balanced": "#24201F",
+  "neutral": "white-a271"
+ },
+ "yellow-a205": {
+  "ref": "a205",
+  "box": [
+   858,
+   439,
+   1024,
+   459
+  ],
+  "what": "TfW front yellow",
+  "median": "#B66F1A",
+  "iqr": [
+   5,
+   4,
+   3
+  ]
+ },
+ "cap-a205": {
+  "ref": "a205",
+  "box": [
+   800,
+   83,
+   1073,
+   105
+  ],
+  "what": "TfW cap",
+  "median": "#D69C57",
+  "iqr": [
+   34,
+   36,
+   43
+  ]
+ },
+ "lower-a205": {
+  "ref": "a205",
+  "box": [
+   800,
+   663,
+   1073,
+   702
+  ],
+  "what": "TfW lower front",
+  "median": "#141314",
+  "iqr": [
+   11,
+   11,
+   13
+  ]
+ },
+ "roof-a205": {
+  "ref": "a205",
+  "box": [
+   780,
+   39,
+   878,
+   58
+  ],
+  "what": "TfW cab roof",
+  "median": "#899097",
+  "iqr": [
+   27,
+   28,
+   26
+  ]
+ },
+ "band-l509": {
+  "ref": "l509",
+  "box": [
+   2760,
+   1180,
+   2880,
+   1240
+  ],
+  "what": "WMR dark band under the saloon windows",
+  "median": "#201F1E",
+  "iqr": [
+   21,
+   22,
+   21
+  ]
+ },
+ "gold-l509": {
+  "ref": "l509",
+  "box": [
+   1650,
+   1400,
+   1800,
+   1550
+  ],
+  "what": "WMR gold cab side",
+  "median": "#806430",
+  "iqr": [
+   19,
+   19,
+   28
+  ]
+ },
+ "yellow-l509": {
+  "ref": "l509",
+  "box": [
+   686,
+   1481,
+   1097,
+   1591
+  ],
+  "what": "WMR front yellow",
+  "median": "#CEB23E",
+  "iqr": [
+   19,
+   21,
+   12
+  ]
+ },
+ "cap-l509": {
+  "ref": "l509",
+  "box": [
+   823,
+   329,
+   1536,
+   405
+  ],
+  "what": "WMR cap",
+  "median": "#DAC04F",
+  "iqr": [
+   37,
+   40,
+   35
+  ]
+ },
+ "valance-l509": {
+  "ref": "l509",
+  "box": [
+   439,
+   1755,
+   713,
+   1860
+  ],
+  "what": "WMR black lower front",
+  "median": "#4B4840",
+  "iqr": [
+   42,
+   38,
+   30
+  ]
+ },
+ "gold-l635": {
+  "ref": "l635",
+  "box": [
+   1620,
+   1180,
+   1700,
+   1260
+  ],
+  "what": "WMR gold face (head-on)",
+  "median": "#C79267",
+  "iqr": [
+   12,
+   7,
+   9
+  ]
+ },
+ "yellow-l635": {
+  "ref": "l635",
+  "box": [
+   1950,
+   1300,
+   2200,
+   1350
+  ],
+  "what": "WMR front yellow (head-on)",
+  "median": "#C4B238",
+  "iqr": [
+   4,
+   4,
+   5
+  ]
+ }
+}

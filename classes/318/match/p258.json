@@ -1,0 +1,281 @@
+{
+ "ref": "p258",
+ "side": "near",
+ "model": {
+  "wf-front-top": [
+   3.197,
+   3.11
+  ],
+  "wf-rear-top": [
+   5.035,
+   3.11
+  ],
+  "wf-front-bottom": [
+   3.197,
+   2.028
+  ],
+  "wf-rear-bottom": [
+   5.035,
+   2.028
+  ],
+  "w2-front-top": [
+   8.105,
+   3.11
+  ],
+  "w2-rear-top": [
+   9.943,
+   3.11
+  ],
+  "w2-front-bottom": [
+   8.105,
+   2.028
+  ],
+  "w2-rear-bottom": [
+   9.943,
+   2.028
+  ],
+  "w3-front-top": [
+   10.255,
+   3.11
+  ],
+  "w3-rear-top": [
+   12.093,
+   3.11
+  ],
+  "w3-front-bottom": [
+   10.255,
+   2.028
+  ],
+  "w3-rear-bottom": [
+   12.093,
+   2.028
+  ]
+ },
+ "points": {
+  "wf-front-top": [
+   2029,
+   1120
+  ],
+  "wf-rear-top": [
+   2236,
+   1137
+  ],
+  "wf-front-bottom": [
+   2033,
+   1384
+  ],
+  "wf-rear-bottom": [
+   2238,
+   1367
+  ],
+  "lamp1-head": [
+   834.7,
+   1594.7
+  ],
+  "lamp1-tail": [
+   883.3,
+   1594.7
+  ],
+  "lamp0-head": [
+   1341.3,
+   1628
+  ],
+  "lamp0-tail": [
+   1281.3,
+   1626.7
+  ],
+  "w2-front-top": [
+   2475,
+   1146.7
+  ],
+  "w2-rear-top": [
+   2585,
+   1150
+  ],
+  "w2-front-bottom": [
+   2475,
+   1335
+  ],
+  "w2-rear-bottom": [
+   2585,
+   1328
+  ],
+  "w3-front-top": [
+   2603.3,
+   1154
+  ],
+  "w3-rear-top": [
+   2691.7,
+   1156.7
+  ],
+  "w3-front-bottom": [
+   2603.3,
+   1322.7
+  ],
+  "w3-rear-bottom": [
+   2691.7,
+   1317.3
+  ],
+  "screen0-top-near": [
+   1430,
+   973
+  ],
+  "screen0-top-far": [
+   1261,
+   973
+  ],
+  "screen0-bottom-near": [
+   1430,
+   1338
+  ],
+  "screen0-bottom-far": [
+   1261,
+   1338
+  ],
+  "screen1-top-near": [
+   1183,
+   1010
+  ],
+  "screen1-top-far": [
+   962,
+   1010
+  ],
+  "screen1-bottom-near": [
+   1183,
+   1338
+  ],
+  "screen1-bottom-far": [
+   962,
+   1338
+  ],
+  "screen2-top-near": [
+   928,
+   982
+  ],
+  "screen2-top-far": [
+   782,
+   982
+  ],
+  "screen2-bottom-near": [
+   928,
+   1338
+  ],
+  "screen2-bottom-far": [
+   782,
+   1338
+  ],
+  "door0-front-top": [
+   1802,
+   1053
+  ],
+  "door0-rear-top": [
+   1896,
+   1053
+  ],
+  "door1-front-top": [
+   2304,
+   1106
+  ],
+  "door1-rear-top": [
+   2408,
+   1106
+  ]
+ },
+ "holdout": [
+  "wf-rear-bottom",
+  "screen1-bottom-far",
+  "door1-rear-top",
+  "screen2-top-far"
+ ],
+ "facePairs": {
+  "head": {
+   "far": [
+    834.7,
+    1594.7
+   ],
+   "near": [
+    1341.3,
+    1628
+   ]
+  },
+  "tail": {
+   "far": [
+    883.3,
+    1594.7
+   ],
+   "near": [
+    1281.3,
+    1626.7
+   ]
+  },
+  "screen-outer-top": {
+   "far": [
+    780,
+    990
+   ],
+   "near": [
+    1426.7,
+    977
+   ]
+  },
+  "screen-outer-bottom": {
+   "far": [
+    780,
+    1340
+   ],
+   "near": [
+    1426.7,
+    1340
+   ]
+  },
+  "screen-inner-top": {
+   "far": [
+    930,
+    990
+   ],
+   "near": [
+    1260,
+    977
+   ]
+  },
+  "screen-inner-bottom": {
+   "far": [
+    930,
+    1340
+   ],
+   "near": [
+    1260,
+    1340
+   ]
+  },
+  "centre-top": {
+   "far": [
+    963.3,
+    1003
+   ],
+   "near": [
+    1183.3,
+    1003
+   ]
+  },
+  "centre-bottom": {
+   "far": [
+    963.3,
+    1340
+   ],
+   "near": [
+    1183.3,
+    1340
+   ]
+  }
+ },
+ "readings": {
+  "wf-*": "first saloon window, outer edge of the light frame, read on a 1.5x zoom (+-2 px)",
+  "d1-*": "first passenger door, silver leaves' outer edges",
+  "face pairs": "lamp centres, windscreen glass corners (virtual), centre gangway window glass corners; far = image left",
+  "screen*": "windscreen and gangway-window glass, virtual corners of the rounded glass inside the black frames, read on a 1.9x zoom (+-3 px)",
+  "door0-*": "cab door's recessed seam, virtual top corners (4x zoom)",
+  "door1-*": "first passenger door: front jamb and the rear jamb's outer edge at the leaves' top (3.6x zoom)"
+ },
+ "focalPx": 3306.7
+}

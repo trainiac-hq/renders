@@ -1,0 +1,621 @@
+{
+ "class": "153",
+ "subject": "Class 153, single car (A-end leading), TfW and ScotRail",
+ "method": "stage A 153+156",
+ "model": {
+  "heights": {
+   "bottom": 1.0,
+   "cantrail": 3.28,
+   "roof": 3.746,
+   "window": [
+    2.15,
+    2.95
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 22.43,
+   "doors": [
+    {
+     "x": 1.039,
+     "w": 0.747,
+     "cab": true
+    },
+    {
+     "x": 2.139,
+     "w": 1.088
+    },
+    {
+     "x": 21.18,
+     "w": 0.94
+    }
+   ],
+   "windows": [
+    [
+     2.92,
+     4.085
+    ],
+    [
+     4.34,
+     5.505
+    ],
+    [
+     5.76,
+     6.925
+    ],
+    [
+     7.18,
+     8.345
+    ],
+    [
+     8.6,
+     9.765
+    ],
+    [
+     10.02,
+     11.185
+    ],
+    [
+     11.44,
+     12.605
+    ],
+    [
+     12.86,
+     14.025
+    ],
+    [
+     14.28,
+     15.445
+    ],
+    [
+     15.7,
+     16.865
+    ],
+    [
+     17.12,
+     18.285
+    ],
+    [
+     21.89,
+     22.29
+    ]
+   ],
+   "bogies": [
+    3.269,
+    19.269
+   ],
+   "under": [
+    [
+     5.5,
+     17.5
+    ]
+   ]
+  },
+  "next": {
+   "length": 22.43,
+   "doors": [
+    {
+     "x": 1.039,
+     "w": 0.747,
+     "cab": true
+    },
+    {
+     "x": 2.139,
+     "w": 1.088
+    },
+    {
+     "x": 21.18,
+     "w": 0.94
+    }
+   ],
+   "windows": [
+    [
+     2.92,
+     4.085
+    ],
+    [
+     4.34,
+     5.505
+    ],
+    [
+     5.76,
+     6.925
+    ],
+    [
+     7.18,
+     8.345
+    ],
+    [
+     8.6,
+     9.765
+    ],
+    [
+     10.02,
+     11.185
+    ],
+    [
+     11.44,
+     12.605
+    ],
+    [
+     12.86,
+     14.025
+    ],
+    [
+     14.28,
+     15.445
+    ],
+    [
+     15.7,
+     16.865
+    ],
+    [
+     17.12,
+     18.285
+    ],
+    [
+     21.89,
+     22.29
+    ]
+   ],
+   "bogies": [
+    3.269,
+    19.269
+   ],
+   "under": [
+    [
+     5.5,
+     17.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.06,
+     0.69,
+     1
+    ],
+    [
+     0.0,
+     0.73,
+     1
+    ],
+    [
+     0.0,
+     1.05
+    ],
+    [
+     0.0,
+     3.346,
+     1
+    ],
+    [
+     0.12,
+     3.626
+    ],
+    [
+     0.4,
+     3.746,
+     1
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      0.75,
+      2.85
+     ],
+     [
+      0.75,
+      2.28
+     ],
+     [
+      1.33,
+      2.28
+     ],
+     [
+      1.33,
+      2.85
+     ]
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "gasket"
+  },
+  "face": {
+   "halfWidth": 1.35,
+   "depth": 1.7,
+   "bottom": 0.69,
+   "panel": [
+    {
+     "m": [
+      -1.35,
+      1.35
+     ],
+     "y": [
+      1.0,
+      3.49
+     ]
+    },
+    {
+     "m": [
+      0.57,
+      1.25
+     ],
+     "y": [
+      0.73,
+      1.0
+     ],
+     "mirror": true
+    }
+   ],
+   "dark": [
+    {
+     "m": [
+      0.589,
+      1.186
+     ],
+     "y": [
+      2.25,
+      3.39
+     ],
+     "r": [
+      0.03,
+      0.08,
+      0.08,
+      0.03
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      -0.545,
+      0.545
+     ],
+     "y": [
+      1.01,
+      3.49
+     ],
+     "r": [
+      0.02,
+      0.12,
+      0.12,
+      0.02
+     ]
+    },
+    {
+     "m": [
+      0.602,
+      1.142
+     ],
+     "y": [
+      1.283,
+      1.531
+     ],
+     "r": 0.04,
+     "mirror": true
+    },
+    {
+     "m": [
+      0.55,
+      1.25
+     ],
+     "y": [
+      1.0,
+      1.25
+     ],
+     "mirror": true
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.614,
+      1.161
+     ],
+     "y": [
+      2.3,
+      3.32
+     ],
+     "r": [
+      0.02,
+      0.05,
+      0.05,
+      0.02
+     ],
+     "mirror": true
+    }
+   ],
+   "gangway": {
+    "m": [
+     -0.325,
+     0.325
+    ],
+    "y": [
+     1.15,
+     3.06
+    ],
+    "r": 0.03
+   },
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 0.915,
+      "y": 1.42,
+      "r": 0.092
+     },
+     {
+      "kind": "tail",
+      "m": 0.714,
+      "y": 1.42,
+      "r": 0.079
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.03
+   },
+   "number": {
+    "text": "153362",
+    "m": -0.893,
+    "y": 1.9,
+    "height": 0.11,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.93,
+      2.15
+     ],
+     "tip": [
+      0.61,
+      2.68
+     ]
+    },
+    {
+     "pivot": [
+      -0.89,
+      2.18
+     ],
+     "tip": [
+      -1.18,
+      2.69
+     ]
+    }
+   ]
+  },
+  "plough": {
+   "top": 0.67,
+   "bottom": 0.36,
+   "halfWidth": 1.19,
+   "ahead": 0.12,
+   "sides": 0.02,
+   "rake": 0.08,
+   "color": "#2A2A2A"
+  }
+ },
+ "liveries": {
+  "AW": {
+   "body": "#B4B4B4",
+   "roof": "#585F6F",
+   "doors": "#DD2E22",
+   "panel": "#FEC424",
+   "face": "#FEC424",
+   "gangway": "#FEC424",
+   "surround": "#2E222E",
+   "under": "#2A2A2A",
+   "glass": "#23222B",
+   "bands": [
+    {
+     "y": [
+      2.04,
+      3.08
+     ],
+     "color": "#23222B",
+     "from": 2.7,
+     "to": 21.7,
+     "car": "cab"
+    },
+    {
+     "y": [
+      2.04,
+      3.08
+     ],
+     "color": "#23222B",
+     "from": 2.7,
+     "to": 21.7,
+     "car": "next"
+    },
+    {
+     "y": [
+      3.19,
+      3.28
+     ],
+     "color": "#DD2E22"
+    },
+    {
+     "y": [
+      3.167,
+      3.186
+     ],
+     "color": "#E07A2C"
+    }
+   ]
+  },
+  "SR": {
+   "body": "#242854",
+   "roof": "#4D4545",
+   "doors": "#80807E",
+   "panel": "#8C602B",
+   "face": "#8C602B",
+   "gangway": "#8C602B",
+   "surround": "#454655",
+   "under": "#2A2A2A",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       0.479,
+       3.206
+      ],
+      [
+       0.44,
+       3.017
+      ],
+      [
+       0.399,
+       2.72
+      ],
+      [
+       0.223,
+       2.559
+      ],
+      [
+       0.08,
+       2.396
+      ],
+      [
+       0.12,
+       2.072
+      ],
+      [
+       0.184,
+       1.883
+      ],
+      [
+       0.44,
+       1.738
+      ],
+      [
+       0.599,
+       1.586
+      ],
+      [
+       0.743,
+       1.452
+      ],
+      [
+       0.879,
+       1.317
+      ],
+      [
+       1.478,
+       1.317
+      ],
+      [
+       1.382,
+       1.452
+      ],
+      [
+       1.278,
+       1.586
+      ],
+      [
+       1.402,
+       1.738
+      ],
+      [
+       1.282,
+       1.883
+      ],
+      [
+       1.162,
+       2.072
+      ],
+      [
+       1.186,
+       2.396
+      ],
+      [
+       1.241,
+       2.559
+      ],
+      [
+       0.999,
+       2.72
+      ],
+      [
+       1.038,
+       3.017
+      ],
+      [
+       0.839,
+       3.206
+      ]
+     ],
+     "color": "#F0F0F0",
+     "dotFade": {
+      "pitch": 0.21,
+      "rowPitch": 0.22,
+      "from": 0.1,
+      "to": 0.06,
+      "stagger": false
+     }
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.7,
+       2.1
+      ],
+      [
+       5.42,
+       2.1
+      ],
+      [
+       6.02,
+       1.05
+      ],
+      [
+       2.7,
+       1.05
+      ]
+     ],
+     "color": "#46AFF8",
+     "dotFade": {
+      "pitch": 0.29,
+      "rowPitch": 0.13,
+      "from": 0.08,
+      "to": 0.03
+     }
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "TfW 153 diagram calibrated on the bogie centres, 16.0 m = 1926 px -> 120.375 px/m",
+  "model.cab.length": "22.43 m face to face (23.21 published is over couplers): stage A, TfW diagram",
+  "model.cab.doors": "A-end (the original 155 cab): cab door with droplight 0.665-1.412 m from the face, the red passenger door 1.595-2.683; B-end (the small cab added in the conversion) door 0.78-1.72 m from that end (153362 side photo agrees within 0.05)",
+  "model.cab.windows": "11 saloon panes ~1.165 wide at 1.42 pitch (diagram px 456-596 ... 2163-2303); the first's position (2.92 m) is stage A's reading with a question mark, NOT checked against a photo yet; the B-end's small fixed cab window 0.14-0.54 m from that end",
+  "model.cab.bogies": "3.269, 19.269 (diagram)",
+  "model.next": "a second 153 the same way round (Cardiff 153362+153368: B-end coupled to A-end); the hero view sees its A-end side only as far as the rear's shown",
+  "model.heights": "side photo (324.6 px/m, door bottom 1.22): window glass 2.15-2.95 (band 2.04-3.08), red cantrail band 3.19-3.28, orange line 3.167-3.186; bottom and roof as before (not re-measured)",
+  "model.nose": "profile not measured (the old flat 155 front kept); cab side window between the cab door's edges, glass 2.28-2.85 (cab-end window glass, side photo)",
+  "model.face": "A-end head-on (Whitchurch, 162 mm, 154.07 px/m): face +-1.35; windscreen dark +-0.589-1.186 y 2.25-3.39 (glass ~0.60-1.18; its heights taken 5 cm inside the dark, not read); gangway surround +-0.545 y 1.01-3.49; door leaf +-0.325 y 1.15-3.06; lamp housing +-0.602-1.142 y 1.283-1.531; head m 0.915 r 0.092 (outboard), LED tail m 0.714 r 0.079, both y 1.42; dark recess 1.00-1.25; lower yellow cowls +-0.57-1.25 y 0.73-1.00; number on the near side only (viewer's right on every A-end photo) m 0.893 y 1.90 h 0.11; wipers not mirrored, both leaning the same way (viewer's left pivot (-0.93,2.15) tip (-0.61,2.68), right (0.89,2.18) to (1.18,2.69): in the model's m the viewer's left is the far side, positive) ; glass drawn 2.5 cm inside the dark surround (0.614-1.161): the reading '~0.60-1.18' is within a centimetre of the surround's edge, closer than a gasket can be",
+  "liveries.AW": "samples (bh canopy light, grey-bh the neutral): body #B8B3AD, door red red-922 balanced #DD2E22, roof roof-922 #585F6F (seen side-on in sun, not the top: no sky correction), window band pillar-sd #23222B (2.04-3.08, from the first door's rear to the B-end door), red cantrail band 3.19-3.28, face yellow yellow-wh #FEC424 (head-on), lamp box lampbox-wh",
+  "liveries.SR": "ScotRail: blue sr-blue-we balanced #242854 against the grey door sr-grey-we #80807E; face yellow sr-yellow-qs #8C602B (pqs, in shade, used as is); roof dome sr-roof-qs #786C6C divided by 2.5 for sky light (as the 158); the dotted half-saltire and the West Highland Explorer wrap are not drawn",
+  "notes": "Not drawn: the B-end's own small cab face (the hero view sees only the A-end), the SR saltire dots and wrap, the data plate; the A-end's nose profile is the old one.",
+  "check": "side check: psd (153362 side-on, B-end, nearly orthographic) agrees with the diagram's B-end door and small cab window within 0.05 m (stage A); the A-end, the one the hero view sees, has no side-on photo yet: pbh/paro are close three-quarter views from the front, not used for positions",
+  "liveries.AW.body": "grey-bh #B8B3AD is the neutral patch itself (white balance only), so drawn as the grey of its luminance #B4B4B4 (the warm median rendered beige)",
+  "liveries.SR.saltire": "the dotted saltire as the 158 SR's (classes/158/spec.json liveries.SR: white saltire dots at the cab end, light blue graded dots low on the bodyside, from the ScotRail diagram) placed for this class from pwe (153377 at Queen Street, the A-end): the white dots fill the cab end from the corner to 1.59 m (the 158's 0-1.63 m scaled to it), heights scaled between skirt and cantrail; the blue graded dots start 2.70 m (the 158's 2.76 m, just behind its first door, moved to this class's), heights scaled to end at the window bottom, as on the photo. Dot pitch as the 158's (0.10 / 0.29 m)",
+  "liveries.SR.dots": "third pass, outlines traced on pgc (pgcfull grid; along: door 1's front edge u 1330 = 1.65 m and the cab corner u 1530 = 0, 121 px/m; up: cantrail v 930 = 3.3 m, solebar v ~1340 = 1.0 m, 178 px/m). White saltire arm: row by row from v 940 to 1290 its rear and front ends (u 1425-1470 at the top ... 1407-1520 at mid height, reaching the corner ... 1345-1420 at the foot): a diagonal band, narrow at the top beside the cab window, reaching the corner at about 1.9 m and leaning back towards the door at the bottom. Light blue: from the window bottom (1.90) down to near the solebar (1.05), 7 rows (row pitch 0.13), from the door back about 3 m, its rear boundary a slanted diagonal (5.4 m at the top, 6.0 m at the foot). Other classes: the 156's outlines scaled to their own cab end (white: to their first door; blue: from behind the door) and heights ; the white arm widened by one column (0.21 m, scaled) at mid height (rows 4-8) after a comparison with pgc",
+  "model.nose.profile.lower": "below the body: the diagrams (150 dia2, 153, 155, 156) draw the cab face flat and vertical down to its lowest painted item, with the headstock, coupler and snowplough under it; there is no sloping chin (the old flatProfile slanted back from 1.05 to 0.55 m at 0.25 m). Now the face runs straight down to 0.730 m (the lowest face item measured head-on) and steps back 6 cm to 0.690, the coupler and plough below as the pipeline draws them",
+  "model.plough": "the side diagram draws a black plough under the face (153, 155, 156 diagrams, nose crops): its blade from just under the face down to 0.36 m (155 diagram rows 349-439 at 117.7 px/m from rail row 481), its front about 0.06-0.12 m ahead of the face; its width and V not seen side-on: the 150's half-width 1.19 used. Black as drawn"
+ },
+ "views": {}
+}

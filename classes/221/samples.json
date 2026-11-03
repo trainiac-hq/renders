@@ -1,0 +1,66 @@
+{
+ "yellow-133": {
+  "ref": "p133",
+  "box": [
+   2880,
+   1775,
+   3000,
+   1825
+  ],
+  "what": "yellow front, sunlit (no neutral)",
+  "median": "#FFE835",
+  "iqr": [
+   1,
+   4,
+   11
+  ]
+ },
+ "black-gc": {
+  "ref": "pgc1",
+  "box": [
+   2217,
+   1200,
+   2267,
+   1267
+  ],
+  "what": "Grand Central black bodyside (no neutral)",
+  "median": "#3F4B54",
+  "iqr": [
+   6,
+   7,
+   7
+  ]
+ },
+ "orange-gc": {
+  "ref": "pgc1",
+  "box": [
+   1260,
+   1980,
+   1310,
+   2030
+  ],
+  "what": "Grand Central orange band (no neutral)",
+  "median": "#B6531C",
+  "iqr": [
+   145,
+   55,
+   5
+  ]
+ },
+ "face-gc": {
+  "ref": "pgc1",
+  "box": [
+   650,
+   1450,
+   750,
+   1550
+  ],
+  "what": "Grand Central front orange-yellow (no neutral)",
+  "median": "#D59510",
+  "iqr": [
+   6,
+   9,
+   4
+  ]
+ }
+}

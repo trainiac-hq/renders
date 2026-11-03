@@ -1,0 +1,464 @@
+{
+ "white-419": {
+  "ref": "p419",
+  "box": [
+   1950,
+   1060,
+   1980,
+   1100
+  ],
+  "what": "white bodyside, car 1 behind the green",
+  "median": "#CEC1AE",
+  "iqr": [
+   21,
+   23,
+   23
+  ]
+ },
+ "green-419": {
+  "ref": "p419",
+  "box": [
+   1420,
+   1160,
+   1470,
+   1240
+  ],
+  "what": "cab end green, below the D",
+  "median": "#84BF8E",
+  "iqr": [
+   22,
+   22,
+   20
+  ],
+  "balanced": "#99EEC4",
+  "neutral": "white-419"
+ },
+ "dark-419": {
+  "ref": "p419",
+  "box": [
+   1425,
+   950,
+   1445,
+   1050
+  ],
+  "what": "dark green D",
+  "median": "#133D2F",
+  "iqr": [
+   3,
+   4,
+   4
+  ],
+  "balanced": "#164C41",
+  "neutral": "white-419"
+ },
+ "door-419": {
+  "ref": "p419",
+  "box": [
+   1815,
+   900,
+   1835,
+   1000
+  ],
+  "what": "door leaf green",
+  "median": "#1C382C",
+  "iqr": [
+   17,
+   15,
+   15
+  ],
+  "balanced": "#21463D",
+  "neutral": "white-419"
+ },
+ "yellow-gangway-419": {
+  "ref": "p419",
+  "box": [
+   820,
+   700,
+   900,
+   1000
+  ],
+  "what": "gangway door yellow",
+  "median": "#FEEE6F",
+  "iqr": [
+   4,
+   9,
+   5
+  ],
+  "balanced": "#FFFF99",
+  "neutral": "white-419"
+ },
+ "yellow-panel-419": {
+  "ref": "p419",
+  "box": [
+   1100,
+   1190,
+   1130,
+   1260
+  ],
+  "what": "warning panel yellow",
+  "median": "#FEDE6A",
+  "iqr": [
+   2,
+   3,
+   2
+  ],
+  "balanced": "#FFFF92",
+  "neutral": "white-419"
+ },
+ "valance-419": {
+  "ref": "p419",
+  "box": [
+   1150,
+   1450,
+   1300,
+   1520
+  ],
+  "what": "lower front green",
+  "median": "#A3CEA3",
+  "iqr": [
+   34,
+   37,
+   36
+  ],
+  "balanced": "#BDFFE1",
+  "neutral": "white-419"
+ },
+ "roof-419": {
+  "ref": "p419",
+  "box": [
+   1600,
+   640,
+   1700,
+   660
+  ],
+  "what": "roof",
+  "median": "#DED9D5",
+  "iqr": [
+   61,
+   58,
+   64
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-419"
+ },
+ "first-strip-419": {
+  "ref": "p419",
+  "box": [
+   1620,
+   735,
+   1700,
+   760
+  ],
+  "what": "first class strip yellow",
+  "median": "#F6DB67",
+  "iqr": [
+   2,
+   2,
+   1
+  ],
+  "balanced": "#FFFF8E",
+  "neutral": "white-419"
+ },
+ "white-447": {
+  "ref": "p447",
+  "box": [
+   1020,
+   655,
+   1065,
+   685
+  ],
+  "what": "white bodyside",
+  "median": "#888D8F",
+  "iqr": [
+   28,
+   27,
+   32
+  ]
+ },
+ "green-447": {
+  "ref": "p447",
+  "box": [
+   505,
+   580,
+   532,
+   630
+  ],
+  "what": "cab end green",
+  "median": "#ACFABE",
+  "iqr": [
+   9,
+   13,
+   10
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-447"
+ },
+ "dark-447": {
+  "ref": "p447",
+  "box": [
+   557,
+   580,
+   570,
+   630
+  ],
+  "what": "dark green D",
+  "median": "#3D655E",
+  "iqr": [
+   8,
+   8,
+   8
+  ],
+  "balanced": "#6CAC9E",
+  "neutral": "white-447"
+ },
+ "first-strip-447": {
+  "ref": "p447",
+  "box": [
+   715,
+   435,
+   765,
+   448
+  ],
+  "what": "first class strip yellow",
+  "median": "#FFEC22",
+  "iqr": [
+   1,
+   5,
+   13
+  ],
+  "balanced": "#FFFF39",
+  "neutral": "white-447"
+ },
+ "green-side": {
+  "ref": "pside",
+  "box": [
+   2100,
+   1100,
+   2300,
+   1180
+  ],
+  "what": "cab end green",
+  "median": "#41974D",
+  "iqr": [
+   8,
+   9,
+   10
+  ],
+  "balanced": "#4AAF6A",
+  "neutral": "white-side"
+ },
+ "dark-side": {
+  "ref": "pside",
+  "box": [
+   3050,
+   800,
+   3100,
+   900
+  ],
+  "what": "dark green D",
+  "median": "#456455",
+  "iqr": [
+   16,
+   17,
+   15
+  ],
+  "balanced": "#4E7475",
+  "neutral": "white-side"
+ },
+ "door-side": {
+  "ref": "pside",
+  "box": [
+   900,
+   800,
+   960,
+   1000
+  ],
+  "what": "door leaf green",
+  "median": "#213F34",
+  "iqr": [
+   5,
+   5,
+   5
+  ],
+  "balanced": "#254948",
+  "neutral": "white-side"
+ },
+ "first-strip-side": {
+  "ref": "pside",
+  "box": [
+   1700,
+   450,
+   1900,
+   490
+  ],
+  "what": "first class strip yellow",
+  "median": "#D3CA40",
+  "iqr": [
+   2,
+   3,
+   4
+  ],
+  "balanced": "#EFEA58",
+  "neutral": "white-side"
+ },
+ "door-stripe-side": {
+  "ref": "pside",
+  "box": [
+   1110,
+   700,
+   1150,
+   900
+  ],
+  "what": "door yellow stripe",
+  "median": "#C0B614",
+  "iqr": [
+   7,
+   7,
+   5
+  ],
+  "balanced": "#D9D31C",
+  "neutral": "white-side"
+ },
+ "roof-side": {
+  "ref": "pside",
+  "box": [
+   1000,
+   320,
+   1500,
+   360
+  ],
+  "what": "roof",
+  "median": "#AEB09A",
+  "iqr": [
+   9,
+   12,
+   26
+  ],
+  "balanced": "#C5CCD4",
+  "neutral": "white-side"
+ },
+ "white-side": {
+  "ref": "pside",
+  "box": [
+   250,
+   1000,
+   450,
+   1100
+  ],
+  "what": "white bodyside, above the lower panel seam",
+  "median": "#D4CFAE",
+  "iqr": [
+   7,
+   8,
+   4
+  ]
+ },
+ "lower-side": {
+  "ref": "pside",
+  "box": [
+   250,
+   1180,
+   450,
+   1230
+  ],
+  "what": "white car below the seam (lower panel)",
+  "median": "#A3A06C",
+  "iqr": [
+   10,
+   10,
+   12
+  ],
+  "balanced": "#B9BA95",
+  "neutral": "white-side"
+ },
+ "lower-419": {
+  "ref": "p419",
+  "box": [
+   1960,
+   1080,
+   1985,
+   1100
+  ],
+  "what": "white car just below the windows",
+  "median": "#C4B2A0",
+  "iqr": [
+   15,
+   16,
+   16
+  ],
+  "balanced": "#E4DEDD",
+  "neutral": "white-419"
+ },
+ "orange-side": {
+  "ref": "pside",
+  "box": [
+   1700,
+   437,
+   1900,
+   443
+  ],
+  "what": "cantrail line",
+  "median": "#D9883E",
+  "iqr": [
+   8,
+   5,
+   20
+  ],
+  "balanced": "#F69E56",
+  "neutral": "white-side"
+ },
+ "bellows-447": {
+  "ref": "p447",
+  "box": [
+   260,
+   420,
+   290,
+   560
+  ],
+  "what": "gangway bellows",
+  "median": "#2E2F2A",
+  "iqr": [
+   56,
+   42,
+   20
+  ],
+  "balanced": "#515046",
+  "neutral": "white-447"
+ },
+ "frame-419": {
+  "ref": "p419",
+  "box": [
+   760,
+   800,
+   790,
+   1000
+  ],
+  "what": "gangway frame",
+  "median": "#8D7E6A",
+  "iqr": [
+   103,
+   95,
+   31
+  ],
+  "balanced": "#A49D92",
+  "neutral": "white-419"
+ },
+ "glass-side": {
+  "ref": "pside",
+  "box": [
+   1700,
+   620,
+   1800,
+   680
+  ],
+  "what": "window glass (dark)",
+  "median": "#1F2B24",
+  "iqr": [
+   5,
+   7,
+   6
+  ],
+  "balanced": "#233232",
+  "neutral": "white-side"
+ }
+}

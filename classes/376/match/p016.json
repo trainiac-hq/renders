@@ -1,0 +1,175 @@
+{
+ "ref": "p016",
+ "side": "far",
+ "size": [
+  3840,
+  2559
+ ],
+ "model": {
+  "ring-front-top": [
+   2.3,
+   3.13
+  ],
+  "ring-front-bottom": [
+   2.3,
+   1.72
+  ],
+  "ring-rear-top": [
+   4.98,
+   3.13
+  ],
+  "ring-rear-bottom": [
+   4.98,
+   1.72
+  ],
+  "ringwin-front-top": [
+   2.51,
+   2.84
+  ],
+  "endwin-rear-top": [
+   18.58,
+   2.84
+  ],
+  "endwin-front-top": [
+   15.22,
+   2.84
+  ],
+  "door1-front-cl": [
+   4.97,
+   3.255
+  ],
+  "door1-rear-cl": [
+   6.47,
+   3.255
+  ],
+  "door2-front-cl": [
+   13.57,
+   3.255
+  ],
+  "door2-rear-cl": [
+   15.07,
+   3.255
+  ]
+ },
+ "points": {
+  "door1-front-top": [
+   1918,
+   1174
+  ],
+  "door1-rear-top": [
+   1806,
+   1177
+  ],
+  "door1-front-bottom": [
+   1928,
+   1512
+  ],
+  "door2-front-bottom": [
+   1397,
+   1449
+  ],
+  "ring-front-top": [
+   2178,
+   1105
+  ],
+  "ring-front-bottom": [
+   2164,
+   1400
+  ],
+  "ring-rear-top": [
+   1926,
+   1122
+  ],
+  "ring-rear-bottom": [
+   1913,
+   1388
+  ],
+  "ringwin-front-top": [
+   2148,
+   1162
+  ],
+  "endwin-rear-top": [
+   1198,
+   1205
+  ],
+  "endwin-front-top": [
+   1317,
+   1200
+  ],
+  "lamp1-head": [
+   2480,
+   1478
+  ],
+  "lamp1-tail": [
+   2543,
+   1491
+  ],
+  "lamp0-head": [
+   2902,
+   1462
+  ],
+  "lamp0-tail": [
+   2860,
+   1479
+  ],
+  "screen1-top-far": [
+   2599,
+   1072
+  ],
+  "screen1-top-near": [
+   2751,
+   1073
+  ],
+  "screen1-bottom-far": [
+   2606,
+   1324
+  ],
+  "door1-front-cl": [
+   1924,
+   1097
+  ],
+  "door1-rear-cl": [
+   1808,
+   1107
+  ],
+  "door2-front-cl": [
+   1395,
+   1147
+  ],
+  "door2-rear-cl": [
+   1330,
+   1148
+  ]
+ },
+ "holdout": [
+  "door2-front-cl",
+  "lamp1-tail",
+  "ring-rear-bottom"
+ ],
+ "readings": {
+  "door1-front-top": "d1top.png: the leaves' blue meets their orange tops at row 1174-1176 (the model's door top 2.83 is this paint line: the leaves carry on up, orange, to 1134); front edge = the ring's 5 px rear bar 1918-1922",
+  "door1-rear-top": "d1top.png (5x): the opening's dark outline on the bodyside x 1806-1808 (reveal 1809-1823, rear leaf from 1823), row where the rear leaf's blue meets its orange top (1177)",
+  "door1-front-bottom": "pk b.png: blue front leaf's front edge meets its bottom over the step (1928,1512)",
+  "door2-front-bottom": "pk c.png: leaf front edge line (1391,1425)-(1397,1449), leaf bottom 1449",
+  "ring-front-top": "pk d.png: orange panel top 1104-1105, front edge 2177-2178",
+  "ring-front-bottom": "pk d.png: front bar front edge 2164, bottom bar bottom 1400-1401 (front bar curves with the tumblehome: 2178 at the top)",
+  "ring-rear-top": "pk d.png: ring panel top 1121-1122 at its rear edge, dark seam x 1924-1926",
+  "ring-rear-bottom": "pk d.png: bottom bar's rear end x 1913, bottom 1388",
+  "ringwin-front-top": "pk g.png: black frame of the ring's wide pane: front edge 2147-2148, top 1161-1162 (4 px under the ring panel)",
+  "endwin-rear-top": "pk g.png: rearmost pane's black frame outline: rear edge 1197-1198, top 1205",
+  "endwin-front-top": "d2r.png/pk g.png: frame of the pane group behind door 2: front edge 1317 (body strip 1317-1329 to the reveal), top 1200",
+  "lamp1-head": "pk f.png: lens ring 2453-2507 x 1453-1504",
+  "lamp1-tail": "pk f.png: tail lens ring 2519-2566 x 1469-1511",
+  "lamp0-head": "pk f.png: far headlamp ring 2873-2930 x 1430-1492",
+  "lamp0-tail": "pk f.png: grey tail lens 2840-2880 x 1458-1497, partly behind the head lobe",
+  "screen1-top-far": "pk e.png: pillar's dark line x 2597-2598, glass top under the frame lip ~1071-1072 (low contrast, +-3 px)",
+  "screen1-top-near": "pk e.png: pillar line 2747-2750, glass top 1072-1073 (+-3 px)",
+  "screen1-bottom-far": "pk e.png: pillar line 2603-2605 meets the dark bottom edge 1324-1326 (+-3 px)",
+  "door1-front-cl": "d1top.png: the opening's navy head block (above the leaves) front edge 1924, top 1097-1098, 1-2 px under the orange cantrail line",
+  "door1-rear-cl": "d1top.png: head block's rear outline 1806-1808 meets its top 1107",
+  "door2-front-cl": "d2r.png (6x): door 2's navy head block front edge 1395, top 1147 right under the orange line (1142-1147)",
+  "door2-rear-cl": "d2r.png: head block / reveal outer edge 1329-1330, top 1147-1148",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side far, lamps, screen1 near/far correct; no modelFace points. No change."
+ },
+ "notes": "nose to the right: the train's RIGHT side is visible, side far. lamp0 = train's-left cluster (image right). Door openings are recessed: the rear reveal shows, so rear edges are the reveal's outer edge. Cab door and door bottoms on the rear side are lost in shadow. No axles: the bogie frames hide the axleboxes. Doors: the opening runs from just under the cantrail line (a navy head block over the leaves) to the step; door 1's leaves are orange above 2.83 m, door 2's blue to ~3.1 m, so door-top corners are only used on door 1 (the paint line) and the opening's edges are taken where they meet the cantrail line (model points *-cl)."
+}

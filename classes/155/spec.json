@@ -1,0 +1,484 @@
+{
+ "class": "155",
+ "subject": "Class 155, two cars, Northern",
+ "method": "stage A 150+155",
+ "model": {
+  "heights": {
+   "bottom": 1.215,
+   "cantrail": 3.27,
+   "roof": 3.746,
+   "window": [
+    2.19,
+    3.01
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 23.208,
+   "doors": [
+    {
+     "x": 0.865,
+     "w": 0.79,
+     "cab": true
+    },
+    {
+     "x": 1.86,
+     "w": 1.02
+    },
+    {
+     "x": 21.925,
+     "w": 0.97
+    }
+   ],
+   "windows": [
+    [
+     3.018,
+     4.222
+    ],
+    [
+     4.488,
+     5.692
+    ],
+    [
+     5.958,
+     7.162
+    ],
+    [
+     7.428,
+     8.632
+    ],
+    [
+     8.898,
+     10.102
+    ],
+    [
+     10.368,
+     11.572
+    ],
+    [
+     11.838,
+     13.042
+    ],
+    [
+     13.308,
+     14.512
+    ],
+    [
+     14.778,
+     15.982
+    ],
+    [
+     16.248,
+     17.452
+    ],
+    [
+     17.718,
+     18.922
+    ],
+    [
+     19.188,
+     20.392
+    ],
+    [
+     20.62,
+     21.23
+    ]
+   ],
+   "bogies": [
+    3.66,
+    19.66
+   ],
+   "under": [
+    [
+     5.5,
+     17.5
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.208,
+   "doors": [
+    {
+     "x": 1.305,
+     "w": 0.97
+    }
+   ],
+   "windows": [
+    [
+     4.33,
+     5.534
+    ],
+    [
+     5.8,
+     7.004
+    ],
+    [
+     7.27,
+     8.474
+    ],
+    [
+     8.74,
+     9.944
+    ],
+    [
+     10.21,
+     11.414
+    ],
+    [
+     11.68,
+     12.884
+    ],
+    [
+     13.15,
+     14.354
+    ],
+    [
+     14.62,
+     15.824
+    ],
+    [
+     16.09,
+     17.294
+    ],
+    [
+     17.56,
+     18.764
+    ],
+    [
+     19.03,
+     20.234
+    ]
+   ],
+   "bogies": [
+    3.55,
+    19.55
+   ],
+   "under": [
+    [
+     5.5,
+     17.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.06,
+     0.82,
+     1
+    ],
+    [
+     0.0,
+     0.86,
+     1
+    ],
+    [
+     0.0,
+     1.05
+    ],
+    [
+     0.0,
+     3.346,
+     1
+    ],
+    [
+     0.12,
+     3.626
+    ],
+    [
+     0.4,
+     3.746,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "gasket"
+  },
+  "face": {
+   "halfWidth": 1.35,
+   "depth": 1.7,
+   "bottom": 0.82,
+   "panel": [
+    {
+     "m": [
+      -1.35,
+      1.35
+     ],
+     "y": [
+      1.135,
+      3.62
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "pts": [
+      [
+       0.67,
+       2.18
+      ],
+      [
+       1.25,
+       2.18
+      ],
+      [
+       1.25,
+       3.5
+      ],
+      [
+       1.15,
+       3.62
+      ],
+      [
+       0.67,
+       3.62,
+       1
+      ]
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      0.71,
+      1.18
+     ],
+     "y": [
+      1.16,
+      1.45
+     ],
+     "r": 0.04,
+     "mirror": true
+    },
+    {
+     "m": [
+      -1.35,
+      1.35
+     ],
+     "y": [
+      0.86,
+      1.135
+     ]
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.7,
+      1.18
+     ],
+     "y": [
+      2.24,
+      3.49
+     ],
+     "r": 0.04,
+     "mirror": true
+    }
+   ],
+   "gangway": {
+    "m": [
+     -0.36,
+     0.36
+    ],
+    "y": [
+     1.03,
+     3.2
+    ],
+    "r": 0.03
+   },
+   "gangwayFrame": {
+    "outline": {
+     "m": [
+      -0.58,
+      0.58
+     ],
+     "y": [
+      0.86,
+      3.61
+     ],
+     "r": [
+      0.03,
+      0.1,
+      0.1,
+      0.03
+     ]
+    },
+    "depth": 0.3
+   },
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 0.99,
+      "y": 1.318,
+      "r": 0.078
+     },
+     {
+      "kind": "tail",
+      "m": 0.82,
+      "y": 1.318,
+      "r": 0.072
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.03
+   }
+  },
+  "plough": {
+   "top": 0.8,
+   "bottom": 0.36,
+   "halfWidth": 1.19,
+   "ahead": 0.12,
+   "sides": 0.02,
+   "rake": 0.08,
+   "color": "#2A2A2A"
+  }
+ },
+ "liveries": {
+  "NT": {
+   "body": "#B6B7B7",
+   "roof": "#7B7878",
+   "doors": "#B4AF97",
+   "panel": "#BA9135",
+   "face": "#BA9135",
+   "gangway": "#BA9135",
+   "surround": "#202227",
+   "under": "#2A2A2A",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       1.215
+      ],
+      [
+       5.12,
+       1.215
+      ],
+      [
+       5.3,
+       1.43
+      ],
+      [
+       5.44,
+       1.63
+      ],
+      [
+       5.7,
+       2.14
+      ],
+      [
+       5.95,
+       3.26
+      ],
+      [
+       -0.1,
+       3.26
+      ]
+     ],
+     "color": "#585C8E",
+     "layer": "under"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       21.44,
+       1.215
+      ],
+      [
+       22.41,
+       1.215
+      ],
+      [
+       22.41,
+       3.2
+      ],
+      [
+       21.44,
+       3.2
+      ]
+     ],
+     "color": "#585C8E"
+    },
+    {
+     "car": "next",
+     "pts": [
+      [
+       0.82,
+       1.215
+      ],
+      [
+       1.79,
+       1.215
+      ],
+      [
+       1.79,
+       3.2
+      ],
+      [
+       0.82,
+       3.2
+      ]
+     ],
+     "color": "#585C8E"
+    }
+   ],
+   "bands": [
+    {
+     "y": [
+      3.27,
+      3.3
+     ],
+     "color": "#E07A2C"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "NT",
+     "at": [
+      7.48,
+      1.735
+     ],
+     "height": 0.64
+    },
+    {
+     "logo": "NT",
+     "at": [
+      15.728,
+      1.735
+     ],
+     "height": 0.64,
+     "car": "next"
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "155 diagram (Class 155 Arriva Northern Diagram, 5656x528): 116.3 px/m along (car 105..2805 = 23.208 m), 117.7 px/m up (rail row 481)",
+  "model.cab": "cab door 0.68-1.47 with its window 0.77-1.22 y 2.19-2.96 (no separate cab side window: the window is in the purple cab door); door 1 white single-leaf plug 1.65-2.78; 12 saloon windows, glass 3.018 + 1.470 i, 1.204 wide, y 2.19-3.01, hopper bar 2.73; small window 20.62-21.23; purple single-leaf plug door at the inner end 21.44-22.41; bogies 16.0 apart (published) centred on the diagram's 3.38/19.94 -> 3.66/19.66",
+  "model.next": "from its inner end: purple door 0.82-1.79, a blank section, 11 windows from 4.33 at the same pitch; bogies assumed as the cab car's (not read)",
+  "model.heights": "body bottom 1.215, orange cantrail line 3.27-3.30 (diagram); window glass 2.19-3.01",
+  "model.face": "p345 head-on: surround m +-1.25 y 2.18-3.62, inner edge 0.67; glass outer 1.18, y 2.24-3.49 (inner edge taken 3 cm inside the surround's); gangway frame +-0.58 y 0.86-3.61; door +-0.36 y 1.03-3.20; lamp box m 0.71-1.18 y 1.16-1.45; head m 0.99 r 0.078 outboard, LED m 0.82 r 0.072, y 1.318; yellow bottom 1.135",
+  "liveries.NT": "purple-346 balanced #585C8E (cab door, against the white door door-346), white body white-346 #948F82 (raw: no clean neutral), door 1 door-346 #B4AF97, face yellow-345 #BA9135 (head-on), surround #202227; purple cab end to the curve (5.95,3.26), (5.70,2.14), (5.44,1.63), (5.30,1.43), (5.12,1.23); the inner doors purple; orange cantrail line 3.27-3.30; roof roof-346 /2.5; the coloured circles (yellow 3.13-3.57, blue 3.93-4.50, pink 4.54-4.84) not drawn",
+  "notes": "Nose profile not measured (old).",
+  "model.cab.photo": "p346 (155346 at Hull, side three-quarter; s346 grid): a 1D projective fit along the bodyside through the first eight saloon windows' glass edges at 3.018 + 1.470 i, 1.204 wide fits 16 points to 0-4.4 cm, confirming the window pitch. It puts the cab-end features forward of the diagram: the cab door's window 0.57-1.00 (diagram 0.77-1.22), door 1 1.35-2.37 (1.65-2.78) with its window 1.52-2.28 (1.80-2.56). Applied: the cab door centred 0.865 (moved 0.21 m forward), door 1 centred 1.86, 1.02 wide",
+  "liveries.NT.body": "white: the 155's own white samples are in shade or warm (white-346 #948F82, rendered beige); Northern's white is one paint across its Sprinters, so the 156's sunlit nt-white-alt #B2B9BA as a neutral grey of the same luminance: #B6B7B7",
+  "liveries.NT.branding": "Northern roundel and wordmark on p346 (lg155 grid, 2x): the roundel's left edge 1897 px and the N's right edge 2095 px, read along the car through the window fit (s346, residuals under 4.4 cm): 6.30-8.65 m; its height 880-1005 px against the window glass (175 px = 0.82 m) 1.44-2.03 m. Width and height disagree by 15% for the artwork's aspect (3.37): the mean, 0.64 m high, centred 7.48/1.735. The artwork's own colours (navy roundel, white n, navy lettering) as on the photo",
+  "model.nose.profile.lower": "below the body: the diagrams (150 dia2, 153, 155, 156) draw the cab face flat and vertical down to its lowest painted item, with the headstock, coupler and snowplough under it; there is no sloping chin (the old flatProfile slanted back from 1.05 to 0.55 m at 0.25 m). Now the face runs straight down to 0.860 m (the lowest face item measured head-on) and steps back 6 cm to 0.820, the coupler and plough below as the pipeline draws them",
+  "liveries.branding.next": "the second car is a mirrored driving car: branding repeated at the mirrored position (length minus x), not measured on that car",
+  "model.plough": "the side diagram draws a black plough under the face (153, 155, 156 diagrams, nose crops): its blade from just under the face down to 0.36 m (155 diagram rows 349-439 at 117.7 px/m from rail row 481), its front about 0.06-0.12 m ahead of the face; its width and V not seen side-on: the 150's half-width 1.19 used. Black as drawn"
+ },
+ "views": {}
+}

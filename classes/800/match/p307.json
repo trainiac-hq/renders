@@ -1,0 +1,143 @@
+{
+ "ref": "p307",
+ "side": "near",
+ "model": {
+  "w1-tf": [
+   9.659,
+   2.62
+  ],
+  "w1-br": [
+   11.275,
+   1.9
+  ],
+  "w2-tf": [
+   11.584,
+   2.62
+  ],
+  "w2-br": [
+   13.2,
+   1.9
+  ],
+  "w3-tf": [
+   13.509,
+   2.62
+  ],
+  "w3-br": [
+   15.125,
+   1.9
+  ],
+  "w4-tf": [
+   15.469,
+   2.62
+  ],
+  "w4-br": [
+   17.05,
+   1.9
+  ],
+  "w5-tf": [
+   17.394,
+   2.62
+  ],
+  "w5-br": [
+   18.975,
+   1.9
+  ],
+  "w6-tf": [
+   19.319,
+   2.62
+  ],
+  "w6-br": [
+   20.9,
+   1.9
+  ]
+ },
+ "points": {
+  "w1-tf": [
+   2017,
+   1310
+  ],
+  "w1-br": [
+   2090,
+   1400
+  ],
+  "w2-tf": [
+   2112,
+   1282
+  ],
+  "w2-br": [
+   2177,
+   1377
+  ],
+  "w3-tf": [
+   2195,
+   1255
+  ],
+  "w3-br": [
+   2256,
+   1346
+  ],
+  "w4-tf": [
+   2271,
+   1231
+  ],
+  "w4-br": [
+   2327,
+   1317
+  ],
+  "w5-tf": [
+   2341,
+   1212
+  ],
+  "w5-br": [
+   2391,
+   1290
+  ],
+  "w6-tf": [
+   2402,
+   1202
+  ],
+  "w6-br": [
+   2450,
+   1270
+  ]
+ },
+ "holdout": [
+  "w2-br",
+  "w5-tf"
+ ],
+ "focalPx": 4119,
+ "readings": {
+  "focalPx": "EXIF: Sony RX10 IV (13.2 mm wide 1-inch sensor, 5472 px), 14.16 mm -> 5870 px at full size; the Commons file is that frame scaled by 0.9507, our copy is 3840 wide: 5870 x 3840/5472 = 4119 px",
+  "windows": "virtual corners of the cab car's six windows on a 10 px grid (g307w); a wide lens, so this photo has real perspective, unlike p311's 120 mm equivalent"
+ },
+ "surface": {
+  "yellow-near-top": [
+   1386,
+   1611
+  ],
+  "screen-near-bottom": [
+   1395,
+   1586
+  ],
+  "lamp-c-top-rear": [
+   1485,
+   1595
+  ],
+  "lamp-b-top-front": [
+   1382,
+   1627
+  ],
+  "lamp-a-low-front": [
+   1340,
+   1726
+  ],
+  "led-centre": [
+   1400,
+   1679
+  ],
+  "head-centre": [
+   1435,
+   1642
+  ]
+ }
+}

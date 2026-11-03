@@ -1,0 +1,220 @@
+{
+ "class": "444",
+ "subject": "Class 444 in South Western Railway's painted livery (2024 on)",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-444-in-the-new-South-Western-Railway-painted-livery.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_444_in_the_new_South_Western_Railway_painted_livery.png",
+   "author": "N0thhan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024",
+   "kind": "diagram",
+   "unit": "444 (5 cars), SWR painted livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p016": {
+   "file": "refs/444016-Portsmouth-Southsea-April-6th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:444016,_Portsmouth_%26_Southsea,_April_6th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-06",
+   "kind": "photo",
+   "unit": "444016",
+   "view": "close three-quarter, nose right (far side)",
+   "light": "sun"
+  },
+  "p012": {
+   "file": "refs/444012-Parkstone-March-27th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:444012,_Parkstone,_March_27th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-27",
+   "kind": "photo",
+   "unit": "444012",
+   "view": "near head-on from the left, nose left (near side)",
+   "light": "dull"
+  },
+  "p001": {
+   "file": "refs/444001-Woking-December-28th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:444001,_Woking,_December_28th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-12-28",
+   "kind": "photo",
+   "unit": "444001 (door 1 open)",
+   "view": "close three-quarter, nose right (far side)",
+   "light": "overcast"
+  },
+  "p003": {
+   "file": "refs/444003-Parkstone-March-27th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:444003,_Parkstone,_March_27th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-27",
+   "kind": "photo",
+   "unit": "444003",
+   "view": "three-quarter from above, nose left, whole cab car",
+   "light": "dull"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-012",
+   "ref": "p012",
+   "box": [
+    240,
+    390,
+    760,
+    900
+   ],
+   "feature": "whole front, near head-on",
+   "reading": "As the 450: yellow crescent up each outer edge from the roof shoulder, a yellow panel under each screen holding three lamps (headlamp inboard, marker outboard, red tail below between), gangway in a weathered frame, door black over yellow with four panels; navy above, numbers white over the screens."
+  },
+  {
+   "id": "f-lamps-r-012",
+   "ref": "p012",
+   "box": [
+    500,
+    640,
+    620,
+    730
+   ],
+   "feature": "near-side lamps",
+   "reading": "Headlamp inboard (larger, clear), dark marker outboard about 0.6 of its size at the same height, red tail below between; flush, black rings."
+  },
+  {
+   "id": "f-face-016",
+   "ref": "p016",
+   "box": [
+    680,
+    90,
+    1300,
+    1100
+   ],
+   "feature": "front, close three-quarter",
+   "reading": "As the 450: the yellow a 'C' (outer band rounded at the top, panel under the screen to the lamp bottoms, rounded lower outer corner); headlamp inboard, marker outboard slightly higher, tail below between; wiper pivoted bottom-inboard; bellows full height beside the door (reader 2)."
+  },
+  {
+   "id": "s-corner-door-016",
+   "ref": "p016",
+   "box": [
+    380,
+    200,
+    900,
+    900
+   ],
+   "feature": "cab corner, cab door, door 1",
+   "reading": "Crescent widest at about window height, convex rear edge, ending rounded just below the lamps; cab door navy, outlined by grooves, rounded top-rear corner, window half its width toward its rear edge in two panes; the SWR logo between the cab door and door 1; the cantrail line runs back from door 1 only (reader 2)."
+  },
+  {
+   "id": "s-door1-016",
+   "ref": "p016",
+   "box": [
+    380,
+    230,
+    520,
+    780
+   ],
+   "feature": "door 1 (first class, single leaf)",
+   "reading": "Single pale grey leaf, sky-blue band over the top, yellow outline all round: thin full height in front, wide on the rear edge for the top 40% (with 'First Class'), then thin to the bottom; window from 15% to 60% of the leaf height (reader 2)."
+  },
+  {
+   "id": "s-cab-016",
+   "ref": "p016",
+   "box": [
+    540,
+    200,
+    720,
+    800
+   ],
+   "feature": "cab door",
+   "reading": "Cab door: narrow two-pane window offset toward the rear edge, no yellow on the door (reader 2)."
+  },
+  {
+   "id": "s-side-003",
+   "ref": "p003",
+   "box": [
+    300,
+    250,
+    1100,
+    950
+   ],
+   "feature": "cab car side, diagonal",
+   "reading": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    720,
+    354
+   ],
+   "feature": "diagram: cab end to the windows",
+   "reading": ""
+  },
+  {
+   "id": "d-diagonal",
+   "ref": "dia",
+   "box": [
+    800,
+    0,
+    1300,
+    354
+   ],
+   "feature": "diagram: diagonal",
+   "reading": ""
+  },
+  {
+   "id": "d-car2",
+   "ref": "dia",
+   "box": [
+    1852,
+    0,
+    3430,
+    354
+   ],
+   "feature": "diagram: car 2",
+   "reading": "White with a navy band and yellow bottom line; two single navy doors with blue top bands, seven windows between them and three after (reader 2)."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-door-016",
+   "ref": "p016",
+   "box": [
+    425,
+    600,
+    470,
+    690
+   ],
+   "what": "door 1 leaf below its window, sunlit"
+  },
+  {
+   "id": "navy-016",
+   "ref": "p016",
+   "box": [
+    500,
+    600,
+    560,
+    680
+   ],
+   "what": "cab car navy below the logo",
+   "neutral": "white-door-016"
+  },
+  {
+   "id": "yellow-016",
+   "ref": "p016",
+   "box": [
+    720,
+    420,
+    760,
+    560
+   ],
+   "what": "yellow crescent on the corner, sunlit",
+   "neutral": "white-door-016"
+  }
+ ]
+}

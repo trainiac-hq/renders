@@ -1,0 +1,70 @@
+{
+ "ref": "p028",
+ "side": "near",
+ "model": {
+  "w1-top-front": [
+   3.53,
+   2.96
+  ],
+  "w1-bottom-front": [
+   3.53,
+   1.93
+  ]
+ },
+ "points": {
+  "door0-front-top": [
+   1184.3,
+   429.5
+  ],
+  "door0-rear-top": [
+   1286.5,
+   429.5
+  ],
+  "door0-front-bottom": [
+   1184.6,
+   749.0
+  ],
+  "w1-top-front": [
+   1472.0,
+   488.5
+  ],
+  "w1-bottom-front": [
+   1471.5,
+   624.0
+  ],
+  "lamp2-head": [
+   1006.5,
+   668.5
+  ],
+  "lamp0-marker": [
+   1025.7,
+   670.3
+  ],
+  "lamp1-tail": [
+   1015.0,
+   690.0
+  ],
+  "gangway-frame-top-near": [
+   930.0,
+   404.0
+  ],
+  "gangway-frame-top-far": [
+   900.0,
+   404.0
+  ],
+  "gangway-frame-bottom-near": [
+   930.0,
+   718.0
+  ]
+ },
+ "holdout": [
+  "door0-front-bottom",
+  "lamp1-tail"
+ ],
+ "readings": {
+  "door0-*": "cab door outline groove corners (z2, 12x); its bottom reaches the yellow line's top",
+  "w1-*": "the one window ahead of door 1, front frame edge, virtual corners of its rounded frame",
+  "lamp*": "near group seen almost edge-on: headlamp inboard (left), marker outboard, tail below (z3)",
+  "gangway-frame-*": "the frame's front plate: its near edge meets the bellows at sx 930, far edge 900; top 404, bottom 718 (g28b)"
+ }
+}

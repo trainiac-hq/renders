@@ -1,0 +1,106 @@
+{
+ "ref": "p803",
+ "side": "near",
+ "note": "375803 head-on, near side = image right = the train's LEFT side (m positive); z = -m.",
+ "points": {
+  "lamp0-head": [
+   2428,
+   1520
+  ],
+  "lamp0-tail": [
+   2300,
+   1559
+  ],
+  "lamp1-head": [
+   1380,
+   1535
+  ],
+  "lamp1-tail": [
+   1506,
+   1572
+  ],
+  "panel-outer-top-near": [
+   2541,
+   1290
+  ],
+  "panel-outer-top-far": [
+   1260,
+   1310
+  ],
+  "marker": [
+   1885,
+   445
+  ],
+  "number-near-start": [
+   2221,
+   1371
+  ],
+  "number-far-end": [
+   1574,
+   1385
+  ],
+  "cap-orange-near": [
+   2490,
+   642
+  ],
+  "gangway-door-top-near": [
+   2058,
+   680
+  ],
+  "gangway-door-top-far": [
+   1704,
+   680
+  ]
+ },
+ "modelFace": {
+  "panel-outer-top-near": [
+   -1.262,
+   2.0
+  ],
+  "panel-outer-top-far": [
+   1.262,
+   2.0
+  ],
+  "marker": [
+   0.0,
+   3.682
+  ],
+  "number-near-start": [
+   -0.633,
+   1.843
+  ],
+  "number-far-end": [
+   0.643,
+   1.846
+  ],
+  "cap-orange-near": [
+   -1.185,
+   3.272
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "number-far-end",
+  "gangway-door-top-far"
+ ],
+ "readings": {
+  "lamp0-head": "pkA: lens 2365-2491 x 1455-1584, centre",
+  "lamp0-tail": "pkA: lit LED disc 2259-2340 x 1519-1599",
+  "lamp1-head": "pkA: lit lens 1319-1442 x 1473-1596",
+  "lamp1-tail": "pkA: grey disc 1467-1544 x 1528-1616",
+  "panel-outer-top-near": "pkD scrBR: yellow top 1290, right edge 2541",
+  "panel-outer-top-far": "pkE scrBL: yellow top 1310, left edge 1260",
+  "marker": "oval lens 1816-1954 x 410-480 (the dome stands ~0.3 m back: off the face plane)",
+  "number-near-start": "left edge of the first '3', mid-height",
+  "number-far-end": "right edge of the last '3' on the left panel",
+  "cap-orange-near": "capR: cap's outer end meets the orange line",
+  "gangway-door-top-near": "drT/gdR: yellow leaf top corner at the seal (door ~0.28 m proud of the face: off-plane)",
+  "gangway-door-top-far": "drT/gdL",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side near (bodyside right of the face) correct though it has no bodyside points; lamps and modelFace signs (-near = z<0, right as seen) correct. No change."
+ },
+ "offPlane": "marker (dome set back) and the gangway door corners (proud of the face) give depth; the rest is the face plane. Gangway door corners: [m, y] = [+/-0.348, 3.218] on the door, which stands ~0.28 m ahead of the face (0.6 of the frame depth by parallax).",
+ "size": [
+  3840,
+  2560
+ ]
+}

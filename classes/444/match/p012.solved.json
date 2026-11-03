@@ -1,0 +1,146 @@
+{
+ "photo": "p012",
+ "size": [
+  1600,
+  1067
+ ],
+ "fit": [
+  "lamp2-head",
+  "lamp0-marker",
+  "lamp1-tail",
+  "lamp5-marker",
+  "gangway-frame-top-far",
+  "door1-front-top",
+  "door1-rear-top"
+ ],
+ "holdout": [
+  "lamp4-tail",
+  "gangway-frame-top-near"
+ ],
+ "rmsFit": 4.11,
+ "outliers": [
+  "lamp5-marker"
+ ],
+ "focalPx": 3229.0,
+ "principal": [
+  800.0,
+  533.5
+ ],
+ "k1": 0.0,
+ "fitErrors": {
+  "lamp2-head": {
+   "px": 1.91,
+   "cm": 1.48,
+   "projected": [
+    529.7,
+    673.4
+   ]
+  },
+  "lamp0-marker": {
+   "px": 4.88,
+   "cm": 3.76,
+   "projected": [
+    584.1,
+    670.9
+   ]
+  },
+  "lamp1-tail": {
+   "px": 0.9,
+   "cm": 0.69,
+   "projected": [
+    561.4,
+    694.2
+   ]
+  },
+  "lamp5-marker": {
+   "px": 7.13,
+   "cm": 5.59,
+   "projected": [
+    282.5,
+    679.6
+   ]
+  },
+  "gangway-frame-top-far": {
+   "px": 6.02,
+   "cm": 4.6,
+   "projected": [
+    324.7,
+    414.3
+   ]
+  },
+  "door1-front-top": {
+   "px": 0.78,
+   "cm": 0.67,
+   "projected": [
+    670.4,
+    453.6
+   ]
+  },
+  "door1-rear-top": {
+   "px": 1.42,
+   "cm": 1.27,
+   "projected": [
+    697.8,
+    459.8
+   ]
+  }
+ },
+ "heldOut": {
+  "lamp4-tail": {
+   "px": 8.72,
+   "cm": 6.82,
+   "projected": [
+    303.8,
+    701.3
+   ]
+  },
+  "gangway-frame-top-near": {
+   "px": 7.45,
+   "cm": 5.65,
+   "projected": [
+    480.2,
+    407.4
+   ]
+  }
+ },
+ "worstHeldOutCm": 6.82,
+ "ok": false,
+ "camera": {
+  "matrix": [
+   [
+    0.18013048957429764,
+    -0.02504146142564597,
+    -0.9833239201480821,
+    -24.16292131722798
+   ],
+   [
+    -0.9831700223626172,
+    -0.03557174704467442,
+    -0.17919642278706463,
+    -7.35054513723654
+   ],
+   [
+    -0.0304912094416493,
+    0.999053339928283,
+    -0.031027570400015192,
+    1.8279737166098249
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "lens": 72.6525,
+  "shift": [
+   0.0,
+   0.0
+  ],
+  "size": [
+   1600,
+   1067
+  ],
+  "k1": 0.0
+ }
+}

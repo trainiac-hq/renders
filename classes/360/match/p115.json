@@ -1,0 +1,66 @@
+{
+ "ref": "p115",
+ "side": "far",
+ "focalPx": 3013,
+ "points": {
+  "lamp5-marker": [
+   1027,
+   586
+  ],
+  "lamp3-head": [
+   1066,
+   584
+  ],
+  "lamp4-tail": [
+   1044,
+   605.7
+  ],
+  "lamp2-head": [
+   1229,
+   570.3
+  ],
+  "screen1-top-far": [
+   1003,
+   425
+  ],
+  "screen1-top-near": [
+   1128,
+   417
+  ],
+  "screen1-bottom-far": [
+   1013,
+   524
+  ],
+  "screen1-bottom-near": [
+   1129,
+   519
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "screen1-bottom-near"
+ ],
+ "readings": {
+  "focalPx": "EXIF: Canon EOS R50 (APS-C 22.3 mm), 42 mm, 3:2 uncropped at 1600 px",
+  "lamp*": "z17 (12x): ring centres; image left is the far side",
+  "screen1-*": "g115c (3.75x): the far pane's glass corners (virtual, rounded)"
+ },
+ "surface": {
+  "emr-left": [
+   1130.8,
+   577.0
+  ],
+  "emr-right": [
+   1170.8,
+   576.0
+  ],
+  "emr-top": [
+   1150.0,
+   571.5
+  ],
+  "emr-bottom": [
+   1150.0,
+   581.7
+  ]
+ }
+}

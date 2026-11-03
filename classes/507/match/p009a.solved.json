@@ -1,0 +1,244 @@
+{
+ "photo": "p009a",
+ "size": [
+  1600,
+  1067
+ ],
+ "fit": [
+  "lamp2-head",
+  "lamp3-head",
+  "lamp1-head",
+  "lamp4-head",
+  "lamp0-head",
+  "lamp0-tail",
+  "w3-centre-top",
+  "w4-centre-top",
+  "w5-centre-top",
+  "w6-centre-top",
+  "end-top",
+  "door2-seal-front-top",
+  "door2-seal-rear-top"
+ ],
+ "holdout": [
+  "lamp4-tail",
+  "w1-centre-top",
+  "door1-seal-front-top",
+  "door1-seal-rear-top"
+ ],
+ "rmsFit": 1.96,
+ "outliers": [],
+ "focalPx": 4191.8,
+ "principal": [
+  800.0,
+  533.5
+ ],
+ "k1": 0.0,
+ "fitErrors": {
+  "lamp2-head": {
+   "px": 2.2,
+   "cm": 2.04,
+   "projected": [
+    645.2,
+    385.2
+   ]
+  },
+  "lamp3-head": {
+   "px": 1.59,
+   "cm": 1.47,
+   "projected": [
+    628.2,
+    409.7
+   ]
+  },
+  "lamp1-head": {
+   "px": 1.3,
+   "cm": 1.21,
+   "projected": [
+    661.9,
+    409.7
+   ]
+  },
+  "lamp4-head": {
+   "px": 3.53,
+   "cm": 3.3,
+   "projected": [
+    535.1,
+    609.4
+   ]
+  },
+  "lamp0-head": {
+   "px": 2.41,
+   "cm": 2.23,
+   "projected": [
+    755.0,
+    611.0
+   ]
+  },
+  "lamp0-tail": {
+   "px": 1.88,
+   "cm": 1.74,
+   "projected": [
+    726.1,
+    625.0
+   ]
+  },
+  "w3-centre-top": {
+   "px": 1.61,
+   "cm": 1.84,
+   "projected": [
+    915.9,
+    468.7
+   ]
+  },
+  "w4-centre-top": {
+   "px": 0.18,
+   "cm": 0.21,
+   "projected": [
+    937.4,
+    469.8
+   ]
+  },
+  "w5-centre-top": {
+   "px": 0.45,
+   "cm": 0.59,
+   "projected": [
+    980.5,
+    471.8
+   ]
+  },
+  "w6-centre-top": {
+   "px": 1.28,
+   "cm": 1.74,
+   "projected": [
+    997.2,
+    472.6
+   ]
+  },
+  "end-top": {
+   "px": 3.06,
+   "cm": 4.25,
+   "projected": [
+    1007.5,
+    453.3
+   ]
+  },
+  "door2-seal-front-top": {
+   "px": 0.98,
+   "cm": 1.21,
+   "projected": [
+    950.3,
+    450.3
+   ]
+  },
+  "door2-seal-rear-top": {
+   "px": 2.06,
+   "cm": 2.62,
+   "projected": [
+    966.9,
+    451.8
+   ]
+  }
+ },
+ "heldOut": {
+  "lamp4-tail": {
+   "px": 2.4,
+   "cm": 2.23,
+   "projected": [
+    563.4,
+    623.7
+   ]
+  },
+  "w1-centre-top": {
+   "px": 4.02,
+   "cm": 4.16,
+   "projected": [
+    860.1,
+    466.1
+   ]
+  },
+  "door1-seal-front-top": {
+   "px": 1.66,
+   "cm": 1.77,
+   "projected": [
+    877.2,
+    443.8
+   ]
+  },
+  "door1-seal-rear-top": {
+   "px": 1.05,
+   "cm": 1.16,
+   "projected": [
+    899.0,
+    445.8
+   ]
+  }
+ },
+ "conditioning": {
+  "flatness": 0.0626,
+  "offPlane": 6,
+  "faceSigmaCm": {
+   "lamp0-head": 1.1,
+   "lamp0-tail": 1.07,
+   "lamp1-head": 0.93,
+   "lamp2-head": 1.02,
+   "lamp3-head": 0.94,
+   "lamp4-head": 1.21,
+   "lamp4-tail": 1.15,
+   "screen0-top-near": 1.04,
+   "screen0-top-far": 0.86,
+   "screen0-bottom-near": 1.01,
+   "screen0-bottom-far": 0.83,
+   "screen1-top-near": 0.81,
+   "screen1-top-far": 0.82,
+   "screen1-bottom-near": 0.75,
+   "screen1-bottom-far": 0.77,
+   "screen2-top-near": 0.92,
+   "screen2-top-far": 1.15,
+   "screen2-bottom-near": 0.89,
+   "screen2-bottom-far": 1.15,
+   "nose-tip": 0.75
+  },
+  "faceScored": true
+ },
+ "notScored": [],
+ "worstHeldOutCm": 4.16,
+ "ok": true,
+ "camera": {
+  "matrix": [
+   [
+    0.1510328861702346,
+    0.009383006956120496,
+    -0.9884842064876658,
+    -38.264015656680606
+   ],
+   [
+    -0.9885242014091212,
+    0.004463283916160629,
+    -0.15099663017810272,
+    -7.303659703578067
+   ],
+   [
+    0.002995083228883257,
+    0.999946017681527,
+    0.00994943210977015,
+    2.4412917590711096
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "lens": 94.31584404131755,
+  "shift": [
+   0.0,
+   0.0
+  ],
+  "size": [
+   1600,
+   1067
+  ],
+  "k1": 0.0
+ }
+}

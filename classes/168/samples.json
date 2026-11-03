@@ -1,0 +1,190 @@
+{
+ "silver-mar": {
+  "ref": "mar",
+  "box": [
+   1520,
+   1180,
+   1740,
+   1280
+  ],
+  "what": "silver bodyside below the navy line (cab door)",
+  "median": "#777879",
+  "iqr": [
+   14,
+   13,
+   11
+  ]
+ },
+ "band-top-mar": {
+  "ref": "mar",
+  "box": [
+   1900,
+   440,
+   2400,
+   480
+  ],
+  "what": "bodyside between the teal band and the window tops",
+  "median": "#9AA5A6",
+  "iqr": [
+   25,
+   20,
+   22
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "silver-mar"
+ },
+ "band-low-mar": {
+  "ref": "mar",
+  "box": [
+   2280,
+   935,
+   2500,
+   970
+  ],
+  "what": "bodyside below the windows, above the navy line",
+  "median": "#615E5E",
+  "iqr": [
+   13,
+   14,
+   12
+  ],
+  "balanced": "#A39D9B",
+  "neutral": "silver-mar"
+ },
+ "teal-mar": {
+  "ref": "mar",
+  "box": [
+   1900,
+   398,
+   2400,
+   415
+  ],
+  "what": "pale teal band",
+  "median": "#9EA3A4",
+  "iqr": [
+   46,
+   10,
+   19
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "silver-mar"
+ },
+ "navy-mar": {
+  "ref": "mar",
+  "box": [
+   1500,
+   1108,
+   1720,
+   1124
+  ],
+  "what": "navy waist line",
+  "median": "#1F2E4D",
+  "iqr": [
+   4,
+   3,
+   3
+  ],
+  "balanced": "#344D7F",
+  "neutral": "silver-mar"
+ },
+ "yellow-mar": {
+  "ref": "mar",
+  "box": [
+   600,
+   1000,
+   700,
+   1100
+  ],
+  "what": "face yellow (other surface; no neutral)",
+  "median": "#F3C344",
+  "iqr": [
+   7,
+   8,
+   5
+  ]
+ },
+ "silver-hw": {
+  "ref": "hw",
+  "box": [
+   1455,
+   1300,
+   1490,
+   1330
+  ],
+  "what": "silver bodyside, sun",
+  "median": "#DDDFD9",
+  "iqr": [
+   13,
+   14,
+   15
+  ]
+ },
+ "band-hw": {
+  "ref": "hw",
+  "box": [
+   1470,
+   1262,
+   1680,
+   1274
+  ],
+  "what": "band below the windows, sun",
+  "median": "#3B4446",
+  "iqr": [
+   3,
+   2,
+   3
+  ],
+  "balanced": "#353D41",
+  "neutral": "silver-hw"
+ },
+ "roof-hw": {
+  "ref": "hw",
+  "box": [
+   1520,
+   1018,
+   1640,
+   1032
+  ],
+  "what": "roof",
+  "median": "#B3A99D",
+  "iqr": [
+   13,
+   16,
+   19
+  ],
+  "balanced": "#A29891",
+  "neutral": "silver-hw"
+ },
+ "yellow-mk": {
+  "ref": "mk",
+  "box": [
+   2700,
+   1450,
+   2900,
+   1550
+  ],
+  "what": "face yellow, 168328",
+  "median": "#C9A435",
+  "iqr": [
+   4,
+   4,
+   6
+  ]
+ },
+ "silver-mk": {
+  "ref": "mk",
+  "box": [
+   3380,
+   1700,
+   3440,
+   1780
+  ],
+  "what": "silver face corner, 168328",
+  "median": "#3F3A35",
+  "iqr": [
+   35,
+   35,
+   38
+  ]
+ }
+}

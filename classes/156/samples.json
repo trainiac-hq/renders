@@ -1,0 +1,248 @@
+{
+ "nt-white-alt": {
+  "ref": "palt",
+  "box": [
+   620,
+   1335,
+   760,
+   1370
+  ],
+  "what": "NT car side white/grey, sun (neutral: white balance only, own level kept)",
+  "median": "#B2B9BA",
+  "iqr": [
+   27,
+   23,
+   19
+  ]
+ },
+ "nt-purple-alt": {
+  "ref": "palt",
+  "box": [
+   1420,
+   1250,
+   1480,
+   1350
+  ],
+  "what": "NT purple, cab end",
+  "median": "#7383A2",
+  "iqr": [
+   19,
+   10,
+   8
+  ],
+  "balanced": "#76829F",
+  "neutral": "nt-white-alt"
+ },
+ "nt-yellow-alt": {
+  "ref": "palt",
+  "box": [
+   1880,
+   1360,
+   2020,
+   1430
+  ],
+  "what": "NT face yellow",
+  "median": "#FEDA1F",
+  "iqr": [
+   2,
+   15,
+   23
+  ],
+  "balanced": "#FFD81E",
+  "neutral": "nt-white-alt"
+ },
+ "nt-roof-alt": {
+  "ref": "palt",
+  "box": [
+   1000,
+   880,
+   1300,
+   900
+  ],
+  "what": "NT roof",
+  "median": "#AABAB2",
+  "iqr": [
+   41,
+   40,
+   45
+  ],
+  "balanced": "#AFB8AF",
+  "neutral": "nt-white-alt"
+ },
+ "nt-yellow-dar": {
+  "ref": "pdar",
+  "box": [
+   2700,
+   1450,
+   2780,
+   1600
+  ],
+  "what": "NT face yellow, overcast",
+  "median": "#C89B08",
+  "iqr": [
+   33,
+   29,
+   17
+  ]
+ },
+ "nt-purple-dar": {
+  "ref": "pdar",
+  "box": [
+   1905,
+   1300,
+   1925,
+   1500
+  ],
+  "what": "NT purple at the corner, overcast",
+  "median": "#31306F",
+  "iqr": [
+   5,
+   4,
+   6
+  ]
+ },
+ "nt-surround-dar": {
+  "ref": "pdar",
+  "box": [
+   2290,
+   1300,
+   2330,
+   1600
+  ],
+  "what": "gangway surround",
+  "median": "#3C3C39",
+  "iqr": [
+   23,
+   23,
+   34
+  ]
+ },
+ "nt-lampbox-dar": {
+  "ref": "pdar",
+  "box": [
+   1995,
+   1700,
+   2010,
+   1760
+  ],
+  "what": "lamp box black",
+  "median": "#472C13",
+  "iqr": [
+   99,
+   60,
+   20
+  ]
+ },
+ "sr-yellow-car": {
+  "ref": "pcar",
+  "box": [
+   2100,
+   1250,
+   2170,
+   1310
+  ],
+  "what": "SR face yellow",
+  "median": "#C79B3B",
+  "iqr": [
+   7,
+   8,
+   6
+  ]
+ },
+ "sr-blue-car": {
+  "ref": "pcar",
+  "box": [
+   2215,
+   1330,
+   2240,
+   1450
+  ],
+  "what": "SR blue on the face corner",
+  "median": "#31375C",
+  "iqr": [
+   7,
+   4,
+   10
+  ]
+ },
+ "sr-surround-car": {
+  "ref": "pcar",
+  "box": [
+   1955,
+   1100,
+   2000,
+   1300
+  ],
+  "what": "gangway surround",
+  "median": "#404245",
+  "iqr": [
+   8,
+   8,
+   8
+  ]
+ },
+ "sr-blue-gc": {
+  "ref": "pgc",
+  "box": [
+   880,
+   1195,
+   990,
+   1235
+  ],
+  "what": "SR body blue, side",
+  "median": "#212441",
+  "iqr": [
+   22,
+   13,
+   10
+  ]
+ },
+ "sr-green-gc": {
+  "ref": "pgc",
+  "box": [
+   1050,
+   960,
+   1150,
+   975
+  ],
+  "what": "SR green band",
+  "median": "#8BDB77",
+  "iqr": [
+   14,
+   16,
+   13
+  ]
+ },
+ "sr-roof-gc": {
+  "ref": "pgc",
+  "box": [
+   900,
+   860,
+   1100,
+   880
+  ],
+  "what": "SR roof",
+  "median": "#6F7478",
+  "iqr": [
+   49,
+   51,
+   52
+  ]
+ },
+ "sr-door-gc": {
+  "ref": "pgc",
+  "box": [
+   1290,
+   1150,
+   1320,
+   1300
+  ],
+  "what": "SR passenger door",
+  "median": "#524A3C",
+  "iqr": [
+   37,
+   37,
+   38
+  ]
+ }
+}

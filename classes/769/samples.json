@@ -1,0 +1,290 @@
+{
+ "white-434w": {
+  "ref": "p434w",
+  "box": [
+   2201,
+   1494,
+   2234,
+   1527
+  ],
+  "what": "Northern white bodyside",
+  "median": "#78838B",
+  "iqr": [
+   4,
+   5,
+   7
+  ]
+ },
+ "navy-434w": {
+  "ref": "p434w",
+  "box": [
+   1381,
+   1395,
+   1447,
+   1461
+  ],
+  "what": "Northern navy cab side",
+  "median": "#201F5B",
+  "iqr": [
+   4,
+   5,
+   4
+  ],
+  "balanced": "#40399D",
+  "neutral": "white-434w"
+ },
+ "teal-434w": {
+  "ref": "p434w",
+  "box": [
+   1768,
+   1520,
+   1781,
+   1559
+  ],
+  "what": "teal dot",
+  "median": "#095877",
+  "iqr": [
+   3,
+   4,
+   6
+  ],
+  "balanced": "#12A1CD",
+  "neutral": "white-434w"
+ },
+ "pink-434w": {
+  "ref": "p434w",
+  "box": [
+   1870,
+   1520,
+   1883,
+   1559
+  ],
+  "what": "pink dot",
+  "median": "#882858",
+  "iqr": [
+   36,
+   7,
+   10
+  ],
+  "balanced": "#FF4998",
+  "neutral": "white-434w"
+ },
+ "small-434w": {
+  "ref": "p434w",
+  "box": [
+   1709,
+   1572,
+   1719,
+   1599
+  ],
+  "what": "small dot",
+  "median": "#3F5279",
+  "iqr": [
+   4,
+   3,
+   5
+  ],
+  "balanced": "#7E96D1",
+  "neutral": "white-434w"
+ },
+ "yellow-458": {
+  "ref": "p458",
+  "box": [
+   900,
+   1150,
+   1000,
+   1250
+  ],
+  "what": "Northern 769 yellow front (no neutral)",
+  "median": "#A46E16",
+  "iqr": [
+   6,
+   6,
+   5
+  ]
+ },
+ "silver-006": {
+  "ref": "p006",
+  "box": [
+   2094,
+   1494,
+   2138,
+   1566
+  ],
+  "what": "TfW silver bodyside, sunlit",
+  "median": "#DBDAE2",
+  "iqr": [
+   1,
+   1,
+   1
+  ]
+ },
+ "red-006": {
+  "ref": "p006",
+  "box": [
+   1972,
+   1061,
+   1993,
+   1205
+  ],
+  "what": "TfW red wrap at the cab corner",
+  "median": "#982F32",
+  "iqr": [
+   16,
+   6,
+   12
+  ],
+  "balanced": "#A73435",
+  "neutral": "silver-006"
+ },
+ "yellow-006": {
+  "ref": "p006",
+  "box": [
+   1150,
+   1650,
+   1250,
+   1700
+  ],
+  "what": "TfW yellow front (no neutral on the face)",
+  "median": "#A47502",
+  "iqr": [
+   11,
+   11,
+   8
+  ]
+ },
+ "silver-003e": {
+  "ref": "p003e",
+  "box": [
+   1990,
+   820,
+   2100,
+   960
+  ],
+  "what": "TfW silver bodyside, overcast",
+  "median": "#BEBEC2",
+  "iqr": [
+   13,
+   13,
+   16
+  ]
+ },
+ "band-003e": {
+  "ref": "p003e",
+  "box": [
+   2125,
+   600,
+   2138,
+   760
+  ],
+  "what": "TfW black window band",
+  "median": "#303336",
+  "iqr": [
+   3,
+   3,
+   3
+  ],
+  "balanced": "#3D4043",
+  "neutral": "silver-003e"
+ },
+ "door-003e": {
+  "ref": "p003e",
+  "box": [
+   2330,
+   800,
+   2380,
+   1000
+  ],
+  "what": "TfW red door",
+  "median": "#C3333F",
+  "iqr": [
+   30,
+   14,
+   15
+  ],
+  "balanced": "#F6404E",
+  "neutral": "silver-003e"
+ },
+ "green-LM26": {
+  "ref": "pLM26",
+  "box": [
+   1730,
+   1469,
+   1807,
+   1546
+  ],
+  "what": "GWR green bodyside in shade (no neutral; too dark to use)",
+  "median": "#0C1E1F",
+  "iqr": [
+   2,
+   3,
+   4
+  ]
+ },
+ "yellow-LM26": {
+  "ref": "pLM26",
+  "box": [
+   2700,
+   1500,
+   2720,
+   1520
+  ],
+  "what": "GWR yellow front, lower panel (no neutral)",
+  "median": "#C68F01",
+  "iqr": [
+   22,
+   23,
+   4
+  ]
+ },
+ "door-946": {
+  "ref": "p946",
+  "box": [
+   600,
+   480,
+   630,
+   490
+  ],
+  "what": "GWR door leaf light grey, p946 (used as the neutral)",
+  "median": "#E6DFCD",
+  "iqr": [
+   5,
+   3,
+   6
+  ]
+ },
+ "roof-LM26": {
+  "ref": "pLM26",
+  "box": [
+   1900,
+   800,
+   2000,
+   830
+  ],
+  "what": "GWR roof grey (no neutral)",
+  "median": "#EAEEF1",
+  "iqr": [
+   7,
+   6,
+   6
+  ]
+ },
+ "green-946": {
+  "ref": "p946",
+  "box": [
+   700,
+   505,
+   760,
+   525
+  ],
+  "what": "GWR green bodyside below the windows, p946 (no neutral)",
+  "median": "#222925",
+  "iqr": [
+   14,
+   13,
+   11
+  ],
+  "balanced": "#232C2B",
+  "neutral": "door-946"
+ }
+}

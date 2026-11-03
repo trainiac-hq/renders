@@ -1,0 +1,527 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Southeastern-Class-465.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Southeastern_Class_465.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2013 (upload)",
+   "kind": "diagram",
+   "unit": "465 (4 cars), Southeastern white",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p173": {
+   "file": "refs/British-Rail-Class-465-465173-Meopham-Station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_465_465173_Meopham_Station.jpg",
+   "author": "BWard 1997",
+   "licence": "CC BY 4.0",
+   "date": "2024-11-07",
+   "kind": "photo",
+   "unit": "465173 (465/1)",
+   "view": "three-quarter front, near side, wide lens (6.26 mm compact)",
+   "light": "overcast"
+  },
+  "p035": {
+   "file": "refs/465035-London-Bridge-May-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465035%2C_London_Bridge%2C_May_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "465035 (465/0)",
+   "view": "three-quarter, cab side and door 1 close",
+   "light": "station canopy, even"
+  },
+  "p033v": {
+   "file": "refs/465033-London-Victoria.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465033_-_London_Victoria.jpg",
+   "author": "TheDullName",
+   "licence": "Public domain",
+   "date": "2024-03-24",
+   "kind": "photo",
+   "unit": "465033 (465/0)",
+   "view": "head-on from the right, close (35 mm on APS-C)",
+   "light": "sun on face, dark station"
+  },
+  "p014": {
+   "file": "refs/465015-VIC.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465015_-_VIC.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-05-20",
+   "kind": "photo",
+   "unit": "465014 (face number; file named 465015)",
+   "view": "head-on from the left, 57 mm-equiv",
+   "light": "sun"
+  },
+  "p048": {
+   "file": "refs/465048-HGR-Platform-6.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465048_-_HGR_-_Platform_6.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-01-28",
+   "kind": "photo",
+   "unit": "465048 (465/0)",
+   "view": "head-on from the left",
+   "light": "overcast"
+  },
+  "p033e": {
+   "file": "refs/465033-Elmstead-Woods-May-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465033%2C_Elmstead_Woods%2C_May_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "465033",
+   "view": "head-on three-quarter, far",
+   "light": "overcast"
+  },
+  "p175": {
+   "file": "refs/465175-London-Bridge-July-23rd-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465175%2C_London_Bridge%2C_July_23rd_2024.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-07-23",
+   "kind": "photo",
+   "unit": "465175 (465/1)",
+   "view": "three-quarter front",
+   "light": "station canopy"
+  },
+  "p164": {
+   "file": "refs/Southeastern-Class-465-No-164.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Southeastern_Class_465_No_164.jpg",
+   "author": "S\u00fcmeyra Bal\u0131k\u00e7\u0131",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024",
+   "kind": "photo",
+   "unit": "465164 (465/1)",
+   "view": "three-quarter front close, cab corner",
+   "light": "station roof"
+  },
+  "p022": {
+   "file": "refs/465022-London-Victoria.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465022_-_London_Victoria.jpg",
+   "author": "TheDullName",
+   "licence": "Public domain",
+   "date": "2024-03-24",
+   "kind": "photo",
+   "unit": "465022",
+   "view": "side, far, three-quarter",
+   "light": "sun"
+  },
+  "p151": {
+   "file": "refs/465-151-St-Johns-close-080224.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:465_151_St_Johns_close_080224.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-02-08",
+   "kind": "photo",
+   "unit": "465151",
+   "view": "front close",
+   "light": "overcast"
+  },
+  "pgp": {
+   "file": "refs/Class-465-Grove-Park-2023.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_465_Grove_Park_2023.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-06-21",
+   "kind": "photo",
+   "unit": "465044",
+   "view": "front three-quarter",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    240,
+    119
+   ],
+   "feature": "diagram: cab, cab door, first windows, door 1",
+   "reading": "Diagram cab car: yellow face with a protruding bumper, white cab door with a split window, a white gap, then one black band holding oval, big, oval windows ahead of door 1 (light blue double door); navy lower band with a dotted fade under the cab; a yellow first-class stripe at the cantrail over the first bay; shoe beam on the leading bogie."
+  },
+  {
+   "id": "d-inner",
+   "ref": "dia",
+   "box": [
+    480,
+    0,
+    720,
+    119
+   ],
+   "feature": "diagram: DMSO inner end and TSO first windows",
+   "reading": "Diagram coupled ends: DMSO ends big, big, small window; bellows; TSO starts small, big, big; navy band and underframe continuous."
+  },
+  {
+   "id": "f-face-014",
+   "ref": "p014",
+   "box": [
+    1580,
+    420,
+    3000,
+    2250
+   ],
+   "feature": "whole front, head-on",
+   "reading": "Whole face yellow up to an arched top edge, white dome above with a thin orange line between; two screens in one dark surround split by a pillar; full-width black band below with white 465014 at right; two black-rimmed lamp boxes low; bumper of two side blocks and a lower centre beam, coupler recess between.",
+   "secondReader": "second reader agrees (arch, thin salmon-orange line, two blocks and lower centre beam)"
+  },
+  {
+   "id": "f-screens-014",
+   "ref": "p014",
+   "box": [
+    1650,
+    620,
+    3000,
+    1300
+   ],
+   "feature": "windscreens, centre pillar, surround, wipers",
+   "reading": "Two near-equal panes, top outer corners rounded, rubber gaskets, thin gold heater lines inside; left wiper nearly upright, right wiper diagonal toward the pillar, pivots on the band's top edge."
+  },
+  {
+   "id": "f-dome-014",
+   "ref": "p014",
+   "box": [
+    1600,
+    420,
+    3000,
+    700
+   ],
+   "feature": "top of the face: yellow arch, line, white dome",
+   "reading": "Yellow arch highest at the centre, dropping at both corners; a thin orange line along its top edge; white roof dome above."
+  },
+  {
+   "id": "f-number-014",
+   "ref": "p014",
+   "box": [
+    2540,
+    1300,
+    2830,
+    1440
+   ],
+   "feature": "number on the black band",
+   "reading": "465014 in white bold sans on the black band, right of centre, the band's lower edge ribbed.",
+   "secondReader": "second reader agrees"
+  },
+  {
+   "id": "f-band-014",
+   "ref": "p014",
+   "box": [
+    1650,
+    1240,
+    3000,
+    1460
+   ],
+   "feature": "black band under the screens",
+   "reading": "Black band the full width under the screens, two seams marking a centre plate, rounded lower outer corners."
+  },
+  {
+   "id": "f-lamps-l-014",
+   "ref": "p014",
+   "box": [
+    1680,
+    1440,
+    2120,
+    1700
+   ],
+   "feature": "left lamp box",
+   "reading": "One long black-rimmed box: outboard a pale upright rectangle, then a round clear headlamp, then a round red LED tail (lit) inboard.",
+   "secondReader": "second reader: small pale upright rectangle, round clear lamp, lit red dot cluster at right: agrees"
+  },
+  {
+   "id": "f-lamps-r-014",
+   "ref": "p014",
+   "box": [
+    2580,
+    1440,
+    2960,
+    1700
+   ],
+   "feature": "right lamp box",
+   "reading": "Right box, unlit: red blob inboard (left), clear lamp outboard of it; the outer end too dim to read."
+  },
+  {
+   "id": "f-lamps-r-033",
+   "ref": "p033v",
+   "box": [
+    1290,
+    1490,
+    1800,
+    1730
+   ],
+   "feature": "right lamp box from the right, tail lit",
+   "reading": "Right box from the right: red tail lit inboard, clear headlamp, then a small upright amber/cream rectangle outboard: the order is mirrored from the left box.",
+   "secondReader": "second reader: red lit at left, clear lamp, small tall amber/clear rectangle at far right: agrees (mirrored order)"
+  },
+  {
+   "id": "f-bumper-014",
+   "ref": "p014",
+   "box": [
+    1620,
+    1620,
+    3000,
+    2100
+   ],
+   "feature": "bumper blocks, beam and coupler recess",
+   "reading": "Two large angular yellow blocks with chamfered outer corners, a lower flatter yellow beam between at the top, dark recess and coupler below the beam."
+  },
+  {
+   "id": "s-cab-035",
+   "ref": "p035",
+   "box": [
+    760,
+    320,
+    980,
+    760
+   ],
+   "feature": "cab door and cab side",
+   "reading": "White cab door, tall window with a mid bar, a black seal on its front edge; white strip to the yellow corner; dot fade below its rear edge; door not contrasting."
+  },
+  {
+   "id": "s-door1-035",
+   "ref": "p035",
+   "box": [
+    250,
+    330,
+    440,
+    740
+   ],
+   "feature": "door 1 (double leaf)",
+   "reading": "Two light blue leaves (A2, A1), each one tall round-ended window; leaves from just under the cantrail line to the body bottom, the lower part curving out (tumblehome); navy band either side.",
+   "secondReader": "second reader: two pale-blue leaves, one tall window each, run almost to the bottom, lower part curving out: agrees"
+  },
+  {
+   "id": "s-windows-035",
+   "ref": "p035",
+   "box": [
+    420,
+    395,
+    790,
+    600
+   ],
+   "feature": "windows between cab door and door 1",
+   "reading": "Black band: narrow pill window, wide window with a hopper top, narrow pill window, between the cab door and door 1."
+  },
+  {
+   "id": "s-dots-035",
+   "ref": "p035",
+   "box": [
+    420,
+    620,
+    880,
+    760
+   ],
+   "feature": "lower bodyside: navy band and dot fade at the cab end",
+   "reading": "Navy lower band fading to white toward the cab through halftone dots that shrink toward the front; the fade's top edge runs level then slopes down to the front.",
+   "secondReader": "second reader: dots larger toward the black, thinning rightward (toward the cab), upper edge slopes down: agrees"
+  },
+  {
+   "id": "s-roof-035",
+   "ref": "p035",
+   "box": [
+    0,
+    220,
+    1000,
+    350
+   ],
+   "feature": "roof and cantrail line",
+   "reading": "White roof, grey gutter line, thin orange line just under it running the length of the car."
+  },
+  {
+   "id": "s-wordmark-173",
+   "ref": "p173",
+   "box": [
+    1140,
+    1130,
+    1270,
+    1200
+   ],
+   "feature": "bodyside wordmark between doors 1 and 2",
+   "reading": "Lowercase wordmark on the white strip under the windows, 'south' darker, the rest paler blue-grey (blurred; s-wordmark-007 reads 'southeastern.').",
+   "secondReader": "second reader read 'southern' (blur); settled by the sharper s-wordmark-007 crop: 'southeastern.'"
+  },
+  {
+   "id": "s-bogie-173",
+   "ref": "p173",
+   "box": [
+    1678,
+    1477,
+    2189,
+    1806
+   ],
+   "feature": "leading bogie",
+   "reading": "Dark outside-framed bogie with coil springs and dampers, shoe gear behind."
+  },
+  {
+   "id": "s-corner-door-173",
+   "ref": "p173",
+   "box": [
+    2000,
+    700,
+    2900,
+    1700
+   ],
+   "feature": "cab corner and cab door, three-quarter",
+   "reading": "Three-quarter cab corner: the yellow wraps only the rounded corner; white cab door close behind with its black front seal; dots under it on the navy skirt."
+  },
+  {
+   "id": "s-inner-173",
+   "ref": "p173",
+   "box": [
+    820,
+    820,
+    1700,
+    1300
+   ],
+   "feature": "door 2, car end and the TSO beyond",
+   "reading": "Door 2 near the car end, gangway bellows, the TSO beyond in the same livery."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-035",
+   "ref": "p035",
+   "box": [
+    560,
+    600,
+    640,
+    628
+   ],
+   "what": "white bodyside below the window band"
+  },
+  {
+   "id": "navy-035",
+   "ref": "p035",
+   "box": [
+    100,
+    660,
+    240,
+    700
+   ],
+   "what": "navy lower band behind door 1",
+   "neutral": "white-035"
+  },
+  {
+   "id": "door-035",
+   "ref": "p035",
+   "box": [
+    275,
+    610,
+    330,
+    700
+   ],
+   "what": "door leaf, light blue",
+   "neutral": "white-035"
+  },
+  {
+   "id": "band-035",
+   "ref": "p035",
+   "box": [
+    652,
+    440,
+    668,
+    560
+   ],
+   "what": "window band between windows",
+   "neutral": "white-035"
+  },
+  {
+   "id": "yellow-035",
+   "ref": "p035",
+   "box": [
+    965,
+    450,
+    995,
+    640
+   ],
+   "what": "yellow cab corner, side light",
+   "neutral": "white-035"
+  },
+  {
+   "id": "roof-035",
+   "ref": "p035",
+   "box": [
+    300,
+    265,
+    600,
+    300
+   ],
+   "what": "roof",
+   "neutral": "white-035"
+  },
+  {
+   "id": "dome-014",
+   "ref": "p014",
+   "box": [
+    2200,
+    470,
+    2400,
+    520
+   ],
+   "what": "white dome over the face, sun"
+  },
+  {
+   "id": "yellow-014",
+   "ref": "p014",
+   "box": [
+    2200,
+    1480,
+    2500,
+    1600
+   ],
+   "what": "yellow face between the lamp boxes, sun",
+   "neutral": "dome-014"
+  },
+  {
+   "id": "bandf-014",
+   "ref": "p014",
+   "box": [
+    1950,
+    1300,
+    2300,
+    1420
+   ],
+   "what": "black band under the screens",
+   "neutral": "dome-014"
+  },
+  {
+   "id": "roof-173",
+   "ref": "p173",
+   "box": [
+    2200,
+    560,
+    2500,
+    600
+   ],
+   "what": "roof over the cab car, overcast",
+   "neutral": "white-173"
+  },
+  {
+   "id": "white-173",
+   "ref": "p173",
+   "box": [
+    1950,
+    1240,
+    2040,
+    1290
+   ],
+   "what": "white bodyside below the windows, overcast"
+  },
+  {
+   "id": "orange-014",
+   "ref": "p014",
+   "box": [
+    1640,
+    640,
+    1660,
+    650
+   ],
+   "what": "cantrail line where it meets the face, sun"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "ref": "p111",
+ "side": "far",
+ "exif": {
+  "focal35mm": 70,
+  "width": 5472,
+  "height": 3648
+ },
+ "focalPx": "exif",
+ "note": "390141, three-quarter front from the train's right. Door 1 corners on the bodyside; face features as mirrored pairs (facesolve).",
+ "points": {
+  "d1f-top": [
+   1791.7,
+   1275
+  ],
+  "d1f-bot": [
+   1791.7,
+   1790.7
+  ],
+  "d1r-top": [
+   1740.7,
+   1275
+  ],
+  "d1r-bot": [
+   1740.7,
+   1790.7
+  ]
+ },
+ "model": {
+  "d1f-top": [
+   8.52,
+   2.94
+  ],
+  "d1f-bot": [
+   8.52,
+   1.06
+  ],
+  "d1r-top": [
+   9.67,
+   2.94
+  ],
+  "d1r-bot": [
+   9.67,
+   1.06
+  ]
+ },
+ "holdout": [],
+ "facePairs": {
+  "headlamp": {
+   "far": [
+    2553.6,
+    1707.1
+   ],
+   "near": [
+    3178.6,
+    1703.6
+   ]
+  },
+  "podInnerTip": {
+   "far": [
+    2671.4,
+    1778.6
+   ],
+   "near": [
+    3125.0,
+    1778.6
+   ]
+  },
+  "chinBottomCorner": {
+   "far": [
+    2642.9,
+    2092.9
+   ],
+   "near": [
+    3171.4,
+    2078.6
+   ]
+  },
+  "chinTopCorner": {
+   "far": [
+    2635.7,
+    1782.1
+   ],
+   "near": [
+    3164.3,
+    1778.6
+   ]
+  }
+ },
+ "faceCentre": {
+  "marker": [
+   2632.1,
+   1096.4
+  ],
+  "latch": [
+   2953.6,
+   2042.9
+  ]
+ }
+}

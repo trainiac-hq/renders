@@ -1,0 +1,210 @@
+{
+ "white-035": {
+  "ref": "p035",
+  "box": [
+   560,
+   600,
+   640,
+   628
+  ],
+  "what": "white bodyside below the window band",
+  "median": "#C4C0B9",
+  "iqr": [
+   4,
+   2,
+   3
+  ]
+ },
+ "navy-035": {
+  "ref": "p035",
+  "box": [
+   100,
+   660,
+   240,
+   700
+  ],
+  "what": "navy lower band behind door 1",
+  "median": "#101116",
+  "iqr": [
+   2,
+   2,
+   3
+  ],
+  "balanced": "#14151D",
+  "neutral": "white-035"
+ },
+ "door-035": {
+  "ref": "p035",
+  "box": [
+   275,
+   610,
+   330,
+   700
+  ],
+  "what": "door leaf, light blue",
+  "median": "#617597",
+  "iqr": [
+   39,
+   46,
+   58
+  ],
+  "balanced": "#7792C4",
+  "neutral": "white-035"
+ },
+ "band-035": {
+  "ref": "p035",
+  "box": [
+   652,
+   440,
+   668,
+   560
+  ],
+  "what": "window band between windows",
+  "median": "#232730",
+  "iqr": [
+   4,
+   3,
+   5
+  ],
+  "balanced": "#2B313E",
+  "neutral": "white-035"
+ },
+ "yellow-035": {
+  "ref": "p035",
+  "box": [
+   965,
+   450,
+   995,
+   640
+  ],
+  "what": "yellow cab corner, side light",
+  "median": "#C68116",
+  "iqr": [
+   16,
+   16,
+   26
+  ],
+  "balanced": "#F2A11D",
+  "neutral": "white-035"
+ },
+ "roof-035": {
+  "ref": "p035",
+  "box": [
+   300,
+   265,
+   600,
+   300
+  ],
+  "what": "roof",
+  "median": "#F8F8FC",
+  "iqr": [
+   2,
+   2,
+   3
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-035"
+ },
+ "dome-014": {
+  "ref": "p014",
+  "box": [
+   2200,
+   470,
+   2400,
+   520
+  ],
+  "what": "white dome over the face, sun",
+  "median": "#FEFFFF",
+  "iqr": [
+   2,
+   1,
+   0
+  ]
+ },
+ "yellow-014": {
+  "ref": "p014",
+  "box": [
+   2200,
+   1480,
+   2500,
+   1600
+  ],
+  "what": "yellow face between the lamp boxes, sun",
+  "median": "#EDB216",
+  "iqr": [
+   10,
+   11,
+   6
+  ],
+  "balanced": "#E0A815",
+  "neutral": "dome-014"
+ },
+ "bandf-014": {
+  "ref": "p014",
+  "box": [
+   1950,
+   1300,
+   2300,
+   1420
+  ],
+  "what": "black band under the screens",
+  "median": "#4A5359",
+  "iqr": [
+   10,
+   8,
+   9
+  ],
+  "balanced": "#464E54",
+  "neutral": "dome-014"
+ },
+ "roof-173": {
+  "ref": "p173",
+  "box": [
+   2200,
+   560,
+   2500,
+   600
+  ],
+  "what": "roof over the cab car, overcast",
+  "median": "#FFFFFF",
+  "iqr": [
+   2,
+   2,
+   0
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-173"
+ },
+ "white-173": {
+  "ref": "p173",
+  "box": [
+   1950,
+   1240,
+   2040,
+   1290
+  ],
+  "what": "white bodyside below the windows, overcast",
+  "median": "#DFE4E7",
+  "iqr": [
+   5,
+   5,
+   5
+  ]
+ },
+ "orange-014": {
+  "ref": "p014",
+  "box": [
+   1640,
+   640,
+   1660,
+   650
+  ],
+  "what": "cantrail line where it meets the face, sun",
+  "median": "#FB8543",
+  "iqr": [
+   11,
+   7,
+   14
+  ]
+ }
+}

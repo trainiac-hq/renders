@@ -1,0 +1,113 @@
+{
+ "ref": "p701",
+ "side": "far",
+ "note": "455701 from the left as seen: far side; Nikon D3400 62 mm, 93 mm equiv. Picks read off 1.4x crops (about 3 px).",
+ "points": {
+  "w3-rear-bottom": [
+   1739,
+   1352
+  ],
+  "w3-front-bottom": [
+   1848,
+   1360
+  ],
+  "w8-rear-bottom": [
+   1487,
+   1339
+  ],
+  "w8-front-bottom": [
+   1575,
+   1341
+  ],
+  "w10-rear-bottom": [
+   1391,
+   1332
+  ],
+  "w10-front-bottom": [
+   1470,
+   1334
+  ],
+  "lamp1-head": [
+   2275,
+   1573
+  ],
+  "lamp1-tail": [
+   2349,
+   1573
+  ],
+  "lamp0-tail": [
+   2893,
+   1576
+  ],
+  "lamp0-head": [
+   2966,
+   1576
+  ],
+  "dispL-out-bottom": [
+   2177,
+   953
+  ],
+  "dispL-in-bottom": [
+   2393,
+   955
+  ],
+  "dispR-out-bottom": [
+   3060,
+   962
+  ]
+ },
+ "model": {
+  "w3-front-bottom": [
+   3.202,
+   2.088
+  ],
+  "w3-rear-bottom": [
+   4.872,
+   2.088
+  ],
+  "w8-front-bottom": [
+   8.032,
+   2.088
+  ],
+  "w8-rear-bottom": [
+   9.702,
+   2.088
+  ],
+  "w10-front-bottom": [
+   10.148,
+   2.088
+  ],
+  "w10-rear-bottom": [
+   11.818,
+   2.088
+  ]
+ },
+ "modelFace": {
+  "dispL-out-bottom": [
+   1.216,
+   3.122
+  ],
+  "dispL-in-bottom": [
+   0.62,
+   3.122
+  ],
+  "dispR-out-bottom": [
+   -1.216,
+   3.122
+  ]
+ },
+ "holdout": [
+  "w8-front-bottom",
+  "lamp0-tail",
+  "dispL-in-bottom"
+ ],
+ "focalPx": "exif",
+ "exif": {
+  "focal35mm": 93,
+  "width": 4884,
+  "height": 3256
+ },
+ "readings": {
+  "_tops": "window tops dropped: the dark glass under each hopper vent's frame reads 12-14 cm below the drawing's glass top (3.047) on both photos, so they are not the same edge"
+ }
+}

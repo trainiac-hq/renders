@@ -1,0 +1,968 @@
+{
+ "class": "159",
+ "subject": "Class 159 South Western Railway, 3 cars (159/0 and 159/1 alike from outside), current SWR navy and white",
+ "method": "Cab car as the 158's (the 159 is a 158 body: classes/158/spec.json, same Unisouth/WestRail642fan measuring); the middle car from the 159 diagram (dia, px 1760 on); colours from samples.json (p002 bodyside with the white as neutral, p012 head-on).",
+ "model": {
+  "heights": {
+   "bottom": 0.944,
+   "cantrail": 3.31,
+   "roof": 3.73,
+   "window": [
+    1.95,
+    2.78
+   ]
+  },
+  "wheel": 0.78,
+  "wheelbase": 2.561,
+  "cab": {
+   "length": 22.691,
+   "doors": [
+    {
+     "x": 2.206,
+     "w": 1.078,
+     "leaves": 2,
+     "kind": "plug",
+     "span": [
+      0.94,
+      3.25
+     ],
+     "window": [
+      1.93,
+      2.78
+     ],
+     "panes": [
+      0.155,
+      0.43
+     ]
+    },
+    {
+     "x": 20.467,
+     "w": 1.078,
+     "leaves": 2,
+     "kind": "plug",
+     "span": [
+      0.94,
+      3.25
+     ],
+     "window": [
+      1.93,
+      2.78
+     ],
+     "panes": [
+      0.155,
+      0.43
+     ]
+    }
+   ],
+   "windows": [
+    [
+     3.284,
+     4.834
+    ],
+    [
+     5.104,
+     6.653
+    ],
+    [
+     6.923,
+     8.473
+    ],
+    [
+     8.742,
+     10.292
+    ],
+    [
+     10.562,
+     12.112
+    ],
+    [
+     12.381,
+     13.931
+    ],
+    [
+     14.201,
+     15.75
+    ],
+    [
+     16.02,
+     17.57
+    ],
+    [
+     17.839,
+     19.389
+    ],
+    [
+     21.33,
+     21.707
+    ]
+   ],
+   "hoppers": [
+    [
+     3.284,
+     4.834
+    ],
+    [
+     12.381,
+     13.931
+    ]
+   ],
+   "bogies": [
+    3.136,
+    19.443
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 2.206,
+     "w": 1.078
+    },
+    {
+     "kind": "pod",
+     "x": 20.467,
+     "w": 1.078
+    }
+   ],
+   "under": [
+    [
+     4.942,
+     17.597
+    ]
+   ]
+  },
+  "next": {
+   "length": 22.68,
+   "doors": [
+    {
+     "x": 2.22,
+     "w": 1.078,
+     "leaves": 2,
+     "kind": "plug",
+     "span": [
+      0.94,
+      3.25
+     ],
+     "window": [
+      1.93,
+      2.78
+     ],
+     "panes": [
+      0.155,
+      0.43
+     ]
+    },
+    {
+     "x": 20.48,
+     "w": 1.078,
+     "leaves": 2,
+     "kind": "plug",
+     "span": [
+      0.94,
+      3.25
+     ],
+     "window": [
+      1.93,
+      2.78
+     ],
+     "panes": [
+      0.155,
+      0.43
+     ]
+    }
+   ],
+   "windows": [
+    [
+     0.98,
+     1.35
+    ],
+    [
+     3.302,
+     4.852
+    ],
+    [
+     5.121,
+     6.671
+    ],
+    [
+     6.941,
+     8.491
+    ],
+    [
+     8.76,
+     10.31
+    ],
+    [
+     10.58,
+     12.129
+    ],
+    [
+     12.399,
+     13.949
+    ],
+    [
+     14.218,
+     15.768
+    ],
+    [
+     16.038,
+     17.588
+    ],
+    [
+     17.857,
+     19.407
+    ],
+    [
+     21.35,
+     21.71
+    ]
+   ],
+   "bogies": [
+    3.23,
+    19.47
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 2.22,
+     "w": 1.078
+    },
+    {
+     "kind": "pod",
+     "x": 20.48,
+     "w": 1.078
+    }
+   ],
+   "under": [
+    [
+     5.09,
+     17.61
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.9,
+     0.66,
+     1
+    ],
+    [
+     0.55,
+     0.57
+    ],
+    [
+     0.32,
+     0.21,
+     1
+    ],
+    [
+     0.0,
+     0.21,
+     1
+    ],
+    [
+     0.0,
+     3.475
+    ],
+    [
+     0.013,
+     3.499
+    ],
+    [
+     0.04,
+     3.547
+    ],
+    [
+     0.108,
+     3.596
+    ],
+    [
+     0.162,
+     3.62
+    ],
+    [
+     0.256,
+     3.644
+    ],
+    [
+     0.35,
+     3.668
+    ],
+    [
+     0.485,
+     3.692
+    ],
+    [
+     0.701,
+     3.717
+    ],
+    [
+     1.0,
+     3.73,
+     1
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      0.443,
+      2.809
+     ],
+     [
+      0.745,
+      2.809
+     ],
+     [
+      0.745,
+      2.24
+     ],
+     [
+      0.443,
+      2.24
+     ]
+    ],
+    [
+     [
+      0.816,
+      2.809
+     ],
+     [
+      1.1,
+      2.809
+     ],
+     [
+      1.1,
+      2.24
+     ],
+     [
+      0.816,
+      2.24
+     ]
+    ],
+    [
+     [
+      0.443,
+      2.07
+     ],
+     [
+      1.064,
+      2.07
+     ],
+     [
+      1.064,
+      1.973
+     ],
+     [
+      0.904,
+      1.852,
+      1
+     ],
+     [
+      0.443,
+      1.852
+     ]
+    ]
+   ],
+   "surround": [
+    [
+     0.389,
+     2.833
+    ],
+    [
+     1.153,
+     2.833
+    ],
+    [
+     1.153,
+     1.973
+    ],
+    [
+     0.922,
+     1.816
+    ],
+    [
+     0.389,
+     1.816
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.14,
+   "setback": [
+    [
+     1.0,
+     0.15
+    ],
+    [
+     3.3,
+     0.2
+    ]
+   ],
+   "squareness": 6,
+   "glazing": "gasket"
+  },
+  "face": {
+   "halfWidth": 1.35,
+   "depth": 1.7,
+   "bottom": 0.21,
+   "panel": [
+    {
+     "m": [
+      0,
+      1.35
+     ],
+     "y": [
+      0.21,
+      3.73
+     ],
+     "mirror": true
+    }
+   ],
+   "dark": [
+    {
+     "pts": [
+      [
+       0.522,
+       1.594
+      ],
+      [
+       1.265,
+       1.594
+      ],
+      [
+       1.25,
+       2.6
+      ],
+      [
+       1.217,
+       3.2
+      ],
+      [
+       1.1,
+       3.365
+      ],
+      [
+       0.522,
+       3.365,
+       1
+      ]
+     ],
+     "mirror": true,
+     "what": "screen recess, one black outline from destination pane to lamp box (inner edge hidden by the gangway frame)"
+    },
+    {
+     "m": [
+      0.565,
+      1.23
+     ],
+     "y": [
+      1.079,
+      1.356
+     ],
+     "r": [
+      0.05,
+      0.05,
+      0.08,
+      0.08
+     ],
+     "mirror": true,
+     "what": "lower slot"
+    },
+    {
+     "pts": [
+      [
+       -0.4,
+       0.92
+      ],
+      [
+       0.4,
+       0.92
+      ],
+      [
+       0.24,
+       0.42
+      ],
+      [
+       -0.24,
+       0.42
+      ]
+     ],
+     "what": "coupler opening between the skirts"
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.57,
+      1.08
+     ],
+     "y": [
+      3.06,
+      3.218
+     ],
+     "r": [
+      0.02,
+      0.06,
+      0.1,
+      0.02
+     ],
+     "mirror": true,
+     "what": "destination display"
+    },
+    {
+     "m": [
+      0.57,
+      1.17
+     ],
+     "y": [
+      2.235,
+      2.94
+     ],
+     "r": [
+      0.02,
+      0.02,
+      0.03,
+      0.02
+     ],
+     "mirror": true,
+     "what": "windscreen"
+    }
+   ],
+   "lights": [
+    {
+     "m": [
+      0.61,
+      1.23
+     ],
+     "y": [
+      1.63,
+      1.85
+     ],
+     "r": [
+      0.03,
+      0.03,
+      0.03,
+      0.06
+     ],
+     "mirror": true
+    }
+   ],
+   "lamps": {
+    "head": {
+     "m": 0.937,
+     "y": 1.748,
+     "r": 0.087
+    },
+    "tail": {
+     "m": 0.741,
+     "y": 1.748,
+     "r": 0.06
+    },
+    "order": "head outboard"
+   },
+   "gangway": {
+    "m": [
+     -0.32,
+     0.32
+    ],
+    "y": [
+     1.17,
+     3.16
+    ],
+    "r": [
+     0.02,
+     0.02,
+     0.02,
+     0.02
+    ],
+    "window": null
+   },
+   "gangwayFrame": {
+    "outline": {
+     "m": [
+      -0.55,
+      0.55
+     ],
+     "y": [
+      1.07,
+      3.515
+     ],
+     "r": [
+      0.04,
+      0.2,
+      0.2,
+      0.04
+     ]
+    },
+    "depth": 0.296,
+    "color": "#42403F"
+   },
+   "shapes": [
+    {
+     "pts": [
+      [
+       0.466,
+       0.21
+      ],
+      [
+       0.86,
+       0.21
+      ],
+      [
+       1.17,
+       0.94
+      ],
+      [
+       0.466,
+       0.94
+      ]
+     ],
+     "mirror": true,
+     "color": "panel",
+     "what": "skirt either side of the coupler pocket (operator colour in faceShapes where not yellow)"
+    },
+    {
+     "pts": [
+      [
+       -0.18,
+       0.85
+      ],
+      [
+       0.18,
+       0.85
+      ],
+      [
+       0.15,
+       0.5
+      ],
+      [
+       -0.15,
+       0.5
+      ]
+     ],
+     "color": "#4A4C4E",
+     "what": "the coupler gear seen in the opening (grey metal)"
+    }
+   ],
+   "number": {
+    "text": "158849",
+    "m": -0.877,
+    "y": 2.09,
+    "height": 0.1,
+    "color": "#F2F2F2",
+    "on": "black number panel at the foot of the right screen (NT, EM, SW, 159); GW/SR/AW: see liveries.<op>.number"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.877,
+      3.0
+     ],
+     "tip": [
+      0.68,
+      2.61
+     ],
+     "mirror": true
+    }
+   ]
+  }
+ },
+ "liveries": {
+  "SW": {
+   "body": "#E1DDCD",
+   "roof": "#808080",
+   "doors": "#E1DDCD",
+   "panel": "#DFBA43",
+   "face": "#DFBA43",
+   "gangway": "#DFBA43",
+   "surround": "#2A2A2A",
+   "under": "#192942",
+   "glass": "#2A2A2A",
+   "bands": [
+    {
+     "y": [
+      0.94,
+      1.27
+     ],
+     "color": "#4B5A72",
+     "from": -0.1,
+     "to": 22.8,
+     "car": "cab"
+    },
+    {
+     "y": [
+      0.94,
+      1.27
+     ],
+     "color": "#4B5A72",
+     "from": -0.1,
+     "to": 22.8,
+     "car": "next"
+    },
+    {
+     "y": [
+      0.94,
+      0.98
+     ],
+     "color": "#FFD200",
+     "from": -0.1,
+     "to": 22.8,
+     "car": "cab"
+    },
+    {
+     "y": [
+      0.94,
+      0.98
+     ],
+     "color": "#FFD200",
+     "from": -0.1,
+     "to": 22.8,
+     "car": "next"
+    },
+    {
+     "y": [
+      3.293,
+      3.317
+     ],
+     "color": "#FF8040",
+     "from": -0.1,
+     "to": 22.8,
+     "car": "cab"
+    },
+    {
+     "y": [
+      3.293,
+      3.317
+     ],
+     "color": "#FF8040",
+     "from": -0.1,
+     "to": 22.8,
+     "car": "next"
+    }
+   ],
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       1.27
+      ],
+      [
+       10.04,
+       1.27
+      ],
+      [
+       11.79,
+       3.31
+      ],
+      [
+       -0.1,
+       3.31
+      ]
+     ],
+     "color": "#4B5A72"
+    },
+    {
+     "car": "next",
+     "pts": [
+      [
+       1.68,
+       0.97
+      ],
+      [
+       2.76,
+       0.97
+      ],
+      [
+       2.76,
+       3.16
+      ],
+      [
+       1.68,
+       3.16
+      ]
+     ],
+     "color": "#4B5A72"
+    },
+    {
+     "car": "next",
+     "pts": [
+      [
+       19.94,
+       0.97
+      ],
+      [
+       21.02,
+       0.97
+      ],
+      [
+       21.02,
+       3.16
+      ],
+      [
+       19.94,
+       3.16
+      ]
+     ],
+     "color": "#4B5A72"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       19.93,
+       0.97
+      ],
+      [
+       20.99,
+       0.97
+      ],
+      [
+       20.99,
+       3.16
+      ],
+      [
+       19.93,
+       3.16
+      ]
+     ],
+     "color": "#4B5A72"
+    }
+   ],
+   "faceShapes": [
+    {
+     "m": [
+      0,
+      1.35
+     ],
+     "y": [
+      0.21,
+      1.42
+     ],
+     "mirror": true,
+     "color": "#192942"
+    }
+   ],
+   "number": {
+    "text": "159 002",
+    "m": -0.877
+   },
+   "branding": [
+    {
+     "logo": "SW-arrow",
+     "at": [
+      3.555,
+      1.627
+     ],
+     "height": 0.392,
+     "color": "#AEF3FB"
+    },
+    {
+     "logo": "SW-oneline",
+     "at": [
+      5.66,
+      1.7
+     ],
+     "height": 0.372,
+     "color": "#FAFAF7"
+    }
+   ]
+  }
+ },
+ "trace": {
+  "model.cab": "the 158 cab car unchanged (classes/158/spec.json trace cab.*): 159s are 158s rebuilt for SWR, the cab car's doors, windows and face as measured on the 158",
+  "model.next": "the middle car (MSL) from the 159 diagram (dia, from px 1760): a small window at the inner end 0.98-1.35, double-leaf plug doors centred 2.22 and 20.48 (1.078 wide, as the 158's), nine windows as the 158's middle car, a second small window 21.35-21.71, length 22.68, bogies 3.23/19.47, underframe 5.09-17.61",
+  "liveries.SW.body": "w-white: p002 white bodyside median #E1DDCD (the neutral itself)",
+  "liveries.SW.doors": "doors white (w-door, p002 door 1 #F2F0E8 against w-white: drawn in the body white); every door but the cab car's first painted navy over (w-navy balanced #4B5A72), as on p002 (light-blue edges not drawn)",
+  "liveries.SW.shapes": "navy cab section from the front back to a diagonal from 9.64 m at 1.33 m up to 11.39 m at 3.31 m (dia, checked on p002: the edge leans back at the top); the first door white; the middle car's doors navy",
+  "liveries.SW.bands": "navy band 0.94-1.27 on every car with a yellow line 0.94-0.98 at its foot (dia rows; p002), the orange cantrail line as on the 158",
+  "liveries.SW.face": "h-face: p012 head-on, the yellow under the left lamp box #DFBA43",
+  "liveries.SW.faceShapes": "navy over the whole face below 1.42 m, skirt included, side to side (p002 face crop f159cmp: below the thin yellow strip under the lamp boxes everything is dark navy to the bottom; the first render left the 158's yellow skirt corners showing outside a navy block). Colour h-skirt #192942 (p012 head-on)",
+  "liveries.SW.roof": "the diagram's roof grey #808080 (dia): on p002 the roof is lit by a blue sky with the sun low (#99ADD3), which no patch on the photo can balance",
+  "notes": "Not drawn: the doors' light-blue edges, the yellow roof-dome cap, the SWR logo and lettering (logo mechanism: CONTRIBUTING 'Logos and wordmarks'), the third car.",
+  "liveries.SW.number": "'159 002' white on the black panel at the foot of the near-side screen (p002)",
+  "model.cab.x": "cab-car positions along the train, fifth pass: the diagram draws the cab end too short. Two photos put the face further ahead of door 1 than the diagram: pemr (158866 nearly side-on), a 1D projective fit along the bodyside through door 1's edges and nine window fronts (residuals 0-12 cm, typically 3) puts the face's side corner at -0.25 m and the cab window 0.12-0.90 m in the diagram's frame, i.e. the face 0.40 m further forward (its side corner is 0.15 m behind the tip); pgw (camera from the bodyside, lamps held out) wants the face 0.47-0.65 m forward, less reliably (its lamps come out 0.17 m apart in height left to right, so it is not pinned off the side). Applied: 0.40 m, the cab section 0..1.267 m stretched to 0..1.667 m (the cab side window and the cab-end paint with it) and everything from door 1 back moved 0.40 m; the cab car is 0.40 m longer (22.69 m, against 22.57 published over the gangway frame: the remaining 0.12 m is within the diagram's scale doubt).",
+  "face.coupler": "second reading, pgw low158 grid against the face scale (head lamps 545 px apart = 1.874 m, 291 px/m; lamp row 1082 px = 1.748 m, 311 px/m down): the dark opening between the yellow skirts runs from row 1340 (0.92 m) to 1500 (0.40 m), 230 px (0.79 m) wide at the top, 140 px (0.48 m) at the foot; the drawgear inside is a smaller grey shape ~0.36 m wide, 0.50-0.85 m. The first two builds drew it 1.06-0.84 m wide from 1.05 m: read off the wider shadow ; checked through the pgw camera: the opening traced on the photo at full resolution, top 550-805 px at row 1330, foot 580-770 at row 1500, and ours projected, top 569-801 at 1332-1340, foot 610-752 at ~1497: within 30 px (~9 cm) everywhere",
+  "face.gangwayFrame.check": "checked through the pgw camera: the frame's outer edges at +-0.55 m land within ~20 px (~5 cm) of the photo's grey frame; the width is right, the photo's frame is grimy mid grey where ours is black",
+  "face.gangwayFrame.color": "grimy mid grey: pgw medians on the frame's two sides (57,54,52) and (75,73,76): #42403F (was black)",
+  "liveries.SW.branding": "the one-line arrow + 'South Western Railway' on the navy below the windows (p002, lg159 grid): its ends 1730 and 2006 px read on the bodyside plane through the p002 camera (held-out windows 0.2-1.6 cm): 3.41-7.54 m, top and foot 1.85/1.48 m; traced off the same photo into logos/SW-oneline.svg (the published SW.svg is the two-line stacked logo, not what the 159 carries), aspect 11.57, so 0.357 m high, centred 5.47/1.665; white (the arrow's light blue not separated) ; second pass: the arrow and the wordmark traced separately (logos/SW-arrow.svg, SW-oneline.svg) so the arrow keeps its light blue (its pixels' median on p002 (174,243,251), #AEF3FB): the arrow 1727-1753 px = 3.38-3.73 m, rows 1168-1262, centred 1.627 m; the wordmark from 1758 px = 3.74-7.57 m, 0.372 m high at its traced aspect 10.28, centred 1.70 m"
+ },
+ "views": {
+  "match-p002": {
+   "matrix": [
+    [
+     0.2111143966673786,
+     0.09408143508034776,
+     -0.9729231187987009,
+     -29.852100968411467
+    ],
+    [
+     -0.97361370258468,
+     0.10846959051090291,
+     -0.20077526260410491,
+     -8.947298141812322
+    ],
+    [
+     0.0866433474602578,
+     0.9896378284542378,
+     0.11449846651052441,
+     2.929846450429297
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 106.36282951223758,
+   "shift": [
+    0.007547607839225101,
+    0.26943297106074365
+   ],
+   "size": [
+    1600,
+    900
+   ]
+  },
+  "match-p002-flat": {
+   "matrix": [
+    [
+     0.2111143966673786,
+     0.09408143508034776,
+     -0.9729231187987009,
+     -29.852100968411467
+    ],
+    [
+     -0.97361370258468,
+     0.10846959051090291,
+     -0.20077526260410491,
+     -8.947298141812322
+    ],
+    [
+     0.0866433474602578,
+     0.9896378284542378,
+     0.11449846651052441,
+     2.929846450429297
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 106.36282951223758,
+   "shift": [
+    0.007547607839225101,
+    0.26943297106074365
+   ],
+   "size": [
+    1600,
+    900
+   ],
+   "flat": true
+  }
+ }
+}

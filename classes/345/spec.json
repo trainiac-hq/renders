@@ -1,0 +1,861 @@
+{
+ "class": "345",
+ "subject": "Class 345 Aventra, Elizabeth line, 2025",
+ "method": "Side elevation from the WestRail642fan diagram (dia), axes calibrated separately; face first estimated head-on on p041 then measured with camera matches; colours from p042/p019 normalised to their white bodysides. Every number has its source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 32.35,
+  "pxPerMVertical": 33.2,
+  "railY": 187.5,
+  "faceX": 0,
+  "notes": "dia: car 1 face 0 px to body end 764 px = 23.615 m (published DM) -> 32.35 px/m; car 2 777..1501 px = 22.5 m -> 32.18 px/m; vertical: rail row 187.5 (bottom of the wheel outline, wheel 29 px across centred on row 173) to roof row 62.5 = 125 px for 3.76 m -> 33.2 px/m (2.6% taller than long)"
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.95,
+   "cantrail": 3.32,
+   "roof": 3.76,
+   "window": [
+    2.0,
+    2.91
+   ]
+  },
+  "wheel": 0.825,
+  "wheelbase": 2.25,
+  "windowRadius": 0.1,
+  "cab": {
+   "length": 23.615,
+   "doors": [
+    {
+     "x": 2.257,
+     "w": 0.742,
+     "cab": true,
+     "window": [
+      2.45,
+      2.97
+     ],
+     "panes": [
+      -0.093,
+      0.185
+     ],
+     "span": [
+      1.13,
+      3.2
+     ]
+    },
+    {
+     "x": 4.761,
+     "w": 1.793,
+     "leaves": 2,
+     "panes": [
+      0.155,
+      0.587
+     ],
+     "window": [
+      1.94,
+      2.97
+     ],
+     "span": [
+      1.16,
+      3.24
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 12.396,
+     "w": 1.793,
+     "leaves": 2,
+     "panes": [
+      0.155,
+      0.587
+     ],
+     "window": [
+      1.94,
+      2.97
+     ],
+     "span": [
+      1.16,
+      3.24
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 20.03,
+     "w": 1.793,
+     "leaves": 2,
+     "panes": [
+      0.155,
+      0.587
+     ],
+     "window": [
+      1.94,
+      2.97
+     ],
+     "span": [
+      1.16,
+      3.24
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     6.182,
+     7.543
+    ],
+    [
+     7.852,
+     9.335
+    ],
+    [
+     9.583,
+     11.066
+    ],
+    [
+     13.756,
+     15.24
+    ],
+    [
+     15.487,
+     16.971
+    ],
+    [
+     17.218,
+     18.702
+    ],
+    [
+     21.391,
+     22.566
+    ]
+   ],
+   "bogies": [
+    4.4,
+    20.4
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 3.59,
+     "w": 2.1
+    },
+    {
+     "kind": "pod",
+     "x": 9.89,
+     "w": 4.95
+    }
+   ],
+   "under": [
+    [
+     7.3,
+     13.6
+    ],
+    [
+     14.3,
+     17.6
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      1.02,
+      2.62
+     ],
+     [
+      1.36,
+      3.18
+     ],
+     [
+      1.62,
+      3.2,
+      1
+     ],
+     [
+      1.7,
+      3.12
+     ],
+     [
+      1.7,
+      2.66
+     ],
+     [
+      1.64,
+      2.58,
+      1
+     ]
+    ]
+   ]
+  },
+  "next": {
+   "length": 22.5,
+   "doors": [
+    {
+     "x": 3.542,
+     "w": 1.803,
+     "leaves": 2,
+     "panes": [
+      0.155,
+      0.587
+     ],
+     "window": [
+      1.94,
+      2.97
+     ],
+     "span": [
+      1.16,
+      3.24
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 11.218,
+     "w": 1.802,
+     "leaves": 2,
+     "panes": [
+      0.155,
+      0.587
+     ],
+     "window": [
+      1.94,
+      2.97
+     ],
+     "span": [
+      1.16,
+      3.24
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 18.894,
+     "w": 1.802,
+     "leaves": 2,
+     "panes": [
+      0.155,
+      0.587
+     ],
+     "window": [
+      1.94,
+      2.97
+     ],
+     "span": [
+      1.16,
+      3.24
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     1.025,
+     2.206
+    ],
+    [
+     4.972,
+     6.339
+    ],
+    [
+     6.65,
+     8.142
+    ],
+    [
+     8.39,
+     9.882
+    ],
+    [
+     12.585,
+     14.077
+    ],
+    [
+     14.326,
+     15.817
+    ],
+    [
+     16.066,
+     17.557
+    ],
+    [
+     20.261,
+     21.442
+    ]
+   ],
+   "bogies": [
+    3.235,
+    19.235
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 3.85
+    },
+    {
+     "kind": "pod",
+     "x": 8.8,
+     "w": 4.8
+    }
+   ],
+   "under": [
+    [
+     5.9,
+     10.7
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.32,
+     0.5,
+     1
+    ],
+    [
+     0.15,
+     0.59
+    ],
+    [
+     0.03,
+     0.71
+    ],
+    [
+     0.0,
+     0.95
+    ],
+    [
+     0.0,
+     1.19
+    ],
+    [
+     0.03,
+     1.43
+    ],
+    [
+     0.12,
+     1.67
+    ],
+    [
+     0.22,
+     1.91
+    ],
+    [
+     0.34,
+     2.15
+    ],
+    [
+     0.46,
+     2.39
+    ],
+    [
+     0.62,
+     2.64
+    ],
+    [
+     0.8,
+     2.88
+    ],
+    [
+     0.99,
+     3.12
+    ],
+    [
+     1.21,
+     3.36
+    ],
+    [
+     1.42,
+     3.6
+    ],
+    [
+     1.64,
+     3.72
+    ],
+    [
+     1.85,
+     3.76,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.772,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.45
+    ]
+   ],
+   "squareness": 3,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.386,
+   "mask": [
+    [
+     0,
+     3.76
+    ],
+    [
+     0.62,
+     3.73
+    ],
+    [
+     1.0,
+     3.6
+    ],
+    [
+     1.17,
+     3.38
+    ],
+    [
+     1.2,
+     3.0
+    ],
+    [
+     1.18,
+     2.55
+    ],
+    [
+     1.12,
+     2.22
+    ],
+    [
+     1.04,
+     2.06
+    ],
+    [
+     0.98,
+     1.96
+    ],
+    [
+     0.96,
+     1.65
+    ],
+    [
+     0.95,
+     1.38,
+     1
+    ],
+    [
+     0,
+     1.38,
+     1
+    ]
+   ],
+   "recesses": [
+    {
+     "half": 0.62,
+     "lo": 0.56,
+     "hi": 1.08,
+     "r": [
+      0.03,
+      0.08,
+      0.08,
+      0.03
+     ],
+     "depth": 0.15
+    }
+   ],
+   "darkCentre": [],
+   "screen": {
+    "half": 0.79,
+    "halfTop": 0.95,
+    "lo": 2.06,
+    "hi": 3.4,
+    "r": [
+     0.12,
+     0.3,
+     0.3,
+     0.12
+    ]
+   },
+   "pods": [
+    {
+     "inner": 0.53,
+     "outer": 0.77,
+     "lo": 1.4,
+     "hi": 1.84,
+     "r": 0.12
+    }
+   ],
+   "headlamps": "below",
+   "lampRim": "black",
+   "lampStyle": "glazed",
+   "glazedTail": "red",
+   "lampUnits": [
+    {
+     "kind": "tail",
+     "m": 0.65,
+     "y": 1.725,
+     "r": 0.105
+    },
+    {
+     "kind": "head",
+     "m": 0.65,
+     "y": 1.515,
+     "r": 0.105
+    }
+   ],
+   "grilles": [
+    {
+     "half": 0.28,
+     "lo": 1.42,
+     "hi": 1.7,
+     "r": 0.04
+    }
+   ],
+   "lineBoxes": [
+    {
+     "half": 0.27,
+     "lo": 1.78,
+     "hi": 2.04,
+     "r": 0.04
+    }
+   ],
+   "lines": [
+    [
+     [
+      0.88,
+      1.91
+     ],
+     [
+      1.08,
+      1.87
+     ],
+     [
+      1.2,
+      1.78
+     ],
+     [
+      1.24,
+      1.55
+     ],
+     [
+      1.25,
+      1.38
+     ]
+    ]
+   ],
+   "shapes": [
+    {
+     "half": true,
+     "wraps": true,
+     "color": "#0C0D0F",
+     "pts": [
+      [
+       0,
+       0.4,
+       1
+      ],
+      [
+       1.75,
+       0.4,
+       1
+      ],
+      [
+       1.75,
+       1.28,
+       1
+      ],
+      [
+       0,
+       1.28,
+       1
+      ]
+     ]
+    },
+    {
+     "half": true,
+     "color": "#EC803F",
+     "pts": [
+      [
+       0,
+       3.6
+      ],
+      [
+       0.6,
+       3.56
+      ],
+      [
+       1.0,
+       3.46
+      ],
+      [
+       1.3,
+       3.33
+      ],
+      [
+       1.39,
+       3.3
+      ],
+      [
+       1.39,
+       3.27
+      ],
+      [
+       1.3,
+       3.3
+      ],
+      [
+       1.0,
+       3.43
+      ],
+      [
+       0.6,
+       3.53
+      ],
+      [
+       0,
+       3.57
+      ]
+     ]
+    }
+   ],
+   "wipers": [
+    {
+     "pivot": [
+      -0.12,
+      1.96
+     ],
+     "tip": [
+      -0.62,
+      3.3
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "white": "#F0F0F0",
+   "roof": "#E2E6EE",
+   "blue": "#6875A0",
+   "purple": "#734CBD",
+   "band": "#0C0D0F",
+   "mask": "#2B2D31",
+   "bumperSide": [
+    [
+     -2.0,
+     1.28
+    ],
+    [
+     1.45,
+     1.28
+    ],
+    [
+     2.2,
+     1.12
+    ]
+   ],
+   "skirtTop": 1.12,
+   "orange": "#EC803F",
+   "hazard": "#B8962A",
+   "under": "#1C1E22",
+   "orangeLine": [
+    3.28,
+    3.31
+   ],
+   "blueTop": 1.88,
+   "bandTop": 3.03,
+   "cabBandFront": [
+    [
+     2.75,
+     1.88
+    ],
+    [
+     3.42,
+     3.03
+    ]
+   ],
+   "cabBandRear": [
+    [
+     22.57,
+     1.88
+    ],
+    [
+     23.3,
+     3.03
+    ]
+   ],
+   "cabPurpleFront": [
+    [
+     1.3,
+     1.1
+    ],
+    [
+     1.58,
+     1.42
+    ],
+    [
+     1.88,
+     1.8
+    ]
+   ],
+   "purpleTop": 1.8,
+   "cabPurpleBlue": 2.63,
+   "rearPurple": [
+    [
+     22.1,
+     1.1
+    ],
+    [
+     22.57,
+     1.88
+    ],
+    [
+     23.56,
+     1.88
+    ],
+    [
+     23.09,
+     1.1
+    ]
+   ],
+   "nextBandFront": [
+    [
+     0.43,
+     1.88
+    ],
+    [
+     1.11,
+     3.03
+    ]
+   ],
+   "nextWhiteFront": 0.34,
+   "hazardHalf": 0.04,
+   "branding": [
+    {
+     "logo": "XR",
+     "on": "front",
+     "at": [
+      0.5,
+      1.785
+     ],
+     "height": 0.11,
+     "color": "#FFFFFF"
+    },
+    {
+     "logo": "XR-345-number",
+     "at": [
+      3.1,
+      1.035
+     ],
+     "height": 0.08
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dia: car 1 face 0 px to body end 764 px = 23.615 m (published DM) -> 32.35 px/m; car 2 777..1501 px = 22.5 m -> 32.18 px/m; vertical: rail row 187.5 (bottom of the wheel outline, wheel 29 px across centred on row 173) to roof row 62.5 = 125 px for 3.76 m -> 33.2 px/m (2.6% taller than long)",
+  "heights.bottom": "review (345042): below the blue band the body carries on as a black skirt down to about 0.95 m (the unit number on it); bottom 0.95, the livery black up to 1.12 m along both cars; first read as: dia col 300: blue ends row 150, outline to 154 -> 1.13-1.01 m; floor published 1.145; taken 1.10 (blue down to the skirt line). TO CHECK on camera match",
+  "heights.cantrail": "dia roof line row 79 -> 3.27 m; orange line photographed just above the door tops (s-door1-042); cantrail put 3.32 so the line sits on the side",
+  "heights.roof": "published 3.760 m; dia row 62.5",
+  "heights.window": "dia col 300: glass rows 91-121 -> 2.00-2.91 m",
+  "windowRadius": "photo s-door1-042/f-corner-door: saloon windows with ~0.1 m corners",
+  "wheel": "published 825 mm (dia 29 px ~ 0.85 m)",
+  "wheelbase": "published 2.25 m (dia wheel centres 72 px = 2.22 m)",
+  "cab.length": "published DM 23.615 m",
+  "cab.doors[0]": "dia d-cab: cab door outline 61-85 px -> 1.886-2.628 m; window rows 89-106 at col 79 -> 2.45-2.97 m, cols 70-79 -> -0.093..+0.185 m from the door centre; top row 81-84 -> 3.2 m; crops s-cabdoor-042, f-corner-door-042 (reader 2: tall narrow window toward the rear edge)",
+  "cab.doors[1..3]": "dia row 140 door outlines 125/154/183, 372/401/430, 619/648/677 px -> centres 4.761, 12.396, 20.031 m, outline 1.793 m; leaf glass cols 135-149 -> 0.155-0.587 m from centre, rows 89-123 -> 1.94-2.97 m (col 142); door top row 80 -> 3.24 m, bottom row 149 -> 1.16 m (p042 measure: 1.17); stadium windows (reader 2: full semicircular ends) -> paneRadius 0.21",
+  "cab.windows": "dia row 100 glass runs 200-244, 254-302, 310-358, 445-493, 501-549, 557-605, 692-730 px",
+  "cab.bogies": "dia wheel centres 101.5/173.5 and 628.5/700.5 px -> bogie centres 4.25, 20.54 m (16.29 m apart, published 16.00): published spacing about the drawn midpoint 12.40 m",
+  "cab.roof": "dia roof boxes 116-184 px and 320-480 px",
+  "cab.under": "dia underframe boxes 236-440 and 464-568 px",
+  "cab.glazing": "dia d-cab: cab side window 32.5-55 px, rows 81-103 -> 1.0-1.7 m, 2.57-3.22 m; shape from reader 2 (f-corner-door-042): rear edge vertical, front edge leaning back at the top, flat top and bottom",
+  "next.doors": "dia row 140 car 2 door outlines 862-920, 1109-1167, 1356-1414 px",
+  "next.windows": "dia row 100 car 2 glass runs 810-848, 937-981, 991-1039, 1047-1095, 1182-1230, 1238-1286, 1294-1342, 1429-1467 px",
+  "next.bogies": "dia wheel centres 839.5/911.5 and 1365.5/1437.5 px -> 3.06, 19.41 m; published 16.0 m spacing about the midpoint",
+  "next.roof": "dia pantograph at 901-910 px (3.85 m) on car 2; roof box 1060-1216 px",
+  "nose.profile": "dia leftmost body pixel per row 64-168 at 32.35 px/m along, 33.2 up from row 187.5, from the face's lowest-forward point (x 0 at rows 144-156); roof met at 1.85 m (d-cab: dark cap to 470/8 px)",
+  "form": "plan not measured yet: corners well rounded in p019 from above (first guess 0.45 m setback, squareness 3); TO CHECK by camera match",
+  "face.screen": "p042 camera (side points) measure: the glass 45-degree corner points at |z| 0.86, y 3.31 (top) and 0.72, 2.09 (bottom): narrower at its foot, half 0.79 -> 0.95",
+  "face": "first estimate from p041 (near head-on): centre at the roundel (1140 px), halves averaged, ~230 px/m at the lower face; white strip bottom at 1.28 m (dia: black below 1.28 m at the front). TO CHECK by camera match measure",
+  "face.lamps2": "review of 345042: each pod holds two large round lamps stacked and filling it (tail above, headlamp below, r 0.105 at 0.65 m out), drawn glazed with the tail's red lens; the bumper a near-black paint (#0C0D0F) rather than the mask's grey; the grille a black mesh panel under the screen, the roundel above it",
+  "face.bumper": "review on 345042 (Elizabeth-Line-Class-345-EMU, p042): the black bumper below the white strip wraps both corners and carries on back along the bodyside as a black skirt (the white '345 042' on it), its top level at 1.28 m to about 1.45 m back, then dropping to the skirt line (1.12 m) by 2.2 m; the coupler sits in an open recess +-0.62 m, 0.56-1.08 m, cut 0.15 m back (it was a closed box); the mask a dark grey (#2B2D31: p042 reads a neutral dark grey, not navy) and wider round the lamps (0.95-0.98 m at lamp level, 1.20 m at screen height), the pods and grille as before",
+  "face.mask": "f-face-041/f-face-042 (reader 2): black round the screen, curving in concavely to the pod panels at lamp level, flat bottom on the white strip; the head-on overlay on 345041 (scaled by the tail lamps) puts its outer edge at +-1.10-1.13 m at screen height, the white cheek showing outboard of it (was +-1.27, almost to the body edge); originally read as: black round the screen almost to the body edge at screen height, curving in concavely to the pod panels at lamp level, flat bottom on the white strip",
+  "face.pods": "p042 camera (side points) measure: lamp centres |z| 0.57-0.72 (mean 0.65), tails y 1.71-1.73, heads 1.52-1.53; f-lamps-l-041/r-041/042/049: vertical stadium housings, red tail on top (0.6-0.68 of the headlamp's diameter), clear headlamp below",
+  "face.grilles": "f-grille-041: perforated grille with the roundel, 0.6-0.7 of the pod-to-pod gap",
+  "face.lineBoxes": "f-grille-041: stepped wiper housing under the screen",
+  "face.lines": "f-cheek-042/049 (reader 2): crease from the pod panel's top edge outward, a rounded corner, then down to the white strip",
+  "face.shapes": "f-screen-041: orange line along the top of the screen frame, highest at the centre, dropping ~0.2 m to the sides where it carries on as the cantrail line",
+  "face.wipers": "p041/p042: one wiper, parked up the train's right half of the screen",
+  "livery": "samples.json: white-042 neutral; blue-042 #6875A0, purple-042 #734CBD balanced; orange-019; roof-019 #E4E8F2; mask = roofcap-019 #1A2138 (front colour, no neutral in the same light); black-042",
+  "livery.doors": "s-door1-042 (reader 2): leaves white all the way down; yellow and black hazard strip at the leaves' meeting edges, ~0.09 m wide in all; the old purple doors were wrong",
+  "livery.purple": "dia d-cab purple front 1.39 m at 1.17 m to 1.82 m at 1.88 m; s-purple-042 (reader 2): front edge a concave curve sweeping down and forward, top ~0.085 m below the blue's top; on the cab door's lower part; blue starts at the cab door's rear edge",
+  "livery.band": "dia row 120/90: window band's front end 2.78 m at 2.07, 3.42 at 2.96 (leaning back at the top, reader 2 s-band-042); rear end 22.69 at 2.07, 23.25 at 2.96; car 2 front 0.53 at 2.07, 1.06 at 2.96",
+  "livery.rearPurple": "dia rows 130/145: purple 22.26-23.25 m at 1.28 m, 22.50-23.49 at 1.72 m",
+  "livery.branding": "XR (the Elizabeth line roundel) white on the grille, centred (345041: 25 px tall at 230 px/m, centre at the grille's middle, 1.56 m); XR-345-number: '345 042' in white on the black side skirt behind the bumper's wrap (345042, Elizabeth-Line-Class-345-EMU): figures about 0.08 m tall at 1.035 m, starting about 2.75 m back"
+ },
+ "views": {
+  "match-p042": {
+   "matrix": [
+    [
+     0.42725795892278967,
+     -0.06261923557153289,
+     -0.9019586841278092,
+     -9.747352613572003
+    ],
+    [
+     -0.9039687395868806,
+     -0.0484134867015676,
+     -0.4248489757020766,
+     -7.251555490197892
+    ],
+    [
+     -0.017063246667572102,
+     0.9968625610593639,
+     -0.07729087896594002,
+     2.384073926146268
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 70.9655588981018,
+   "shift": [
+    -0.10985828621501774,
+    -0.19954566296629517
+   ],
+   "size": [
+    1600,
+    1200
+   ]
+  },
+  "match-p042-flat": {
+   "matrix": [
+    [
+     0.42725795892278967,
+     -0.06261923557153289,
+     -0.9019586841278092,
+     -9.747352613572003
+    ],
+    [
+     -0.9039687395868806,
+     -0.0484134867015676,
+     -0.4248489757020766,
+     -7.251555490197892
+    ],
+    [
+     -0.017063246667572102,
+     0.9968625610593639,
+     -0.07729087896594002,
+     2.384073926146268
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 70.9655588981018,
+   "shift": [
+    -0.10985828621501774,
+    -0.19954566296629517
+   ],
+   "size": [
+    1600,
+    1200
+   ],
+   "flat": true
+  }
+ }
+}

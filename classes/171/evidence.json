@@ -1,0 +1,590 @@
+{
+ "class": "171",
+ "subject": "Class 171 Turbostar in Southern livery (GTR), as run 2024-2026",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-171-Southern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_171_Southern_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-05-28",
+   "kind": "diagram",
+   "unit": "171/7 cab car + DMSO, Southern livery (as still carried)",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "Unisouth series, 369 px high; the livery (green cab end, white body, dark green doors with yellow stripes, orange cantrail line) matches 2024-2026 photos"
+  },
+  "dia48": {
+   "file": "refs/Southern-Class-171-4-8.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Southern_Class_171-4-8.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-02-02",
+   "kind": "diagram",
+   "unit": "171/4 and 171/8, Southern",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "WestRail642fan, 119 px: livery only"
+  },
+  "p727": {
+   "file": "refs/171727-London-Bridge-September-18th-2025-55004962380.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:171727,_London_Bridge,_September_18th_2025_-_55004962380.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "171727 (171/7)",
+   "view": "head-on, slightly from the right; tail lamps lit",
+   "light": "overcast under the trainshed roof",
+   "note": "EXIF Canon EOS R50, 45 mm (APS-C, 22.3 mm sensor, 6000 px original): f = 3229 px at this 1600 px copy; the face is ~21 m away, so depth differences across the cab are under 6%"
+  },
+  "p806": {
+   "file": "refs/171806-departs-from-Hurst-Green-railway-station-Surrey-May-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:171806_departs_from_Hurst_Green_railway_station,_Surrey_-_May_2026.jpg",
+   "author": "Mertbiol",
+   "licence": "CC0",
+   "date": "2026-05-28",
+   "kind": "photo",
+   "unit": "171806 (171/8)",
+   "view": "head-on (rear of a departing train: tail lamps lit), slightly from the left",
+   "light": "sun, high",
+   "note": "phone (moto g7 power, 3.9 mm), close: strong perspective; used for ratios only"
+  },
+  "p201": {
+   "file": "refs/171201-London-Bridge-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:171201,_London_Bridge,_September_18th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "171201 (171/2, ex-ScotRail 170/4)",
+   "view": "front three-quarter, near side to the right; headlamp lit",
+   "light": "overcast",
+   "note": "EXIF Canon EOS R50 30 mm. The only 171 with the older lamp arrangement (diagonal cluster + separate tail lamp)"
+  },
+  "rye": {
+   "file": "refs/171-807-at-Rye-23-June-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:171_807_at_Rye_23_June_2026.jpg",
+   "author": "Hugh Llewelyn",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-06-23",
+   "kind": "photo",
+   "unit": "171807 (171/8)",
+   "view": "front three-quarter, near side to the right, whole cab car side",
+   "light": "overcast"
+  },
+  "u1": {
+   "file": "refs/Uckfield-GTSR-Southern-171803-171801-London-Bridge-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Uckfield_-_GTSR_Southern_171803%2B171801_London_Bridge_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-10-19",
+   "kind": "photo",
+   "unit": "171803 (171/8)",
+   "view": "head-on from the platform, slightly left",
+   "light": "overcast",
+   "note": "EXIF 2023-10-19 (Commons gives 2024-10-19); Canon G5 X II 8.8 mm"
+  },
+  "u2": {
+   "file": "refs/Uckfield-GTSR-Southern-171801-717803-London-Bridge-departure.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Uckfield_-_GTSR_Southern_171801%2B717803_London_Bridge_departure.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-10-19",
+   "kind": "photo",
+   "unit": "171801 (171/8), inner end",
+   "view": "side, close, receding left",
+   "light": "overcast",
+   "note": "EXIF 2023-10-19"
+  },
+  "u3": {
+   "file": "refs/Uckfield-GTSR-Southern-171730-171809-171810-London-Bridge-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Uckfield_-_GTSR_Southern_171730%2B171809%2B171810_London_Bridge_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-10-18",
+   "kind": "photo",
+   "unit": "171730 (171/7, ex-170392)",
+   "view": "front three-quarter, close, near side left; headlamp lit",
+   "light": "dusk",
+   "note": "EXIF 2023-10-18"
+  },
+  "p805": {
+   "file": "refs/Uckfield-GTSR-Southern-171805-London-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Uckfield_-_GTSR_Southern_171805_London_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-10-20",
+   "kind": "photo",
+   "unit": "171805",
+   "view": "three-quarter",
+   "light": "sun",
+   "note": "2018: older than the 2024-2026 window; kept from the first pass, not used for numbers"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-727",
+   "ref": "p727",
+   "box": [
+    222,
+    275,
+    650,
+    830
+   ],
+   "feature": "whole front, head-on"
+  },
+  {
+   "id": "f-lamps-l-727",
+   "ref": "p727",
+   "box": [
+    226,
+    598,
+    324,
+    674
+   ],
+   "feature": "left lamp cluster head-on (train's right), tail lit"
+  },
+  {
+   "id": "f-lamps-r-727",
+   "ref": "p727",
+   "box": [
+    503,
+    598,
+    610,
+    674
+   ],
+   "feature": "right lamp cluster head-on, tail lit, small round fitting above"
+  },
+  {
+   "id": "f-screens-727",
+   "ref": "p727",
+   "box": [
+    250,
+    355,
+    595,
+    585
+   ],
+   "feature": "windscreen, centre pillar, wiper rail"
+  },
+  {
+   "id": "f-panel-727",
+   "ref": "p727",
+   "box": [
+    240,
+    560,
+    600,
+    700
+   ],
+   "feature": "lower warning panel outline"
+  },
+  {
+   "id": "f-top-727",
+   "ref": "p727",
+   "box": [
+    250,
+    272,
+    600,
+    385
+   ],
+   "feature": "roof dome and upper yellow band, orange line"
+  },
+  {
+   "id": "f-lower-727",
+   "ref": "p727",
+   "box": [
+    222,
+    675,
+    625,
+    830
+   ],
+   "feature": "valance boxes and Dellner coupler"
+  },
+  {
+   "id": "f-number-727",
+   "ref": "p727",
+   "box": [
+    455,
+    572,
+    550,
+    612
+   ],
+   "feature": "unit number"
+  },
+  {
+   "id": "f-face-806",
+   "ref": "p806",
+   "box": [
+    330,
+    1030,
+    990,
+    1960
+   ],
+   "feature": "whole front, head-on, 171/8"
+  },
+  {
+   "id": "f-lamps-l-806",
+   "ref": "p806",
+   "box": [
+    360,
+    1570,
+    520,
+    1685
+   ],
+   "feature": "left lamp cluster, tail lit"
+  },
+  {
+   "id": "f-lamps-r-806",
+   "ref": "p806",
+   "box": [
+    815,
+    1570,
+    955,
+    1685
+   ],
+   "feature": "right lamp cluster, tail lit"
+  },
+  {
+   "id": "f-lamps-201",
+   "ref": "p201",
+   "box": [
+    150,
+    600,
+    290,
+    715
+   ],
+   "feature": "171201 far lamp group (variant: diagonal cluster + separate lamp)"
+  },
+  {
+   "id": "f-face-201",
+   "ref": "p201",
+   "box": [
+    150,
+    140,
+    720,
+    960
+   ],
+   "feature": "171201 front three-quarter"
+  },
+  {
+   "id": "s-cab-rye",
+   "ref": "rye",
+   "box": [
+    600,
+    420,
+    700,
+    720
+   ],
+   "feature": "cab side: cab door, no separate side window"
+  },
+  {
+   "id": "s-livery-rye",
+   "ref": "rye",
+   "box": [
+    600,
+    420,
+    840,
+    720
+   ],
+   "feature": "cab car livery: green first-class end, yellow cantrail strip, door 1, green arc"
+  },
+  {
+   "id": "s-corner-door-rye",
+   "ref": "rye",
+   "box": [
+    380,
+    400,
+    840,
+    770
+   ],
+   "feature": "cab front corner and the first doors, three-quarter"
+  },
+  {
+   "id": "s-door1-rye",
+   "ref": "rye",
+   "box": [
+    745,
+    440,
+    815,
+    690
+   ],
+   "feature": "first bodyside door: dark green, yellow stripes"
+  },
+  {
+   "id": "s-saloon-rye",
+   "ref": "rye",
+   "box": [
+    795,
+    470,
+    960,
+    680
+   ],
+   "feature": "white saloon side, windows, roundel"
+  },
+  {
+   "id": "f-lamps-rye",
+   "ref": "rye",
+   "box": [
+    490,
+    610,
+    590,
+    680
+   ],
+   "feature": "near lamp cluster three-quarter"
+  },
+  {
+   "id": "s-carend-u2",
+   "ref": "u2",
+   "box": [
+    0,
+    600,
+    450,
+    1400
+   ],
+   "feature": "green arc at the inner car end"
+  },
+  {
+   "id": "s-door-u2",
+   "ref": "u2",
+   "box": [
+    1120,
+    840,
+    1480,
+    1400
+   ],
+   "feature": "bodyside door (open), yellow stripes"
+  },
+  {
+   "id": "s-cantrail-u2",
+   "ref": "u2",
+   "box": [
+    300,
+    600,
+    1200,
+    900
+   ],
+   "feature": "orange cantrail line, white above the windows"
+  },
+  {
+   "id": "s-windows-u2",
+   "ref": "u2",
+   "box": [
+    100,
+    830,
+    1150,
+    1380
+   ],
+   "feature": "saloon windows, dark band"
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    40,
+    25,
+    220,
+    345
+   ],
+   "feature": "diagram nose"
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    40,
+    25,
+    720,
+    345
+   ],
+   "feature": "diagram cab end to the green arc"
+  },
+  {
+   "id": "d-door1",
+   "ref": "dia",
+   "box": [
+    455,
+    60,
+    620,
+    270
+   ],
+   "feature": "diagram first door"
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    600,
+    25,
+    1300,
+    345
+   ],
+   "feature": "diagram saloon"
+  },
+  {
+   "id": "d-carend",
+   "ref": "dia",
+   "box": [
+    1600,
+    25,
+    1900,
+    345
+   ],
+   "feature": "diagram car joint, green arcs"
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-rye",
+   "ref": "rye",
+   "box": [
+    825,
+    603,
+    878,
+    626
+   ],
+   "what": "white bodyside below the windows",
+   "neutralIs": 240
+  },
+  {
+   "id": "green-rye",
+   "ref": "rye",
+   "box": [
+    744,
+    648,
+    760,
+    666
+   ],
+   "what": "cab-end green, first class side",
+   "neutral": "white-rye"
+  },
+  {
+   "id": "door-rye",
+   "ref": "rye",
+   "box": [
+    765,
+    612,
+    773,
+    652
+   ],
+   "what": "door dark green",
+   "neutral": "white-rye"
+  },
+  {
+   "id": "strip-rye",
+   "ref": "rye",
+   "box": [
+    672,
+    451,
+    742,
+    462
+   ],
+   "what": "first-class cantrail strip",
+   "neutral": "white-rye"
+  },
+  {
+   "id": "skirt-rye",
+   "ref": "rye",
+   "box": [
+    830,
+    648,
+    900,
+    658
+   ],
+   "what": "light grey skirt",
+   "neutral": "white-rye"
+  },
+  {
+   "id": "roof-rye",
+   "ref": "rye",
+   "box": [
+    660,
+    402,
+    760,
+    420
+   ],
+   "what": "roof",
+   "neutral": "white-rye"
+  },
+  {
+   "id": "yellow-rye",
+   "ref": "rye",
+   "box": [
+    395,
+    636,
+    450,
+    654
+   ],
+   "what": "face yellow (faces the camera; no neutral on the face)"
+  },
+  {
+   "id": "white-u2",
+   "ref": "u2",
+   "box": [
+    540,
+    1295,
+    950,
+    1340
+   ],
+   "what": "white bodyside below the windows",
+   "neutralIs": 240
+  },
+  {
+   "id": "green-u2",
+   "ref": "u2",
+   "box": [
+    60,
+    735,
+    200,
+    800
+   ],
+   "what": "green arc at the car end",
+   "neutral": "white-u2"
+  },
+  {
+   "id": "door-u2",
+   "ref": "u2",
+   "box": [
+    1160,
+    1000,
+    1195,
+    1200
+   ],
+   "what": "door dark green",
+   "neutral": "white-u2"
+  },
+  {
+   "id": "stripe-u2",
+   "ref": "u2",
+   "box": [
+    1394,
+    990,
+    1410,
+    1185
+   ],
+   "what": "door yellow stripe",
+   "neutral": "white-u2"
+  },
+  {
+   "id": "yellow-727",
+   "ref": "p727",
+   "box": [
+    345,
+    590,
+    420,
+    615
+   ],
+   "what": "face yellow, head-on"
+  },
+  {
+   "id": "green-727",
+   "ref": "p727",
+   "box": [
+    240,
+    525,
+    255,
+    555
+   ],
+   "what": "face green beside the screen"
+  }
+ ]
+}

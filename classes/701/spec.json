@@ -1,0 +1,596 @@
+{
+ "class": "701",
+ "subject": "Class 701 Aventra (Arterio), South Western Railway, 2025",
+ "method": "Body from the 710's measurement (the 701 diagram is the same template); face measured head-on on 701042; every number's source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 33.06,
+  "pxPerMVertical": 33.1,
+  "railY": 185.5,
+  "faceX": 0,
+  "notes": "dia LO-Class-710-1: car 1 0-709 px = 21.446 m (published DM) -> 33.06 px/m; car 2 722-1391 px = 19.99 m -> 33.47; vertical 33.1 px/m from the rail row 185.5"
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.1,
+   "cantrail": 3.32,
+   "roof": 3.76,
+   "window": [
+    1.98,
+    2.95
+   ]
+  },
+  "wheel": 0.825,
+  "wheelbase": 2.25,
+  "windowRadius": 0.1,
+  "cab": {
+   "length": 21.446,
+   "doors": [
+    {
+     "x": 2.238,
+     "w": 0.817,
+     "cab": true,
+     "window": [
+      2.45,
+      2.97
+     ],
+     "panes": [
+      -0.12,
+      0.15
+     ],
+     "span": [
+      1.13,
+      3.2
+     ]
+    },
+    {
+     "x": 6.7,
+     "w": 1.724,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 15.926,
+     "w": 1.724,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     3.902,
+     5.354
+    ],
+    [
+     8.046,
+     9.498
+    ],
+    [
+     9.74,
+     11.192
+    ],
+    [
+     11.434,
+     12.886
+    ],
+    [
+     13.128,
+     14.58
+    ],
+    [
+     17.272,
+     18.724
+    ],
+    [
+     18.966,
+     20.417
+    ]
+   ],
+   "bogies": [
+    4.159,
+    18.436
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 3.6,
+     "w": 2.1
+    },
+    {
+     "kind": "pod",
+     "x": 9.9,
+     "w": 4.6
+    }
+   ],
+   "under": [
+    [
+     7.0,
+     11.4
+    ],
+    [
+     12.4,
+     15.2
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      1.02,
+      2.62
+     ],
+     [
+      1.36,
+      3.18
+     ],
+     [
+      1.62,
+      3.2,
+      1
+     ],
+     [
+      1.7,
+      3.12
+     ],
+     [
+      1.7,
+      2.66
+     ],
+     [
+      1.64,
+      2.58,
+      1
+     ]
+    ]
+   ]
+  },
+  "next": {
+   "length": 19.99,
+   "doors": [
+    {
+     "x": 5.422,
+     "w": 1.703,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 14.535,
+     "w": 1.703,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     0.986,
+     2.42
+    ],
+    [
+     2.659,
+     4.093
+    ],
+    [
+     6.752,
+     8.186
+    ],
+    [
+     8.425,
+     9.86
+    ],
+    [
+     10.099,
+     11.533
+    ],
+    [
+     11.772,
+     13.206
+    ],
+    [
+     15.865,
+     17.299
+    ],
+    [
+     17.538,
+     18.972
+    ]
+   ],
+   "bogies": [
+    2.943,
+    17.015
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 3.6
+    },
+    {
+     "kind": "pod",
+     "x": 9.0,
+     "w": 4.5
+    }
+   ],
+   "under": [
+    [
+     5.5,
+     10.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.32,
+     0.5,
+     1
+    ],
+    [
+     0.15,
+     0.59
+    ],
+    [
+     0.03,
+     0.71
+    ],
+    [
+     0.0,
+     0.95
+    ],
+    [
+     0.0,
+     1.19
+    ],
+    [
+     0.03,
+     1.43
+    ],
+    [
+     0.12,
+     1.67
+    ],
+    [
+     0.22,
+     1.91
+    ],
+    [
+     0.34,
+     2.15
+    ],
+    [
+     0.46,
+     2.39
+    ],
+    [
+     0.62,
+     2.64
+    ],
+    [
+     0.8,
+     2.88
+    ],
+    [
+     0.99,
+     3.12
+    ],
+    [
+     1.21,
+     3.36
+    ],
+    [
+     1.42,
+     3.6
+    ],
+    [
+     1.64,
+     3.72
+    ],
+    [
+     1.85,
+     3.76,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.772,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.45
+    ]
+   ],
+   "squareness": 3,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.386,
+   "panelPaths": [
+    [
+     [
+      0,
+      1.23
+     ],
+     [
+      1.02,
+      1.23
+     ],
+     [
+      1.2,
+      1.29
+     ],
+     [
+      1.3,
+      1.45
+     ],
+     [
+      1.33,
+      2.0
+     ],
+     [
+      1.33,
+      3.0
+     ],
+     [
+      1.3,
+      3.38
+     ],
+     [
+      1.24,
+      3.55
+     ],
+     [
+      1.16,
+      3.57
+     ],
+     [
+      1.2,
+      3.4
+     ],
+     [
+      1.22,
+      3.0
+     ],
+     [
+      1.22,
+      2.25
+     ],
+     [
+      1.16,
+      2.02
+     ],
+     [
+      1.0,
+      1.96
+     ],
+     [
+      0,
+      1.96
+     ]
+    ]
+   ],
+   "darkCentre": [
+    {
+     "half": 1.2,
+     "lo": 1.94,
+     "hi": 3.45,
+     "r": [
+      0.15,
+      0.3,
+      0.3,
+      0.15
+     ]
+    },
+    {
+     "half": 0.62,
+     "lo": 3.44,
+     "hi": 3.68,
+     "r": [
+      0.02,
+      0.06,
+      0.06,
+      0.02
+     ]
+    },
+    {
+     "half": 0.88,
+     "lo": 0.45,
+     "hi": 0.94,
+     "r": [
+      0,
+      0.06,
+      0.06,
+      0
+     ]
+    }
+   ],
+   "screen": {
+    "half": 1.12,
+    "halfTop": 1.15,
+    "lo": 2.0,
+    "hi": 3.37,
+    "r": [
+     0.12,
+     0.25,
+     0.25,
+     0.12
+    ]
+   },
+   "pods": [],
+   "podPaths": [
+    [
+     [
+      0.69,
+      1.93,
+      1
+     ],
+     [
+      0.98,
+      1.98
+     ],
+     [
+      1.08,
+      1.96
+     ],
+     [
+      1.11,
+      1.86
+     ],
+     [
+      1.1,
+      1.72
+     ],
+     [
+      1.05,
+      1.67
+     ],
+     [
+      0.7,
+      1.52,
+      1
+     ]
+    ]
+   ],
+   "headlamps": "below",
+   "lampRim": "black",
+   "lineBoxes": [
+    {
+     "half": 0.69,
+     "lo": 1.25,
+     "hi": 1.78,
+     "r": 0.03
+    }
+   ],
+   "number": {
+    "text": "701       042",
+    "m": 0,
+    "y": 1.545,
+    "height": 0.11,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -0.05,
+      1.6
+     ],
+     "tip": [
+      -0.97,
+      2.96
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "navy": "#0E2034",
+   "white": "#EEF0F2",
+   "yellow": "#F2D23A",
+   "roof": "#B8BCC2",
+   "under": "#1C1E22",
+   "black": "#14161A",
+   "diagonal": [
+    [
+     12.25,
+     0.9
+    ],
+    [
+     15.5,
+     3.3
+    ]
+   ],
+   "yellowLine": [
+    1.13,
+    1.17
+   ],
+   "door1": "#EEF0F2",
+   "branding": [
+    {
+     "logo": "SW-roundel",
+     "at": [
+      3.35,
+      2.44
+     ],
+     "height": 0.86
+    },
+    {
+     "logo": "SW-arterio",
+     "at": [
+      3.56,
+      1.51
+     ],
+     "height": 0.33
+    },
+    {
+     "logo": "SW-wordmark-navy",
+     "at": [
+      10.5,
+      1.79
+     ],
+     "height": 0.3
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dia SWR-Class-701-5 (126 px tall): the 710's template, doors and windows on the same pixels (row 40: 129-177, 193-250, 498-555 ...), so the 710's lengths (21.446 / 19.99 m) and layout are used; the 701's own length is unpublished",
+  "heights": "the 345's (same body: the diagrams agree within a pixel); window glass dia col 150 rows 88-120 -> 1.98-2.95 m",
+  "cab.doors[0]": "dia cab door 60.5-87.5 px -> 1.83-2.65 m, its window cols 70-79",
+  "cab.doors[1..2]": "dia 193-250, 498-555 px; leaf glass 202-216/227-241 -> 0.17-0.6 m from centre",
+  "cab.windows": "dia glass runs 129-177, 266-314, 322-370, 378-426, 434-482, 571-619, 627-675 px",
+  "cab.bogies": "dia wheel centres 101.5/173.5, 573.5/645.5 px",
+  "next.doors": "dia 875-932, 1180-1237 px from 722",
+  "next.windows": "dia 755-803 ... 1309-1357 px",
+  "next.bogies": "dia wheel centres 784.5/856.5, 1255.5/1327.5 px",
+  "nose": "the 345's profile and plan: the 710 diagram's nose matches the 345's within a pixel",
+  "face": "701042 head-on (Vauxhall, 2025), scaled by the body's width under the pods (1611 px for 2.77 m: 582 px/m), centre on the wiper housing, up from the pods' centres taken at 1.655 m (the 710's): the yellow wraps the screen as a band up both sides to 3.55 m (outer edge 1.33 m out) and fills the lower face from the screen's foot (1.96 m) to 1.23 m; the black frame round the screen +-1.20 m, 1.94-3.45 m, the glass +-1.12 to 1.15, 2.00-3.37; the destination display box +-0.62, 3.44-3.68 m; pods 0.67-1.13 m out, 1.44-1.94 m; number plate +-0.69, 1.25-1.78, its digits 0.11 m tall split either side of the wiper housing; navy bumper below with the coupler's recess +-0.88 m up to 0.94 m",
+  "livery": "SWR navy (#061B2B in the diagram; photos 701008, 701042 a dark navy, taken #0E2034); the cab car navy back to a diagonal that leans back (dia rows 40/75: 14.61 m at 2.63, 13.13 at 1.56 m), white behind it; the first double door white, the others navy; car 2 white with navy doors; a thin yellow line along the foot (701008)",
+  "livery.branding": "701008 (Reading, side of the cab car) read along the car by a projective fit through six door and window edges of known place (cab door 1.83/2.65, window 3.90/5.35, door 1 5.84/7.56 m; residuals to 9 cm), heights from the window (1.98-2.95 m, 261 px/m) and door 1 (1.16-3.22 m, 227 px/m) beside each mark: SW-roundel (white letters, sky-blue arrow, as on the 450/444) 2.92-3.77 m, 2.01-2.87 m; SW-arterio ('Arterio' in gold, traced off this photo at its true 3.7 aspect) 2.96-4.17 m, 1.34-1.67 m; the navy wordmark (SW-wordmark-navy) on the white behind the diagonal 8.97-12.03 m, 1.67-2.04 m, drawn centred 1.79 m so it clears the window bottoms (1.98 m) as it does on the train"
+ },
+ "views": {}
+}

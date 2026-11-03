@@ -1,0 +1,388 @@
+{
+ "photos": {
+  "p031": {
+   "file": "../../rw/desiro/classes/450/refs/450031-Clapham-Junction-October-17th-2025.jpg",
+   "side": "near",
+   "focal": 2439
+  },
+  "p028": {
+   "file": "../../rw/desiro/classes/450/refs/450028-Fratton-Depot-May-20th-2026.jpg",
+   "side": "near"
+  },
+  "p113": {
+   "file": "../../rw/desiro/classes/450/refs/450113-Southampton-Central-July-14th-2025.jpg",
+   "side": "near"
+  }
+ },
+ "params": {
+  "cdF": 1.08,
+  "cdR": 1.84,
+  "w1F": 3.054,
+  "w1R": 4.156,
+  "d1F": 4.494,
+  "s1F": 6.71,
+  "winLo": 1.97,
+  "winHi": 2.96,
+  "hz": 0.77,
+  "hy": 1.595,
+  "mz": 1.1,
+  "my": 1.58,
+  "tz": 0.97,
+  "ty": 1.41,
+  "fh": 0.53,
+  "ftop": 3.57,
+  "fbot": 1.1,
+  "fx": -0.5,
+  "s4R": 13.55,
+  "d2F": 13.957,
+  "dw": 1.7
+ },
+ "prior": 0.5,
+ "fixed": {
+  "top": 3.41,
+  "bot": 0.95,
+  "ytop": 0.99
+ },
+ "points": {
+  "door0-front-top": [
+   "cdF",
+   "side(top)",
+   "top"
+  ],
+  "door0-rear-top": [
+   "cdR",
+   "side(top)",
+   "top"
+  ],
+  "door0-front-bottom": [
+   "cdF",
+   "side(ytop)",
+   "ytop"
+  ],
+  "w1-top-front": [
+   "w1F",
+   "side(winHi)",
+   "winHi"
+  ],
+  "w1-bottom-front": [
+   "w1F",
+   "side(winLo)",
+   "winLo"
+  ],
+  "w1-top-rear": [
+   "w1R",
+   "side(winHi)",
+   "winHi"
+  ],
+  "w1-bottom-rear": [
+   "w1R",
+   "side(winLo)",
+   "winLo"
+  ],
+  "door1-front-top": [
+   "d1F",
+   "side(top)",
+   "top"
+  ],
+  "door1-rear-top": [
+   "d1F+dw",
+   "side(top)",
+   "top"
+  ],
+  "door1-front-bottom": [
+   "d1F",
+   "side(bot)",
+   "bot"
+  ],
+  "door1-rear-bottom": [
+   "d1F+dw",
+   "side(bot)",
+   "bot"
+  ],
+  "s1-top-front": [
+   "s1F",
+   "side(winHi)",
+   "winHi"
+  ],
+  "s1-bottom-front": [
+   "s1F",
+   "side(winLo)",
+   "winLo"
+  ],
+  "s4-top-rear": [
+   "s4R",
+   "side(winHi)",
+   "winHi"
+  ],
+  "s4-bottom-rear": [
+   "s4R",
+   "side(winLo)",
+   "winLo"
+  ],
+  "door2-front-top": [
+   "d2F",
+   "side(top)",
+   "top"
+  ],
+  "door2-rear-top": [
+   "d2F+dw",
+   "side(top)",
+   "top"
+  ],
+  "door2-front-bottom": [
+   "d2F",
+   "side(bot)",
+   "bot"
+  ],
+  "door2-rear-bottom": [
+   "d2F+dw",
+   "side(bot)",
+   "bot"
+  ],
+  "lamp2-head": [
+   0,
+   "-hz",
+   "hy"
+  ],
+  "lamp0-marker": [
+   0,
+   "-mz",
+   "my"
+  ],
+  "lamp1-tail": [
+   0,
+   "-tz",
+   "ty"
+  ],
+  "lamp5-marker": [
+   0,
+   "mz",
+   "my"
+  ],
+  "lamp4-tail": [
+   0,
+   "tz",
+   "ty"
+  ],
+  "gangway-frame-top-near": [
+   "fx",
+   "-fh",
+   "ftop"
+  ],
+  "gangway-frame-top-far": [
+   "fx",
+   "fh",
+   "ftop"
+  ],
+  "gangway-frame-bottom-near": [
+   "fx",
+   "-fh",
+   "fbot"
+  ],
+  "end-top": [
+   "20.30",
+   "side(3.43)",
+   "3.43"
+  ]
+ },
+ "obs": {
+  "p031": {
+   "door1-front-top": [
+    700.6,
+    427.2
+   ],
+   "door1-rear-top": [
+    752.5,
+    430.3
+   ],
+   "door1-rear-bottom": [
+    740.8,
+    686.6
+   ],
+   "door1-front-bottom": [
+    689.6,
+    694.5
+   ],
+   "w1-top-front": [
+    638.6,
+    472.8
+   ],
+   "w1-bottom-front": [
+    640.2,
+    594.5
+   ],
+   "w1-top-rear": [
+    679.5,
+    474.3
+   ],
+   "w1-bottom-rear": [
+    680.1,
+    593.8
+   ],
+   "s1-top-front": [
+    771.1,
+    482.6
+   ],
+   "s1-bottom-front": [
+    771.1,
+    582.0
+   ],
+   "s4-top-rear": [
+    910.0,
+    490.3
+   ],
+   "s4-bottom-rear": [
+    909.2,
+    570.9
+   ],
+   "door2-front-top": [
+    920.3,
+    462.9
+   ],
+   "door2-rear-top": [
+    946.0,
+    464.6
+   ],
+   "door2-front-bottom": [
+    909.2,
+    642.9
+   ],
+   "door2-rear-bottom": [
+    938.3,
+    637.7
+   ],
+   "lamp2-head": [
+    388.1,
+    649.0
+   ],
+   "lamp0-marker": [
+    439.1,
+    652.3
+   ],
+   "lamp1-tail": [
+    418.3,
+    675.2
+   ],
+   "lamp5-marker": [
+    129.6,
+    630.5
+   ],
+   "lamp4-tail": [
+    144.7,
+    655.7
+   ],
+   "gangway-frame-top-near": [
+    350.2,
+    351.9
+   ],
+   "gangway-frame-top-far": [
+    185.7,
+    351.9
+   ],
+   "end-top": [
+    999,
+    468
+   ]
+  },
+  "p028": {
+   "door0-front-top": [
+    1184.3,
+    429.5
+   ],
+   "door0-rear-top": [
+    1286.5,
+    429.5
+   ],
+   "door0-front-bottom": [
+    1184.6,
+    749.0
+   ],
+   "w1-top-front": [
+    1472.0,
+    488.5
+   ],
+   "w1-bottom-front": [
+    1471.5,
+    624.0
+   ],
+   "lamp2-head": [
+    1006.5,
+    668.5
+   ],
+   "lamp0-marker": [
+    1025.7,
+    670.3
+   ],
+   "lamp1-tail": [
+    1015.0,
+    690.0
+   ],
+   "gangway-frame-top-near": [
+    930.0,
+    404.0
+   ],
+   "gangway-frame-top-far": [
+    900.0,
+    404.0
+   ],
+   "gangway-frame-bottom-near": [
+    930.0,
+    718.0
+   ]
+  },
+  "p113": {
+   "door1-front-top": [
+    716.6,
+    451.7
+   ],
+   "door1-rear-top": [
+    771.4,
+    456.3
+   ],
+   "door1-front-bottom": [
+    710.9,
+    667.0
+   ],
+   "door1-rear-bottom": [
+    770.3,
+    655.1
+   ],
+   "w1-top-front": [
+    632.0,
+    484.9
+   ],
+   "w1-bottom-front": [
+    632.7,
+    587.7
+   ],
+   "w1-top-rear": [
+    689.8,
+    486.0
+   ],
+   "w1-bottom-rear": [
+    689.8,
+    585.4
+   ],
+   "lamp2-head": [
+    320.5,
+    655.0
+   ],
+   "lamp0-marker": [
+    366.7,
+    657.7
+   ],
+   "lamp1-tail": [
+    347.3,
+    681.0
+   ]
+  }
+ },
+ "holdout": [
+  "p031:w1-bottom-front",
+  "p031:door2-rear-top",
+  "p028:lamp1-tail",
+  "p031:lamp4-tail",
+  "p113:door1-front-bottom",
+  "p113:w1-bottom-rear"
+ ]
+}

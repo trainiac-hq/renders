@@ -1,0 +1,18 @@
+{
+  "name": "trainiac-renders",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "bun validate/validate.ts",
+    "render": "bun scripts/render-all.ts",
+    "sheet": "bun scripts/contact-sheet.ts",
+    "export": "bun scripts/export.ts",
+    "typecheck": "bun check"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@types/bun": "^1.4.2",
+    "typescript": "~6.0.3"
+  },
+  "packageManager": "bun@1.4.3"
+}

@@ -1,0 +1,96 @@
+{
+ "ref": "p045",
+ "side": "near",
+ "model": {},
+ "modelFace": {
+  "yellow-top-near": [
+   -0.98,
+   1.95
+  ],
+  "yellow-top-far": [
+   0.98,
+   1.95
+  ]
+ },
+ "points": {
+  "lamp0-head": [
+   1240,
+   1074
+  ],
+  "lamp1-tail": [
+   1103,
+   1113
+  ],
+  "lamp2-tail": [
+   687,
+   1090
+  ],
+  "lamp3-head": [
+   599,
+   1041
+  ],
+  "door0-front-top": [
+   1516,
+   510
+  ],
+  "door0-rear-top": [
+   1638,
+   522
+  ],
+  "door1-front-top": [
+   1960,
+   577
+  ],
+  "door1-rear-top": [
+   2101,
+   585
+  ],
+  "door1-front-bottom": [
+   1945,
+   1132
+  ],
+  "door1-rear-bottom": [
+   2076,
+   1100
+  ],
+  "door2-front-top": [
+   2505,
+   650
+  ],
+  "door2-rear-top": [
+   2562,
+   653
+  ],
+  "yellow-top-near": [
+   1231,
+   949
+  ],
+  "yellow-top-far": [
+   637,
+   922
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "door0-rear-top",
+  "door2-rear-top"
+ ],
+ "readings": {
+  "lamp0-head": "pk045a: near (image-right, train's left side) headlamp lens circle 1209-1272 x 1041-1107",
+  "lamp1-tail": "pk045a: near tail lens (unlit, dark red) 1084-1123 x 1093-1134, on the yellow just inside its curved edge",
+  "lamp2-tail": "pk045a: far tail lens 670-703 x 1069-1110",
+  "lamp3-head": "pk045a: far headlamp lens 575-623 x 1010-1072 (foreshortened, round end of the peanut)",
+  "door0-front-top": "pk045b: cab door's front seal (thick dark line) meets the orange cantrail line",
+  "door0-rear-top": "pk045b: cab door's rear seal meets the orange line",
+  "door1-front-top": "re-pick: front seal outer edge under the orange line",
+  "door1-rear-top": "re-pick (tmp-pk rt): outer edge of the rear seal under the orange line",
+  "door1-front-bottom": "pk045b: magenta ends at the step in a dark edge; front bottom corner of the leaf",
+  "door1-rear-bottom": "pk045b: rear bottom corner of the magenta leaf above the step; fitted, not held out: the leaf curves in towards its foot (the Electrostar lower bodyside tumbles in, which the model's vertical lower side lacks), so a bottom corner measures the section, not the door",
+  "door2-front-top": "pk045c: car 1's second door, magenta top front corner",
+  "door2-rear-top": "re-pick on a 1:1 crop: the magenta and its seal end at 2562",
+  "axle0": "dropped: the leading wheel is behind the valance; the visible hub cannot be told from the axlebox cover (90 px off in every solve)",
+  "yellow-top-near": "pk045c: the yellow's top corner on the near side, where yellow, white and the band's bottom meet under the screen sill",
+  "yellow-top-far": "pk045c: the yellow's far top corner",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side near, lamps, modelFace signs (yellow-top-near z -0.98 on the right as seen) all correct. No change."
+ }
+}

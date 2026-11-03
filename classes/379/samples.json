@@ -1,0 +1,544 @@
+{
+ "white-018": {
+  "ref": "g018",
+  "box": [
+   1372,
+   1640,
+   1395,
+   1690
+  ],
+  "what": "white bodyside below bay 1 windows, behind door 1",
+  "median": "#A7A69F",
+  "iqr": [
+   11,
+   13,
+   12
+  ]
+ },
+ "door-018": {
+  "ref": "g018",
+  "box": [
+   1280,
+   1440,
+   1320,
+   1500
+  ],
+  "what": "door 1 leaf (glossy, reflections)",
+  "median": "#222325",
+  "iqr": [
+   8,
+   8,
+   7
+  ],
+  "balanced": "#313338",
+  "neutral": "white-018"
+ },
+ "strip-018": {
+  "ref": "g018",
+  "box": [
+   1420,
+   1213,
+   1470,
+   1222
+  ],
+  "what": "first-class strip",
+  "median": "#C59C3A",
+  "iqr": [
+   4,
+   3,
+   7
+  ],
+  "balanced": "#FFE258",
+  "neutral": "white-018"
+ },
+ "orange-018": {
+  "ref": "g018",
+  "box": [
+   1440,
+   1196,
+   1460,
+   1199
+  ],
+  "what": "cantrail orange line",
+  "median": "#D99474",
+  "iqr": [
+   8,
+   18,
+   19
+  ],
+  "balanced": "#FFD7B0",
+  "neutral": "white-018"
+ },
+ "roof-018": {
+  "ref": "g018",
+  "box": [
+   1600,
+   1060,
+   1700,
+   1090
+  ],
+  "what": "roof (reflects sky, bluish)",
+  "median": "#727A88",
+  "iqr": [
+   28,
+   45,
+   70
+  ],
+  "balanced": "#A4B1CD",
+  "neutral": "white-018"
+ },
+ "valance-018": {
+  "ref": "g018",
+  "box": [
+   2500,
+   2090,
+   2560,
+   2140
+  ],
+  "what": "white lower face",
+  "median": "#EBE7DC",
+  "iqr": [
+   14,
+   15,
+   16
+  ]
+ },
+ "yellow-018": {
+  "ref": "g018",
+  "box": [
+   2510,
+   1690,
+   2560,
+   1730
+  ],
+  "what": "left warning panel yellow",
+  "median": "#E4AC41",
+  "iqr": [
+   3,
+   2,
+   3
+  ],
+  "balanced": "#E9B347",
+  "neutral": "valance-018"
+ },
+ "gwdoor-018": {
+  "ref": "g018",
+  "box": [
+   2900,
+   1400,
+   2960,
+   1500
+  ],
+  "what": "gangway door yellow",
+  "median": "#DCA545",
+  "iqr": [
+   15,
+   15,
+   14
+  ],
+  "balanced": "#E1AB4B",
+  "neutral": "valance-018"
+ },
+ "gwframe-018": {
+  "ref": "g018",
+  "box": [
+   2835,
+   1400,
+   2855,
+   1600
+  ],
+  "what": "gangway frame grey",
+  "median": "#58524E",
+  "iqr": [
+   17,
+   16,
+   15
+  ],
+  "balanced": "#5A5555",
+  "neutral": "valance-018"
+ },
+ "white-003": {
+  "ref": "g003",
+  "box": [
+   1760,
+   1240,
+   1830,
+   1300
+  ],
+  "what": "white bodyside below bay 1, sun",
+  "median": "#D9D9D8",
+  "iqr": [
+   4,
+   4,
+   6
+  ]
+ },
+ "door-003": {
+  "ref": "g003",
+  "box": [
+   1680,
+   1035,
+   1700,
+   1100
+  ],
+  "what": "door 1 leaf, sun",
+  "median": "#282F2F",
+  "iqr": [
+   17,
+   24,
+   30
+  ],
+  "balanced": "#2C3434",
+  "neutral": "white-003"
+ },
+ "strip-003": {
+  "ref": "g003",
+  "box": [
+   1790,
+   915,
+   1830,
+   922
+  ],
+  "what": "first-class strip",
+  "median": "#E4CF63",
+  "iqr": [
+   10,
+   9,
+   42
+  ],
+  "balanced": "#FCE56E",
+  "neutral": "white-003"
+ },
+ "orange-003": {
+  "ref": "g003",
+  "box": [
+   1790,
+   903,
+   1830,
+   908
+  ],
+  "what": "cantrail orange line",
+  "median": "#DBB3A2",
+  "iqr": [
+   32,
+   8,
+   7
+  ],
+  "balanced": "#F2C6B4",
+  "neutral": "white-003"
+ },
+ "roof-003": {
+  "ref": "g003",
+  "box": [
+   1750,
+   850,
+   1850,
+   880
+  ],
+  "what": "roof, from above",
+  "median": "#BBB7B3",
+  "iqr": [
+   5,
+   5,
+   5
+  ],
+  "balanced": "#CFCAC7",
+  "neutral": "white-003"
+ },
+ "valance-003": {
+  "ref": "g003",
+  "box": [
+   2050,
+   1500,
+   2120,
+   1540
+  ],
+  "what": "white lower face",
+  "median": "#DEDEDC",
+  "iqr": [
+   5,
+   5,
+   6
+  ]
+ },
+ "yellow-003": {
+  "ref": "g003",
+  "box": [
+   2090,
+   1290,
+   2140,
+   1320
+  ],
+  "what": "left panel yellow",
+  "median": "#DEB02A",
+  "iqr": [
+   4,
+   3,
+   4
+  ],
+  "balanced": "#F0BE2E",
+  "neutral": "valance-003"
+ },
+ "valance-024": {
+  "ref": "g024",
+  "box": [
+   1560,
+   1650,
+   1660,
+   1700
+  ],
+  "what": "white lower face, shade",
+  "median": "#B5BEC7",
+  "iqr": [
+   11,
+   10,
+   10
+  ]
+ },
+ "yellow-024": {
+  "ref": "g024",
+  "box": [
+   1530,
+   1360,
+   1600,
+   1395
+  ],
+  "what": "left panel yellow",
+  "median": "#B48313",
+  "iqr": [
+   10,
+   9,
+   8
+  ],
+  "balanced": "#EFA517",
+  "neutral": "valance-024"
+ },
+ "gwdoor-024": {
+  "ref": "g024",
+  "box": [
+   1800,
+   1300,
+   1940,
+   1450
+  ],
+  "what": "gangway door yellow",
+  "median": "#724A05",
+  "iqr": [
+   20,
+   15,
+   9
+  ],
+  "balanced": "#975D06",
+  "neutral": "valance-024"
+ },
+ "cap-024": {
+  "ref": "g024",
+  "box": [
+   1600,
+   935,
+   1700,
+   970
+  ],
+  "what": "cap yellow",
+  "median": "#AB822A",
+  "iqr": [
+   27,
+   17,
+   13
+  ],
+  "balanced": "#E3A433",
+  "neutral": "valance-024"
+ },
+ "white-l029": {
+  "ref": "l029",
+  "box": [
+   2330,
+   1200,
+   2380,
+   1260
+  ],
+  "what": "LE white cab side",
+  "median": "#EBEAE6",
+  "iqr": [
+   3,
+   2,
+   2
+  ]
+ },
+ "door-l029": {
+  "ref": "l029",
+  "box": [
+   1900,
+   1360,
+   1940,
+   1420
+  ],
+  "what": "LE door 1 leaf",
+  "median": "#201F27",
+  "iqr": [
+   13,
+   13,
+   10
+  ],
+  "balanced": "#212029",
+  "neutral": "white-l029"
+ },
+ "strip-l029": {
+  "ref": "l029",
+  "box": [
+   2060,
+   1055,
+   2100,
+   1059
+  ],
+  "what": "LE first-class strip",
+  "median": "#E0B03C",
+  "iqr": [
+   15,
+   10,
+   21
+  ],
+  "balanced": "#E5B53F",
+  "neutral": "white-l029"
+ },
+ "roof-l029": {
+  "ref": "l029",
+  "box": [
+   2290,
+   948,
+   2310,
+   972
+  ],
+  "what": "LE roof over the cab front (weathered)",
+  "median": "#79787D",
+  "iqr": [
+   6,
+   7,
+   7
+  ],
+  "balanced": "#7C7B82",
+  "neutral": "white-l029"
+ },
+ "valance-l029": {
+  "ref": "l029",
+  "box": [
+   2370,
+   1520,
+   2470,
+   1560
+  ],
+  "what": "LE white lower face",
+  "median": "#CFC9C6",
+  "iqr": [
+   14,
+   15,
+   15
+  ]
+ },
+ "yellow-l029": {
+  "ref": "l029",
+  "box": [
+   2500,
+   1300,
+   2550,
+   1330
+  ],
+  "what": "LE left panel yellow",
+  "median": "#DC9017",
+  "iqr": [
+   10,
+   10,
+   7
+  ],
+  "balanced": "#FFAC1C",
+  "neutral": "valance-l029"
+ },
+ "gwdoor-l029": {
+  "ref": "l029",
+  "box": [
+   2760,
+   1150,
+   2820,
+   1300
+  ],
+  "what": "LE gangway door yellow",
+  "median": "#DE8F09",
+  "iqr": [
+   6,
+   7,
+   11
+  ],
+  "balanced": "#FFAB0B",
+  "neutral": "valance-l029"
+ },
+ "valance-l017": {
+  "ref": "l017",
+  "box": [
+   1930,
+   1830,
+   2000,
+   1860
+  ],
+  "what": "LE white lower face",
+  "median": "#B7B0AF",
+  "iqr": [
+   5,
+   5,
+   6
+  ]
+ },
+ "yellow-l017": {
+  "ref": "l017",
+  "box": [
+   1900,
+   1540,
+   1950,
+   1565
+  ],
+  "what": "LE left panel yellow",
+  "median": "#C2810E",
+  "iqr": [
+   4,
+   6,
+   4
+  ],
+  "balanced": "#FEB013",
+  "neutral": "valance-l017"
+ },
+ "orange-024": {
+  "ref": "g024",
+  "box": [
+   2040,
+   982,
+   2100,
+   987
+  ],
+  "what": "cap line orange (8 px tall), face",
+  "median": "#CF6C2A",
+  "iqr": [
+   15,
+   10,
+   13
+  ],
+  "balanced": "#FF8833",
+  "neutral": "valance-024"
+ },
+ "orange-l029": {
+  "ref": "l029",
+  "box": [
+   2475,
+   983,
+   2505,
+   989
+  ],
+  "what": "LE cap line orange",
+  "median": "#B8521C",
+  "iqr": [
+   19,
+   11,
+   16
+  ],
+  "balanced": "#D56223",
+  "neutral": "valance-l029"
+ }
+}

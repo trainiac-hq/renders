@@ -1,0 +1,670 @@
+{
+ "class": "730",
+ "subject": "Class 730/2 Aventra, London Northwestern Railway, 2025-26",
+ "method": "Body from the LNR 730/2 diagram (the 710's template behind a gangway) at the published 24 m, the nose profile from the same diagram, face measured head-on on 730234; every number's source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 29.46,
+  "pxPerMVertical": 33.1,
+  "railY": 185.5,
+  "faceX": 11,
+  "notes": "dia LNR 730/2: the 710's template moved back 11 px behind the gangway (car 1 face at 11 px, end 718; car 2 732-1400 px); lengths at the published 24 m (29.5 and 27.8 px/m: the template is not to scale); vertical 33.1 px/m from row 185.5 as the 710's"
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.1,
+   "cantrail": 3.32,
+   "roof": 3.76,
+   "window": [
+    1.97,
+    2.94
+   ]
+  },
+  "wheel": 0.825,
+  "wheelbase": 2.25,
+  "windowRadius": 0.1,
+  "cab": {
+   "length": 24.0,
+   "doors": [
+    {
+     "x": 2.478,
+     "w": 0.916,
+     "cab": true,
+     "window": [
+      2.45,
+      2.97
+     ],
+     "panes": [
+      -0.12,
+      0.15
+     ],
+     "span": [
+      1.13,
+      3.2
+     ]
+    },
+    {
+     "x": 7.486,
+     "w": 1.935,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 17.838,
+     "w": 1.935,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     4.345,
+     5.975
+    ],
+    [
+     8.996,
+     10.625
+    ],
+    [
+     10.897,
+     12.526
+    ],
+    [
+     12.798,
+     14.427
+    ],
+    [
+     14.699,
+     16.328
+    ],
+    [
+     19.349,
+     20.979
+    ],
+    [
+     21.25,
+     22.88
+    ]
+   ],
+   "bogies": [
+    4.634,
+    20.656
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 4.6,
+     "w": 2.1
+    },
+    {
+     "kind": "pod",
+     "x": 12.0,
+     "w": 5.0
+    }
+   ],
+   "under": [
+    [
+     7.5,
+     13.5
+    ],
+    [
+     14.5,
+     18.0
+    ]
+   ]
+  },
+  "next": {
+   "length": 24.0,
+   "doors": [
+    {
+     "x": 6.521,
+     "w": 2.048,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 17.479,
+     "w": 2.048,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     1.186,
+     2.91
+    ],
+    [
+     3.198,
+     4.922
+    ],
+    [
+     8.12,
+     9.844
+    ],
+    [
+     10.132,
+     11.856
+    ],
+    [
+     12.144,
+     13.868
+    ],
+    [
+     14.156,
+     15.88
+    ],
+    [
+     19.078,
+     20.802
+    ],
+    [
+     21.09,
+     22.814
+    ]
+   ],
+   "bogies": [
+    3.539,
+    20.461
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 4.2
+    },
+    {
+     "kind": "pod",
+     "x": 11.5,
+     "w": 5.0
+    }
+   ],
+   "under": [
+    [
+     7.0,
+     12.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.4,
+     0.55,
+     1
+    ],
+    [
+     0.05,
+     0.92
+    ],
+    [
+     0.0,
+     1.07
+    ],
+    [
+     0.0,
+     1.37
+    ],
+    [
+     0.03,
+     1.83
+    ],
+    [
+     0.17,
+     2.28
+    ],
+    [
+     0.34,
+     2.73
+    ],
+    [
+     0.48,
+     3.04
+    ],
+    [
+     0.62,
+     3.3
+    ],
+    [
+     0.76,
+     3.5
+    ],
+    [
+     0.88,
+     3.64
+    ],
+    [
+     1.15,
+     3.76,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.772,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.3
+    ]
+   ],
+   "squareness": 4,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.386,
+   "mask": [
+    [
+     0,
+     3.47
+    ],
+    [
+     1.0,
+     3.47
+    ],
+    [
+     1.22,
+     3.36
+    ],
+    [
+     1.32,
+     3.1
+    ],
+    [
+     1.33,
+     2.34
+    ],
+    [
+     0.93,
+     1.82
+    ],
+    [
+     0.6,
+     1.82,
+     1
+    ],
+    [
+     0,
+     1.82,
+     1
+    ]
+   ],
+   "darkCentre": [
+    {
+     "half": 0.66,
+     "lo": 0.4,
+     "hi": 1.1,
+     "r": [
+      0,
+      0.04,
+      0.04,
+      0
+     ]
+    }
+   ],
+   "screens": [
+    {
+     "inner": 0.68,
+     "outer": 1.22,
+     "lo": 2.13,
+     "hi": 3.25,
+     "r": [
+      0.06,
+      0.1,
+      0.2,
+      0.08
+     ]
+    }
+   ],
+   "pods": [
+    {
+     "inner": 0.86,
+     "outer": 1.3,
+     "lo": 1.34,
+     "hi": 1.7,
+     "r": [
+      0.06,
+      0.06,
+      0.14,
+      0.1
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "inner": 0.62,
+     "outer": 1.34,
+     "lo": 1.3,
+     "hi": 1.74,
+     "r": [
+      0.04,
+      0.04,
+      0.12,
+      0.1
+     ]
+    }
+   ],
+   "lampRim": "black",
+   "shapes": [
+    {
+     "color": "#1A1C1E",
+     "pts": [
+      [
+       0.72,
+       0.5,
+       1
+      ],
+      [
+       0.72,
+       1.0,
+       1
+      ],
+      [
+       1.3,
+       1.0,
+       1
+      ],
+      [
+       1.3,
+       0.5,
+       1
+      ]
+     ]
+    },
+    {
+     "color": "#1A1C1E",
+     "pts": [
+      [
+       -1.3,
+       0.5,
+       1
+      ],
+      [
+       -1.3,
+       1.0,
+       1
+      ],
+      [
+       -0.72,
+       1.0,
+       1
+      ],
+      [
+       -0.72,
+       0.5,
+       1
+      ]
+     ]
+    },
+    {
+     "color": "#EEF0F0",
+     "pts": [
+      [
+       1.36,
+       2.26,
+       1
+      ],
+      [
+       1.38,
+       2.15,
+       1
+      ],
+      [
+       0.98,
+       1.66,
+       1
+      ],
+      [
+       0.92,
+       1.73,
+       1
+      ]
+     ]
+    },
+    {
+     "color": "#EEF0F0",
+     "pts": [
+      [
+       -1.36,
+       2.26,
+       1
+      ],
+      [
+       -0.92,
+       1.73,
+       1
+      ],
+      [
+       -0.98,
+       1.66,
+       1
+      ],
+      [
+       -1.38,
+       2.15,
+       1
+      ]
+     ]
+    }
+   ],
+   "gangwayDoor": {
+    "half": 0.58,
+    "lo": 1.12,
+    "hi": 3.42,
+    "r": 0.04
+   },
+   "gangwayFrame": {
+    "box": {
+     "half": 0.63,
+     "lo": 1.07,
+     "hi": 3.49,
+     "r": 0.06
+    },
+    "depth": 0.37,
+    "color": "#151618"
+   },
+   "number": {
+    "text": "234",
+    "m": -1.0,
+    "y": 3.37,
+    "height": 0.09,
+    "color": "#E8E8E8"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -1.05,
+      2.15
+     ],
+     "tip": [
+      -0.95,
+      3.15
+     ]
+    },
+    {
+     "pivot": [
+      1.05,
+      2.15
+     ],
+     "tip": [
+      0.95,
+      3.15
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "green": "#0F4F4A",
+   "white": "#E9EAEA",
+   "stripe": "#14A04E",
+   "pale": "#B8E8C4",
+   "band": "#17191B",
+   "roof": "#3C4044",
+   "under": "#1C1E22",
+   "orange": "#E9802E",
+   "orangeLine": [
+    3.28,
+    3.31
+   ],
+   "bandLo": 1.88,
+   "bandHi": 3.0,
+   "cabGreen": [
+    [
+     3.02,
+     3.19
+    ],
+    [
+     3.9,
+     1.19
+    ]
+   ],
+   "cabRear": {
+    "stripe": [
+     [
+      19.89,
+      20.91,
+      3.19
+     ],
+     [
+      20.78,
+      21.79,
+      1.19
+     ]
+    ],
+    "pale": [
+     [
+      21.73,
+      22.0,
+      3.19
+     ],
+     [
+      21.79,
+      21.86,
+      1.19
+     ]
+    ],
+    "green": [
+     [
+      22.0,
+      3.19
+     ],
+     [
+      22.88,
+      1.19
+     ]
+    ]
+   },
+   "nextFront": {
+    "green": [
+     [
+      1.18,
+      3.19
+     ],
+     [
+      2.12,
+      1.19
+     ]
+    ],
+    "pale": [
+     [
+      2.26,
+      2.33,
+      3.19
+     ],
+     [
+      2.12,
+      2.41,
+      1.19
+     ]
+    ],
+    "stripe": [
+     [
+      2.33,
+      3.41,
+      3.19
+     ],
+     [
+      3.27,
+      4.34,
+      1.19
+     ]
+    ]
+   },
+   "branding": [
+    {
+     "logo": "LM-W",
+     "at": [
+      1.67,
+      2.37
+     ],
+     "height": 0.33,
+     "color": "#E6E7E8"
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dia LNR 730/2: the 710's template moved back 11 px behind the gangway (car 1 face at 11 px, end 718; car 2 732-1400 px); lengths at the published 24 m (29.5 and 27.8 px/m: the template is not to scale); vertical 33.1 px/m from row 185.5 as the 710's",
+  "heights": "the 710's (same template); window rows 88-120",
+  "cab.doors": "dia row 100: cab door 70.5-97.5 px, doors 203-260, 508-565",
+  "cab.windows": "dia row 100 glass runs 139-187 ... 637-685 px",
+  "cab.bogies": "dia wheel row 170: 100-123/172-195, 572-595/644-667 px",
+  "next": "dia from 732: windows 765-813 ... 1319-1367, doors 885-942, 1190-1247, wheels 783-806/855-878, 1254-1277/1326-1349",
+  "nose.profile": "dia leftmost body pixel per row (the gangway's bellows 0-4 px ahead of it): 11 px at 1.07-1.37 m, 12 at 1.83, 16 at 2.28, 21 at 2.73, 25 at 3.04, 33 at 3.49, 36 at 3.61 (rows 66-150), at 29.5 px/m from 11 px; blunter than the 345/710 nose",
+  "face.gangway": "dia: bellows 0-4 px (0.37 m ahead of the face) from row 70 to 150 (3.49-1.07 m); 730234 head-on: the door 545 px wide at 435 px/m (body edge to centre 603 px for 1.386 m): +-0.63 m with its frame",
+  "face.lower": "730234: green continues below the pods to the skirts; black ribbed skirt boxes each side (0.72-1.30 m out, 0.5-1.0 m) and the coupler's recess (+-0.66 m) between them (it was one dark block across the whole width)",
+  "face.overlay": "first render overlaid on 730234 (scaled by the headlamps): the white chevrons were hidden under the mask (painted shapes sit under the dark): the mask now stops at the chevron's upper edge (1.33 m at 2.34 down to 0.93 at 1.82), the pod a separate dark box under it; the pods enlarged to the photo's (0.86-1.30 m, 1.34-1.70); the number on the other side (right as seen)",
+  "face": "730234 head-on (Stafford), scaled across by the body's half-width (603 px for 1.386 m: 435 px/m) and up along the gangway (1.07-3.49 m from the diagram): each side a black mask from under the roof's orange line down to 1.32 m holding the side screen (0.68-1.22 m out, 2.13-3.25 m) and the lamp pod (0.93-1.23 m, 1.38-1.68), a white chevron from the cheek in toward the pod; green below the mask to 1.15 m, black skirts and the coupler below; the unit's last three digits on the mask's top right",
+  "livery": "dia colours (#006842 LNR green, #00A742 stripe, #B2FFBB pale, #E5E5E5 white) toned to the photos by eye (730234, 730232: the green a deep teal): the cab end green back to an edge leaning back (3.02 m at 3.19 m, 3.90 at 1.19: rows 80/146), the green doors, black window band rows 85-123 (1.88-3.0 m), white elsewhere; the car ends' green with a leaning green stripe and a pale sliver before it (rows 80/146)",
+  "livery.branding": "LM-W (the LNR 'W', traced off 350126) white on the green cab end ahead of the cab door, under the side window: 730223 (Crewe), against the cab door's height (272 px/m): 0.33 m tall centred 2.37 m; about 0.35 m ahead of the cab door's front edge (2.02 m): 1.67 m"
+ },
+ "views": {}
+}

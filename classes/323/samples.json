@@ -1,0 +1,298 @@
+{
+ "silver-210": {
+  "ref": "p210",
+  "box": [
+   1085,
+   647,
+   1252,
+   678
+  ],
+  "what": "silver bodyside, car 1",
+  "median": "#A0A19E",
+  "iqr": [
+   2,
+   2,
+   4
+  ]
+ },
+ "gold-210": {
+  "ref": "p210",
+  "box": [
+   1600,
+   1050,
+   1700,
+   1150
+  ],
+  "what": "cab side gold",
+  "median": "#4F3023",
+  "iqr": [
+   25,
+   20,
+   13
+  ],
+  "balanced": "#633C2C",
+  "neutral": "silver-210"
+ },
+ "door-210": {
+  "ref": "p210",
+  "box": [
+   1370,
+   1045,
+   1460,
+   1170
+  ],
+  "what": "door gold",
+  "median": "#402C22",
+  "iqr": [
+   24,
+   17,
+   13
+  ],
+  "balanced": "#50372B",
+  "neutral": "silver-210"
+ },
+ "yellow-210": {
+  "ref": "p210",
+  "box": [
+   2300,
+   1045,
+   2600,
+   1085
+  ],
+  "what": "face yellow above the lamps",
+  "median": "#A46706",
+  "iqr": [
+   4,
+   4,
+   2
+  ],
+  "balanced": "#CD8008",
+  "neutral": "silver-210"
+ },
+ "valance-210": {
+  "ref": "p210",
+  "box": [
+   2296,
+   1242,
+   2589,
+   1284
+  ],
+  "what": "valance",
+  "median": "#191D1D",
+  "iqr": [
+   2,
+   2,
+   2
+  ],
+  "balanced": "#1F2425",
+  "neutral": "silver-210"
+ },
+ "roof-210": {
+  "ref": "p210",
+  "box": [
+   2090,
+   335,
+   2500,
+   365
+  ],
+  "what": "roof",
+  "median": "#6A6C6B",
+  "iqr": [
+   11,
+   12,
+   13
+  ],
+  "balanced": "#848687",
+  "neutral": "silver-210"
+ },
+ "yellow-cov": {
+  "ref": "pcov",
+  "box": [
+   2700,
+   1430,
+   2800,
+   1480
+  ],
+  "what": "face yellow",
+  "median": "#FFD823",
+  "iqr": [
+   0,
+   2,
+   5
+  ]
+ },
+ "gold-cov": {
+  "ref": "pcov",
+  "box": [
+   1500,
+   1450,
+   1580,
+   1520
+  ],
+  "what": "cab side gold",
+  "median": "#8D5D3D",
+  "iqr": [
+   24,
+   30,
+   30
+  ]
+ },
+ "valance-cov": {
+  "ref": "pcov",
+  "box": [
+   2300,
+   1700,
+   2600,
+   1750
+  ],
+  "what": "valance",
+  "median": "#4A4C4B",
+  "iqr": [
+   18,
+   17,
+   19
+  ]
+ },
+ "darkband-210": {
+  "ref": "p210",
+  "box": [
+   1150,
+   1050,
+   1250,
+   1090
+  ],
+  "what": "dark band under the saloon windows (logo band)",
+  "median": "#282826",
+  "iqr": [
+   45,
+   36,
+   25
+  ],
+  "balanced": "#323230",
+  "neutral": "silver-210"
+ },
+ "silver-214": {
+  "ref": "p214",
+  "box": [
+   866,
+   943,
+   975,
+   975
+  ],
+  "what": "silver bodyside, car 2",
+  "median": "#8C8C8C",
+  "iqr": [
+   8,
+   9,
+   9
+  ]
+ },
+ "gold-214": {
+  "ref": "p214",
+  "box": [
+   1332,
+   974,
+   1409,
+   1021
+  ],
+  "what": "cab side gold",
+  "median": "#804306",
+  "iqr": [
+   17,
+   11,
+   14
+  ],
+  "balanced": "#B76009",
+  "neutral": "silver-214"
+ },
+ "door-214": {
+  "ref": "p214",
+  "box": [
+   1020,
+   912,
+   1080,
+   985
+  ],
+  "what": "door gold",
+  "median": "#7D4412",
+  "iqr": [
+   24,
+   16,
+   18
+  ],
+  "balanced": "#B3611A",
+  "neutral": "silver-214"
+ },
+ "yellow-214": {
+  "ref": "p214",
+  "box": [
+   2108,
+   936,
+   2186,
+   975
+  ],
+  "what": "face yellow (faces the camera, same light?)",
+  "median": "#E5A200",
+  "iqr": [
+   3,
+   3,
+   1
+  ],
+  "balanced": "#FFE700",
+  "neutral": "silver-214"
+ },
+ "valance-214": {
+  "ref": "p214",
+  "box": [
+   1953,
+   1083,
+   2186,
+   1114
+  ],
+  "what": "valance",
+  "median": "#45444F",
+  "iqr": [
+   9,
+   9,
+   11
+  ],
+  "balanced": "#636171",
+  "neutral": "silver-214"
+ },
+ "darkband-214": {
+  "ref": "p214",
+  "box": [
+   710,
+   866,
+   866,
+   912
+  ],
+  "what": "dark panel under the saloon windows",
+  "median": "#353134",
+  "iqr": [
+   56,
+   50,
+   53
+  ],
+  "balanced": "#4C464A",
+  "neutral": "silver-214"
+ },
+ "roof-214": {
+  "ref": "p214",
+  "box": [
+   866,
+   633,
+   1176,
+   656
+  ],
+  "what": "roof",
+  "median": "#CDB7C0",
+  "iqr": [
+   30,
+   27,
+   49
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "silver-214"
+ }
+}

@@ -1,0 +1,735 @@
+{
+ "class": "156",
+ "subject": "Class 156 (Metro-Cammell Super Sprinter, two-car): Northern and ScotRail",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-156-Northern-Spirit-Unbranded-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_156_Northern_Spirit_Unbranded_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-25",
+   "kind": "diagram",
+   "unit": "156 two-car, Northern Spirit unbranded (not a current livery)",
+   "view": "side elevation, cab car left (cab end left), car 2 right",
+   "light": "flat colours",
+   "note": "geometry only; no current-livery 156 diagram exists on Commons"
+  },
+  "dia2": {
+   "file": "refs/Class-156-Northern-2004-Angular-Livery-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_156_Northern_2004_Angular_Livery_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-26",
+   "kind": "diagram",
+   "unit": "156 two-car, Northern Rail angular livery (not current)",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "same drawing template as dia; listed, not measured"
+  },
+  "palt": {
+   "file": "refs/ALT-156413.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:ALT_156413.jpg",
+   "author": "UK bus Image",
+   "licence": "CC0",
+   "date": "2026-07-06",
+   "kind": "photo",
+   "unit": "156413 (Northern)",
+   "view": "front three-quarter from the left side, whole unit",
+   "light": "sun"
+  },
+  "pdar": {
+   "file": "refs/156465-at-North-Road-Darlington-030725-54631526555-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:156465_at_North_Road,_Darlington_030725_(54631526555).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-03",
+   "kind": "photo",
+   "unit": "156465 (Northern)",
+   "view": "front, slightly from the left, close",
+   "light": "overcast",
+   "exif": "Sony DSC-RX100M7, 18.63 mm (49 mm eq)"
+  },
+  "pst": {
+   "file": "refs/St-Annes-on-Sea-Northern-156405-leaving-for-Blackpool.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:St_Annes-on-Sea_-_Northern_156405_leaving_for_Blackpool.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-20",
+   "kind": "photo",
+   "unit": "156405 (Northern)",
+   "view": "front, slightly from the left, at a distance",
+   "light": "overcast"
+  },
+  "phex": {
+   "file": "refs/156487-at-Hexham-020725-54628728236-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:156487_at_Hexham_020725_(54628728236).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-02",
+   "kind": "photo",
+   "unit": "156487 (Northern)",
+   "view": "front three-quarter from the right, whole unit, from above",
+   "light": "overcast",
+   "exif": "Sony DSC-RX100M7, 21.12 mm (57 mm eq)"
+  },
+  "p428": {
+   "file": "refs/NT-156428.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:NT_156428.jpg",
+   "author": "UK bus Image",
+   "licence": "CC0",
+   "date": "2025-09-20",
+   "kind": "photo",
+   "unit": "156428 (Northern)",
+   "view": "front three-quarter from the left",
+   "light": "station"
+  },
+  "p423": {
+   "file": "refs/156423-at-Newcastle-040725-54633423508-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:156423_at_Newcastle_040725_(54633423508).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-04",
+   "kind": "photo",
+   "unit": "156423 (Northern)",
+   "view": "front three-quarter, platform level (from the earlier pass)",
+   "light": "overcast",
+   "exif": "RX100M7, 91 mm eq"
+  },
+  "p438": {
+   "file": "refs/156438-at-Newcastle-040725-54633496520-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:156438_at_Newcastle_040725_(54633496520).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-04",
+   "kind": "photo",
+   "unit": "156438 (Northern)",
+   "view": "from above, distant (from the earlier pass)",
+   "light": "overcast"
+  },
+  "pcar": {
+   "file": "refs/Carlisle-Scotrail-156430-and-156435.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Carlisle_-_Scotrail_156430_and_156435.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-09",
+   "kind": "photo",
+   "unit": "156435 (right) and 156430 (left), ScotRail",
+   "view": "near head-on, both fronts",
+   "light": "overcast, station"
+  },
+  "pdal": {
+   "file": "refs/Dalmuir-Scotrail-156456-to-Queen-Street-HL.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Dalmuir_-_Scotrail_156456_to_Queen_Street_HL.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-21",
+   "kind": "photo",
+   "unit": "156456 (ScotRail)",
+   "view": "front three-quarter from the left side",
+   "light": "overcast"
+  },
+  "pgc": {
+   "file": "refs/Glasgow-Central-ScotRail-156436-156505-and-380101.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Glasgow_Central_-_ScotRail_156436,_156505_and_380101.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-07",
+   "kind": "photo",
+   "unit": "156505 (centre) and 156436 (left), ScotRail",
+   "view": "front three-quarter from the left side, cab car side",
+   "light": "station"
+  },
+  "payr": {
+   "file": "refs/Two-class-156-DMUs-at-Ayr-geograph.org.uk-8211794.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Two_class_156_DMUs_at_Ayr_-_geograph.org.uk_-_8211794.jpg",
+   "author": "geograph contributor (see Commons page)",
+   "licence": "CC BY-SA 2.0",
+   "date": "2025-12-11",
+   "kind": "photo",
+   "unit": "two ScotRail 156s",
+   "view": "fronts, platform end",
+   "light": "overcast, wet"
+  },
+  "pcl": {
+   "file": "refs/Class-156-approaching-Carlisle-geograph.org.uk-8017063.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_156_approaching_Carlisle_-_geograph.org.uk_-_8017063.jpg",
+   "author": "geograph contributor (see Commons page)",
+   "licence": "CC BY-SA 2.0",
+   "date": "2025-04-10",
+   "kind": "photo",
+   "unit": "ScotRail 156",
+   "view": "from a bridge, distant",
+   "light": "sun",
+   "note": "too distant to measure"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-car",
+   "ref": "pcar",
+   "box": [
+    1440,
+    700,
+    2300,
+    1620
+   ],
+   "feature": "whole front 156435 (SR), near head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-screens-car",
+   "ref": "pcar",
+   "box": [
+    1500,
+    840,
+    2240,
+    1230
+   ],
+   "feature": "windscreens: upper destination window, yellow bar, main screen; wipers hang from the bar",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-car",
+   "ref": "pcar",
+   "box": [
+    1520,
+    1380,
+    1695,
+    1468
+   ],
+   "feature": "left lamp box, head lit",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-car",
+   "ref": "pcar",
+   "box": [
+    2040,
+    1380,
+    2220,
+    1472
+   ],
+   "feature": "right lamp box",
+   "reading": ""
+  },
+  {
+   "id": "f-top-car",
+   "ref": "pcar",
+   "box": [
+    1440,
+    700,
+    2300,
+    900
+   ],
+   "feature": "dome, orange line, gangway frame top",
+   "reading": ""
+  },
+  {
+   "id": "f-lower-car",
+   "ref": "pcar",
+   "box": [
+    1440,
+    1440,
+    2300,
+    1720
+   ],
+   "feature": "under the lamps: yellow legs, recess, coupler",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-car",
+   "ref": "pcar",
+   "box": [
+    2180,
+    760,
+    2420,
+    1640
+   ],
+   "feature": "SR right corner: blue wrap on the face edge, dots on the side",
+   "reading": ""
+  },
+  {
+   "id": "f-face-car2",
+   "ref": "pcar",
+   "box": [
+    60,
+    700,
+    1300,
+    1700
+   ],
+   "feature": "whole front 156430 (SR)",
+   "reading": ""
+  },
+  {
+   "id": "f-face-dal",
+   "ref": "pdal",
+   "box": [
+    1520,
+    470,
+    2310,
+    1360
+   ],
+   "feature": "front 156456 (SR) three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-dal",
+   "ref": "pdal",
+   "box": [
+    1100,
+    480,
+    2320,
+    1360
+   ],
+   "feature": "SR cab corner and first door, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "s-cabside-dal",
+   "ref": "pdal",
+   "box": [
+    1340,
+    580,
+    1620,
+    1320
+   ],
+   "feature": "SR cab side: dots, cab window, door",
+   "reading": ""
+  },
+  {
+   "id": "s-livery-gc",
+   "ref": "pgc",
+   "box": [
+    500,
+    800,
+    1660,
+    1500
+   ],
+   "feature": "SR cab car side: blue, dot saltire, green band, doors",
+   "reading": ""
+  },
+  {
+   "id": "f-face-gc",
+   "ref": "pgc",
+   "box": [
+    1180,
+    820,
+    1650,
+    1470
+   ],
+   "feature": "front 156505 (SR)",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-gc",
+   "ref": "pgc",
+   "box": [
+    900,
+    800,
+    1660,
+    1460
+   ],
+   "feature": "SR corner and first door",
+   "reading": ""
+  },
+  {
+   "id": "f-face-alt",
+   "ref": "palt",
+   "box": [
+    1780,
+    780,
+    2640,
+    1680
+   ],
+   "feature": "front 156413 (NT)",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-alt",
+   "ref": "palt",
+   "box": [
+    1830,
+    1400,
+    2060,
+    1520
+   ],
+   "feature": "NT left lamp box, head lit",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-alt",
+   "ref": "palt",
+   "box": [
+    2380,
+    1400,
+    2570,
+    1520
+   ],
+   "feature": "NT right lamp box",
+   "reading": ""
+  },
+  {
+   "id": "s-livery-alt",
+   "ref": "palt",
+   "box": [
+    1250,
+    840,
+    1850,
+    1620
+   ],
+   "feature": "NT purple cab end: cab side, door, logo, circles",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-alt",
+   "ref": "palt",
+   "box": [
+    1300,
+    780,
+    2640,
+    1700
+   ],
+   "feature": "NT cab corner and first door, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "s-side-alt",
+   "ref": "palt",
+   "box": [
+    380,
+    940,
+    1420,
+    1660
+   ],
+   "feature": "NT white/grey car side: windows, doors, purple end of car 2",
+   "reading": ""
+  },
+  {
+   "id": "f-face-dar",
+   "ref": "pdar",
+   "box": [
+    1890,
+    870,
+    2900,
+    2010
+   ],
+   "feature": "front 156465 (NT), close",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-dar",
+   "ref": "pdar",
+   "box": [
+    1940,
+    1670,
+    2210,
+    1810
+   ],
+   "feature": "NT left lamp box, head lit",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-dar",
+   "ref": "pdar",
+   "box": [
+    2610,
+    1660,
+    2840,
+    1800
+   ],
+   "feature": "NT right lamp box",
+   "reading": ""
+  },
+  {
+   "id": "f-screens-dar",
+   "ref": "pdar",
+   "box": [
+    1920,
+    1040,
+    2860,
+    1520
+   ],
+   "feature": "NT windscreens",
+   "reading": ""
+  },
+  {
+   "id": "f-face-st",
+   "ref": "pst",
+   "box": [
+    1690,
+    640,
+    2360,
+    1460
+   ],
+   "feature": "front 156405 (NT), 2026",
+   "reading": ""
+  },
+  {
+   "id": "s-livery-st",
+   "ref": "pst",
+   "box": [
+    1480,
+    700,
+    1820,
+    1300
+   ],
+   "feature": "NT cab side receding",
+   "reading": ""
+  },
+  {
+   "id": "s-car-hex",
+   "ref": "phex",
+   "box": [
+    1000,
+    800,
+    2800,
+    1860
+   ],
+   "feature": "NT unit three-quarter from above",
+   "reading": ""
+  },
+  {
+   "id": "s-livery-hex",
+   "ref": "phex",
+   "box": [
+    1640,
+    940,
+    2420,
+    1720
+   ],
+   "feature": "NT purple cab end, logo, circles, door",
+   "reading": ""
+  },
+  {
+   "id": "f-face-ayr",
+   "ref": "payr",
+   "box": [
+    900,
+    460,
+    1730,
+    1190
+   ],
+   "feature": "SR front, Ayr",
+   "reading": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    60,
+    20,
+    700,
+    482
+   ],
+   "feature": "diagram cab end",
+   "reading": ""
+  },
+  {
+   "id": "d-inner",
+   "ref": "dia",
+   "box": [
+    2000,
+    20,
+    2900,
+    482
+   ],
+   "feature": "diagram inner ends and gangway",
+   "reading": ""
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    580,
+    90,
+    1300,
+    350
+   ],
+   "feature": "diagram saloon windows (top hoppers)",
+   "reading": ""
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    60,
+    20,
+    220,
+    482
+   ],
+   "feature": "diagram nose silhouette",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "nt-white-alt",
+   "ref": "palt",
+   "box": [
+    620,
+    1335,
+    760,
+    1370
+   ],
+   "what": "NT car side white/grey, sun (neutral: white balance only, own level kept)",
+   "neutralIs": 183.0
+  },
+  {
+   "id": "nt-purple-alt",
+   "ref": "palt",
+   "box": [
+    1420,
+    1250,
+    1480,
+    1350
+   ],
+   "what": "NT purple, cab end",
+   "neutral": "nt-white-alt"
+  },
+  {
+   "id": "nt-yellow-alt",
+   "ref": "palt",
+   "box": [
+    1880,
+    1360,
+    2020,
+    1430
+   ],
+   "what": "NT face yellow",
+   "neutral": "nt-white-alt"
+  },
+  {
+   "id": "nt-roof-alt",
+   "ref": "palt",
+   "box": [
+    1000,
+    880,
+    1300,
+    900
+   ],
+   "what": "NT roof",
+   "neutral": "nt-white-alt"
+  },
+  {
+   "id": "nt-yellow-dar",
+   "ref": "pdar",
+   "box": [
+    2700,
+    1450,
+    2780,
+    1600
+   ],
+   "what": "NT face yellow, overcast"
+  },
+  {
+   "id": "nt-purple-dar",
+   "ref": "pdar",
+   "box": [
+    1905,
+    1300,
+    1925,
+    1500
+   ],
+   "what": "NT purple at the corner, overcast"
+  },
+  {
+   "id": "nt-surround-dar",
+   "ref": "pdar",
+   "box": [
+    2290,
+    1300,
+    2330,
+    1600
+   ],
+   "what": "gangway surround"
+  },
+  {
+   "id": "nt-lampbox-dar",
+   "ref": "pdar",
+   "box": [
+    1995,
+    1700,
+    2010,
+    1760
+   ],
+   "what": "lamp box black"
+  },
+  {
+   "id": "sr-yellow-car",
+   "ref": "pcar",
+   "box": [
+    2100,
+    1250,
+    2170,
+    1310
+   ],
+   "what": "SR face yellow"
+  },
+  {
+   "id": "sr-blue-car",
+   "ref": "pcar",
+   "box": [
+    2215,
+    1330,
+    2240,
+    1450
+   ],
+   "what": "SR blue on the face corner"
+  },
+  {
+   "id": "sr-surround-car",
+   "ref": "pcar",
+   "box": [
+    1955,
+    1100,
+    2000,
+    1300
+   ],
+   "what": "gangway surround"
+  },
+  {
+   "id": "sr-blue-gc",
+   "ref": "pgc",
+   "box": [
+    880,
+    1195,
+    990,
+    1235
+   ],
+   "what": "SR body blue, side"
+  },
+  {
+   "id": "sr-green-gc",
+   "ref": "pgc",
+   "box": [
+    1050,
+    960,
+    1150,
+    975
+   ],
+   "what": "SR green band"
+  },
+  {
+   "id": "sr-roof-gc",
+   "ref": "pgc",
+   "box": [
+    900,
+    860,
+    1100,
+    880
+   ],
+   "what": "SR roof"
+  },
+  {
+   "id": "sr-door-gc",
+   "ref": "pgc",
+   "box": [
+    1290,
+    1150,
+    1320,
+    1300
+   ],
+   "what": "SR passenger door"
+  }
+ ]
+}

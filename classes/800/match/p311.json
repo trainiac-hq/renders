@@ -1,0 +1,242 @@
+{
+ "ref": "p311",
+ "side": "near",
+ "model": {
+  "w1-tf": [
+   9.659,
+   2.62
+  ],
+  "w1-br": [
+   11.275,
+   1.9
+  ],
+  "w1-bf": [
+   9.659,
+   1.9
+  ],
+  "w1-tr": [
+   11.275,
+   2.62
+  ],
+  "w2-tf": [
+   11.584,
+   2.62
+  ],
+  "w2-br": [
+   13.2,
+   1.9
+  ],
+  "w3-tf": [
+   13.509,
+   2.62
+  ],
+  "w3-br": [
+   15.125,
+   1.9
+  ],
+  "w4-tf": [
+   15.469,
+   2.62
+  ],
+  "w4-br": [
+   17.05,
+   1.9
+  ],
+  "w5-tf": [
+   17.394,
+   2.62
+  ],
+  "w5-br": [
+   18.975,
+   1.9
+  ],
+  "w6-tf": [
+   19.319,
+   2.62
+  ],
+  "w6-br": [
+   20.9,
+   1.9
+  ],
+  "w6-bf": [
+   19.319,
+   1.9
+  ],
+  "w6-tr": [
+   20.9,
+   2.62
+  ]
+ },
+ "points": {
+  "w1-tf": [
+   2026,
+   1021
+  ],
+  "w1-br": [
+   2108,
+   1230
+  ],
+  "w1-bf": [
+   2049,
+   1228
+  ],
+  "w1-tr": [
+   2088,
+   1028
+  ],
+  "w2-tf": [
+   2117,
+   1036
+  ],
+  "w2-br": [
+   2191,
+   1236
+  ],
+  "w3-tf": [
+   2201,
+   1048
+  ],
+  "w3-br": [
+   2269,
+   1239
+  ],
+  "w4-tf": [
+   2277,
+   1062
+  ],
+  "w4-br": [
+   2342,
+   1245
+  ],
+  "w5-tf": [
+   2350,
+   1073
+  ],
+  "w5-br": [
+   2409,
+   1248
+  ],
+  "w6-tf": [
+   2415,
+   1083
+  ],
+  "w6-br": [
+   2474,
+   1254
+  ],
+  "w6-bf": [
+   2433,
+   1251
+  ],
+  "w6-tr": [
+   2458,
+   1088
+  ]
+ },
+ "holdout": [
+  "w2-tf",
+  "w4-br",
+  "w6-bf"
+ ],
+ "modelFace": {
+  "ytop-near": [
+   -1.0,
+   2.4
+  ],
+  "ytop-far": [
+   1.0,
+   2.4
+  ]
+ },
+ "readings": {
+  "windows": "virtual corners of each window's glass (edges extended past the rounding), read on a 10 px grid of the window strip (w311); 800311 is an 800/3, whose driving car's windows the 800/0 diagram's match (six, same spacing)",
+  "ytop": "yellow band's top corners against the lamp recess (q3 panels): near 1349,1182, far 931,1201 - measured, not fitted",
+  "focalPx": "EXIF: Nikon D3400 (6000 x 4000), 80 mm, focal-plane resolution 2591.8 px/cm -> 20734 px at full size; the Commons file (5522 x 3681) is that frame scaled by 0.9203, not cropped (both axes agree), and our copy is 3840 wide: 20734 x 3840/6000 = 13270 px. The free solve on the window corners alone found 13280 px, which agrees",
+  "surface": "l311 grid (10 px): lamp glazing's inner frame corners A-D, the LED cluster's centre and edge, the headlamp's; s311 grid (20 px): windscreen glass corners; q3: yellow top corners"
+ },
+ "measure": {
+  "ytop-near": [
+   1349,
+   1182
+  ],
+  "ytop-far": [
+   931,
+   1201
+  ]
+ },
+ "focalPx": 13270,
+ "surface": {
+  "lamp-a-low-front": [
+   1311,
+   1378
+  ],
+  "lamp-b-top-front": [
+   1351,
+   1212
+  ],
+  "lamp-c-top-rear": [
+   1500,
+   1195
+  ],
+  "lamp-d-low-rear": [
+   1355,
+   1374
+  ],
+  "led-centre": [
+   1392,
+   1313
+  ],
+  "led-edge": [
+   1422,
+   1313
+  ],
+  "head-centre": [
+   1441,
+   1244
+  ],
+  "head-edge": [
+   1472,
+   1244
+  ],
+  "screen-near-top": [
+   1438,
+   856
+  ],
+  "screen-near-bottom": [
+   1343,
+   1139
+  ],
+  "screen-far-top": [
+   917,
+   871
+  ],
+  "screen-far-bottom": [
+   854,
+   1164
+  ],
+  "yellow-near-top": [
+   1349,
+   1182
+  ],
+  "yellow-far-top": [
+   931,
+   1201
+  ],
+  "marker-centre": [
+   1213,
+   753
+  ],
+  "screen-top-centre": [
+   1180,
+   824
+  ],
+  "yellow-top-centre": [
+   1150,
+   1210
+  ],
+  "grille": [
+   1110,
+   1891
+  ]
+ }
+}

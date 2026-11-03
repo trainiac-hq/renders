@@ -1,0 +1,78 @@
+{
+ "ref": "p113",
+ "side": "near",
+ "model": {
+  "w1-top-front": [
+   3.53,
+   2.96
+  ],
+  "w1-bottom-front": [
+   3.53,
+   1.93
+  ],
+  "w1-top-rear": [
+   4.76,
+   2.96
+  ],
+  "w1-bottom-rear": [
+   4.76,
+   1.93
+  ]
+ },
+ "points": {
+  "door1-front-top": [
+   716.6,
+   451.7
+  ],
+  "door1-rear-top": [
+   771.4,
+   456.3
+  ],
+  "door1-front-bottom": [
+   710.9,
+   667.0
+  ],
+  "door1-rear-bottom": [
+   770.3,
+   655.1
+  ],
+  "w1-top-front": [
+   632.0,
+   484.9
+  ],
+  "w1-bottom-front": [
+   632.7,
+   587.7
+  ],
+  "w1-top-rear": [
+   689.8,
+   486.0
+  ],
+  "w1-bottom-rear": [
+   689.8,
+   585.4
+  ],
+  "lamp2-head": [
+   320.5,
+   655.0
+  ],
+  "lamp0-marker": [
+   366.7,
+   657.7
+  ],
+  "lamp1-tail": [
+   347.3,
+   681.0
+  ]
+ },
+ "holdout": [
+  "door1-front-bottom",
+  "w1-bottom-rear",
+  "lamp1-tail"
+ ],
+ "readings": {
+  "door1-*": "first-class door's pale leaves (g113b, 4.4x); the bottoms where the leaf meets the yellow line",
+  "w1-*": "window ahead of door 1, rounded frame, virtual corners",
+  "lamp*": "near group (z4, 12x): head inboard, marker outboard, tail below between"
+ }
+}

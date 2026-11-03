@@ -1,0 +1,989 @@
+{
+ "class": "172",
+ "subject": "Class 172/2-3, two cars, West Midlands Railway",
+ "method": "stage A 168+171+172",
+ "model": {
+  "heights": {
+   "bottom": 0.967,
+   "cantrail": 3.28,
+   "roof": 3.77,
+   "window": [
+    1.995,
+    2.9
+   ]
+  },
+  "wheel": 0.76,
+  "wheelbase": 2.0,
+  "cab": {
+   "length": 23.62,
+   "doors": [
+    {
+     "x": 1.5615,
+     "w": 1.031,
+     "cab": true
+    },
+    {
+     "x": 6.51,
+     "w": 1.64,
+     "leaves": 2
+    },
+    {
+     "x": 17.337,
+     "w": 1.64,
+     "leaves": 2
+    }
+   ],
+   "windows": [
+    [
+     2.277,
+     3.079
+    ],
+    [
+     3.452,
+     5.228
+    ],
+    [
+     7.76,
+     9.44
+    ],
+    [
+     9.64,
+     11.25
+    ],
+    [
+     11.45,
+     13.0
+    ],
+    [
+     13.21,
+     14.69
+    ],
+    [
+     14.8,
+     16.31
+    ],
+    [
+     18.619,
+     20.438
+    ],
+    [
+     20.768,
+     22.587
+    ]
+   ],
+   "bogies": [
+    3.32,
+    20.19
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 5.5,
+     "w": 2.4
+    },
+    {
+     "kind": "pod",
+     "x": 16.4,
+     "w": 2.4
+    }
+   ],
+   "under": [
+    [
+     5.6,
+     18.0
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.62,
+   "doors": [
+    {
+     "x": 6.266,
+     "w": 1.64,
+     "leaves": 2
+    },
+    {
+     "x": 17.094,
+     "w": 1.64,
+     "leaves": 2
+    }
+   ],
+   "windows": [
+    [
+     1.0,
+     2.95
+    ],
+    [
+     3.15,
+     5.0
+    ],
+    [
+     7.52,
+     9.2
+    ],
+    [
+     9.4,
+     11.01
+    ],
+    [
+     11.21,
+     12.76
+    ],
+    [
+     12.97,
+     14.45
+    ],
+    [
+     14.56,
+     16.07
+    ],
+    [
+     18.4,
+     20.2
+    ],
+    [
+     20.5,
+     22.3
+    ]
+   ],
+   "bogies": [
+    3.32,
+    20.19
+   ],
+   "under": [
+    [
+     5.6,
+     18.0
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.3,
+     0.6,
+     1
+    ],
+    [
+     0.05,
+     0.85
+    ],
+    [
+     0.0,
+     1.0
+    ],
+    [
+     0.0,
+     2.6
+    ],
+    [
+     0.1,
+     3.2
+    ],
+    [
+     0.3,
+     3.55
+    ],
+    [
+     0.6,
+     3.77,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.35,
+   "depth": 1.5,
+   "bottom": 0.6,
+   "panel": [
+    {
+     "m": [
+      -1.35,
+      1.35
+     ],
+     "y": [
+      1.0,
+      3.58
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "m": [
+      0.5,
+      1.2
+     ],
+     "y": [
+      1.95,
+      3.3
+     ],
+     "r": [
+      0.03,
+      0.1,
+      0.1,
+      0.03
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      -1.35,
+      1.35
+     ],
+     "y": [
+      0.6,
+      1.0
+     ]
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.56,
+      1.17
+     ],
+     "y": [
+      1.98,
+      3.27
+     ],
+     "r": [
+      0.03,
+      0.08,
+      0.08,
+      0.03
+     ],
+     "mirror": true
+    }
+   ],
+   "gangway": {
+    "m": [
+     -0.37,
+     0.37
+    ],
+    "y": [
+     1.08,
+     3.23
+    ],
+    "r": 0.03
+   },
+   "gangwayFrame": {
+    "outline": {
+     "m": [
+      -0.51,
+      0.51
+     ],
+     "y": [
+      1.02,
+      3.56
+     ],
+     "r": [
+      0.03,
+      0.12,
+      0.12,
+      0.03
+     ]
+    },
+    "depth": 0.3
+   },
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 0.954,
+      "y": 1.5,
+      "r": 0.125
+     },
+     {
+      "kind": "tail",
+      "m": 0.715,
+      "y": 1.42,
+      "r": 0.08
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.0
+   },
+   "number": {
+    "text": "172342",
+    "m": -0.92,
+    "y": 1.84,
+    "height": 0.09,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.9,
+      2.04
+     ],
+     "tip": [
+      0.55,
+      2.68
+     ],
+     "mirror": true
+    }
+   ],
+   "lights": [
+    {
+     "pts": [
+      [
+       0.57,
+       1.255
+      ],
+      [
+       0.61,
+       1.535
+      ],
+      [
+       0.87,
+       1.68
+      ],
+      [
+       1.14,
+       1.71
+      ],
+      [
+       1.12,
+       1.4
+      ]
+     ],
+     "mirror": true
+    }
+   ]
+  }
+ },
+ "liveries": {
+  "LM": {
+   "body": "#423935",
+   "roof": "#858585",
+   "doors": "#C47424",
+   "panel": "#C47424",
+   "face": "#C47424",
+   "gangway": "#D7940A",
+   "surround": "#1A1A1A",
+   "under": "#222220",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       0.9
+      ],
+      [
+       2.077,
+       0.9
+      ],
+      [
+       2.077,
+       3.4
+      ],
+      [
+       -0.1,
+       3.4
+      ]
+     ],
+     "color": "#9E511B",
+     "layer": "under"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.567,
+       1.019,
+       1
+      ],
+      [
+       2.653,
+       1.117,
+       1
+      ],
+      [
+       2.567,
+       1.216,
+       1
+      ],
+      [
+       2.481,
+       1.117,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.725,
+       1.228,
+       1
+      ],
+      [
+       2.811,
+       1.387,
+       1
+      ],
+      [
+       2.725,
+       1.547,
+       1
+      ],
+      [
+       2.639,
+       1.387,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.352,
+       1.216,
+       1
+      ],
+      [
+       2.538,
+       1.504,
+       1
+      ],
+      [
+       2.352,
+       1.793,
+       1
+      ],
+      [
+       2.166,
+       1.504,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.28,
+       1.818,
+       1
+      ],
+      [
+       2.309,
+       1.861,
+       1
+      ],
+      [
+       2.28,
+       1.903,
+       1
+      ],
+      [
+       2.252,
+       1.861,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.581,
+       1.646,
+       1
+      ],
+      [
+       2.667,
+       1.781,
+       1
+      ],
+      [
+       2.581,
+       1.916,
+       1
+      ],
+      [
+       2.495,
+       1.781,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.273,
+       3.021,
+       1
+      ],
+      [
+       2.352,
+       3.113,
+       1
+      ],
+      [
+       2.273,
+       3.205,
+       1
+      ],
+      [
+       2.195,
+       3.113,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.689,
+       3.168,
+       1
+      ],
+      [
+       2.725,
+       3.211,
+       1
+      ],
+      [
+       2.689,
+       3.254,
+       1
+      ],
+      [
+       2.653,
+       3.211,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.524,
+       3.046,
+       1
+      ],
+      [
+       2.581,
+       3.15,
+       1
+      ],
+      [
+       2.524,
+       3.254,
+       1
+      ],
+      [
+       2.467,
+       3.15,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.809,
+       0.97,
+       1
+      ],
+      [
+       22.873,
+       1.069,
+       1
+      ],
+      [
+       22.809,
+       1.167,
+       1
+      ],
+      [
+       22.744,
+       1.069,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.522,
+       0.97,
+       1
+      ],
+      [
+       22.601,
+       1.111,
+       1
+      ],
+      [
+       22.522,
+       1.253,
+       1
+      ],
+      [
+       22.443,
+       1.111,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.701,
+       1.167,
+       1
+      ],
+      [
+       22.801,
+       1.333,
+       1
+      ],
+      [
+       22.701,
+       1.498,
+       1
+      ],
+      [
+       22.601,
+       1.333,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.536,
+       1.486,
+       1
+      ],
+      [
+       22.615,
+       1.609,
+       1
+      ],
+      [
+       22.536,
+       1.732,
+       1
+      ],
+      [
+       22.458,
+       1.609,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.193,
+       1.228,
+       1
+      ],
+      [
+       22.372,
+       1.51,
+       1
+      ],
+      [
+       22.193,
+       1.793,
+       1
+      ],
+      [
+       22.014,
+       1.51,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.773,
+       1.646,
+       1
+      ],
+      [
+       22.816,
+       1.725,
+       1
+      ],
+      [
+       22.773,
+       1.805,
+       1
+      ],
+      [
+       22.73,
+       1.725,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.422,
+       3.033,
+       1
+      ],
+      [
+       22.458,
+       3.113,
+       1
+      ],
+      [
+       22.422,
+       3.193,
+       1
+      ],
+      [
+       22.386,
+       3.113,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.593,
+       3.033,
+       1
+      ],
+      [
+       22.658,
+       3.131,
+       1
+      ],
+      [
+       22.593,
+       3.23,
+       1
+      ],
+      [
+       22.529,
+       3.131,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       22.802,
+       3.07,
+       1
+      ],
+      [
+       22.859,
+       3.156,
+       1
+      ],
+      [
+       22.802,
+       3.242,
+       1
+      ],
+      [
+       22.744,
+       3.156,
+       1
+      ]
+     ],
+     "color": "#C47424",
+     "what": "WMR diamond"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "LM-west",
+     "at": [
+      11.265,
+      1.541
+     ],
+     "height": 0.16
+    },
+    {
+     "logo": "LM-railway",
+     "at": [
+      12.733,
+      1.517
+     ],
+     "height": 0.209
+    },
+    {
+     "logo": "LM-west",
+     "at": [
+      12.355,
+      1.541
+     ],
+     "height": 0.16,
+     "car": "next"
+    },
+    {
+     "logo": "LM-railway",
+     "at": [
+      10.887,
+      1.517
+     ],
+     "height": 0.209,
+     "car": "next"
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "172 diagram: 69.82 px/m along (face px 59, end 1708 = 23.62 m), 81.43 px/m up",
+  "model.cab": "cab door 1.046-2.077; door 1 centred 6.51, door 2 17.337 (two-leaf, 1.64 wide as the 170's: panes 0.308-0.766 from the centre); cab-car windows [2.277,3.079], [3.452,5.228], [7.791,9.61], [9.94,11.759], [12.088,13.907], [14.237,16.056], [18.619,20.438], [20.768,22.587]; bogies 3.32, 20.19 (wheel 0.76 and wheelbase 2.0 kept from the old model: unverified)",
+  "model.next": "doors centred 6.266, 17.094 from its inner end; windows at the cab car's pattern (not read)",
+  "model.heights": "as the 171 diagram (same shell family): bottom 0.967, cantrail line 3.28, roof 3.77, glass 1.995-2.90: not read on a 172 photo",
+  "model.face": "172342 head-on (Stourbridge, 460 px/m): the gangwayed 172/2-3 front (27 of 39 units; every 172 photographed 2024-2026 is WMR): gangway frame +-0.51 y 1.02-3.56 (depth ~0.3 from photos; the diagram's 0.59 not used), yellow door +-0.37 y 1.08-3.23, screen glass m 0.53-1.17 y 1.98-3.27 (the dark surround drawn 3 cm round it), one black sloped lamp box a side (0.57,1.255), (0.61,1.535), (0.87,1.68), (1.14,1.71), (1.12,1.40), head m 0.954 y 1.50 r 0.125 outboard, LED m 0.715 y 1.42 r 0.08; wiper pivot (0.90,2.04) tip (0.55,2.68); number on the near side m 0.92 y 1.84; the face gold above, black lower front below 1.0 (pwor, p342)",
+  "liveries.LM": "WMR: overcast pwor samples: purple body purple-wor #423935, gold cab end gold-wor #9E511B to the cab door's rear edge (photo wins over the diagram's 3.49 m), gold doors face-wor #C47424 (door-wor is a reflection, iqr 73), face gold face-wor #C47424, gangway door yellow-wor #D7940A, lower front black-wor #222220, roof roof-wor /2.5; the gold diamonds fading into purple behind the cab and the roof-dome LED not drawn",
+  "notes": "The 172/0-1 (12 units, non-gangwayed) not drawn as a variant: WMR's 172s are mostly /2-/3.",
+  "model.cab.windows.photo": "pwor (172220, the near side seen with the nose right): FIVE windows between the doors, not the diagram's four. Read by a 1D projective fit along the bodyside through door 1's and door 2's edges (residuals 2.4-4.6 cm): [7.76,9.44], [9.64,11.25], [11.45,13.0], [13.21,14.69], [14.8,16.31]. The windows ahead of door 1 and behind door 2 are the diagram's (extrapolated readings unreliable). The next car's five assumed the same, moved with its doors",
+  "liveries.LM.branding": "the one-line 'West Midlands Railway' wordmark (the published LM.svg is the stacked logo with diamonds, not what the 172 carries; pwor and psh are too small to trace): traced from the WMR 172 diagram (dia: 69.82 px/m from the face at px 59, 81.43 px/m up from rail row 340) as two pieces in their own colours, lilac-white 'West Midlands' (px 782-909, rows 208-221: 10.36-12.17 m, 1.46-1.62 m) and orange 'Railway' (917-979, 208-225: 12.29-13.18 m, 1.41-1.62 m); pwor (lg172) shows it in the same place under the windows (not measured there)",
+  "liveries.LM.diamonds": "the gold diamonds: the diagram's orange (221,88,0) regions in the purple at the cab end (px 298-360) and the car end (1590-1660), each drawn as the diamond of its bounding box (8 at the front, 9 at the rear); the front group sits at the gold/purple boundary, which the diagram draws at 3.42 m and the photo at 2.077 m (the cab door's rear edge, photo wins), so moved 1.343 m forward with it; colour the face gold #C47424",
+  "liveries.branding.next": "the second car is a mirrored driving car: branding repeated at the mirrored position (length minus x), not measured on that car"
+ },
+ "views": {
+  "match-pwor": {
+   "matrix": [
+    [
+     0.28320999277334974,
+     -0.05870729628031629,
+     -0.9572593971107175,
+     -59.71666609475592
+    ],
+    [
+     -0.958935660676928,
+     -0.0332711976931827,
+     -0.28166545064342696,
+     19.33212779233011
+    ],
+    [
+     -0.015313349582075104,
+     0.9977206426487909,
+     -0.06571925560336822,
+     2.736270485851502
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 102.39686812294234,
+   "shift": [
+    1.675764583883876,
+    -0.10738669536752218
+   ],
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  "match-pwor-flat": {
+   "matrix": [
+    [
+     0.28320999277334974,
+     -0.05870729628031629,
+     -0.9572593971107175,
+     -59.71666609475592
+    ],
+    [
+     -0.958935660676928,
+     -0.0332711976931827,
+     -0.28166545064342696,
+     19.33212779233011
+    ],
+    [
+     -0.015313349582075104,
+     0.9977206426487909,
+     -0.06571925560336822,
+     2.736270485851502
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 102.39686812294234,
+   "shift": [
+    1.675764583883876,
+    -0.10738669536752218
+   ],
+   "size": [
+    1600,
+    1067
+   ],
+   "flat": true
+  }
+ }
+}

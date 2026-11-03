@@ -1,0 +1,134 @@
+[
+ {
+  "check": "corners",
+  "name": "every outline",
+  "ok": true,
+  "detail": "238 outlines, 14904 points, none turning more than 20° at a point"
+ },
+ {
+  "check": "smooth edges",
+  "name": "every paint edge",
+  "ok": true,
+  "detail": "5 paint edges faired; the worst wobble 0.67 mm (limit 0.8), face dark at (1.21, 3.07)"
+ },
+ {
+  "check": "bodyside",
+  "name": "doors and windows on the flat side",
+  "ok": true,
+  "detail": "33 features, all clear of the nose's corner and the car ends"
+ },
+ {
+  "check": "containment",
+  "name": "windscreen in its frame",
+  "ok": true,
+  "detail": "closest 68.0 mm to its parent's edge (margin 8 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "windscreen in its frame",
+  "ok": true,
+  "detail": "closest 68.0 mm to its parent's edge (margin 8 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 100.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp head",
+  "ok": true,
+  "detail": "closest 12.0 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp tail",
+  "ok": true,
+  "detail": "closest 40.2 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp head",
+  "ok": true,
+  "detail": "closest 12.0 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp tail",
+  "ok": true,
+  "detail": "closest 40.2 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "front features",
+  "name": "nothing set into the front overlaps",
+  "ok": true,
+  "detail": "4 features, at least 10 mm apart"
+ },
+ {
+  "check": "corner paint",
+  "name": "face paint meets the side paint at the corner",
+  "ok": true,
+  "detail": "continuous"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layer lifts",
+  "ok": true,
+  "detail": "layers between 0.6 and 2.7 mm"
+ },
+ {
+  "check": "gaps",
+  "name": "body colour showing between regions",
+  "ok": true,
+  "detail": "0 pixels in the ID pass at 1800x1400"
+ }
+]

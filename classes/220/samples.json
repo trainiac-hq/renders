@@ -1,0 +1,178 @@
+{
+ "white-tm1": {
+  "ref": "ptm1",
+  "box": [
+   1062,
+   319,
+   1517,
+   379
+  ],
+  "what": "canopy fascia white (same overcast light, not the train)",
+  "median": "#EFE8DA",
+  "iqr": [
+   9,
+   8,
+   6
+  ]
+ },
+ "red-tm1": {
+  "ref": "ptm1",
+  "box": [
+   2010,
+   720,
+   2090,
+   940
+  ],
+  "what": "red bodyside (refresh)",
+  "median": "#B80B1D",
+  "iqr": [
+   5,
+   5,
+   4
+  ],
+  "balanced": "#B90B20",
+  "neutral": "white-tm1"
+ },
+ "teal-tm1": {
+  "ref": "ptm1",
+  "box": [
+   1700,
+   700,
+   1760,
+   880
+  ],
+  "what": "teal door leaf (refresh)",
+  "median": "#76CBD0",
+  "iqr": [
+   9,
+   5,
+   5
+  ],
+  "balanced": "#76D2E5",
+  "neutral": "white-tm1"
+ },
+ "grey-tm1": {
+  "ref": "ptm1",
+  "box": [
+   728,
+   925,
+   815,
+   965
+  ],
+  "what": "grey bodyside, car 2 (refresh)",
+  "median": "#3B3D3D",
+  "iqr": [
+   6,
+   6,
+   6
+  ],
+  "balanced": "#3B3F43",
+  "neutral": "white-tm1"
+ },
+ "line-tm1": {
+  "ref": "ptm1",
+  "box": [
+   1500,
+   624,
+   1700,
+   634
+  ],
+  "what": "cream cantrail line",
+  "median": "#F9C984",
+  "iqr": [
+   3,
+   3,
+   4
+  ],
+  "balanced": "#FAD091",
+  "neutral": "white-tm1"
+ },
+ "roof-tm1": {
+  "ref": "ptm1",
+  "box": [
+   1500,
+   550,
+   1700,
+   565
+  ],
+  "what": "roof",
+  "median": "#414850",
+  "iqr": [
+   29,
+   35,
+   45
+  ],
+  "balanced": "#414A58",
+  "neutral": "white-tm1"
+ },
+ "white-kn": {
+  "ref": "pkn",
+  "box": [
+   1100,
+   40,
+   1180,
+   90
+  ],
+  "what": "overcast sky (grey-white, same light)",
+  "median": "#E1E5ED",
+  "iqr": [
+   1,
+   1,
+   2
+  ]
+ },
+ "yellow-kn": {
+  "ref": "pkn",
+  "box": [
+   300,
+   600,
+   400,
+   640
+  ],
+  "what": "yellow front (maroon scheme)",
+  "median": "#FFBD32",
+  "iqr": [
+   3,
+   5,
+   4
+  ],
+  "balanced": "#FFBA2F",
+  "neutral": "white-kn"
+ },
+ "silver-kn": {
+  "ref": "pkn",
+  "box": [
+   1000,
+   590,
+   1030,
+   602
+  ],
+  "what": "silver bodyside",
+  "median": "#5C554A",
+  "iqr": [
+   5,
+   7,
+   8
+  ],
+  "balanced": "#5C5446",
+  "neutral": "white-kn"
+ },
+ "stripe-kn": {
+  "ref": "pkn",
+  "box": [
+   818,
+   560,
+   832,
+   640
+  ],
+  "what": "red door stripe",
+  "median": "#921620",
+  "iqr": [
+   38,
+   12,
+   20
+  ],
+  "balanced": "#92161E",
+  "neutral": "white-kn"
+ }
+}

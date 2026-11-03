@@ -1,0 +1,1288 @@
+{
+ "class": "220",
+ "subject": "Class 220 Voyager (Bombardier, 4-car), CrossCountry; cab car (DMS) and the car behind it (MS).",
+ "method": "Body along the cars from the WestRail642fan 220 diagram (Class 220 CrossCountry Diagram.png): 74.8 px/m along (wheelbase, car pitch and the published 23.85/22.82 m over couplers agree), 82.1 px/m up (rail at row 338.7 from the wheel discs, roof row 31 = 3.75 m). The nose and cab door from the side-on photo ptr (Trains 2 054.jpg, 220018 beside 221133, fronto-parallel): 280 px/m from rail-to-roof 3.75 m and a 0.79 m wheel (222 px); heights from ptm1 (side-on, 196 px/m).",
+ "calibration": {
+  "ref": "dia",
+  "pxAlong": 74.8,
+  "pxUp": 82.1,
+  "tipCol": 33,
+  "railRow": 338.7
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.94,
+   "cantrail": 3.36,
+   "roof": 3.75,
+   "window": [
+    2.02,
+    2.9
+   ]
+  },
+  "wheel": 0.78,
+  "wheelbase": 2.25,
+  "cab": {
+   "length": 23.61,
+   "doors": [
+    {
+     "x": 3.1,
+     "w": 0.64,
+     "cab": true
+    },
+    {
+     "x": 7.345,
+     "w": 1.09
+    },
+    {
+     "x": 22.04,
+     "w": 1.08
+    }
+   ],
+   "windows": [
+    [
+     8.92,
+     10.45
+    ],
+    [
+     11.06,
+     12.59
+    ],
+    [
+     13.2,
+     14.72
+    ],
+    [
+     15.32,
+     16.84
+    ],
+    [
+     17.45,
+     18.98
+    ]
+   ],
+   "bogies": [
+    3.96,
+    20.72
+   ]
+  },
+  "next": {
+   "length": 21.9,
+   "doors": [
+    {
+     "x": 1.57,
+     "w": 1.08
+    },
+    {
+     "x": 20.33,
+     "w": 1.08
+    }
+   ],
+   "windows": [
+    [
+     4.69,
+     6.23
+    ],
+    [
+     6.82,
+     8.36
+    ],
+    [
+     8.96,
+     10.48
+    ],
+    [
+     11.08,
+     12.61
+    ],
+    [
+     13.21,
+     14.75
+    ],
+    [
+     15.35,
+     16.87
+    ],
+    [
+     17.47,
+     19.01
+    ]
+   ],
+   "bogies": [
+    2.89,
+    19.01
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.182,
+     0.339,
+     1
+    ],
+    [
+     0.007,
+     0.689
+    ],
+    [
+     0.0,
+     1.254
+    ],
+    [
+     0.032,
+     1.293
+    ],
+    [
+     0.0,
+     1.6
+    ],
+    [
+     0.032,
+     1.804
+    ],
+    [
+     0.104,
+     1.986
+    ],
+    [
+     0.204,
+     2.129
+    ],
+    [
+     0.346,
+     2.211
+    ],
+    [
+     0.55,
+     2.396
+    ],
+    [
+     0.757,
+     2.639
+    ],
+    [
+     0.961,
+     2.886
+    ],
+    [
+     1.164,
+     3.129
+    ],
+    [
+     1.368,
+     3.336
+    ],
+    [
+     1.489,
+     3.479
+    ],
+    [
+     1.636,
+     3.6
+    ],
+    [
+     2.154,
+     3.679
+    ],
+    [
+     2.6,
+     3.75,
+     1
+    ]
+   ],
+   "glazing": [
+    {
+     "poly": [
+      [
+       2.418,
+       2.839
+      ],
+      [
+       2.332,
+       3.089
+      ],
+      [
+       2.154,
+       3.118
+      ],
+      [
+       1.868,
+       2.982
+      ],
+      [
+       1.618,
+       2.732
+      ],
+      [
+       1.6,
+       2.571
+      ],
+      [
+       1.725,
+       2.496
+      ],
+      [
+       2.154,
+       2.496
+      ],
+      [
+       2.332,
+       2.589
+      ]
+     ]
+    }
+   ],
+   "glazingOnNose": true
+  },
+  "form": {
+   "width": 2.73,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.35,
+     0.35
+    ],
+    [
+     1.3,
+     0.3
+    ],
+    [
+     1.8,
+     0.45
+    ],
+    [
+     2.4,
+     0.7
+    ],
+    [
+     3.0,
+     0.75
+    ],
+    [
+     3.5,
+     0.5
+    ],
+    [
+     3.75,
+     0.0
+    ]
+   ],
+   "squareness": 1.6,
+   "glazing": "bonded",
+   "front": {
+    "depth": 0,
+    "panel": [
+     [
+      0.0421,
+      1.4,
+      1
+     ],
+     [
+      0.2729,
+      1.4,
+      1
+     ],
+     [
+      0.2985,
+      1.55
+     ],
+     [
+      0.7015,
+      1.55
+     ],
+     [
+      0.7271,
+      1.4,
+      1
+     ],
+     [
+      0.9579,
+      1.4,
+      1
+     ],
+     [
+      0.9799,
+      1.8
+     ],
+     [
+      0.9762,
+      2.5
+     ],
+     [
+      0.9396,
+      3.0
+     ],
+     [
+      0.8663,
+      3.35
+     ],
+     [
+      0.6832,
+      3.5
+     ],
+     [
+      0.5,
+      3.52
+     ],
+     [
+      0.3168,
+      3.5
+     ],
+     [
+      0.1337,
+      3.35
+     ],
+     [
+      0.0604,
+      3.0
+     ],
+     [
+      0.0238,
+      2.5
+     ],
+     [
+      0.0201,
+      1.8
+     ]
+    ],
+    "dark": [
+     [
+      [
+       0.207,
+       2.42
+      ],
+      [
+       0.2802,
+       2.32
+      ],
+      [
+       0.5,
+       2.3
+      ],
+      [
+       0.7198,
+       2.32
+      ],
+      [
+       0.793,
+       2.42
+      ],
+      [
+       0.7894,
+       3.15
+      ],
+      [
+       0.7381,
+       3.31
+      ],
+      [
+       0.5,
+       3.37
+      ],
+      [
+       0.2619,
+       3.31
+      ],
+      [
+       0.2106,
+       3.15
+      ]
+     ]
+    ],
+    "screens": [
+     [
+      [
+       0.2326,
+       2.48
+      ],
+      [
+       0.2802,
+       2.41
+      ],
+      [
+       0.5,
+       2.39
+      ],
+      [
+       0.7198,
+       2.41
+      ],
+      [
+       0.7674,
+       2.48
+      ],
+      [
+       0.7637,
+       3.1
+      ],
+      [
+       0.7198,
+       3.24
+      ],
+      [
+       0.5,
+       3.3
+      ],
+      [
+       0.2802,
+       3.24
+      ],
+      [
+       0.2363,
+       3.1
+      ]
+     ]
+    ],
+    "lights": [
+     [
+      [
+       0.1337,
+       1.85
+      ],
+      [
+       0.207,
+       1.97
+      ],
+      [
+       0.2985,
+       1.8
+      ],
+      [
+       0.3352,
+       1.55
+      ],
+      [
+       0.2985,
+       1.35
+      ],
+      [
+       0.1886,
+       1.31
+      ],
+      [
+       0.1337,
+       1.5
+      ]
+     ],
+     [
+      [
+       0.8663,
+       1.85
+      ],
+      [
+       0.793,
+       1.97
+      ],
+      [
+       0.7015,
+       1.8
+      ],
+      [
+       0.6648,
+       1.55
+      ],
+      [
+       0.7015,
+       1.35
+      ],
+      [
+       0.8114,
+       1.31
+      ],
+      [
+       0.8663,
+       1.5
+      ]
+     ],
+     [
+      [
+       0.4707,
+       3.38
+      ],
+      [
+       0.5,
+       3.36
+      ],
+      [
+       0.5293,
+       3.38
+      ],
+      [
+       0.5366,
+       3.45
+      ],
+      [
+       0.5293,
+       3.52
+      ],
+      [
+       0.5,
+       3.54
+      ],
+      [
+       0.4707,
+       3.52
+      ],
+      [
+       0.4634,
+       3.45
+      ]
+     ]
+    ],
+    "lampUnits": [
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.1795,
+        1.76
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.207,
+        1.52
+       ],
+       "r": 0.09
+      }
+     ],
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.8205,
+        1.76
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.793,
+        1.52
+       ],
+       "r": 0.09
+      }
+     ],
+     [
+      {
+       "kind": "head",
+       "at": [
+        0.5,
+        3.45
+       ],
+       "r": 0.07
+      }
+     ]
+    ],
+    "wipers": [
+     {
+      "pivot": [
+       0.3535,
+       3.3
+      ],
+      "tip": [
+       0.2582,
+       2.47
+      ]
+     },
+     {
+      "pivot": [
+       0.533,
+       3.3
+      ],
+      "tip": [
+       0.4597,
+       2.47
+      ]
+     }
+    ],
+    "lampRim": "black",
+    "tailLens": "clear",
+    "pockets": [
+     {
+      "outline": [
+       [
+        0.2985,
+        0.45,
+        1
+       ],
+       [
+        0.7015,
+        0.45,
+        1
+       ],
+       [
+        0.7015,
+        1.45
+       ],
+       [
+        0.6648,
+        1.53
+       ],
+       [
+        0.3352,
+        1.53
+       ],
+       [
+        0.2985,
+        1.45
+       ]
+      ],
+      "depth": 0.3
+     }
+    ]
+   }
+  }
+ },
+ "liveries": {
+  "XC": {
+   "body": "#C9CDD1",
+   "roof": "#7F858B",
+   "doors": "#C9CDD1",
+   "panel": "#F2B33F",
+   "face": "#3F3640",
+   "glass": "#141618",
+   "rects": [
+    {
+     "x": [
+      -1,
+      6.7
+     ],
+     "y": [
+      0.9,
+      3.4
+     ],
+     "color": "#3F3640"
+    },
+    {
+     "x": [
+      6.7,
+      6.78
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    },
+    {
+     "x": [
+      7.8,
+      7.88
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    },
+    {
+     "x": [
+      21.39,
+      21.47
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    },
+    {
+     "x": [
+      22.49,
+      22.57
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    }
+   ],
+   "coach": {
+    "body": "#C9CDD1",
+    "swooshes": []
+   },
+   "branding": [
+    {
+     "logo": "XC",
+     "on": "flank",
+     "at": [
+      0.97,
+      1.32
+     ],
+     "height": 0.2,
+     "width": 1.29
+    }
+   ]
+  },
+  "XC-red": {
+   "body": "#B90B20",
+   "roof": "#414A58",
+   "doors": "#76D2E5",
+   "panel": "#FFBA2F",
+   "face": "#B90B20",
+   "glass": "#141618",
+   "bands": [
+    {
+     "y": [
+      3.3,
+      3.36
+     ],
+     "color": "#FAD091"
+    }
+   ],
+   "shapes": [
+    {
+     "points": [
+      [
+       5.11,
+       3.3,
+       1
+      ],
+      [
+       3.51,
+       3.3,
+       1
+      ],
+      [
+       3.3,
+       0.94,
+       1
+      ],
+      [
+       5.02,
+       0.94,
+       1
+      ],
+      [
+       4.0,
+       2.14,
+       1
+      ]
+     ],
+     "color": "#F2E6CC"
+    },
+    {
+     "points": [
+      [
+       2.74,
+       2.07
+      ],
+      [
+       2.4,
+       2.4
+      ],
+      [
+       1.6,
+       1.9
+      ],
+      [
+       0.9,
+       1.2
+      ],
+      [
+       1.1,
+       0.94,
+       1
+      ],
+      [
+       1.9,
+       0.94,
+       1
+      ],
+      [
+       2.3,
+       1.4
+      ]
+     ],
+     "color": "#F2E6CC"
+    }
+   ],
+   "coach": {
+    "body": "#3B3F43",
+    "doors": "#76D2E5"
+   },
+   "branding": [
+    {
+     "logo": "XC",
+     "at": [
+      10.29,
+      1.4
+     ],
+     "height": 0.57,
+     "width": 2.95,
+     "color": "#F2E6CC"
+    },
+    {
+     "logo": "XC",
+     "car": "next",
+     "at": [
+      4.25,
+      1.36
+     ],
+     "height": 0.44,
+     "width": 2.79,
+     "color": "#F2E6CC"
+    }
+   ],
+   "rendered": false
+  }
+ },
+ "trace": {
+  "model.nose.profile": "ptr (220018, side-on), the nose's silhouette against the background, read on 25 px grids at 1.75x: x = (1303 - u)/280, y = (1555 - v)/280 (bumper front u 1303, rail v 1555, 280 px/m from rail-to-roof 3.75 m and the 222 px wheel = 0.79 m). The diagram draws the upper nose 0.3-0.5 m longer (at 2.4 m up: diagram 0.87, photo 0.55; at 3.4 m: 1.90 vs 1.42): the photo wins.",
+  "model.cab.doors[0]": "Cab door 2.78-3.42 m from the tip (centre 3.10, 0.64 wide): ptr (side-on, 280 px/m) and ped (camera solved on door 1 and three windows, held-out 3.8/7.9 cm; sidexy back-projection 2.79-3.42) agree within 1 cm. The diagram draws it at 3.54-4.17: its cab is drawn about 0.75 m long.",
+  "model.nose.glazing": "ptr: the teardrop cab side window, outline read on the 1.75x grid (u 626-860, v 681-856): 1.58-2.42 m back, 2.50-3.12 m up.",
+  "model.heights": "ptm1 (side-on, 196 px/m from rail-to-roof 3.75): body bottom 0.94, glass 2.02-2.90, orange cantrail line 3.33-3.43 (taken 3.36); roof 3.75 published.",
+  "model.cab.windows": "dia row 140, glass runs (42,42,42) at 74.8 px/m from the tip (col 33).",
+  "model.cab.doors[1-2]": "dia row 140, door colour runs (195,0,69): 6.80-7.89, 21.50-22.58.",
+  "model.cab.bogies": "Front bogie: ptr shows its leading axle 2.83 m behind the tip, under the cab door (the diagram draws it 1 m ahead of the door: wrong in the cab region, as the door is); wheelbase 2.25 as published (the 222's photo pe0 reads 2.30 for the same Bombardier bogie; the diagram's 2.54 is not borne out): centre 2.83 + 1.125 = 3.96. Rear bogie 20.72 from the diagram (its saloon is borne out by the ped camera).",
+  "model.next": "dia car 2 from its body start (col 1854): doors 1.03-2.11, 19.79-20.87; windows as listed; body 1854-3492 = 21.90 m; axles 1975/2165, 3181/3371.",
+  "model.form": "setback and tumblehome provisional (not yet measured): to be fitted on the three-quarter photos (ped, prd).",
+  "model.form.front": "The old scheme's face, as the 221's (classes/221 trace model.form.front): yellow round the screen to the roof. The 2026 red scheme's face (black above the screen) is kept as alternates.XC-red.",
+  "model.form.setback": "Provisional, read from ptr/ped/ptg (±0.15 m): the nose's flank stands 0.3-0.35 m behind the centre-line profile at the bumper and lamps, 0.7-0.75 m at the windscreen, closing to 0 at the roof. To refine on a camera with off-plane picks.",
+  "liveries.XC": "CrossCountry as refreshed from Feb 2026 (ped, ptmr, prd, ptg, ptm1: 2026 photos; the maroon and silver scheme is still on unrefurbished units, pso 2026-06: which is the default is open). Colours from samples.json (ptm1 overcast, balanced on the canopy white): red #B90B20, teal doors #76D2E5, car 2 dark grey #3B3F43, cream cantrail line #FAD091, roof #414A58; yellow #FFBA2F (pkn). The cream X on the cab car side: rear arm from the cantrail at 3.51-5.11 m to the solebar at 3.30-5.02 with the red '<' notch at 4.0/2.14, front arm from the cab door's front (2.4-2.74 at 2.1-2.4 m) down to the solebar at 1.1-1.9, back-projected through the ped camera (±0.2 m on the nose's curve).",
+  "liveries.XC.branding": "The 'crosscountry X' wordmark in cream on the lower bodyside. Cab car: ped (220023, 2026), its corners back-projected through the ped camera (held-out 3.8/7.9 cm): 8.81-11.76 m, 1.12-1.69 m (the X's tips). Car 2: ptm1 (side-on, 2026), against its door 1 (1.03-2.11): 2.85-5.64 m, 1.14-1.58. Width given: the vinyl is squatter than logos/XC.svg (5.2-6.3 against 5.8). Colour the cream of the X stripes.",
+  "model.form.front.panelFoot": "The yellow's foot at the sides 1.40 (photo 1.32): at 1.32 its corners sat in the crease where the bumper's top lip meets the face and the decal clearance check read 0.15 mm off the body.",
+  "model.form.front.couplerRecess": "The coupler recess between the two red bumper blocks (ptg levelled, 466 px/m: ±0.55 m, from the bottom to the yellow's notch at 1.55), black: the render showed a solid red nose there.",
+  "liveries.XC.choice": "The livery rule (2026-10-06, FLEET.md): the livery most units carry today, newer on a near tie. Commons photos dated 2026 (fetched 2026-10-06), each unit's latest: refreshed red 220007, 021, 023, 025, 027, 028, 033 (7); maroon and silver 220002, 004, 010, 012, 014, 015, 017, 020, 022, 031, 034 (11), the latest of them August 2026; refurbishment began February 2026 (Wikipedia). So the maroon and silver scheme, as on the 221 (classes/221/spec.json liveries.XC, the same scheme on the same body, with its flank mark); the red refresh is kept as liveries.XC-red (with its face, alternates.XC-red) for when it becomes the majority.",
+  "model.form.front.pockets": "The coupler opening between the bumper blocks cut 0.3 m back (a void with the coupler in it), not painted black."
+ },
+ "views": {
+  "match-ped": {
+   "matrix": [
+    [
+     -0.31391377231148143,
+     -0.07627709954252547,
+     -0.9463825588199285,
+     -8.22700872821428
+    ],
+    [
+     -0.9494312985110012,
+     0.01871708428059608,
+     0.3134164644107702,
+     5.298997581500932
+    ],
+    [
+     -0.006192976739007792,
+     0.9969109663562803,
+     -0.07829541619850687,
+     2.285602952505157
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 40.34430707339234,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1076
+   ]
+  },
+  "match-ped-flat": {
+   "matrix": [
+    [
+     -0.31391377231148143,
+     -0.07627709954252547,
+     -0.9463825588199285,
+     -8.22700872821428
+    ],
+    [
+     -0.9494312985110012,
+     0.01871708428059608,
+     0.3134164644107702,
+     5.298997581500932
+    ],
+    [
+     -0.006192976739007792,
+     0.9969109663562803,
+     -0.07829541619850687,
+     2.285602952505157
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 40.34430707339234,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1076
+   ],
+   "flat": true
+  }
+ },
+ "pairs": [],
+ "alternates": {
+  "XC-red": {
+   "model.form.front": {
+    "depth": 0,
+    "panel": [
+     [
+      0.0421,
+      1.4,
+      1
+     ],
+     [
+      0.2729,
+      1.4,
+      1
+     ],
+     [
+      0.2985,
+      1.55
+     ],
+     [
+      0.7015,
+      1.55
+     ],
+     [
+      0.7271,
+      1.4,
+      1
+     ],
+     [
+      0.9579,
+      1.4,
+      1
+     ],
+     [
+      0.9799,
+      1.8
+     ],
+     [
+      0.9579,
+      2.3
+     ],
+     [
+      0.9212,
+      2.5
+     ],
+     [
+      0.793,
+      2.38
+     ],
+     [
+      0.5,
+      2.27
+     ],
+     [
+      0.207,
+      2.38
+     ],
+     [
+      0.0788,
+      2.5
+     ],
+     [
+      0.0421,
+      2.3
+     ],
+     [
+      0.0201,
+      1.8
+     ]
+    ],
+    "dark": [
+     [
+      [
+       0.0018,
+       2.5,
+       1
+      ],
+      [
+       0.0788,
+       2.5
+      ],
+      [
+       0.207,
+       2.38
+      ],
+      [
+       0.5,
+       2.27
+      ],
+      [
+       0.793,
+       2.38
+      ],
+      [
+       0.9212,
+       2.5
+      ],
+      [
+       0.9982,
+       2.5,
+       1
+      ],
+      [
+       0.9982,
+       3.62,
+       1
+      ],
+      [
+       0.0018,
+       3.62,
+       1
+      ]
+     ],
+     [
+      [
+       0.2985,
+       0.45,
+       1
+      ],
+      [
+       0.7015,
+       0.45,
+       1
+      ],
+      [
+       0.7015,
+       1.45
+      ],
+      [
+       0.6648,
+       1.53
+      ],
+      [
+       0.3352,
+       1.53
+      ],
+      [
+       0.2985,
+       1.45
+      ]
+     ]
+    ],
+    "screens": [
+     [
+      [
+       0.2326,
+       2.48
+      ],
+      [
+       0.2802,
+       2.41
+      ],
+      [
+       0.5,
+       2.39
+      ],
+      [
+       0.7198,
+       2.41
+      ],
+      [
+       0.7674,
+       2.48
+      ],
+      [
+       0.7637,
+       3.1
+      ],
+      [
+       0.7198,
+       3.24
+      ],
+      [
+       0.5,
+       3.3
+      ],
+      [
+       0.2802,
+       3.24
+      ],
+      [
+       0.2363,
+       3.1
+      ]
+     ]
+    ],
+    "lights": [
+     [
+      [
+       0.1337,
+       1.85
+      ],
+      [
+       0.207,
+       1.97
+      ],
+      [
+       0.2985,
+       1.8
+      ],
+      [
+       0.3352,
+       1.55
+      ],
+      [
+       0.2985,
+       1.35
+      ],
+      [
+       0.1886,
+       1.31
+      ],
+      [
+       0.1337,
+       1.5
+      ]
+     ],
+     [
+      [
+       0.8663,
+       1.85
+      ],
+      [
+       0.793,
+       1.97
+      ],
+      [
+       0.7015,
+       1.8
+      ],
+      [
+       0.6648,
+       1.55
+      ],
+      [
+       0.7015,
+       1.35
+      ],
+      [
+       0.8114,
+       1.31
+      ],
+      [
+       0.8663,
+       1.5
+      ]
+     ],
+     [
+      [
+       0.4707,
+       3.38
+      ],
+      [
+       0.5,
+       3.36
+      ],
+      [
+       0.5293,
+       3.38
+      ],
+      [
+       0.5366,
+       3.45
+      ],
+      [
+       0.5293,
+       3.52
+      ],
+      [
+       0.5,
+       3.54
+      ],
+      [
+       0.4707,
+       3.52
+      ],
+      [
+       0.4634,
+       3.45
+      ]
+     ]
+    ],
+    "lampUnits": [
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.1795,
+        1.76
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.207,
+        1.52
+       ],
+       "r": 0.09
+      }
+     ],
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.8205,
+        1.76
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.793,
+        1.52
+       ],
+       "r": 0.09
+      }
+     ],
+     [
+      {
+       "kind": "head",
+       "at": [
+        0.5,
+        3.45
+       ],
+       "r": 0.07
+      }
+     ]
+    ],
+    "wipers": [
+     {
+      "pivot": [
+       0.3535,
+       3.3
+      ],
+      "tip": [
+       0.2582,
+       2.47
+      ]
+     },
+     {
+      "pivot": [
+       0.533,
+       3.3
+      ],
+      "tip": [
+       0.4597,
+       2.47
+      ]
+     }
+    ],
+    "lampRim": "black",
+    "tailLens": "clear"
+   }
+  }
+ }
+}

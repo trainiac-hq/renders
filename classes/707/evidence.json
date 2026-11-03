@@ -1,0 +1,99 @@
+{
+ "class": "707",
+ "subject": "Class 707 in Southeastern livery",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-707-Southeastern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_707_Southeastern_Diagram.png",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "diagram",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p022": {
+   "file": "refs/707022-707003-London-Bridge-June-6th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:707022_%26_707003,_London_Bridge,_June_6th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-06",
+   "kind": "photo",
+   "unit": "707022",
+   "view": "near head-on from the right, nose left",
+   "light": "sun"
+  },
+  "p014": {
+   "file": "refs/707014-707025-Waterloo-East-September-30th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:707014_%26_707025,_Waterloo_East,_September_30th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-30",
+   "kind": "photo",
+   "unit": "707014",
+   "view": "three-quarter, nose left",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-022",
+   "ref": "p022",
+   "box": [
+    150,
+    330,
+    600,
+    800
+   ],
+   "feature": "front",
+   "reading": "Navy face; the big windscreen in a thin dark frame, no wide black mask; yellow across the whole lower front round two black pods (tail outboard, head inboard); '707022' dark on the yellow; an orange line over the roof's front; navy cheeks under the yellow, the coupler between."
+  },
+  {
+   "id": "s-cab-022",
+   "ref": "p022",
+   "box": [
+    590,
+    440,
+    760,
+    620
+   ],
+   "feature": "cab side",
+   "reading": "Navy; the cab door's narrow window, one window, then door 1 with sky-blue leaves."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    1720,
+    362
+   ],
+   "feature": "diagram cab car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "yellow-022",
+   "ref": "p022",
+   "box": [
+    330,
+    640,
+    400,
+    670
+   ],
+   "what": "face yellow, sunlit"
+  },
+  {
+   "id": "navy-022",
+   "ref": "p022",
+   "box": [
+    565,
+    500,
+    585,
+    520
+   ],
+   "what": "bodyside navy, sunlit"
+  }
+ ]
+}

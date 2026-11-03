@@ -1,0 +1,38 @@
+{
+ "ref": "p004",
+ "side": "far",
+ "note": "456004, nose nearly head-on, the DMSO's bodyside left of the face: the train's right side (far, +Y); the left-as-seen lamp box is lamp1. Canon EOS 100D at 38 mm on a 22.3 mm sensor: 6543 px at 3840 wide.",
+ "points": {
+  "wA-rear-top": [2161, 1278],
+  "wA-front-top": [2277, 1279],
+  "wA-rear-bottom": [2155, 1516],
+  "wA-front-bottom": [2272, 1520],
+  "wS-rear-top": [2312, 1271.4],
+  "wS-front-top": [2371, 1271],
+  "wS-rear-bottom": [2312, 1525],
+  "wS-front-bottom": [2371, 1525],
+  "wB-rear-top": [1898, 1301],
+  "wB-front-top": [1981.5, 1301],
+  "wB-rear-bottom": [1898, 1499],
+  "wB-front-bottom": [1981.5, 1499],
+  "lamp1-head": [2751, 1686],
+  "lamp1-tail": [2813.8, 1686],
+  "lamp0-tail": [3229, 1681.4],
+  "lamp0-head": [3292, 1681.4],
+  "num-far": [2752.8, 1892.4],
+  "num-near": [3295.5, 1882.5],
+  "panel-top-far": [2624, 1461],
+  "panel-top-near": [3400, 1461]
+ },
+ "model": {
+  "wA-rear-top": [5.776, 3.047], "wA-front-top": [4.106, 3.047], "wA-rear-bottom": [5.776, 2.088], "wA-front-bottom": [4.106, 2.088],
+  "wS-rear-top": [3.58, 3.047], "wS-front-top": [2.85, 3.047], "wS-rear-bottom": [3.58, 2.088], "wS-front-bottom": [2.85, 2.088],
+  "wB-rear-top": [10.606, 3.047], "wB-front-top": [8.936, 3.047], "wB-rear-bottom": [10.606, 2.088], "wB-front-bottom": [8.936, 2.088]
+ },
+ "modelFace": {
+  "num-far": [0.915, 0.928], "num-near": [-0.915, 0.928],
+  "panel-top-far": [1.32, 2.265], "panel-top-near": [-1.32, 2.265]
+ },
+ "holdout": ["wA-front-top", "lamp0-tail", "num-near"],
+ "focalPx": 6543
+}

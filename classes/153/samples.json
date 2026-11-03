@@ -1,0 +1,380 @@
+{
+ "grey-922": {
+  "ref": "p922",
+  "box": [
+   1625,
+   985,
+   1790,
+   1015
+  ],
+  "what": "TfW bodyside grey, sun (neutral: white balance only, its own mean level kept)",
+  "median": "#C9C5B9",
+  "iqr": [
+   25,
+   25,
+   24
+  ]
+ },
+ "red-922": {
+  "ref": "p922",
+  "box": [
+   1370,
+   980,
+   1520,
+   1060
+  ],
+  "what": "TfW door red, sun",
+  "median": "#E52F20",
+  "iqr": [
+   3,
+   3,
+   3
+  ],
+  "balanced": "#DD2E22",
+  "neutral": "grey-922"
+ },
+ "yellow-922": {
+  "ref": "p922",
+  "box": [
+   905,
+   1120,
+   945,
+   1220
+  ],
+  "what": "face yellow, sun",
+  "median": "#FFF301",
+  "iqr": [
+   1,
+   1,
+   3
+  ],
+  "balanced": "#F6F001",
+  "neutral": "grey-922"
+ },
+ "roof-922": {
+  "ref": "p922",
+  "box": [
+   1400,
+   432,
+   1800,
+   470
+  ],
+  "what": "roof, sun",
+  "median": "#5B606A",
+  "iqr": [
+   23,
+   12,
+   37
+  ],
+  "balanced": "#585F6F",
+  "neutral": "grey-922"
+ },
+ "yellow-wh": {
+  "ref": "pwh",
+  "box": [
+   766,
+   472,
+   790,
+   520
+  ],
+  "what": "face yellow, head-on (no neutral on the face)",
+  "median": "#FEC424",
+  "iqr": [
+   3,
+   5,
+   12
+  ]
+ },
+ "lampbox-wh": {
+  "ref": "pwh",
+  "box": [
+   700,
+   562,
+   760,
+   568
+  ],
+  "what": "lamp box black",
+  "median": "#2E222E",
+  "iqr": [
+   43,
+   44,
+   47
+  ]
+ },
+ "surround-wh": {
+  "ref": "pwh",
+  "box": [
+   512,
+   330,
+   532,
+   420
+  ],
+  "what": "gangway surround (grimy black)",
+  "median": "#454655",
+  "iqr": [
+   25,
+   22,
+   21
+  ]
+ },
+ "grey-bh": {
+  "ref": "pbh",
+  "box": [
+   2908,
+   1591,
+   2990,
+   1673
+  ],
+  "what": "TfW bodyside grey, canopy light (neutral: white balance only, its own mean level kept)",
+  "median": "#B8B3AD",
+  "iqr": [
+   12,
+   12,
+   16
+  ]
+ },
+ "red-bh": {
+  "ref": "pbh",
+  "box": [
+   2660,
+   1400,
+   2760,
+   1600
+  ],
+  "what": "TfW door red (open leaf), canopy light",
+  "median": "#F45A58",
+  "iqr": [
+   12,
+   18,
+   20
+  ],
+  "balanced": "#ED5A5B",
+  "neutral": "grey-bh"
+ },
+ "band-bh": {
+  "ref": "pbh",
+  "box": [
+   2950,
+   1000,
+   3150,
+   1020
+  ],
+  "what": "red cantrail band",
+  "median": "#F86661",
+  "iqr": [
+   122,
+   64,
+   61
+  ],
+  "balanced": "#F16664",
+  "neutral": "grey-bh"
+ },
+ "grey-sd": {
+  "ref": "psd",
+  "box": [
+   1301,
+   1788,
+   1663,
+   1844
+  ],
+  "what": "TfW bodyside grey side-on (neutral: white balance only, its own mean level kept)",
+  "median": "#A29C94",
+  "iqr": [
+   7,
+   8,
+   8
+  ]
+ },
+ "red-sd": {
+  "ref": "psd",
+  "box": [
+   2000,
+   1808,
+   2266,
+   2025
+  ],
+  "what": "TfW door red side-on",
+  "median": "#AD1800",
+  "iqr": [
+   11,
+   4,
+   2
+  ],
+  "balanced": "#A61800",
+  "neutral": "grey-sd"
+ },
+ "band-sd": {
+  "ref": "psd",
+  "box": [
+   400,
+   1395,
+   1500,
+   1410
+  ],
+  "what": "red cantrail band side-on",
+  "median": "#FF615F",
+  "iqr": [
+   1,
+   9,
+   11
+  ],
+  "balanced": "#F46164",
+  "neutral": "grey-sd"
+ },
+ "roof-sd": {
+  "ref": "psd",
+  "box": [
+   400,
+   1300,
+   1500,
+   1340
+  ],
+  "what": "roof side-on",
+  "median": "#A1A9B6",
+  "iqr": [
+   27,
+   24,
+   24
+  ],
+  "balanced": "#9AA8BF",
+  "neutral": "grey-sd"
+ },
+ "pillar-sd": {
+  "ref": "psd",
+  "box": [
+   780,
+   1450,
+   800,
+   1650
+  ],
+  "what": "window band black between windows",
+  "median": "#242229",
+  "iqr": [
+   6,
+   4,
+   4
+  ],
+  "balanced": "#23222B",
+  "neutral": "grey-sd"
+ },
+ "sr-grey-we": {
+  "ref": "pwe",
+  "box": [
+   1300,
+   1550,
+   1420,
+   1650
+  ],
+  "what": "SR passenger door grey (neutral: white balance only, its own mean level kept)",
+  "median": "#80807E",
+  "iqr": [
+   3,
+   3,
+   3
+  ]
+ },
+ "sr-blue-we": {
+  "ref": "pwe",
+  "box": [
+   1720,
+   600,
+   1760,
+   1100
+  ],
+  "what": "SR blue on the cab door",
+  "median": "#242854",
+  "iqr": [
+   6,
+   6,
+   6
+  ],
+  "balanced": "#242855",
+  "neutral": "sr-grey-we"
+ },
+ "sr-dot-we": {
+  "ref": "pwe",
+  "box": [
+   2321,
+   858,
+   2418,
+   955
+  ],
+  "what": "SR white dot",
+  "median": "#CBCBCA",
+  "iqr": [
+   12,
+   14,
+   16
+  ],
+  "balanced": "#CACACC",
+  "neutral": "sr-grey-we"
+ },
+ "sr-teal-we": {
+  "ref": "pwe",
+  "box": [
+   1092,
+   565,
+   1190,
+   663
+  ],
+  "what": "SR wrap teal sky",
+  "median": "#7BC8CD",
+  "iqr": [
+   3,
+   2,
+   2
+  ],
+  "balanced": "#7AC7CF",
+  "neutral": "sr-grey-we"
+ },
+ "sr-cow-we": {
+  "ref": "pwe",
+  "box": [
+   1092,
+   1170,
+   1170,
+   1326
+  ],
+  "what": "SR wrap highland cow brown",
+  "median": "#984C32",
+  "iqr": [
+   59,
+   62,
+   37
+  ],
+  "balanced": "#974C33",
+  "neutral": "sr-grey-we"
+ },
+ "sr-yellow-qs": {
+  "ref": "pqs",
+  "box": [
+   1370,
+   960,
+   1620,
+   1000
+  ],
+  "what": "SR face yellow",
+  "median": "#8C602B",
+  "iqr": [
+   9,
+   8,
+   11
+  ]
+ },
+ "sr-roof-qs": {
+  "ref": "pqs",
+  "box": [
+   1000,
+   250,
+   1300,
+   275
+  ],
+  "what": "SR roof dome",
+  "median": "#786C6C",
+  "iqr": [
+   9,
+   6,
+   7
+  ]
+ }
+}

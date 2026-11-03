@@ -1,0 +1,93 @@
+{
+ "ref": "p042",
+ "side": "near",
+ "points": {
+  "door1-front-top": [
+   2560,
+   815
+  ],
+  "door1-front-bottom": [
+   2585,
+   1886
+  ],
+  "door1-rear-top": [
+   2876,
+   862
+  ],
+  "lamp0-tail": [
+   1222,
+   1711
+  ],
+  "lamp0-head": [
+   1199,
+   1839
+  ],
+  "lamp1-tail": [
+   552,
+   1693
+  ],
+  "lamp1-head": [
+   524,
+   1821
+  ],
+  "screen0-top-near": [
+   1685,
+   704
+  ],
+  "screen0-bottom-near": [
+   1366,
+   1460
+  ],
+  "axle0": [
+   2227,
+   2315
+  ],
+  "w1-top-front": [
+   3003,
+   1020
+  ],
+  "w1-top-rear": [
+   3176,
+   1039
+  ],
+  "w1-bottom-front": [
+   3024,
+   1415
+  ],
+  "w1-bottom-rear": [
+   3195,
+   1403
+  ]
+ },
+ "holdout": [
+  "door1-rear-top",
+  "screen0-top-near",
+  "lamp1-head",
+  "w1-bottom-rear"
+ ],
+ "readings": {
+  "door1-*": "pick panels r=50: the door's seam meets the horizontal seam under the orange line (top), the step (bottom)",
+  "lamp*": "centre of each lens's outline (r=50/80 panels)",
+  "screen0-*": "45-degree point of the glass's rounded corner (r=80 panels); far corners left out, lost in reflections",
+  "axle0": "centre of the bolted wheel hub, brightened crop",
+  "w1-*": "45-degree point of the first saloon window's rounded glass corner (r 0.1 m), r=70 panels"
+ },
+ "model": {
+  "w1-top-front": [
+   6.211,
+   2.881
+  ],
+  "w1-top-rear": [
+   7.514,
+   2.881
+  ],
+  "w1-bottom-front": [
+   6.211,
+   2.029
+  ],
+  "w1-bottom-rear": [
+   7.514,
+   2.029
+  ]
+ }
+}

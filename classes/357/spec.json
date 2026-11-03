@@ -1,0 +1,1546 @@
+{
+ "class": "357",
+ "subject": "Class 357 Electrostar (357/0 and 357/2), c2c 2024+ magenta livery, 2026",
+ "method": "Side geometry: the Unisouth diagram is a pixel copy of the 377 drawing except the nose, so doors and windows come from photos (1D projective fits on p045 and p042 with the 377 positions shifted for the 357 nose as the hypothesis, accepted). Heights checked up one vertical on p045/p042. Nose profile from the diagram's redrawn nose. Face measured head-on on p033 (de-rolled 1.7 deg, symmetric lamp pairs, body edge = 1.40 m), cross-checked on p001.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 81.7,
+  "railY": 339,
+  "faceX": 42,
+  "notes": "Same drawing and scale as classes/377 (car 2 MSO 19.99 m = 1765..3398 px). Only the nose differs: the 357 face stands at x=42 px vs the 377's 58 px, and 42->1708 px = 20.39 m = published DMSO 20.40 m (Wikipedia British_Rail_Class_357 infobox: DMSO 20.40 m, MSO/PTSO 19.99 m, width 2.80 m, height 3.78 m). p033 face: 240.7 px/m across (body edge 1098 px to lamp centre 1435 px = 1.40 m), 237.4 px/m up (orange line row 603 = 3.30 m to valance bottom row 1320 = 0.28 m, diagram)."
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.94,
+   "cantrail": 3.3,
+   "roof": 3.76,
+   "window": [
+    1.886,
+    2.784
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.33,
+  "cab": {
+   "length": 20.4,
+   "doors": [
+    {
+     "x": 1.573,
+     "w": 0.82,
+     "cab": true,
+     "window": [
+      1.7,
+      3.05
+     ],
+     "span": [
+      0.955,
+      3.256
+     ],
+     "panes": [
+      -0.35,
+      0.3
+     ]
+    },
+    {
+     "x": 5.778,
+     "w": 1.76,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.68
+     ],
+     "span": [
+      1.17,
+      3.256
+     ],
+     "window": [
+      1.886,
+      2.784
+     ]
+    },
+    {
+     "x": 15.025,
+     "w": 1.76,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.68
+     ],
+     "span": [
+      1.17,
+      3.256
+     ],
+     "window": [
+      1.886,
+      2.784
+     ]
+    }
+   ],
+   "panes": [],
+   "windows": [
+    [
+     2.146,
+     2.896
+    ],
+    [
+     2.956,
+     4.796
+    ],
+    [
+     6.867,
+     8.421
+    ],
+    [
+     8.702,
+     10.257
+    ],
+    [
+     10.539,
+     12.093
+    ],
+    [
+     12.376,
+     13.929
+    ],
+    [
+     16.12,
+     17.675
+    ],
+    [
+     17.956,
+     19.511
+    ]
+   ],
+   "bogies": [
+    3.046,
+    17.466
+   ]
+  },
+  "next": {
+   "length": 19.99,
+   "doors": [
+    {
+     "x": 5.367,
+     "w": 1.76,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.68
+     ],
+     "span": [
+      1.17,
+      3.256
+     ],
+     "window": [
+      1.886,
+      2.784
+     ]
+    },
+    {
+     "x": 14.621,
+     "w": 1.76,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.68
+     ],
+     "span": [
+      1.17,
+      3.256
+     ],
+     "window": [
+      1.886,
+      2.784
+     ]
+    }
+   ],
+   "windows": [
+    [
+     1.75,
+     2.436
+    ],
+    [
+     2.718,
+     4.272
+    ],
+    [
+     6.463,
+     8.017
+    ],
+    [
+     8.298,
+     9.853
+    ],
+    [
+     10.134,
+     11.689
+    ],
+    [
+     11.971,
+     13.525
+    ],
+    [
+     15.716,
+     17.271
+    ],
+    [
+     17.552,
+     19.106
+    ]
+   ],
+   "bogies": [
+    2.925,
+    17.063
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.2,
+     0.28,
+     1
+    ],
+    [
+     0.19,
+     0.45
+    ],
+    [
+     0.15,
+     0.67
+    ],
+    [
+     0.13,
+     0.75
+    ],
+    [
+     0.2,
+     0.89,
+     1
+    ],
+    [
+     0.0,
+     0.97,
+     1
+    ],
+    [
+     0.0,
+     1.26
+    ],
+    [
+     0.01,
+     1.33
+    ],
+    [
+     0.05,
+     1.48
+    ],
+    [
+     0.09,
+     1.63
+    ],
+    [
+     0.12,
+     1.77
+    ],
+    [
+     0.15,
+     1.92
+    ],
+    [
+     0.18,
+     2.07
+    ],
+    [
+     0.22,
+     2.22
+    ],
+    [
+     0.27,
+     2.36
+    ],
+    [
+     0.31,
+     2.51
+    ],
+    [
+     0.36,
+     2.66
+    ],
+    [
+     0.39,
+     2.8
+    ],
+    [
+     0.43,
+     2.95
+    ],
+    [
+     0.48,
+     3.1
+    ],
+    [
+     0.53,
+     3.24
+    ],
+    [
+     0.56,
+     3.32
+    ],
+    [
+     0.59,
+     3.39
+    ],
+    [
+     0.64,
+     3.54
+    ],
+    [
+     0.69,
+     3.61
+    ],
+    [
+     0.73,
+     3.68
+    ],
+    [
+     0.87,
+     3.76,
+     1
+    ]
+   ]
+  },
+  "face": {
+   "halfWidth": 1.4,
+   "kind": "plain",
+   "screens": [
+    {
+     "m0": -0.99,
+     "m1": -0.03,
+     "lo": 2.09,
+     "hi": 3.27,
+     "r": [
+      0.03,
+      0.02,
+      0.02,
+      0.08
+     ],
+     "frame": 0.035
+    },
+    {
+     "m0": 0.03,
+     "m1": 0.99,
+     "lo": 2.09,
+     "hi": 3.27,
+     "r": [
+      0.02,
+      0.03,
+      0.08,
+      0.02
+     ],
+     "frame": 0.035
+    }
+   ],
+   "darks": [
+    {
+     "rrect": [
+      -1.025,
+      1.95,
+      1.025,
+      3.3,
+      [
+       0.02,
+       0.02,
+       0.1,
+       0.1
+      ]
+     ],
+     "what": "screen opening: frame, pillar and the sill under the glass"
+    },
+    {
+     "rrect": [
+      -0.535,
+      0.26,
+      0.535,
+      1.16,
+      [
+       0.12,
+       0.12,
+       0.03,
+       0.03
+      ]
+     ],
+     "what": "coupler recess between the valance halves"
+    },
+    {
+     "rrect": [
+      0.57,
+      1.04,
+      1.06,
+      1.09,
+      [
+       0.01,
+       0.01,
+       0.01,
+       0.01
+      ]
+     ],
+     "mirror": true,
+     "what": "black rubber pad on top of each valance half"
+    }
+   ],
+   "panels": [
+    {
+     "poly": [
+      [
+       -0.98,
+       1.95,
+       1
+      ],
+      [
+       0.98,
+       1.95,
+       1
+      ],
+      [
+       0.97,
+       1.85
+      ],
+      [
+       0.95,
+       1.79
+      ],
+      [
+       0.915,
+       1.74
+      ],
+      [
+       0.87,
+       1.65
+      ],
+      [
+       0.825,
+       1.56
+      ],
+      [
+       0.78,
+       1.49
+      ],
+      [
+       0.73,
+       1.43
+      ],
+      [
+       0.68,
+       1.38
+      ],
+      [
+       0.62,
+       1.34
+      ],
+      [
+       0.55,
+       1.315
+      ],
+      [
+       0.45,
+       1.305
+      ],
+      [
+       0.3,
+       1.3
+      ],
+      [
+       -0.3,
+       1.3
+      ],
+      [
+       -0.45,
+       1.305
+      ],
+      [
+       -0.55,
+       1.315
+      ],
+      [
+       -0.62,
+       1.34
+      ],
+      [
+       -0.68,
+       1.38
+      ],
+      [
+       -0.73,
+       1.43
+      ],
+      [
+       -0.78,
+       1.49
+      ],
+      [
+       -0.825,
+       1.56
+      ],
+      [
+       -0.87,
+       1.65
+      ],
+      [
+       -0.915,
+       1.74
+      ],
+      [
+       -0.95,
+       1.79
+      ],
+      [
+       -0.97,
+       1.85
+      ]
+     ],
+     "mirror": false
+    }
+   ],
+   "shapes": [
+    {
+     "poly": [
+      [
+       1.025,
+       2.02
+      ],
+      [
+       1.045,
+       1.975
+      ],
+      [
+       1.08,
+       1.965
+      ],
+      [
+       1.4,
+       1.995
+      ],
+      [
+       1.4,
+       3.3,
+       1
+      ],
+      [
+       1.025,
+       3.3,
+       1
+      ]
+     ],
+     "mirror": true,
+     "colour": "magenta"
+    },
+    {
+     "rrect": [
+      -1.4,
+      3.3,
+      1.4,
+      3.328,
+      [
+       0,
+       0,
+       0,
+       0
+      ]
+     ],
+     "mirror": false,
+     "colour": "orange"
+    },
+    {
+     "rrect": [
+      -1.4,
+      3.328,
+      1.4,
+      3.8,
+      [
+       0,
+       0,
+       0,
+       0
+      ]
+     ],
+     "mirror": false,
+     "colour": "dome"
+    }
+   ],
+   "lamps": [
+    {
+     "housing": {
+      "peanut": [
+       [
+        0.925,
+        1.51,
+        0.093
+       ],
+       [
+        1.08,
+        1.61,
+        0.115
+       ]
+      ]
+     },
+     "units": [
+      {
+       "kind": "head",
+       "m": 1.08,
+       "y": 1.61,
+       "r": 0.085
+      },
+      {
+       "kind": "marker",
+       "m": 0.925,
+       "y": 1.51,
+       "r": 0.052
+      }
+     ],
+     "mirror": true,
+     "bezel": "body"
+    },
+    {
+     "housing": {
+      "rrect": [
+       0.635,
+       1.425,
+       0.745,
+       1.535,
+       [
+        0.055,
+        0.055,
+        0.055,
+        0.055
+       ]
+      ]
+     },
+     "units": [
+      {
+       "kind": "tail",
+       "m": 0.69,
+       "y": 1.48,
+       "r": 0.05
+      }
+     ],
+     "mirror": true,
+     "bezel": "black seal ring only"
+    }
+   ],
+   "number": {
+    "text": "357 001",
+    "m": 0.52,
+    "y": 1.74,
+    "height": 0.11,
+    "colour": "#2B2B2B",
+    "both": false
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -0.6,
+      2.04
+     ],
+     "tip": [
+      -0.04,
+      2.65
+     ]
+    },
+    {
+     "pivot": [
+      0.6,
+      2.04
+     ],
+     "tip": [
+      0.04,
+      2.65
+     ]
+    }
+   ],
+   "marker": {
+    "m": 0.0,
+    "y": 3.68,
+    "rx": 0.09,
+    "ry": 0.035
+   },
+   "markerHousing": {
+    "half": 0.22,
+    "lo": 3.62,
+    "hi": 3.74
+   },
+   "destination": {
+    "m0": -0.87,
+    "m1": -0.25,
+    "lo": 3.01,
+    "hi": 3.22,
+    "colour": "#F08A2A"
+   },
+   "pillar": {
+    "half": 0.03
+   },
+   "lip": {
+    "y": 1.2,
+    "half": 1.25
+   },
+   "valance": {
+    "top": 1.09,
+    "bottom": 0.26,
+    "outer": 1.205,
+    "recessHalf": 0.535
+   },
+   "tailLens": "red"
+  },
+  "windowRadius": 0.04
+ },
+ "liveries": {
+  "CC": {
+   "body": "#F0F1F3",
+   "roof": "#C8CBD0",
+   "dome": "#282A33",
+   "magenta": "#D2609E",
+   "doors": "#D2609E",
+   "orange": "#F29956",
+   "yellow": "#F2BE34",
+   "glass": "#0F1414",
+   "windowBand": "#24282B",
+   "numberColour": "#2B2B2B",
+   "tail": "#E8303C",
+   "logo": {
+    "text": "c2c",
+    "car": "both",
+    "x": 10.5,
+    "y": [
+     1.45,
+     1.7
+    ],
+    "colour": "#D2609E"
+   },
+   "orangeLine": [
+    3.286,
+    3.314
+   ],
+   "windowBandY": [
+    1.8,
+    2.87
+   ],
+   "doorLeaves": "magenta, both leaves full span; dark seal between and round them; leaf windows glass",
+   "cabBand": {
+    "car": "cab",
+    "poly": [
+     [
+      0.5,
+      3.3,
+      1
+     ],
+     [
+      0.78,
+      3.3,
+      1
+     ],
+     [
+      0.16,
+      1.97
+     ]
+    ],
+    "colour": "magenta",
+    "note": "side part of the face band: its front edge is the face/side corner, it continues round onto the face"
+   },
+   "swoosh": {
+    "car": "cab",
+    "poly": [
+     [
+      3.45,
+      0.94,
+      1
+     ],
+     [
+      4.25,
+      0.94,
+      1
+     ],
+     [
+      9.15,
+      3.3,
+      1
+     ],
+     [
+      7.55,
+      3.3,
+      1
+     ]
+    ],
+    "colour": "magenta",
+    "under": [
+     "doors",
+     "glazing"
+    ]
+   },
+   "cabEnd": null,
+   "carEnd": null,
+   "lowerBand": null,
+   "firstClass": null,
+   "logos": [
+    {
+     "what": "c2c wordmark (lower case, the 2 dropping below the c's)",
+     "svg": "c2c-wordmark",
+     "car": "cab",
+     "side": "both",
+     "x0": 10.03,
+     "x1": 10.84,
+     "y0": 1.36,
+     "y1": 1.71,
+     "colour": "#CA348C",
+     "mirrored": false,
+     "note": "same art and place on both sides, reads normally; the livery magenta (doors #D2609E) within lighting spread"
+    },
+    {
+     "what": "c2c wordmark",
+     "svg": "c2c-wordmark",
+     "car": "next",
+     "side": "both",
+     "x0": 9.6,
+     "x1": 10.4,
+     "y0": 1.37,
+     "y1": 1.7,
+     "colour": "#CA348C",
+     "mirrored": false,
+     "note": "mid-panel between the two doors"
+    },
+    {
+     "what": "'Quiet' Quiet Zone door panel: white rectangle, teal text (front leaf door 1)",
+     "svg": "quiet-zone-quiet",
+     "car": "cab",
+     "side": "left",
+     "x0": 5.13,
+     "x1": 5.54,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Zone' Quiet Zone door panel: white rectangle, teal text (rear leaf door 1)",
+     "svg": "quiet-zone-zone",
+     "car": "cab",
+     "side": "left",
+     "x0": 6.01,
+     "x1": 6.42,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Quiet' Quiet Zone door panel: white rectangle, teal text (front leaf door 2)",
+     "svg": "quiet-zone-quiet",
+     "car": "cab",
+     "side": "left",
+     "x0": 14.38,
+     "x1": 14.79,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Zone' Quiet Zone door panel: white rectangle, teal text (rear leaf door 2)",
+     "svg": "quiet-zone-zone",
+     "car": "cab",
+     "side": "left",
+     "x0": 15.26,
+     "x1": 15.67,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Zone' Quiet Zone door panel: white rectangle, teal text (front leaf door 1)",
+     "svg": "quiet-zone-zone",
+     "car": "cab",
+     "side": "right",
+     "x0": 5.13,
+     "x1": 5.54,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Quiet' Quiet Zone door panel: white rectangle, teal text (rear leaf door 1)",
+     "svg": "quiet-zone-quiet",
+     "car": "cab",
+     "side": "right",
+     "x0": 6.01,
+     "x1": 6.42,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Zone' Quiet Zone door panel: white rectangle, teal text (front leaf door 2)",
+     "svg": "quiet-zone-zone",
+     "car": "cab",
+     "side": "right",
+     "x0": 14.38,
+     "x1": 14.79,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    },
+    {
+     "what": "'Quiet' Quiet Zone door panel: white rectangle, teal text (rear leaf door 2)",
+     "svg": "quiet-zone-quiet",
+     "car": "cab",
+     "side": "right",
+     "x0": 15.26,
+     "x1": 15.67,
+     "y0": 1.66,
+     "y1": 1.86,
+     "colour": "#8DABB3",
+     "panel": "#F0F0F0",
+     "mirrored": "reordered: reads 'Quiet | Zone' left to right on both sides, so 'Quiet' is on the front leaf on the left side and the rear leaf on the right",
+     "only": "Only on one driving car of a unit (the Quiet Zone end): 357012, 013, 042 carry it; 357045's leading car has none. Panel centred on its leaf, under the leaf window."
+    }
+   ],
+   "mullion": {
+    "poly": [
+     [
+      2.876,
+      1.866,
+      1
+     ],
+     [
+      2.976,
+      1.866,
+      1
+     ],
+     [
+      2.976,
+      2.804,
+      1
+     ],
+     [
+      2.876,
+      2.804,
+      1
+     ]
+    ],
+    "colour": "windowBand"
+   }
+  },
+  "CC-old": {
+   "note": "older white c2c scheme still on a minority (357201, 204, 205, 315, 321, 032 in 2025-26). Not to be rendered as its own train.",
+   "body": "#F0F0EC",
+   "doors": "#363437",
+   "yellow": "#F8BD2E",
+   "cap": "#E8AA34",
+   "orange": "#F29956",
+   "faceShapes": [
+    {
+     "poly": [
+      [
+       -1.3,
+       3.3,
+       1
+      ],
+      [
+       1.3,
+       3.3,
+       1
+      ],
+      [
+       1.25,
+       3.42
+      ],
+      [
+       1.0,
+       3.52
+      ],
+      [
+       0.5,
+       3.6
+      ],
+      [
+       0.0,
+       3.62
+      ],
+      [
+       -0.5,
+       3.6
+      ],
+      [
+       -1.0,
+       3.52
+      ],
+      [
+       -1.25,
+       3.42
+      ]
+     ],
+     "mirror": false,
+     "colour": "cap"
+    }
+   ],
+   "magentaBands": false,
+   "swoosh": false,
+   "panel": "same yellow shield as CC"
+  }
+ },
+ "trace": {
+  "calibration": "dia rows 150: every door/window edge equals the 377 drawing pixel for pixel (doors 442-586 / 1198-1341 px, windows 603-730 ... 1509-1636); cols 18-6834 differ only at the nose and in colour. So the diagram gives the nose and the scale, not the doors.",
+  "heights": "as the 377 (0.94 / 3.30 / 3.76, glass 1.886-2.784). p045 col 1900: orange 553, window frame 660, glass to 926-931, body bottom ~1152 -> band 1.82-2.88 m with orange=3.30 and bottom=0.94; p042 col 2150: orange 993, glass 1062-1234, bottom 1368 -> 1.78-2.87. Both within 0.02 of the 377.",
+  "wheel/wheelbase": "from the shared drawing (377 trace), not checked on a 357 photo",
+  "cab.length": "published DMSO 20.40 m (Wikipedia infobox); diagram face 42 px to body end 1708 px = 20.39 m",
+  "cab.doors[0]": "cab door = 377 cab door + 0.196 m (1.16-1.98). p045 1D fit (anchors cab-f, d1-f, d1-r, d2-f, d2-r, end): cab door 1.167-1.983 (residuals +0.007/+0.003); p042 fit 1.148-2.013. Window from p045 (droplight 1540-1635 px -> 1.22-1.87 m, i.e. -0.35..+0.30 from the door centre, nose side negative) and p042 col ~2350 heights (top 30 px above the saloon glass top, bottom 14 px below, at 159 px/m) -> 1.70-3.05 m: taller than the 377's (1.84-2.83). Transom ~2.33 m. Crops s-cabdoor-024/045 (both readers: all white, tall window, one transom).",
+  "cab.doors[1]": "377 + 0.196 m: 4.89-6.66. p045 fit 4.92-6.59 (resid +0.02/-0.07), p042 fit 4.93-6.65. Accepted. Leaf windows p045 1987-2030/2060-2097 px -> 0.19-0.68 m from the door centre; heights equal to the saloon glass (g045a: door window top/bottom within 10 px of window 1's).",
+  "cab.doors[2]": "377 + 0.196 m: 14.14-15.90. p045 14.17-16.01, p042 14.21-15.80 (far end, ~25-40 px/m: +-0.1 m is 3-4 px). Accepted.",
+  "cab.windows": "377 + 0.196. Photos: one glazed band from the cab door to door 1 (p045 2.12-4.84) with a mullion at 2.94 (p045 1770 px), the 377's 2.93; saloon band between the doors one flush band with thin mullions (s-window-013).",
+  "cab.bogies": "377 + 0.196 (shared drawing)",
+  "next": "MSO identical to the 377's (19.99 m, same drawing); door leaf windows as car 1",
+  "nose.profile": "dia (357 nose, faceX 42, railY 339, 81.7 px/m): leftmost body pixel per row: 42 px from 0.97 to 1.26 m, straight rake to 88 px at 3.32 m, dome 113 px at 3.76 m; valance 53-59 px below 0.89 m with the black pad 42-60 px at rows 254-262 (0.97-1.04 m). Doubt: photos (s-nose-042, f-lower-024) show the valance nearly flush with the face lip; the diagram sets it back 0.13-0.20 m.",
+  "face.halfWidth": "2.80 m body (published); p033 body edge 1098 px vs lamp centre 1435 px -> 1.40 m defines the scale",
+  "face.kind": "plain: no gangway, no front door",
+  "face.screens": "p033 de-rolled (0.03 slope from the lamp pairs): glass 2.09-3.27 m, outer edges +-0.99 (left glass edge 1205 px), panes split by a pillar 0.06 wide at the centre (p001: pillar 1006-1012 px, lamp centre 1006-1008 at 117.8 px/m). Top outer corners r 0.08 (20 px), others small. Crops f-screen-033, f-screen-024, f-face-001.",
+  "face.darks": "screen opening = magenta band inner edges +-1.025 (p033 per-row magenta mask: -1.00/-1.01 left, +1.04/+1.11 right incl. roll shift), from the yellow top 1.95 to the orange line 3.30; the black sill under the glass 1.95-2.09 carries the wiper pivots. Coupler recess p033 row 1200: 1300-1557 px -> +-0.535, top row 1110 -> 1.16 m, bottom = valance bottom 0.26, bottom corners r 0.12. Pads: p033 left pad 1177-1295 px, rows 1124-1130 -> 0.57-1.06 m across, 1.04-1.09 up.",
+  "face.panels": "yellow: p033 HSV mask per column, de-rolled, left and right averaged: top 1.93-1.96 (taken 1.95) out to |m| 0.98, sides (0.97,1.85) ... (0.78,1.49) ... (0.62,1.34), flat bottom 1.30 at the centre. p001 ratios agree (screen:yellow 2.0 vs 2.03). Crops f-yellow-033/024 (both readers: shield shape, large bottom radii).",
+  "face.shapes.magenta": "face band from the screen opening (|m| 1.025) to the face edge, 1.97-3.30 m; bottom inner corner rounded ~0.05 (f-band-l-024). Head-on the band is constant width; the taper reader 2 saw is the side triangle (liveries.CC.cabBand).",
+  "face.shapes.orange": "p033 orange line rows 597-609 (~6 px) at the screen top -> 3.30-3.33; continuous with the side cantrail line (f-dome-024)",
+  "face.shapes.dome": "black above the orange line (f-dome-024, f-dome-033; dome-024/045 samples)",
+  "face.lamps": "p033 lens centres (de-rolled): head (+-1.075/1.088, 1.61), marker (+-0.925, 1.51), tail (-0.703/+0.686, 1.48); p001 head +-1.08, tail +-0.685, marker +-0.93. Radii: head 0.085 (p033 lens 40-42 px dia, p001 20 px at 117.8), marker 0.052 (26 px), tail 0.05 (p024 lens height ratio tail/head 0.575). Peanut bezel body colour with a raised rim and 4 bolts (f-lamps-l-024, both readers): head lobe r 0.115, marker lobe r 0.093 (p024 lobe/lens ratios 1.39 and 1.83). Tail: separate, no bezel, thin black seal (f-tail-l-024, both readers); 'marker' is a unit kind the schema lacks: the small clear lamp in the peanut (white marker/headlamp, not red).",
+  "face.number": "p033 '357 033' 1500-1625 px x 962-992 -> m 0.26-0.78, y ~1.74, digit height 26 px = 0.11 m; right of centre as seen head-on (= the train's LEFT side) on every 2026 photo (p012, p024, p033, p045, p001); one side only",
+  "face.wipers": "p033 g033a: left arm pivot 1297,897 -> (-0.59, 2.04), tip 1440,760 -> (-0.01, 2.64); right pivot 1585,907 -> (0.61, 2.04), tip 1462,752 -> (0.08, 2.67); mirrored mean. Inverted V meeting at the pillar (settled on f-face-001 against reader 2's reading of the oblique f-screen-024)",
+  "face.marker": "p033: raised D housing 1410-1515 px, rows 490-530 at the dome top centre -> 0.44 m wide; lens ~45 px -> rx 0.09; height on the curving dome estimated 3.68 (between the orange line row 603 = 3.30 and the dome top row 447 = 3.76, 60% up the image span). Estimate, +-0.05",
+  "face.destination": "p033 LED area 1225-1375 x 622-670 px -> -0.87..-0.25, 3.01-3.22 (top left of the left pane)",
+  "face.lip/valance": "p033: shadow line under the face at row 1097 -> 1.20 m; valance outer edge 1140 px at row 1200 -> 1.205; valance bottom row 1320 -> 0.26",
+  "liveries.CC.colours": "samples.json: magenta = mean of door-045 #DC68AB, swoosh-045 #DC74AE, band-045 #DD73B6 (sun, neutral white-045 = #F0F1F3 so unchanged) and p013 overcast door #B43777 / swoosh #D96599 (balanced to white-013): #D2609E; band, swoosh, doors and logo are one colour (no visible difference in any photo). orange = orange-045. dome = mean(dome-024 #2A2B33, dome-045 #252932). roof = roof-013 balanced #CFCED5 darkened toward the 377's #C2C8CC (roof-013 iqr 32). yellow: no clean neutral on the face in the same light (p045 face in shade, p013/p001 whites underexposed, balance clips red); p001 raw median #F1C038 and p033 raw #DDAF02-#D8B655 -> #F2BE34 (golden). glass/windowBand kept from the 377. body #F0F1F3 = the existing CC body.",
+  "liveries.CC.orangeLine": "p045 col 1900 rows 549-556 (7 px at 253.8 px/m) centred on 3.30",
+  "liveries.CC.windowBandY": "black frame round flush glazing, as the 377 (p045/p042 verticals)",
+  "liveries.CC.cabBand": "side part of the face band, on BOTH bodysides (seen on the train's right in p024/p042/p012 and the train's left in p045/p013). Top: from the corner back to 0.71 m (p042 fit, 2432 px) / 0.84 m (p045 fit, 1482 px) at the cantrail -> 0.78; rear edge straight, slanting down-forward to the face corner at about screen-bottom height (g042b: 2432,985 -> 2550,1230 px). Front edge = face corner (nose profile x at 3.30 is 0.56, at 1.97 is 0.16).",
+  "liveries.CC.swoosh": "on both bodysides of the driving car, by door 1 only (s-car1-042, s-window-013). p045 fit: front edge 3.28 at the body bottom (1810 px, row 1180), 7.48 at the cantrail (2175 px); rear edge ~4.13-4.6 at the bottom, 9.0 at the cantrail (2275 px). p042 fit: 3.65-4.31 at 0.99 m, 7.64-9.33 at 3.30. Means: bottom 3.45-4.25, top 7.55-9.15: tapers (0.8 m wide at the bottom, 1.6 m at the top; both readers on s-swoosh-045: tapering). It passes behind the door leaves and under the glazing (visible between window 2's glass and door 1; s-door1-042). The front edge reaches door 1 at ~1.8 m.",
+  "liveries.CC.doors": "door-045 / door-013 samples; both leaves magenta from the orange line to the step (s-door1-024/045/042, both readers); dark seal between leaves",
+  "liveries.CC.carEnd": "plain white at every car end (s-carend-013, s-carend-042, both readers): no livery shape",
+  "liveries.CC.cabEnd": "no cab-end shape: white from the cab door back (cab door all white, both readers)",
+  "liveries.CC.lowerBand": "none: the current model's grey lower band (0-0.18) is not on any 2026 photo; the white reads greyer only in shade under the tumblehome",
+  "liveries.CC.logo": "'c2c' lower case magenta, one per car side between the doors below the window band (s-window-013, s-car1-042); x and size estimated from p045 (2333 px -> ~10.5 m)",
+  "liveries.CC-old": "p205 (357205, 2025-06-20) samples balanced to white-face-205 / white-205: yellow #F8BD2E, cap #E8AA34, door #363437; cap shape from f-face-205 proportions only (not measured), like the 377's cap (3.30 to ~3.62 at the centre, ~3.42 at the sides). Lower yellow: same shield (top half-width 132 px of a 375 px face = 0.98 m).",
+  "face.left/right": "m positive = right as seen head-on = the train's LEFT bodyside. Number on the right (train's left). Lamps, bands and wipers are mirrored; cabBand and swoosh are on both bodysides.",
+  "face.tailLens": "the separate tail is a red lens (crop f-tail-r, samples tail #E8303C); the inboard lamp in the bezel is the clear marker, kind marker, drawn as a head lamp",
+  "doors.span": "p045 camera match (match.py measure): the magenta leaves end at 1.17-1.18 m on both door1 corners (pick.py panels fb/rb: leaf bottom sy 1128-1132 over a grey step plate down to the body bottom at sy ~1185); the 377 diagram's 0.955 is the opening with its step. Top kept at 3.256 (photo 3.235-3.26)",
+  "liveries.CC.logos[0]": "x: p045 row 925, 1D projective fit on cab door 1 (4.898/6.658) and door 2 (14.145/15.905) edges, rms 0.07 m: 2329-2371 px -> 10.03-10.85 m (crop logo-c2c-cab-045); p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: 2242-2290 px -> 10.02-10.82 (logo-c2c-cab-013); right side p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 1638-1684 -> 10.27-11.05, taken as the same place. y: per column between window band bottom 1.80 and body bottom 0.94 (p045 cols 2320/2380, 181 px/m, orange line 3.30 checks the scale within 0.02) -> 1.35-1.72; p042 1.36-1.71; p013 (band bottom 1.80 to crease 1.254) 1.36-1.71. Colour: sample c2c-013 (solid foot of the 2) balanced on c2c-white-013 beside it: #CA348C (all glyph pixels, edges included, give #D0539A; door magenta is #D2609E).",
+  "liveries.CC.logos[1]": "p042 next car row 1190, fit on its doors (4.487/6.247, 13.741/15.501), rms 0.15: 896-915 px -> 9.94-10.79 (logo-c2c-next-042); p045 row 870, rms 0.08: 2896-2906 px -> 9.57-10.30 (logo-c2c-next-045). The two bracket the panel centre 9.99; set 9.6-10.4 (0.8 wide like the cab car's). y: p042 1.36-1.70, p045 1.39-1.69 (window band bottom 1.80 to body bottom 0.94). Colour as the cab car's (c2c-013).",
+  "liveries.CC.logos[2]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[3]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[4]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[5]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[6]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[7]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[8]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.logos[9]": "Door 1 panels on p013 (left side, crop logo-quiet-013), p013 row 1355, fit on door 1/door 2 edges, rms 0.08 m: front leaf 1850-1890 px -> 5.15-5.54, rear leaf 1936-1972 -> 6.01-6.41; p042 (right side, logo-quiet-r-042), p042 row 1245, fit on door 1/door 2 edges, rms 0.12 m (door 2 residual 0.17: weakest fit): 'Zone' 1988-2020 -> 5.07-5.53, 'Quiet' 1924-1954 -> 6.02-6.47. Each centred on its leaf (5.338/6.218) within 0.01 on p013; door 2 panels set the same on its leaves (14.585/15.465): p013 row 1300 reads 14.56-14.97/15.42-15.83 but against door edges read at row 1355 on leaning leaves (logo-quiet-d2-013). y: leaf window bottom 1.886 to door bottom 1.17 per column: p013 1.65-1.87, p042 1.67-1.86. Colour: darkest 4% of the text on p013, balanced on the panel white: #8DABB3; the strokes are 1-2 px so the true teal is darker.",
+  "liveries.CC.mullion": "The first window is one glazed unit from the cab door to door 1 with a thin dark mullion at 2.94 (p045, cab.windows trace); the model's two panes have a 0.06 m pillar between them, painted here in the dark frame colour (windowBand #24282B, the frames' colour) 0.02 m past the glass all round, so it reads as the mullion, not white.",
+  "liveries.CC.choice": "The livery rule (2026-10-06, FLEET.md): each class x operator renders the livery most units carry today; on a near tie, the newer scheme. 357: about 13 of 18 units photographed 2025-26 carry the new c2c scheme (white, magenta at the cab and the doors; classes/357/notes.md): liveries.CC is that scheme; the older one is recorded as liveries.CC-old, not rendered."
+ },
+ "views": {
+  "ref-045": {
+   "azimuth": 32,
+   "elevation": 3,
+   "lens": 50,
+   "frame": 8,
+   "size": [
+    1600,
+    780
+   ]
+  },
+  "ref-024": {
+   "azimuth": -40,
+   "elevation": 2,
+   "lens": 26,
+   "frame": 5,
+   "size": [
+    1200,
+    900
+   ]
+  },
+  "ref-033": {
+   "azimuth": 4,
+   "elevation": 1,
+   "lens": 200,
+   "frame": 3,
+   "size": [
+    900,
+    900
+   ]
+  },
+  "ref-013": {
+   "azimuth": 30,
+   "elevation": 4,
+   "lens": 50,
+   "frame": 8,
+   "size": [
+    1600,
+    1000
+   ]
+  },
+  "ref-012": {
+   "azimuth": -22,
+   "elevation": 3,
+   "lens": 100,
+   "frame": 8,
+   "size": [
+    1600,
+    1000
+   ]
+  },
+  "match-p045": {
+   "matrix": [
+    [
+     0.35045324297371766,
+     0.028763035562939382,
+     -0.9361384578546111,
+     -10.31989065299331
+    ],
+    [
+     -0.9354164933859872,
+     0.06056080496458862,
+     -0.3483222255376541,
+     -6.897820114352743
+    ],
+    [
+     0.046674494005482195,
+     0.9977500071096197,
+     0.048129148362360034,
+     2.673796109733611
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 40.65741812733225,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    780
+   ]
+  },
+  "match-p045-flat": {
+   "matrix": [
+    [
+     0.35045324297371766,
+     0.028763035562939382,
+     -0.9361384578546111,
+     -10.31989065299331
+    ],
+    [
+     -0.9354164933859872,
+     0.06056080496458862,
+     -0.3483222255376541,
+     -6.897820114352743
+    ],
+    [
+     0.046674494005482195,
+     0.9977500071096197,
+     0.048129148362360034,
+     2.673796109733611
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 40.65741812733225,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    780
+   ],
+   "flat": true
+  },
+  "match-p012": {
+   "matrix": [
+    [
+     -0.1572194789098074,
+     0.04604599874987335,
+     -0.9864896357542002,
+     -14.386601813958583
+    ],
+    [
+     -0.9875620128567616,
+     -0.009169674719124676,
+     0.15696237710944203,
+     4.560851888673874
+    ],
+    [
+     -0.0018182996534954708,
+     0.9988972334853431,
+     0.04691493069053821,
+     2.8478237189658553
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 65.39115881387741,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1005
+   ]
+  },
+  "match-p012-flat": {
+   "matrix": [
+    [
+     -0.1572194789098074,
+     0.04604599874987335,
+     -0.9864896357542002,
+     -14.386601813958583
+    ],
+    [
+     -0.9875620128567616,
+     -0.009169674719124676,
+     0.15696237710944203,
+     4.560851888673874
+    ],
+    [
+     -0.0018182996534954708,
+     0.9988972334853431,
+     0.04691493069053821,
+     2.8478237189658553
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 65.39115881387741,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1005
+   ],
+   "flat": true
+  }
+ },
+ "elevation": {
+  "colours": {
+   "white": "#F0F1F3",
+   "magenta": "#D2609E",
+   "door": "#D2609E",
+   "glass": "#0F1414",
+   "band": "#24282B",
+   "orange": "#F29956"
+  },
+  "colourTol": {
+   "glass": 10,
+   "band": 10,
+   "door": 16,
+   "magenta": 16
+  },
+  "checks": [
+   {
+    "kind": "column",
+    "what": "the dark mullion between the first window's two panes (p045 2.94): one glazed unit, no white pillar",
+    "car": "cab",
+    "x": 2.94,
+    "y": [
+     1.886,
+     2.784
+    ],
+    "colour": "band",
+    "tol": 0.04
+   },
+   {
+    "kind": "column",
+    "what": "door 1 leaf full height, outside its pane (p045 match: 1.17-3.256)",
+    "car": "cab",
+    "x": 5.0,
+    "y": [
+     1.17,
+     3.256
+    ],
+    "colour": "door",
+    "tol": 0.06
+   },
+   {
+    "kind": "run",
+    "what": "swoosh ahead of door 1 at 1.2 m (3.90-4.79, cut by the door at 4.89)",
+    "car": "cab",
+    "y": 1.2,
+    "x": [
+     3.9,
+     4.79
+    ],
+    "colour": "magenta",
+    "tol": 0.12
+   },
+   {
+    "kind": "run",
+    "what": "swoosh above window 2 at 3.10 m",
+    "car": "cab",
+    "y": 3.1,
+    "x": [
+     7.2,
+     8.73
+    ],
+    "colour": "magenta",
+    "tol": 0.12
+   },
+   {
+    "kind": "column",
+    "what": "cab door droplight (photo 1.70-3.05)",
+    "car": "cab",
+    "x": 1.55,
+    "y": [
+     1.7,
+     3.05
+    ],
+    "colour": "glass",
+    "tol": 0.06
+   },
+   {
+    "kind": "column",
+    "what": "white from the body bottom to the glass at the car end: no band, no lower band (p045, p024)",
+    "car": "cab",
+    "x": 19.0,
+    "y": [
+     0.94,
+     1.886
+    ],
+    "colour": "white",
+    "tol": 0.05
+   },
+   {
+    "kind": "colour",
+    "what": "white body between the cab door (rear 1.98) and the first window (2.15), clear of the grab rail at 2.02-2.07: p045, p024 and p013 show no window band anywhere, only dark glass in thin frames on white; fails while liveries/CC.ts paints windowBand",
+    "car": "cab",
+    "at": [
+     2.115,
+     2.33
+    ],
+    "colour": "white"
+   }
+  ]
+ },
+ "pairs": [
+  {
+   "id": "corner-door",
+   "crop": "f-corner-door-024",
+   "view": "ref-024",
+   "box": [
+    -0.1,
+    6.8,
+    0.5,
+    3.8,
+    0.6,
+    1.46
+   ]
+  },
+  {
+   "id": "lamps",
+   "crop": "f-lamps-l-024",
+   "view": "ref-024",
+   "box": [
+    -0.05,
+    0.15,
+    1.4,
+    1.8,
+    0.8,
+    1.3
+   ]
+  },
+  {
+   "id": "tail",
+   "crop": "f-tail-l-024",
+   "view": "ref-024",
+   "box": [
+    -0.05,
+    0.15,
+    1.38,
+    1.58,
+    0.58,
+    0.8
+   ]
+  },
+  {
+   "id": "lamps-033",
+   "crop": "f-lamps-r-033",
+   "view": "ref-033",
+   "box": [
+    -0.05,
+    0.15,
+    1.35,
+    1.8,
+    -1.3,
+    -0.6
+   ]
+  },
+  {
+   "id": "screen",
+   "crop": "f-screen-033",
+   "view": "ref-033",
+   "box": [
+    -0.05,
+    0.7,
+    1.9,
+    3.4,
+    -1.1,
+    1.1
+   ]
+  },
+  {
+   "id": "yellow",
+   "crop": "f-yellow-033",
+   "view": "ref-033",
+   "box": [
+    -0.05,
+    0.3,
+    1.25,
+    2.0,
+    -1.1,
+    1.1
+   ]
+  },
+  {
+   "id": "band",
+   "crop": "f-band-l-024",
+   "view": "ref-024",
+   "box": [
+    -0.05,
+    1.0,
+    1.9,
+    3.4,
+    0.95,
+    1.46
+   ]
+  },
+  {
+   "id": "dome",
+   "crop": "f-dome-033",
+   "view": "ref-033",
+   "box": [
+    0.3,
+    1.0,
+    3.25,
+    3.8,
+    -1.4,
+    1.4
+   ]
+  },
+  {
+   "id": "lower",
+   "crop": "f-lower-024",
+   "view": "ref-024",
+   "box": [
+    -0.1,
+    0.4,
+    0.25,
+    1.25,
+    -1.4,
+    1.4
+   ]
+  },
+  {
+   "id": "cab-door",
+   "crop": "s-cabdoor-045",
+   "view": "ref-045",
+   "box": [
+    1.0,
+    2.2,
+    0.9,
+    3.4,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "door",
+   "crop": "s-door1-045",
+   "view": "ref-045",
+   "box": [
+    4.7,
+    6.9,
+    0.9,
+    3.4,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "swoosh",
+   "crop": "s-swoosh-045",
+   "view": "ref-045",
+   "box": [
+    3.2,
+    9.4,
+    0.9,
+    3.4,
+    -1.46,
+    -1.3
+   ]
+  },
+  {
+   "id": "cab-band-side",
+   "crop": "f-band-012",
+   "view": "ref-012",
+   "box": [
+    0.0,
+    1.1,
+    1.9,
+    3.4,
+    1.0,
+    1.46
+   ]
+  },
+  {
+   "id": "car-end",
+   "crop": "s-carend-013",
+   "view": "elevation",
+   "box": [
+    19.6,
+    20.6,
+    0.9,
+    3.5,
+    -1.46,
+    -1.3
+   ],
+   "note": "ref-013 frames the cab car only to about 18 m (the end projects at u 1710 of 1600), so the car end is judged on the elevation"
+  }
+ ]
+}

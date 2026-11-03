@@ -1,0 +1,729 @@
+{
+ "class": "180",
+ "subject": "Class 180 Coradia Adelante (Alstom), Grand Central: cab car and the car behind it.",
+ "method": "Side from the WestRail642fan Grand Central 180 diagram (31.3 px/m along: car 742 px = 23.71 m published; 30.9 px/m up: rail row 117, roof row 1 = 3.75), the cab and first door along the car from the Maxey photo (180, 2024-11, side-on three-quarter) by a 1D projective fit on seven window edges (rms 4 px), the face head-on from the Northallerton photo (180107: 235 px/m across from the 2.73 m body; heights by the same scale from the roof line, provisional: the raked face makes heights read low further up).",
+ "model": {
+  "heights": {
+   "bottom": 1.0,
+   "cantrail": 3.43,
+   "roof": 3.75,
+   "window": [
+    2.2,
+    2.91
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.72,
+  "cab": {
+   "length": 23.71,
+   "doors": [
+    {
+     "x": 3.25,
+     "w": 0.64,
+     "cab": true
+    },
+    {
+     "x": 4.54,
+     "w": 1.19
+    },
+    {
+     "x": 22.45,
+     "w": 1.19
+    }
+   ],
+   "windows": [
+    [
+     6.65,
+     8.21
+    ],
+    [
+     8.59,
+     10.16
+    ],
+    [
+     10.51,
+     12.08
+    ],
+    [
+     12.49,
+     14.06
+    ],
+    [
+     14.41,
+     15.97
+    ],
+    [
+     16.36,
+     17.92
+    ],
+    [
+     18.31,
+     19.87
+    ]
+   ],
+   "bogies": [
+    4.01,
+    20.37
+   ]
+  },
+  "next": {
+   "length": 23.03,
+   "doors": [
+    {
+     "x": 1.36,
+     "w": 1.19
+    },
+    {
+     "x": 21.68,
+     "w": 1.19
+    }
+   ],
+   "windows": [
+    [
+     3.93,
+     5.5
+    ],
+    [
+     5.88,
+     7.45
+    ],
+    [
+     7.83,
+     9.4
+    ],
+    [
+     9.75,
+     11.31
+    ],
+    [
+     11.73,
+     13.29
+    ],
+    [
+     13.64,
+     15.21
+    ],
+    [
+     15.59,
+     17.16
+    ],
+    [
+     17.54,
+     19.11
+    ]
+   ],
+   "bogies": [
+    3.43,
+    19.6
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     2.236,
+     0.291,
+     1
+    ],
+    [
+     0.032,
+     0.421,
+     1
+    ],
+    [
+     0.032,
+     0.55
+    ],
+    [
+     0.0,
+     0.809
+    ],
+    [
+     0.0,
+     1.068
+    ],
+    [
+     0.032,
+     1.197
+    ],
+    [
+     0.064,
+     1.327
+    ],
+    [
+     0.128,
+     1.456
+    ],
+    [
+     0.192,
+     1.586
+    ],
+    [
+     0.224,
+     1.715
+    ],
+    [
+     0.319,
+     1.845
+    ],
+    [
+     0.383,
+     1.974
+    ],
+    [
+     0.479,
+     2.104
+    ],
+    [
+     0.575,
+     2.233
+    ],
+    [
+     0.671,
+     2.362
+    ],
+    [
+     0.767,
+     2.492
+    ],
+    [
+     0.895,
+     2.621
+    ],
+    [
+     1.022,
+     2.751
+    ],
+    [
+     1.182,
+     2.88
+    ],
+    [
+     1.31,
+     3.01
+    ],
+    [
+     1.438,
+     3.139
+    ],
+    [
+     1.629,
+     3.269
+    ],
+    [
+     1.789,
+     3.398
+    ],
+    [
+     2.013,
+     3.528
+    ],
+    [
+     2.332,
+     3.657
+    ],
+    [
+     3.067,
+     3.786,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.73,
+   "tumblehome": 0.1,
+   "squareness": 1.6,
+   "glazing": "bonded",
+   "setback": [
+    [
+     0.3,
+     0.4
+    ],
+    [
+     1.0,
+     0.3
+    ],
+    [
+     2.0,
+     0.45
+    ],
+    [
+     2.6,
+     0.65
+    ],
+    [
+     3.1,
+     0.6
+    ],
+    [
+     3.5,
+     0.35
+    ],
+    [
+     3.75,
+     0.0
+    ]
+   ],
+   "front": {
+    "depth": 0,
+    "panel": [
+     [
+      0.102,
+      1.976,
+      1
+     ],
+     [
+      0.4657,
+      1.798
+     ],
+     [
+      0.8749,
+      1.976,
+      1
+     ],
+     [
+      0.8814,
+      1.656,
+      1
+     ],
+     [
+      0.7775,
+      1.656,
+      1
+     ],
+     [
+      0.7385,
+      0.77,
+      1
+     ],
+     [
+      0.1994,
+      0.77,
+      1
+     ],
+     [
+      0.1864,
+      1.656,
+      1
+     ],
+     [
+      0.102,
+      1.656,
+      1
+     ]
+    ],
+    "dark": [
+     [
+      [
+       -0.0084,
+       3.252,
+       1
+      ],
+      [
+       1.0178,
+       3.252,
+       1
+      ],
+      [
+       1.0178,
+       1.887,
+       1
+      ],
+      [
+       0.8814,
+       1.976,
+       1
+      ],
+      [
+       0.4657,
+       1.798,
+       1
+      ],
+      [
+       0.102,
+       1.976,
+       1
+      ],
+      [
+       -0.0084,
+       1.887,
+       1
+      ]
+     ],
+     [
+      [
+       0.167,
+       3.571,
+       1
+      ],
+      [
+       0.2709,
+       3.571,
+       1
+      ],
+      [
+       0.2709,
+       3.093,
+       1
+      ],
+      [
+       0.1475,
+       3.093,
+       1
+      ]
+     ],
+     [
+      [
+       0.833,
+       3.571,
+       1
+      ],
+      [
+       0.7291,
+       3.571,
+       1
+      ],
+      [
+       0.7291,
+       3.093,
+       1
+      ],
+      [
+       0.8525,
+       3.093,
+       1
+      ]
+     ]
+    ],
+    "screens": [
+     [
+      [
+       0.115,
+       3.022
+      ],
+      [
+       0.4722,
+       3.022
+      ],
+      [
+       0.4722,
+       2.046
+      ],
+      [
+       0.128,
+       2.046
+      ],
+      [
+       0.115,
+       2.188
+      ]
+     ],
+     [
+      [
+       0.5177,
+       3.022
+      ],
+      [
+       0.8879,
+       3.022
+      ],
+      [
+       0.8879,
+       2.188
+      ],
+      [
+       0.8749,
+       2.046
+      ],
+      [
+       0.5177,
+       2.046
+      ]
+     ]
+    ],
+    "lights": [
+     [
+      [
+       0.0046,
+       1.763
+      ],
+      [
+       0.1864,
+       1.656
+      ],
+      [
+       0.1994,
+       0.912
+      ],
+      [
+       0.076,
+       0.947
+      ],
+      [
+       0.0176,
+       1.195
+      ]
+     ],
+     [
+      [
+       0.9954,
+       1.763
+      ],
+      [
+       0.8136,
+       1.656
+      ],
+      [
+       0.8006,
+       0.912
+      ],
+      [
+       0.924,
+       0.947
+      ],
+      [
+       0.9824,
+       1.195
+      ]
+     ],
+     [
+      [
+       0.4787,
+       3.5
+      ],
+      [
+       0.5566,
+       3.5
+      ],
+      [
+       0.5631,
+       3.288
+      ],
+      [
+       0.4722,
+       3.288
+      ]
+     ]
+    ],
+    "lampUnits": [
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.063,
+        1.426
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.115,
+        1.213
+       ],
+       "r": 0.08
+      }
+     ],
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.9009,
+        1.426
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.8359,
+        1.231
+       ],
+       "r": 0.08
+      }
+     ],
+     [
+      {
+       "kind": "head",
+       "at": [
+        0.5177,
+        3.394
+       ],
+       "r": 0.08
+      }
+     ]
+    ],
+    "lampRim": "black",
+    "tailLens": "clear",
+    "wipers": [
+     {
+      "pivot": [
+       0.141,
+       2.046
+      ],
+      "tip": [
+       0.3488,
+       2.933
+      ]
+     },
+     {
+      "pivot": [
+       0.8749,
+       2.046
+      ],
+      "tip": [
+       0.6995,
+       2.933
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "liveries": {
+  "GC": {
+   "body": "#191C1E",
+   "roof": "#2E3032",
+   "doors": "#191C1E",
+   "panel": "#EABF1A",
+   "face": "#2E3032",
+   "glass": "#141618",
+   "bands": [
+    {
+     "y": [
+      3.42,
+      3.45
+     ],
+     "color": "#D9621E"
+    }
+   ],
+   "shapes": [
+    {
+     "points": [
+      [
+       1.4,
+       0.6,
+       1
+      ],
+      [
+       1.9,
+       0.9
+      ],
+      [
+       2.81,
+       1.25
+      ],
+      [
+       3.98,
+       1.29,
+       1
+      ],
+      [
+       24,
+       1.29,
+       1
+      ],
+      [
+       24,
+       1.65,
+       1
+      ],
+      [
+       3.98,
+       1.65,
+       1
+      ],
+      [
+       3.27,
+       1.57
+      ],
+      [
+       2.36,
+       1.3
+      ],
+      [
+       1.7,
+       0.6,
+       1
+      ]
+     ],
+     "color": "#FECE01"
+    }
+   ],
+   "coach": {
+    "body": "#191C1E",
+    "swooshes": [
+     {
+      "points": [
+       [
+        -1,
+        1.29,
+        1
+       ],
+       [
+        24,
+        1.29,
+        1
+       ],
+       [
+        24,
+        1.65,
+        1
+       ],
+       [
+        -1,
+        1.65,
+        1
+       ]
+      ],
+      "color": "#FECE01"
+     }
+    ]
+   },
+   "branding": [
+    {
+     "logo": "GC-bodyside",
+     "at": [
+      5.93,
+      2.465
+     ],
+     "height": 0.59,
+     "width": 1.29
+    }
+   ]
+  }
+ },
+ "trace": {
+  "model.nose.profile": "dia: the nose's leftmost drawn pixel every 4 rows, x = col/31.3, y = (117 - row)/30.9; the skirt from row 104 (1.0 m) at the tip back to col 70 (2.24 m) at row 108.",
+  "model.cab.doors": "Maxey (2024-11) 1D projective fit on the first saloon windows' edges (diagram 6.65-14.06 m, rms 4 px): cab door 2.93-3.57 (diagram 2.36-2.94: the diagram's cab region is drawn short, as on the Voyagers), door 1 3.87-5.21 with its frame, diagram leaf width 1.19 kept, centred 4.54. Door 2 and car 2 from the diagram.",
+  "model.cab.bogies": "dia wheel hubs on row 112: car 1 axles 2.65/5.37 and 19.01/21.73, wheelbase 2.72 (published 2.7); car 2 2.08/4.79 and 18.24/20.96 from its body start.",
+  "model.heights": "dia: windows rows 27-49 (2.20-2.91), orange cantrail line row 11 (3.43), the black solebar line row 85 (1.0).",
+  "model.form.front": "Northallerton 180107 head-on: screens (two panes with a centre pillar), the yellow with its V top and its narrowing below the pods to 0.77 m, teardrop pods with the red tail outboard over the headlamp, the round marker over the screen between two vent grilles; u from the face centre at 235 px/m. Heights provisional (head-on vertical scale assumed equal to the horizontal).",
+  "liveries.GC": "Grand Central as carried 2023-24 (Maxey 2024-11: 'Grand Central by Arriva'; 180101 King's Cross 2023): near-black (#191C1E raw, the sky reads #DAE6E6 so close to neutral), the yellow band (#FECE01) rows 66-77 of the diagram (1.29-1.65 m) sweeping down at the cab end to the skirt (Maxey fit: its top at 2.36/3.27/3.98 m, its foot at 1.15/1.91/2.81), yellow face #EABF1A, a thin orange cantrail line (dia row 11). The 'GRAND CENTRAL' logo is not drawn yet.",
+  "liveries.GC.branding": "The winged Grand Central emblem over 'GRAND CENTRAL' and 'by arriva', between door 1 and the first window: Maxey (2024-11) 1D projective fit on seven window edges: 5.28-6.57 m along; heights against the windows' 2.20-2.91 at the same column (162 px/m up): 2.17-2.76. Traced off the same photo (logos/GC-bodyside.svg: 113 px wide in the source, so the letters are soft); stretched to the measured width (the photo foreshortens it to aspect 1.0, the panel is 2.2). 'by arriva' is red on the train, cream here (one ink)."
+ },
+ "views": {
+  "ref-nth": {
+   "azimuth": -12,
+   "elevation": 3,
+   "lens": 85,
+   "frame": 5,
+   "size": [
+    1400,
+    1050
+   ],
+   "note": "Northallerton 180107, near head-on, estimated"
+  },
+  "ref-mx": {
+   "azimuth": -60,
+   "elevation": 3,
+   "lens": 50,
+   "frame": 12,
+   "size": [
+    1400,
+    500
+   ],
+   "note": "Maxey 2024-11, three-quarter side, estimated"
+  }
+ },
+ "pairs": []
+}

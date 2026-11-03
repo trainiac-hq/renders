@@ -1,0 +1,90 @@
+{
+ "ref": "p012",
+ "side": "far",
+ "model": {},
+ "modelFace": {
+  "yellow-top-far": [
+   0.98,
+   1.95
+  ],
+  "yellow-top-near": [
+   -0.98,
+   1.95
+  ],
+  "yellow-bottom-centre": [
+   0.0,
+   1.3
+  ]
+ },
+ "points": {
+  "lamp3-head": [
+   2468,
+   1457
+  ],
+  "lamp3-head-2": [
+   2543,
+   1500
+  ],
+  "lamp2-tail": [
+   2650,
+   1512
+  ],
+  "lamp1-tail": [
+   3265,
+   1505
+  ],
+  "lamp0-head-2": [
+   3363,
+   1490
+  ],
+  "lamp0-head": [
+   3425,
+   1447
+  ],
+  "door0-front-top": [
+   2262,
+   700
+  ],
+  "door1-front-top": [
+   1996,
+   731
+  ],
+  "door1-rear-top": [
+   1900,
+   739
+  ],
+  "yellow-top-far": [
+   2498,
+   1295
+  ],
+  "yellow-top-near": [
+   3380,
+   1290
+  ],
+  "yellow-bottom-centre": [
+   2957,
+   1586
+  ]
+ },
+ "holdout": [
+  "lamp2-tail",
+  "door1-rear-top",
+  "yellow-bottom-centre"
+ ],
+ "readings": {
+  "lamp3-head": "g012b: near (image-left, train's right side) headlamp lens centre, amber reflector visible",
+  "lamp3-head-2": "g012b: small lens inboard and lower in the same peanut bezel",
+  "lamp2-tail": "g012b: near tail (unlit, grey) on the yellow near its curved edge",
+  "lamp1-tail": "g012b: far tail",
+  "lamp0-head-2": "g012b: far small lens",
+  "lamp0-head": "g012b: far headlamp",
+  "door0-front-top": "pk012: cab door's front seal meets the orange line; white strip then the magenta corner band ahead of it",
+  "door1-front-top": "pk012: magenta leaf, front top corner",
+  "door1-rear-top": "pk012: magenta leaf, rear top corner",
+  "yellow-top-far": "pk012: top corner of the yellow under the near band's bottom",
+  "yellow-top-near": "g012b: far top corner of the yellow",
+  "yellow-bottom-centre": "g012b/pk012: the yellow's flat bottom edge midway between the tails (2650/3265)",
+  "_note": "the photo shows the train RIGHT side (side far); lamp housings renamed to the model numbering (lamp0 = train left, z<0) and the modelFace points given the visible side z>0",
+  "_audit": "2026-10-05 convention audit: side far correct (bodyside left of the face); lamps correct (lamp0 = right as seen); modelFace z signs correct (z +0.98 is the left-as-seen corner). Fixed: the two yellow-top names were swapped against the scene convention (near = z<0): the point at u 2498 with z +0.98 is now yellow-top-far, the one at u 3380 with z -0.98 yellow-top-near. Coordinates unchanged."
+ }
+}

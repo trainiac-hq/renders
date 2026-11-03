@@ -1,0 +1,988 @@
+{
+ "class": "153",
+ "subject": "Class 153 (single-car Super Sprinter, ex-155): Transport for Wales and ScotRail Highland Explorer",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-153-Transport-for-Wales-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_153_Transport_for_Wales_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-20",
+   "kind": "diagram",
+   "unit": "153 (single car), TfW livery",
+   "view": "side elevation; A-end (original 155 cab, cab door) left, B-end (added small cab) right",
+   "light": "flat colours",
+   "note": "x calibrated on the bogie centres (16.0 m), see spec calibration; wheel/bogie sprites are a template shared with the 156 diagram"
+  },
+  "dnt": {
+   "file": "refs/Class-153-Northern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_153_Northern_Diagram.png",
+   "author": "JonHoughton",
+   "licence": "CC0",
+   "date": "2020-06-24",
+   "kind": "diagram",
+   "unit": "153, Northern (Arriva Rail North) livery, not current",
+   "view": "side elevation, B-end left, A-end right",
+   "light": "flat colours",
+   "note": "geometry cross-check only: same door/window layout, frosted toilet window drawn light grey next to the B-end door"
+  },
+  "pwh": {
+   "file": "refs/153329-Whitchurch-June-1st-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:153329,_Whitchurch,_June_1st_2024.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-06-01",
+   "kind": "photo",
+   "unit": "153329 (TfW)",
+   "view": "head-on, telephoto (162 mm on APS-C), A-end by the face (both windscreens full height)",
+   "light": "bright overcast/sun, under a bridge",
+   "exif": "Canon EOS 700D, 162 mm"
+  },
+  "pdo": {
+   "file": "refs/Dolau-railway-station-Powys.-Heart-of-Wales-Line.-View-of-surviving-platform-train-for-Shrewsbury.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Dolau_railway_station,_Powys._Heart_of_Wales_Line._View_of_surviving_platform_&_train_for_Shrewsbury.jpg",
+   "author": "Rosser1954",
+   "licence": "CC BY 4.0",
+   "date": "2026-02-25",
+   "kind": "photo",
+   "unit": "153353 (TfW, 'AT02' on the face: an Active Travel unit)",
+   "view": "near head-on, slightly from the right, B-end (cab window right behind the corner)",
+   "light": "overcast",
+   "exif": "Sony DSC-W830, 5.91 mm"
+  },
+  "ppy": {
+   "file": "refs/153323-153333-at-Penybont-20250302-180920.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:153323+153333_at_Penybont_20250302_180920.jpg",
+   "author": "Railwayfan2005",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-03-02",
+   "kind": "photo",
+   "unit": "153323 + 153333 (TfW)",
+   "view": "front three-quarter from the right, close, B-end leading",
+   "light": "dusk, lamps lit",
+   "exif": "Samsung SM-A528B, 5.23 mm (25 mm eq)"
+  },
+  "pbh": {
+   "file": "refs/153-323-BHM.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:153_323_BHM.jpg",
+   "author": "Dremsbury",
+   "licence": "CC0",
+   "date": "2026-07-18",
+   "kind": "photo",
+   "unit": "153323 (TfW)",
+   "view": "front three-quarter from the right, close, A-end leading (cab door ~0.7 m behind the corner)",
+   "light": "station canopy, mixed",
+   "exif": "Galaxy A26 5G, 4.0 mm (27 mm eq)"
+  },
+  "p922": {
+   "file": "refs/British-Rail-Class-153-153922.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_153_153922.jpg",
+   "author": "Peter Broster",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-02-23",
+   "kind": "photo",
+   "unit": "153922 (TfW)",
+   "view": "front three-quarter from the right, B-end",
+   "light": "low sun",
+   "exif": "3.93 mm (26 mm eq)",
+   "note": "2023, older than the 2024-2026 window; used for livery colour in sun and the B-end cab side"
+  },
+  "pcc": {
+   "file": "refs/153362-153368-Cardiff-Central-June-2nd-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:153362_&_153368,_Cardiff_Central,_June_2nd_2024.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-06-02",
+   "kind": "photo",
+   "unit": "153362 (A-end leading) + 153368 (A-end at the coupling)",
+   "view": "three-quarter of the whole car from the right",
+   "light": "sun",
+   "exif": "Canon EOS 700D, 46 mm"
+  },
+  "psd": {
+   "file": "refs/153362-at-Cardiff-Central-side-view-2024-06-23.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:153362_at_Cardiff_Central_(side_view)_2024-06-23.jpg",
+   "author": "Suntooooth",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-06-23",
+   "kind": "photo",
+   "unit": "153362 (car 57362), B-end half",
+   "view": "side-on",
+   "light": "station, evening",
+   "exif": "Pixel 5, 27 mm eq"
+  },
+  "pdl": {
+   "file": "refs/153327-at-Dolau-20250302-135654.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:153327_at_Dolau_20250302_135654.jpg",
+   "author": "Railwayfan2005",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-03-02",
+   "kind": "photo",
+   "unit": "153327 (TfW)",
+   "view": "distant head-on",
+   "light": "sun",
+   "note": "too distant to measure; kept from the earlier pass"
+  },
+  "paro": {
+   "file": "refs/Arochar-Tarbert-with-153305-waiting-for-the-token-to-proceed-south-after-the-down-Cally-Sleeper-clears-the-section.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Arochar_&_Tarbert_with_153305_waiting_for_the_token_to_proceed_south_after_the_down_Cally_Sleeper_clears_the_section.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-05-12",
+   "kind": "photo",
+   "unit": "153305 (car 52305), ScotRail Highland Explorer",
+   "view": "front three-quarter from the right, close, A-end",
+   "light": "overcast, wet",
+   "exif": "Sony ILCE-7C, 30 mm"
+  },
+  "pqs": {
+   "file": "refs/Glasgow-Queen-Street-ScotRail-153377-156458-158453.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Glasgow_Queen_Street_-_ScotRail_153377+156458+158453.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-09",
+   "kind": "photo",
+   "unit": "153377 (car 57377), ScotRail Highland Explorer",
+   "view": "front, slightly from the right, A-end",
+   "light": "station, overcast"
+  },
+  "pwe": {
+   "file": "refs/Glasgow-Queen-Street-ScotRail-153377-West-Highland-Explorer.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Glasgow_Queen_Street_-_ScotRail_153377_West_Highland_Explorer.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-09",
+   "kind": "photo",
+   "unit": "153377, ScotRail Highland Explorer",
+   "view": "close along the side from the A-end: cab door, passenger door, start of the illustrated wrap",
+   "light": "station, overcast"
+  },
+  "por": {
+   "file": "refs/ScotRail-153-and-156-Bridge-of-Orchy-Rannoch.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:ScotRail_153_and_156_Bridge_of_Orchy_-_Rannoch.jpg",
+   "author": "Kabelleger",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-04-11",
+   "kind": "photo",
+   "unit": "153 + two 156s, West Highland Line",
+   "view": "distant side-on, whole train",
+   "light": "sun",
+   "exif": "Canon EOS 5D Mk IV, 35 mm"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-wh",
+   "ref": "pwh",
+   "box": [
+    372,
+    172,
+    812,
+    668
+   ],
+   "feature": "whole front (A-end) head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-wh",
+   "ref": "pwh",
+   "box": [
+    405,
+    524,
+    505,
+    578
+   ],
+   "feature": "left lamp box (viewer's left)",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-wh",
+   "ref": "pwh",
+   "box": [
+    675,
+    520,
+    775,
+    574
+   ],
+   "feature": "right lamp box",
+   "reading": ""
+  },
+  {
+   "id": "f-screens-wh",
+   "ref": "pwh",
+   "box": [
+    392,
+    228,
+    790,
+    432
+   ],
+   "feature": "windscreens, gangway top, destination",
+   "reading": ""
+  },
+  {
+   "id": "f-top-wh",
+   "ref": "pwh",
+   "box": [
+    372,
+    170,
+    812,
+    300
+   ],
+   "feature": "dome, top edge of the yellow, red line at the corners",
+   "reading": ""
+  },
+  {
+   "id": "f-lower-wh",
+   "ref": "pwh",
+   "box": [
+    372,
+    560,
+    812,
+    680
+   ],
+   "feature": "under the lamps: recess, lower cowls, coupler",
+   "reading": ""
+  },
+  {
+   "id": "f-number-wh",
+   "ref": "pwh",
+   "box": [
+    676,
+    458,
+    776,
+    526
+   ],
+   "feature": "number and data plate",
+   "reading": ""
+  },
+  {
+   "id": "f-face-do",
+   "ref": "pdo",
+   "box": [
+    1690,
+    640,
+    2730,
+    2060
+   ],
+   "feature": "whole front (B-end) near head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-do",
+   "ref": "pdo",
+   "box": [
+    1745,
+    1360,
+    1985,
+    1505
+   ],
+   "feature": "left lamp box, B-end",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-do",
+   "ref": "pdo",
+   "box": [
+    2395,
+    1375,
+    2655,
+    1520
+   ],
+   "feature": "right lamp box, B-end",
+   "reading": ""
+  },
+  {
+   "id": "f-screens-do",
+   "ref": "pdo",
+   "box": [
+    1700,
+    760,
+    2720,
+    1290
+   ],
+   "feature": "B-end windscreens: left one taller with the LED destination",
+   "reading": ""
+  },
+  {
+   "id": "f-plate-do",
+   "ref": "pdo",
+   "box": [
+    2450,
+    1560,
+    2560,
+    1655
+   ],
+   "feature": "data panel: Class 153, length 23.22 m, width 2.70 m",
+   "reading": ""
+  },
+  {
+   "id": "s-bend-do",
+   "ref": "pdo",
+   "box": [
+    2660,
+    860,
+    2920,
+    1760
+   ],
+   "feature": "B-end cab side: window right behind the corner, red door",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-py",
+   "ref": "ppy",
+   "box": [
+    1440,
+    1470,
+    1740,
+    1630
+   ],
+   "feature": "right lamp box at dusk, lit",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-py",
+   "ref": "ppy",
+   "box": [
+    640,
+    1350,
+    900,
+    1560
+   ],
+   "feature": "left lamp box at dusk, lit (partly hidden)",
+   "reading": ""
+  },
+  {
+   "id": "s-bend-py",
+   "ref": "ppy",
+   "box": [
+    1800,
+    760,
+    2280,
+    1910
+   ],
+   "feature": "B-end cab side three-quarter: corner, cab window, red door",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-py",
+   "ref": "ppy",
+   "box": [
+    1300,
+    700,
+    2700,
+    2000
+   ],
+   "feature": "cab corner and first door, three-quarter (B-end)",
+   "reading": ""
+  },
+  {
+   "id": "s-bend-922",
+   "ref": "p922",
+   "box": [
+    1060,
+    470,
+    1630,
+    1300
+   ],
+   "feature": "B-end cab side in sun: yellow corner, framed cab window, red door",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-922",
+   "ref": "p922",
+   "box": [
+    890,
+    995,
+    1045,
+    1095
+   ],
+   "feature": "right lamp box in sun",
+   "reading": ""
+  },
+  {
+   "id": "s-aend-bh",
+   "ref": "pbh",
+   "box": [
+    1950,
+    640,
+    2860,
+    1960
+   ],
+   "feature": "A-end cab side: corner, cab door with window, red passenger door (open)",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-bh",
+   "ref": "pbh",
+   "box": [
+    1000,
+    500,
+    3000,
+    2100
+   ],
+   "feature": "A-end corner and first doors, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-bh",
+   "ref": "pbh",
+   "box": [
+    1640,
+    1770,
+    1900,
+    1910
+   ],
+   "feature": "right lamp box, A-end",
+   "reading": ""
+  },
+  {
+   "id": "s-side-bh",
+   "ref": "pbh",
+   "box": [
+    2400,
+    900,
+    3840,
+    1900
+   ],
+   "feature": "saloon side, window band, red cantrail band, rainbow decal",
+   "reading": ""
+  },
+  {
+   "id": "s-car-cc",
+   "ref": "pcc",
+   "box": [
+    380,
+    335,
+    1225,
+    645
+   ],
+   "feature": "whole car three-quarter (A-end leading)",
+   "reading": ""
+  },
+  {
+   "id": "s-joint-cc",
+   "ref": "pcc",
+   "box": [
+    280,
+    380,
+    520,
+    560
+   ],
+   "feature": "153362 B-end coupled to 153368 A-end",
+   "reading": ""
+  },
+  {
+   "id": "s-aend-cc",
+   "ref": "pcc",
+   "box": [
+    860,
+    350,
+    1220,
+    620
+   ],
+   "feature": "A-end corner, cab door, red door",
+   "reading": ""
+  },
+  {
+   "id": "s-bend-sd",
+   "ref": "psd",
+   "box": [
+    1900,
+    1250,
+    2620,
+    2100
+   ],
+   "feature": "B-end side-on: cab window, red door, two blanked panels",
+   "reading": ""
+  },
+  {
+   "id": "s-panels-sd",
+   "ref": "psd",
+   "box": [
+    1230,
+    1370,
+    1970,
+    2000
+   ],
+   "feature": "blanked window panels and logo, B-end half",
+   "reading": ""
+  },
+  {
+   "id": "s-band-sd",
+   "ref": "psd",
+   "box": [
+    0,
+    1250,
+    1300,
+    2050
+   ],
+   "feature": "saloon window band side-on, red cantrail band, logo",
+   "reading": ""
+  },
+  {
+   "id": "d-aend",
+   "ref": "dia",
+   "box": [
+    60,
+    20,
+    480,
+    482
+   ],
+   "feature": "diagram A-end",
+   "reading": ""
+  },
+  {
+   "id": "d-bend",
+   "ref": "dia",
+   "box": [
+    2440,
+    20,
+    2878,
+    482
+   ],
+   "feature": "diagram B-end",
+   "reading": ""
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    430,
+    90,
+    1200,
+    350
+   ],
+   "feature": "diagram saloon windows",
+   "reading": ""
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    60,
+    20,
+    220,
+    482
+   ],
+   "feature": "diagram A-end nose silhouette",
+   "reading": ""
+  },
+  {
+   "id": "dn-bend",
+   "ref": "dnt",
+   "box": [
+    60,
+    20,
+    600,
+    480
+   ],
+   "feature": "Northern diagram B-end: frosted toilet window drawn",
+   "reading": ""
+  },
+  {
+   "id": "f-face-aro",
+   "ref": "paro",
+   "box": [
+    321,
+    500,
+    1564,
+    1880
+   ],
+   "feature": "SR A-end front three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-aro",
+   "ref": "paro",
+   "box": [
+    1180,
+    1480,
+    1510,
+    1675
+   ],
+   "feature": "SR right lamp box",
+   "reading": ""
+  },
+  {
+   "id": "s-aend-aro",
+   "ref": "paro",
+   "box": [
+    1500,
+    560,
+    2340,
+    1710
+   ],
+   "feature": "SR A-end cab side: blue with white dots, cab door, grey passenger door",
+   "reading": ""
+  },
+  {
+   "id": "s-livery-aro",
+   "ref": "paro",
+   "box": [
+    1500,
+    500,
+    3000,
+    1500
+   ],
+   "feature": "SR livery along the side from the A-end",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-aro",
+   "ref": "paro",
+   "box": [
+    700,
+    500,
+    2500,
+    1900
+   ],
+   "feature": "SR cab corner and first doors, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-face-qs",
+   "ref": "pqs",
+   "box": [
+    630,
+    230,
+    1720,
+    1470
+   ],
+   "feature": "SR A-end front, near head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-qs",
+   "ref": "pqs",
+   "box": [
+    690,
+    1140,
+    870,
+    1270
+   ],
+   "feature": "SR left lamp box",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-qs",
+   "ref": "pqs",
+   "box": [
+    1360,
+    1185,
+    1625,
+    1320
+   ],
+   "feature": "SR right lamp box",
+   "reading": ""
+  },
+  {
+   "id": "s-aend-qs",
+   "ref": "pqs",
+   "box": [
+    1670,
+    440,
+    1995,
+    1410
+   ],
+   "feature": "SR A-end cab side seen past the corner",
+   "reading": ""
+  },
+  {
+   "id": "s-doors-we",
+   "ref": "pwe",
+   "box": [
+    1200,
+    150,
+    2450,
+    1800
+   ],
+   "feature": "SR cab door (blue, dots) and grey passenger door",
+   "reading": ""
+  },
+  {
+   "id": "s-wrap-we",
+   "ref": "pwe",
+   "box": [
+    250,
+    300,
+    1260,
+    1800
+   ],
+   "feature": "SR illustrated wrap start: teal sky, highland cow",
+   "reading": ""
+  },
+  {
+   "id": "s-train-or",
+   "ref": "por",
+   "box": [
+    450,
+    975,
+    1000,
+    1125
+   ],
+   "feature": "SR 153 side-on, distant: whole-car wrap layout",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "grey-922",
+   "ref": "p922",
+   "box": [
+    1625,
+    985,
+    1790,
+    1015
+   ],
+   "what": "TfW bodyside grey, sun (neutral: white balance only, its own mean level kept)",
+   "neutralIs": 194.3
+  },
+  {
+   "id": "red-922",
+   "ref": "p922",
+   "box": [
+    1370,
+    980,
+    1520,
+    1060
+   ],
+   "what": "TfW door red, sun",
+   "neutral": "grey-922"
+  },
+  {
+   "id": "yellow-922",
+   "ref": "p922",
+   "box": [
+    905,
+    1120,
+    945,
+    1220
+   ],
+   "what": "face yellow, sun",
+   "neutral": "grey-922"
+  },
+  {
+   "id": "roof-922",
+   "ref": "p922",
+   "box": [
+    1400,
+    432,
+    1800,
+    470
+   ],
+   "what": "roof, sun",
+   "neutral": "grey-922"
+  },
+  {
+   "id": "yellow-wh",
+   "ref": "pwh",
+   "box": [
+    766,
+    472,
+    790,
+    520
+   ],
+   "what": "face yellow, head-on (no neutral on the face)"
+  },
+  {
+   "id": "lampbox-wh",
+   "ref": "pwh",
+   "box": [
+    700,
+    562,
+    760,
+    568
+   ],
+   "what": "lamp box black"
+  },
+  {
+   "id": "surround-wh",
+   "ref": "pwh",
+   "box": [
+    512,
+    330,
+    532,
+    420
+   ],
+   "what": "gangway surround (grimy black)"
+  },
+  {
+   "id": "grey-bh",
+   "ref": "pbh",
+   "box": [
+    2908,
+    1591,
+    2990,
+    1673
+   ],
+   "what": "TfW bodyside grey, canopy light (neutral: white balance only, its own mean level kept)",
+   "neutralIs": 178.7
+  },
+  {
+   "id": "red-bh",
+   "ref": "pbh",
+   "box": [
+    2660,
+    1400,
+    2760,
+    1600
+   ],
+   "what": "TfW door red (open leaf), canopy light",
+   "neutral": "grey-bh"
+  },
+  {
+   "id": "band-bh",
+   "ref": "pbh",
+   "box": [
+    2950,
+    1000,
+    3150,
+    1020
+   ],
+   "what": "red cantrail band",
+   "neutral": "grey-bh"
+  },
+  {
+   "id": "grey-sd",
+   "ref": "psd",
+   "box": [
+    1301,
+    1788,
+    1663,
+    1844
+   ],
+   "what": "TfW bodyside grey side-on (neutral: white balance only, its own mean level kept)",
+   "neutralIs": 155.3
+  },
+  {
+   "id": "red-sd",
+   "ref": "psd",
+   "box": [
+    2000,
+    1808,
+    2266,
+    2025
+   ],
+   "what": "TfW door red side-on",
+   "neutral": "grey-sd"
+  },
+  {
+   "id": "band-sd",
+   "ref": "psd",
+   "box": [
+    400,
+    1395,
+    1500,
+    1410
+   ],
+   "what": "red cantrail band side-on",
+   "neutral": "grey-sd"
+  },
+  {
+   "id": "roof-sd",
+   "ref": "psd",
+   "box": [
+    400,
+    1300,
+    1500,
+    1340
+   ],
+   "what": "roof side-on",
+   "neutral": "grey-sd"
+  },
+  {
+   "id": "pillar-sd",
+   "ref": "psd",
+   "box": [
+    780,
+    1450,
+    800,
+    1650
+   ],
+   "what": "window band black between windows",
+   "neutral": "grey-sd"
+  },
+  {
+   "id": "sr-grey-we",
+   "ref": "pwe",
+   "box": [
+    1300,
+    1550,
+    1420,
+    1650
+   ],
+   "what": "SR passenger door grey (neutral: white balance only, its own mean level kept)",
+   "neutralIs": 127.3
+  },
+  {
+   "id": "sr-blue-we",
+   "ref": "pwe",
+   "box": [
+    1720,
+    600,
+    1760,
+    1100
+   ],
+   "what": "SR blue on the cab door",
+   "neutral": "sr-grey-we"
+  },
+  {
+   "id": "sr-dot-we",
+   "ref": "pwe",
+   "box": [
+    2321,
+    858,
+    2418,
+    955
+   ],
+   "what": "SR white dot",
+   "neutral": "sr-grey-we"
+  },
+  {
+   "id": "sr-teal-we",
+   "ref": "pwe",
+   "box": [
+    1092,
+    565,
+    1190,
+    663
+   ],
+   "what": "SR wrap teal sky",
+   "neutral": "sr-grey-we"
+  },
+  {
+   "id": "sr-cow-we",
+   "ref": "pwe",
+   "box": [
+    1092,
+    1170,
+    1170,
+    1326
+   ],
+   "what": "SR wrap highland cow brown",
+   "neutral": "sr-grey-we"
+  },
+  {
+   "id": "sr-yellow-qs",
+   "ref": "pqs",
+   "box": [
+    1370,
+    960,
+    1620,
+    1000
+   ],
+   "what": "SR face yellow"
+  },
+  {
+   "id": "sr-roof-qs",
+   "ref": "pqs",
+   "box": [
+    1000,
+    250,
+    1300,
+    275
+   ],
+   "what": "SR roof dome"
+  }
+ ]
+}

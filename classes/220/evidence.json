@@ -1,0 +1,508 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-221-CrossCountry-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_221_CrossCountry_Diagram.png",
+   "author": "FuSSionZ",
+   "licence": "CC BY-SA 3.0",
+   "date": "2014",
+   "kind": "diagram",
+   "unit": "221 (5 cars), CrossCountry; the 220 shares the body (no 220 drawing on Commons)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "ptm1": {
+   "file": "refs/Bristol-Temple-Meads-CrossCountry-220028-60228-60428-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bristol_Temple_Meads_-_CrossCountry_220028_%2860228%2C_60428%29.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-04",
+   "kind": "photo",
+   "unit": "220028 cars 60228/60428 (refurbished, red)",
+   "view": "side on, fronto-parallel, cab car rear end and door 2",
+   "light": "overcast, train under canopy"
+  },
+  "ptm2": {
+   "file": "refs/Bristol-Temple-Meads-CrossCountry-220028-60728-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bristol_Temple_Meads_-_CrossCountry_220028_%2860728%29.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-04",
+   "kind": "photo",
+   "unit": "220028 car 60728 (intermediate, grey)",
+   "view": "side, oblique",
+   "light": "overcast"
+  },
+  "ptmr": {
+   "file": "refs/Bristol-Temple-Meads-CrossCountry-220028-recently-refurbished.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bristol_Temple_Meads_-_CrossCountry_220028_recently_refurbished.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-04",
+   "kind": "photo",
+   "unit": "220028 (red)",
+   "view": "three-quarter front, low, long view along platform",
+   "light": "overcast"
+  },
+  "ptg": {
+   "file": "refs/Teignmouth-Eastcliff-CrossCountry-220021-Plymouth-to-York.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Teignmouth_Eastcliff_-_CrossCountry_220021_Plymouth_to_York.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-02",
+   "kind": "photo",
+   "unit": "220021 (red)",
+   "view": "near head-on from slightly left and above, on a curve (cant)",
+   "light": "overcast, wet"
+  },
+  "ped": {
+   "file": "refs/220-023-Edinburgh-Waverley-010926.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:220_023_Edinburgh_Waverley_010926.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-09-01",
+   "kind": "photo",
+   "unit": "220023 (red)",
+   "view": "three-quarter front, close",
+   "light": "station roof, diffuse"
+  },
+  "pkn": {
+   "file": "refs/220032-Kings-Norton-November-8th-2023.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:220032%2C_Kings_Norton%2C_November_8th_2023.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-11-08",
+   "kind": "photo",
+   "unit": "220032 (maroon and silver)",
+   "view": "three-quarter front, tail lamps lit",
+   "light": "overcast"
+  },
+  "ptl": {
+   "file": "refs/Tilehurst-East-CrossCountry-220008.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Tilehurst_East_-_CrossCountry_220008.jpg",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "unknown",
+   "kind": "photo",
+   "unit": "220008 (maroon and silver)",
+   "view": "three-quarter front from above",
+   "light": "sun"
+  },
+  "pbm": {
+   "file": "refs/220028-Bournemouth-November-12th-2023.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:220028%2C_Bournemouth%2C_November_12th_2023.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-11-12",
+   "kind": "photo",
+   "unit": "220028 (maroon and silver)",
+   "view": "close side, door 2 and car end",
+   "light": "wet, overcast"
+  },
+  "pso": {
+   "file": "refs/220-022-at-Southampton-Central.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:220_022_at_Southampton_Central.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-06",
+   "kind": "photo",
+   "unit": "220022 (maroon and silver)",
+   "view": "three-quarter front",
+   "light": "canopy shade"
+  },
+  "prd": {
+   "file": "refs/Class-220-Reading.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_220_Reading.jpg",
+   "author": "SWRTrainFan",
+   "licence": "CC0",
+   "date": "2026-04",
+   "kind": "photo",
+   "unit": "220 (red)",
+   "view": "three-quarter front",
+   "light": "overcast"
+  },
+  "ptr": {
+   "file": "refs/Trains-2-054.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Trains_2_054.JPG",
+   "author": "Britishrailclass91",
+   "licence": "CC BY-SA 4.0",
+   "date": "unknown (Virgin era, before 2007)",
+   "kind": "photo",
+   "unit": "220018 and 221133 coupled nose to nose (Virgin red)",
+   "view": "side on, both noses near the image centre: the profile",
+   "light": "overcast"
+  },
+  "pvx": {
+   "file": "refs/Virgin-cross-country-train-geograph.org.uk-406955.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Virgin_cross-country_train_-_geograph.org.uk_-_406955.jpg",
+   "author": "Stanley Howe",
+   "licence": "CC BY-SA 2.0",
+   "date": "unknown (Virgin era)",
+   "kind": "photo",
+   "unit": "220 (Virgin)",
+   "view": "side, low resolution",
+   "light": "sun"
+  },
+  "pbp": {
+   "file": "refs/Next-Stop-Bodmin-Parkway-geograph.org.uk-731277.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Next_Stop_Bodmin_Parkway_-_geograph.org.uk_-_731277.jpg",
+   "author": "Tony Atkin",
+   "licence": "CC BY-SA 2.0",
+   "date": "unknown (Virgin era)",
+   "kind": "photo",
+   "unit": "220 (Virgin)",
+   "view": "three-quarter, low resolution",
+   "light": "sun"
+  },
+  "pbh": {
+   "file": "refs/Birmingham-Proof-House-with-Voyager.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Birmingham_Proof_House_with_Voyager.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-12-17",
+   "kind": "photo",
+   "unit": "220 (maroon)",
+   "view": "aerial, train small: not used",
+   "light": "diffuse"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-tg",
+   "ref": "ptg",
+   "box": [
+    1250,
+    650,
+    1900,
+    1650
+   ],
+   "feature": "whole front, near head-on (red refresh)",
+   "reading": ""
+  },
+  {
+   "id": "f-screen-tg",
+   "ref": "ptg",
+   "box": [
+    1330,
+    720,
+    1830,
+    1130
+   ],
+   "feature": "windscreen, frame, roof cap, marker lens",
+   "reading": ""
+  },
+  {
+   "id": "f-pod-r-tg",
+   "ref": "ptg",
+   "box": [
+    1660,
+    1100,
+    1880,
+    1380
+   ],
+   "feature": "near-side lamp pod, head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-pod-l-tg",
+   "ref": "ptg",
+   "box": [
+    1260,
+    1080,
+    1480,
+    1360
+   ],
+   "feature": "far-side lamp pod, head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-kn",
+   "ref": "pkn",
+   "box": [
+    130,
+    600,
+    540,
+    750
+   ],
+   "feature": "both lamp pods lit (tail lamps), maroon scheme",
+   "reading": ""
+  },
+  {
+   "id": "f-face-kn",
+   "ref": "pkn",
+   "box": [
+    140,
+    290,
+    600,
+    900
+   ],
+   "feature": "whole front, three-quarter, maroon scheme",
+   "reading": ""
+  },
+  {
+   "id": "s-profile-tr",
+   "ref": "ptr",
+   "box": [
+    250,
+    450,
+    1350,
+    1650
+   ],
+   "feature": "220 nose in profile, side on",
+   "reading": ""
+  },
+  {
+   "id": "s-cabwin-tr",
+   "ref": "ptr",
+   "box": [
+    550,
+    600,
+    900,
+    880
+   ],
+   "feature": "cab side window, side on",
+   "reading": ""
+  },
+  {
+   "id": "s-cabdoor-tr",
+   "ref": "ptr",
+   "box": [
+    250,
+    750,
+    600,
+    1300
+   ],
+   "feature": "cab door and grab rails, side on",
+   "reading": ""
+  },
+  {
+   "id": "s-cabzone-kn",
+   "ref": "pkn",
+   "box": [
+    560,
+    360,
+    900,
+    720
+   ],
+   "feature": "cab side X outline, door 1, maroon",
+   "reading": ""
+  },
+  {
+   "id": "s-saloon-kn",
+   "ref": "pkn",
+   "box": [
+    800,
+    380,
+    1340,
+    700
+   ],
+   "feature": "bodyside windows and door stripes, maroon",
+   "reading": ""
+  },
+  {
+   "id": "s-x-tmr",
+   "ref": "ptmr",
+   "box": [
+    1700,
+    700,
+    3000,
+    1550
+   ],
+   "feature": "red refresh: cream X on cab side, cab door, door 1",
+   "reading": ""
+  },
+  {
+   "id": "s-end-tm1",
+   "ref": "ptm1",
+   "box": [
+    1300,
+    500,
+    2730,
+    1150
+   ],
+   "feature": "red cab car inner end: door 2, last window, car end",
+   "reading": ""
+  },
+  {
+   "id": "s-car2-tm1",
+   "ref": "ptm1",
+   "box": [
+    0,
+    500,
+    1400,
+    1150
+   ],
+   "feature": "grey car 2 end, logo, door",
+   "reading": ""
+  },
+  {
+   "id": "s-bogie-tm1",
+   "ref": "ptm1",
+   "box": [
+    1700,
+    1050,
+    2400,
+    1400
+   ],
+   "feature": "bogie (inside frame), brightened in review",
+   "reading": ""
+  },
+  {
+   "id": "s-car2-tm2",
+   "ref": "ptm2",
+   "box": [
+    150,
+    500,
+    2730,
+    900
+   ],
+   "feature": "grey intermediate car, windows and doors",
+   "reading": ""
+  },
+  {
+   "id": "s-saloon-ed",
+   "ref": "ped",
+   "box": [
+    1000,
+    1400,
+    2100,
+    1900
+   ],
+   "feature": "red cab car windows, door 1, logo",
+   "reading": ""
+  },
+  {
+   "id": "s-logo-tm1",
+   "ref": "ptm1",
+   "box": [
+    100,
+    900,
+    750,
+    1080
+   ],
+   "feature": "crosscountry wordmark on the grey car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-tm1",
+   "ref": "ptm1",
+   "box": [
+    1062,
+    319,
+    1517,
+    379
+   ],
+   "what": "canopy fascia white (same overcast light, not the train)"
+  },
+  {
+   "id": "red-tm1",
+   "ref": "ptm1",
+   "box": [
+    2010,
+    720,
+    2090,
+    940
+   ],
+   "what": "red bodyside (refresh)",
+   "neutral": "white-tm1"
+  },
+  {
+   "id": "teal-tm1",
+   "ref": "ptm1",
+   "box": [
+    1700,
+    700,
+    1760,
+    880
+   ],
+   "what": "teal door leaf (refresh)",
+   "neutral": "white-tm1"
+  },
+  {
+   "id": "grey-tm1",
+   "ref": "ptm1",
+   "box": [
+    728,
+    925,
+    815,
+    965
+   ],
+   "what": "grey bodyside, car 2 (refresh)",
+   "neutral": "white-tm1"
+  },
+  {
+   "id": "line-tm1",
+   "ref": "ptm1",
+   "box": [
+    1500,
+    624,
+    1700,
+    634
+   ],
+   "what": "cream cantrail line",
+   "neutral": "white-tm1"
+  },
+  {
+   "id": "roof-tm1",
+   "ref": "ptm1",
+   "box": [
+    1500,
+    550,
+    1700,
+    565
+   ],
+   "what": "roof",
+   "neutral": "white-tm1"
+  },
+  {
+   "id": "white-kn",
+   "ref": "pkn",
+   "box": [
+    1100,
+    40,
+    1180,
+    90
+   ],
+   "what": "overcast sky (grey-white, same light)",
+   "neutralIs": 225
+  },
+  {
+   "id": "yellow-kn",
+   "ref": "pkn",
+   "box": [
+    300,
+    600,
+    400,
+    640
+   ],
+   "what": "yellow front (maroon scheme)",
+   "neutral": "white-kn"
+  },
+  {
+   "id": "silver-kn",
+   "ref": "pkn",
+   "box": [
+    1000,
+    590,
+    1030,
+    602
+   ],
+   "what": "silver bodyside",
+   "neutral": "white-kn"
+  },
+  {
+   "id": "stripe-kn",
+   "ref": "pkn",
+   "box": [
+    818,
+    560,
+    832,
+    640
+   ],
+   "what": "red door stripe",
+   "neutral": "white-kn"
+  }
+ ]
+}

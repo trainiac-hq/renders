@@ -1,0 +1,184 @@
+{
+ "white-door-031": {
+  "ref": "p031",
+  "box": [
+   707,
+   600,
+   718,
+   650
+  ],
+  "what": "first-class door leaf, white, near side, below its window",
+  "median": "#B6C3D3",
+  "iqr": [
+   10,
+   10,
+   11
+  ]
+ },
+ "navy-031": {
+  "ref": "p031",
+  "box": [
+   645,
+   600,
+   690,
+   630
+  ],
+  "what": "cab car bodyside navy between the cab-end window and door 1",
+  "median": "#152034",
+  "iqr": [
+   2,
+   2,
+   2
+  ],
+  "balanced": "#1C273B",
+  "neutral": "white-door-031"
+ },
+ "white-diag-031": {
+  "ref": "p031",
+  "box": [
+   892,
+   585,
+   904,
+   598
+  ],
+  "what": "white past the diagonal",
+  "median": "#A0ACBD",
+  "iqr": [
+   2,
+   3,
+   3
+  ],
+  "balanced": "#D3D4D7",
+  "neutral": "white-door-031"
+ },
+ "yellow-fc-031": {
+  "ref": "p031",
+  "box": [
+   590,
+   416,
+   605,
+   418
+  ],
+  "what": "yellow first-class line at the cantrail",
+  "median": "#FFF276",
+  "iqr": [
+   3,
+   5,
+   12
+  ],
+  "balanced": "#FFFF86",
+  "neutral": "white-door-031"
+ },
+ "roof-031": {
+  "ref": "p031",
+  "box": [
+   640,
+   378,
+   680,
+   384
+  ],
+  "what": "roof, light grey",
+  "median": "#4F525A",
+  "iqr": [
+   185,
+   191,
+   197
+  ]
+ },
+ "yellow-face-082": {
+  "ref": "p082",
+  "box": [
+   790,
+   450,
+   815,
+   520
+  ],
+  "what": "front yellow crescent, far corner (no neutral on the face)",
+  "median": "#EED348",
+  "iqr": [
+   5,
+   5,
+   22
+  ]
+ },
+ "yellow-door-082": {
+  "ref": "p082",
+  "box": [
+   1090,
+   580,
+   1140,
+   640
+  ],
+  "what": "gangway door's yellow lower panel (weathered)",
+  "median": "#A07B21",
+  "iqr": [
+   8,
+   7,
+   5
+  ]
+ },
+ "frame-082": {
+  "ref": "p082",
+  "box": [
+   990,
+   300,
+   1030,
+   400
+  ],
+  "what": "gangway frame, weathered metal",
+  "median": "#312A29",
+  "iqr": [
+   18,
+   14,
+   10
+  ]
+ },
+ "door-black-082": {
+  "ref": "p082",
+  "box": [
+   1060,
+   300,
+   1150,
+   500
+  ],
+  "what": "gangway door upper part, black",
+  "median": "#17171A",
+  "iqr": [
+   3,
+   4,
+   4
+  ]
+ },
+ "navy-face-082": {
+  "ref": "p082",
+  "box": [
+   900,
+   210,
+   960,
+   250
+  ],
+  "what": "navy over the screens",
+  "median": "#3A3E48",
+  "iqr": [
+   42,
+   46,
+   52
+  ]
+ },
+ "yellow-face-113": {
+  "ref": "p113",
+  "box": [
+   425,
+   500,
+   445,
+   560
+  ],
+  "what": "front yellow on the corner, sunlit",
+  "median": "#A68A27",
+  "iqr": [
+   10,
+   7,
+   4
+  ]
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "ref": "p105",
+ "side": "near",
+ "points": {
+  "lamp2-head": [
+   1130,
+   462
+  ],
+  "lamp0-marker": [
+   1190,
+   461
+  ],
+  "lamp1-tail": [
+   1167,
+   490
+  ],
+  "lamp3-head": [
+   863,
+   466
+  ],
+  "lamp5-marker": [
+   801,
+   464
+  ],
+  "lamp4-tail": [
+   825,
+   494
+  ],
+  "screen0-top-near": [
+   1184,
+   197
+  ],
+  "screen0-top-far": [
+   1038,
+   197
+  ],
+  "screen0-bottom-near": [
+   1184,
+   364
+  ],
+  "screen0-bottom-far": [
+   1038,
+   364
+  ],
+  "screen1-top-far": [
+   800,
+   197
+  ],
+  "screen1-top-near": [
+   998,
+   197
+  ],
+  "screen1-bottom-far": [
+   800,
+   364
+  ],
+  "screen1-bottom-near": [
+   998,
+   364
+  ],
+  "far-door0-front-top": [
+   725,
+   228
+  ],
+  "far-door0-front-bottom": [
+   727,
+   540
+  ],
+  "far-door0-rear-top": [
+   705,
+   225
+  ],
+  "far-door0-rear-bottom": [
+   708,
+   538
+  ],
+  "far-door1-front-top": [
+   667,
+   215
+  ],
+  "far-door1-front-bottom": [
+   668,
+   522
+  ],
+  "far-door1-rear-top": [
+   643,
+   218
+  ],
+  "far-door1-rear-bottom": [
+   648,
+   515
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "screen1-bottom-far",
+  "far-door1-rear-bottom",
+  "far-door0-front-bottom"
+ ],
+ "readings": {
+  "lamp*": "g105f (2.3x): ring centres; image right is the near side",
+  "screen*": "glass corners (virtual, rounded) from g105f; the divider at px 998-1038",
+  "focalPx": "free: the far-side door picks hold the pose in front of the train; 2303 px",
+  "far-door*": "door edges on the visible bodyside (far side, +Y; image left), from the 3x zoom p105cab: the narrow-windowed door next to the face and the first double door. These pin the camera's depth (it was solved from the face alone and sat 10 m up; now 13.7 m ahead, 4 m to the platform side, 2.1 m up). The solve still fails held-out at 11-19 cm: measured through it the cab door is at 2.27-3.17 m where the model (the 450's body) has it at 1.25-2.06 m, door 1 0.25-0.6 m forward of the model's. Either the 360's cab is longer than the 450's or the picks are off; needs a side-on 360 photo"
+ }
+}

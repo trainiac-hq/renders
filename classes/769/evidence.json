@@ -1,0 +1,750 @@
+{
+ "refs": {
+  "diaN": {
+   "file": "refs/Northern-Class-769.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Northern_Class_769.png",
+   "author": "TheTransportHub",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-05-14",
+   "kind": "diagram",
+   "unit": "769 (4 cars), Northern",
+   "view": "side elevation, nose left, 1920 px for 4 cars (low resolution)",
+   "light": "flat colours"
+  },
+  "diaW": {
+   "file": "refs/TfW-Class-769.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:TfW_Class_769.png",
+   "author": "TheTransportHub",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-05-14",
+   "kind": "diagram",
+   "unit": "769, Transport for Wales",
+   "view": "side elevation, nose left, low resolution",
+   "light": "flat colours"
+  },
+  "diaG": {
+   "file": "refs/GWR-Class-769.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_769.png",
+   "author": "Smithdo43172",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-04-26",
+   "kind": "diagram",
+   "unit": "769/9, GWR",
+   "view": "side elevation, nose left (319 template, no engine raft drawn)",
+   "light": "flat colours"
+  },
+  "p458": {
+   "file": "refs/NorthernClass769.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:NorthernClass769.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY 4.0",
+   "date": "2024-06-01",
+   "kind": "photo",
+   "unit": "769458 (Northern)",
+   "view": "nearly head-on from slightly left, 26 mm APS-C",
+   "light": "bright overcast"
+  },
+  "p434w": {
+   "file": "refs/769434-at-Wigan-North-Western-220324-53603384322-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:769434_at_Wigan_North_Western_220324_%2853603384322%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-03-22",
+   "kind": "photo",
+   "unit": "769434 (Northern)",
+   "view": "cab car side three-quarter, nose left (near side)",
+   "light": "overcast"
+  },
+  "p434n": {
+   "file": "refs/Manchester-Newton-Heath-769-434-2311-01.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Manchester_Newton_Heath_%27769_434%27_2311_01.jpg",
+   "author": "Industrial Wales",
+   "licence": "CC BY-SA 2.0",
+   "date": "2023-11-01",
+   "kind": "photo",
+   "unit": "769434 (Northern)",
+   "view": "side, nose left, behind a fence",
+   "light": "low sun"
+  },
+  "p448": {
+   "file": "refs/769448-at-Manchester-Piccadilly.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:769448_at_Manchester_Piccadilly.jpg",
+   "author": "Jon David Houghton",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-05-22",
+   "kind": "photo",
+   "unit": "769448 (Northern)",
+   "view": "close front three-quarter, nose right",
+   "light": "overcast"
+  },
+  "pHin": {
+   "file": "refs/Hindley-Railway-station-class-769-pre-electrification.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Hindley_Railway_station_-class_769_pre_electrification.jpg",
+   "author": "GRALISTAIR",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-12-28",
+   "kind": "photo",
+   "unit": "769 (Northern)",
+   "view": "distant head-on",
+   "light": "dull"
+  },
+  "p006": {
+   "file": "refs/Transport-for-Wales-769-006-52020547054-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Transport_for_Wales_769_006_%2852020547054%29.jpg",
+   "author": "Hugh Llewelyn from Keynsham, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2022-04-16",
+   "kind": "photo",
+   "unit": "769006 (TfW)",
+   "view": "front three-quarter from the right, 51 mm equiv.",
+   "light": "sun, high"
+  },
+  "p008": {
+   "file": "refs/Transport-for-Wales-769-008-52020815810-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Transport_for_Wales_769_008_%2852020815810%29.jpg",
+   "author": "Hugh Llewelyn from Keynsham, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2022-04-16",
+   "kind": "photo",
+   "unit": "769008 (TfW)",
+   "view": "front three-quarter from the left",
+   "light": "bright"
+  },
+  "p452": {
+   "file": "refs/Transport-for-Wales-769-452-52021515624-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Transport_for_Wales_769_452_%2852021515624%29.jpg",
+   "author": "Hugh Llewelyn from Keynsham, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2022-04-16",
+   "kind": "photo",
+   "unit": "769452 (TfW, ex-319/4)",
+   "view": "long three-quarter, nose right",
+   "light": "sun"
+  },
+  "p002": {
+   "file": "refs/Caerdydd-Canolog-TfW-769002-tr-n-i-Benarth.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Caerdydd_Canolog_-_TfW_769002_tr%C3%AAn_i_Benarth.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-02-20",
+   "kind": "photo",
+   "unit": "769002 (TfW, three months before withdrawal)",
+   "view": "nearly head-on",
+   "light": "overcast"
+  },
+  "p003e": {
+   "file": "refs/TfW-769003-77294-engine.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:TfW_769003_%2877294%29_engine.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-10-04",
+   "kind": "photo",
+   "unit": "769003 driving trailer 77294 (TfW)",
+   "view": "side-on, saloon section, door and under-floor engine",
+   "light": "overcast"
+  },
+  "p003b": {
+   "file": "refs/TfW-769003-62893-motor-bogie.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:TfW_769003_%2862893%29_motor_bogie.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-10-04",
+   "kind": "photo",
+   "unit": "769003 motor car 62893 (TfW)",
+   "view": "side, motor bogie",
+   "light": "overcast"
+  },
+  "p006pw": {
+   "file": "refs/TfW-769006-62896-pantograph-well.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:TfW_769006_%2862896%29_pantograph_well.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-10-04",
+   "kind": "photo",
+   "unit": "769006 motor car 62896 (TfW)",
+   "view": "from above: the pantograph well",
+   "light": "overcast"
+  },
+  "pPen": {
+   "file": "refs/Class-769-at-Penarth-geograph.org.uk-6560523.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_769_at_Penarth_-_geograph.org.uk_-_6560523.jpg",
+   "author": "Gareth James",
+   "licence": "CC BY-SA 2.0",
+   "date": "2020-08-05",
+   "kind": "photo",
+   "unit": "769 (TfW)",
+   "view": "front three-quarter, distant",
+   "light": "sun"
+  },
+  "p946": {
+   "file": "refs/Oxford-Up-Carriage-Sidings-GWR-769946-77380-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Oxford_Up_Carriage_Sidings_-_GWR_769946_%2877380%29.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-10-04",
+   "kind": "photo",
+   "unit": "769946 driving car 77380 (GWR)",
+   "view": "nearly side-on, nose left (near side), 1366 px",
+   "light": "overcast"
+  },
+  "pRe22": {
+   "file": "refs/A-Class-769-unit-at-Reigate-station-in-2022.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:A_Class_769_unit_at_Reigate_station_in_2022.jpg",
+   "author": "Stephen Furley",
+   "licence": "Public domain",
+   "date": "2022-04-14",
+   "kind": "photo",
+   "unit": "769 (GWR)",
+   "view": "distant head-on",
+   "light": "overcast"
+  },
+  "p930": {
+   "file": "refs/769-930-at-Reigate-Station-geograph.org.uk-7250225.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:769_930_at_Reigate_Station_-_geograph.org.uk_-_7250225.jpg",
+   "author": "Ian Capper",
+   "licence": "CC BY-SA 2.0",
+   "date": "2022-08-07",
+   "kind": "photo",
+   "unit": "769930 (GWR)",
+   "view": "front three-quarter from the left, 1024 px, strongly processed colours",
+   "light": "sun"
+  },
+  "pLM26": {
+   "file": "refs/GWR-Class-769-units-stored-at-Long-Marston-180626.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_769_units_stored_at_Long_Marston_180626.jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-06-18",
+   "kind": "photo",
+   "unit": "769938 and others (GWR, stored)",
+   "view": "front three-quarter of a row, nose right",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-458",
+   "ref": "p458",
+   "box": [
+    330,
+    180,
+    1550,
+    1350
+   ],
+   "feature": "Northern 769 front, nearly head-on",
+   "reading": "Same front as the 319: yellow face, two screens and a gangway door window, lamp boxes with narrow marker, clear headlamp and red tail (outboard to inboard), number 769458 above the right box with the grille. The gangway door is outlined by a black seam strip, heavier than the 319's thin seam.",
+   "secondReader": "Same colours and layout as the 319; the centre door has a thick black strip down both sides and across the top, running down to the navy. Agrees."
+  },
+  {
+   "id": "f-lamps-l-458",
+   "ref": "p458",
+   "box": [
+    440,
+    1060,
+    700,
+    1240
+   ],
+   "feature": "lamp housing, image left",
+   "reading": "Housing: narrow clear marker outboard, round clear headlamp, round red LED tail inboard; black rim; same as the 319.",
+   "secondReader": "Marker, headlamp, red LED tail. Agrees."
+  },
+  {
+   "id": "f-lamps-r-458",
+   "ref": "p458",
+   "box": [
+    1110,
+    1090,
+    1420,
+    1280
+   ],
+   "feature": "lamp housing, image right",
+   "reading": "Mirror: red LED tail inboard, headlamp, narrow marker outboard.",
+   "secondReader": "Marker, headlamp, red LED tail. Agrees."
+  },
+  {
+   "id": "f-gangway-458",
+   "ref": "p458",
+   "box": [
+    730,
+    270,
+    1090,
+    1350
+   ],
+   "feature": "gangway door and its outline",
+   "reading": "Flush yellow door between black seam strips running from the top of the yellow to its bottom; tall window with black rubber; a small grab box under the window.",
+   "secondReader": "Thick black strip outline. Agrees."
+  },
+  {
+   "id": "f-number-458",
+   "ref": "p458",
+   "box": [
+    1110,
+    1020,
+    1520,
+    1130
+   ],
+   "feature": "number and grille",
+   "reading": "'769458' black digits; 3x4 grille of round holes left of it."
+  },
+  {
+   "id": "f-lower-458",
+   "ref": "p458",
+   "box": [
+    330,
+    1250,
+    1550,
+    1700
+   ],
+   "feature": "below the yellow: band, valance, coupler",
+   "reading": "Below the yellow a navy band, then a dark valance and coupler; no raised or extended lower front visible."
+  },
+  {
+   "id": "s-cabside-434w",
+   "ref": "p434w",
+   "box": [
+    1250,
+    1100,
+    2300,
+    1650
+   ],
+   "feature": "Northern 769 cab side from the corner to door 1 (near side)",
+   "reading": "Northern 769 cab side, near side: cab door with tall split window, short window A, long two-pane window B, navy curve ending just ahead of door 1, three dots low on the navy; orange cantrail line."
+  },
+  {
+   "id": "s-dots-434w",
+   "ref": "p434w",
+   "box": [
+    1690,
+    1480,
+    1920,
+    1620
+   ],
+   "feature": "the three 'n' dots on the 769",
+   "reading": "From the front: a small pale lilac-grey 'n' disc, a large teal 'n' disc, a mid-size pink 'n' disc further back. Order differs from the 319s (orange first, teal, small purple last).",
+   "secondReader": "Small grey-lilac, large teal, medium pink; each with a dark navy arch, not white. Accepted: the 769's discs have navy 'n' cut-outs (the 319's are white)."
+  },
+  {
+   "id": "s-navyedge-434w",
+   "ref": "p434w",
+   "box": [
+    1960,
+    1100,
+    2200,
+    1640
+   ],
+   "feature": "navy-white curve and door 1",
+   "reading": "Navy ends in a convex curve: top at door 1's front edge, bottom about 1.5 m further forward; door 1 navy leaves on white."
+  },
+  {
+   "id": "s-side-434n",
+   "ref": "p434n",
+   "box": [
+    1650,
+    590,
+    3838,
+    1250
+   ],
+   "feature": "Northern 769 cab car side with logo, nose left",
+   "reading": "Whole cab car: navy cab end with dots, door 1, white saloon with 'n NORTHERN' logo (capitals) low between the doors, small web address near door 2; under the floor a long equipment raft between the bogies."
+  },
+  {
+   "id": "f-face-006",
+   "ref": "p006",
+   "box": [
+    640,
+    550,
+    2050,
+    1900
+   ],
+   "feature": "TfW 769 front",
+   "reading": "TfW front: yellow face framed by a red border up both sides and over the top, the red continuing round the corners onto the sides; light grey band below the yellow; lamp boxes as the 319 (marker, headlamp, tail).",
+   "secondReader": "Yellow framed in red (thin line at the top, broad band down the sides and round the lower corners); light grey under the yellow; centre door with thin seams. Accepted: TfW door outline is a thin seam, unlike the Northern 769."
+  },
+  {
+   "id": "f-lamps-l-006",
+   "ref": "p006",
+   "box": [
+    790,
+    1460,
+    1080,
+    1620
+   ],
+   "feature": "TfW lamp housing, image left",
+   "reading": "Marker outboard (narrow, clear), headlamp, red tail inboard."
+  },
+  {
+   "id": "f-lamps-r-006",
+   "ref": "p006",
+   "box": [
+    1530,
+    1480,
+    1850,
+    1650
+   ],
+   "feature": "TfW lamp housing, image right",
+   "reading": "Mirror: red tail inboard, headlamp, marker outboard (lit)."
+  },
+  {
+   "id": "f-lower-006",
+   "ref": "p006",
+   "box": [
+    640,
+    1650,
+    2050,
+    2000
+   ],
+   "feature": "TfW lower front: grey band, valance",
+   "reading": "Below the yellow a light grey panel, then the black valance with the coupler."
+  },
+  {
+   "id": "s-cabside-006",
+   "ref": "p006",
+   "box": [
+    1950,
+    700,
+    2600,
+    1900
+   ],
+   "feature": "TfW cab side: red wrap, cab door, window band, logo",
+   "reading": "Red border wraps onto the side and ends in a curve, wide at the top (about half a metre) and narrowing to nothing low down; cab door full height with tall split window; black window band starts just behind the cab door; TfW logo low behind the cab door.",
+   "secondReader": "Red wraps round the corner 'about as far as the cab door' and continues as the cantrail band. Disagreement on extent: the measured wrap reaches 0.47 m at the top and the cab door starts at 1.11 m (fit on p006); measurement kept."
+  },
+  {
+   "id": "s-logo-006",
+   "ref": "p006",
+   "box": [
+    2280,
+    1420,
+    2580,
+    1700
+   ],
+   "feature": "Transport for Wales logo",
+   "reading": "Red outline roundel with red bars, then 'TRAFNIDIAETH CYMRU / TRANSPORT FOR WALES' in dark grey capitals on two lines, then a thin divider and 'Cymru a'r Gororau / Wales and Borders' in lighter type.",
+   "secondReader": "Red outlined oval with red bars, 'TRAFNIDIAETH CYMRU / TRANSPORT FOR WALES', divider, 'Cymru a'r Gororau / Wales and Borders'. Agrees."
+  },
+  {
+   "id": "s-door-003e",
+   "ref": "p003e",
+   "box": [
+    1700,
+    0,
+    2736,
+    1100
+   ],
+   "feature": "TfW red door, black window band, red cantrail band",
+   "reading": "Red door with two leaf windows and yellow-black door edge markings; black window band from just above the windows to below them, stopping short of the door; pale red band along the cantrail.",
+   "secondReader": "Red doors, leaf windows, yellow-black edge strips; pink-red band with a thin orange line at its lower edge; black band stops just short of the door. Agrees (orange line noted, not drawn)."
+  },
+  {
+   "id": "s-raft-003e",
+   "ref": "p003e",
+   "box": [
+    0,
+    1050,
+    2736,
+    1500
+   ],
+   "feature": "TfW driving car underframe: engine raft",
+   "reading": "Driving car underframe: engine raft with a grilled radiator box, exhaust pipework and boxes between the bogies."
+  },
+  {
+   "id": "s-pantwell-006pw",
+   "ref": "p006pw",
+   "box": [
+    0,
+    0,
+    1366,
+    1024
+   ],
+   "feature": "TfW motor car roof: empty pantograph well",
+   "reading": "TfW motor car roof: pantograph well with insulators but no pantograph.",
+   "secondReader": "No pantograph: an empty well with insulators. Agrees."
+  },
+  {
+   "id": "s-side-946",
+   "ref": "p946",
+   "box": [
+    50,
+    380,
+    1366,
+    640
+   ],
+   "feature": "GWR cab car side, near side",
+   "reading": "GWR 769946 driving car, near side: dark green, light grey doors, cab door with tall window, windows A and B, 'GWR' logo between B and door 1 on a thin pale line along the body; raft under the floor.",
+   "secondReader": "Dark green, light grey doors with a yellow strip at the bottom, a thin pale line along the body under the windows, GWR logo on a lighter tapered panel. Line agrees; the panel is not drawn (noted)."
+  },
+  {
+   "id": "s-raft-946",
+   "ref": "p946",
+   "box": [
+    550,
+    535,
+    1250,
+    640
+   ],
+   "feature": "GWR driving car raft",
+   "reading": "GWR raft: boxes and a large grilled cooler between the bogies."
+  },
+  {
+   "id": "s-logo-946",
+   "ref": "p946",
+   "box": [
+    420,
+    460,
+    540,
+    540
+   ],
+   "feature": "GWR logo on the cab car",
+   "reading": "'GWR' logo in light grey on the green, set on the thin pale line.",
+   "secondReader": "'GWR' in white capitals with a long stylised W. Agrees."
+  },
+  {
+   "id": "f-face-LM26",
+   "ref": "pLM26",
+   "box": [
+    2440,
+    840,
+    2920,
+    1620
+   ],
+   "feature": "GWR 769 front (stored 2026)",
+   "reading": "GWR 769/9 front: yellow face, black seam round the gangway door, a '1' first-class box on the door, number upper right; each lamp box holds two round LED lamps side by side and no narrow marker.",
+   "secondReader": "Two round lamps per housing: clear headlamp and white LED cluster; no marker, no red lamp; black-outlined '1' box on the door. Agrees; reader's lamp order (headlamp outboard left, inboard right) left open."
+  },
+  {
+   "id": "f-lamps-LM26",
+   "ref": "pLM26",
+   "box": [
+    2560,
+    1400,
+    2900,
+    1560
+   ],
+   "feature": "GWR 769 lamps",
+   "reading": "Two round clustered lamps per box (no separate red tail, no marker): the 769/9's new light arrangement.",
+   "secondReader": "As above."
+  },
+  {
+   "id": "s-cabside-LM26",
+   "ref": "pLM26",
+   "box": [
+    1500,
+    700,
+    2500,
+    1800
+   ],
+   "feature": "GWR 769 cab side, close",
+   "reading": "GWR cab side: dark green, orange cantrail line, a yellow first-class strip over window A, cab door outlined with a tall split window."
+  },
+  {
+   "id": "f-face-930",
+   "ref": "p930",
+   "box": [
+    640,
+    200,
+    945,
+    480
+   ],
+   "feature": "GWR 769930 front in service, 2022",
+   "reading": "GWR 769930 in 2022: yellow face down to below the lamps, two round lamps per box, dark green lower band and valance."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-434w",
+   "ref": "p434w",
+   "box": [
+    2201,
+    1494,
+    2234,
+    1527
+   ],
+   "what": "Northern white bodyside"
+  },
+  {
+   "id": "navy-434w",
+   "ref": "p434w",
+   "box": [
+    1381,
+    1395,
+    1447,
+    1461
+   ],
+   "what": "Northern navy cab side",
+   "neutral": "white-434w"
+  },
+  {
+   "id": "teal-434w",
+   "ref": "p434w",
+   "box": [
+    1768,
+    1520,
+    1781,
+    1559
+   ],
+   "what": "teal dot",
+   "neutral": "white-434w"
+  },
+  {
+   "id": "pink-434w",
+   "ref": "p434w",
+   "box": [
+    1870,
+    1520,
+    1883,
+    1559
+   ],
+   "what": "pink dot",
+   "neutral": "white-434w"
+  },
+  {
+   "id": "small-434w",
+   "ref": "p434w",
+   "box": [
+    1709,
+    1572,
+    1719,
+    1599
+   ],
+   "what": "small dot",
+   "neutral": "white-434w"
+  },
+  {
+   "id": "yellow-458",
+   "ref": "p458",
+   "box": [
+    900,
+    1150,
+    1000,
+    1250
+   ],
+   "what": "Northern 769 yellow front (no neutral)"
+  },
+  {
+   "id": "silver-006",
+   "ref": "p006",
+   "box": [
+    2094,
+    1494,
+    2138,
+    1566
+   ],
+   "what": "TfW silver bodyside, sunlit"
+  },
+  {
+   "id": "red-006",
+   "ref": "p006",
+   "box": [
+    1972,
+    1061,
+    1993,
+    1205
+   ],
+   "what": "TfW red wrap at the cab corner",
+   "neutral": "silver-006"
+  },
+  {
+   "id": "yellow-006",
+   "ref": "p006",
+   "box": [
+    1150,
+    1650,
+    1250,
+    1700
+   ],
+   "what": "TfW yellow front (no neutral on the face)"
+  },
+  {
+   "id": "silver-003e",
+   "ref": "p003e",
+   "box": [
+    1990,
+    820,
+    2100,
+    960
+   ],
+   "what": "TfW silver bodyside, overcast"
+  },
+  {
+   "id": "band-003e",
+   "ref": "p003e",
+   "box": [
+    2125,
+    600,
+    2138,
+    760
+   ],
+   "what": "TfW black window band",
+   "neutral": "silver-003e"
+  },
+  {
+   "id": "door-003e",
+   "ref": "p003e",
+   "box": [
+    2330,
+    800,
+    2380,
+    1000
+   ],
+   "what": "TfW red door",
+   "neutral": "silver-003e"
+  },
+  {
+   "id": "green-LM26",
+   "ref": "pLM26",
+   "box": [
+    1730,
+    1469,
+    1807,
+    1546
+   ],
+   "what": "GWR green bodyside in shade (no neutral; too dark to use)"
+  },
+  {
+   "id": "yellow-LM26",
+   "ref": "pLM26",
+   "box": [
+    2700,
+    1500,
+    2720,
+    1520
+   ],
+   "what": "GWR yellow front, lower panel (no neutral)"
+  },
+  {
+   "id": "door-946",
+   "ref": "p946",
+   "box": [
+    600,
+    480,
+    630,
+    490
+   ],
+   "what": "GWR door leaf light grey, p946 (used as the neutral)"
+  },
+  {
+   "id": "roof-LM26",
+   "ref": "pLM26",
+   "box": [
+    1900,
+    800,
+    2000,
+    830
+   ],
+   "what": "GWR roof grey (no neutral)"
+  },
+  {
+   "id": "green-946",
+   "ref": "p946",
+   "box": [
+    700,
+    505,
+    760,
+    525
+   ],
+   "what": "GWR green bodyside below the windows, p946 (no neutral)",
+   "neutral": "door-946"
+  }
+ ],
+ "secondReader": "A general-purpose subagent given only the crop images and a question per crop, 2026-10-06."
+}

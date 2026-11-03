@@ -1,0 +1,649 @@
+{
+ "class": "710",
+ "subject": "Class 710 Aventra, London Overground, 2026",
+ "method": "Side from the WestRail642fan diagram (axes calibrated separately), nose and plan the 345's, face measured head-on on 710375; every number's source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 33.06,
+  "pxPerMVertical": 33.1,
+  "railY": 185.5,
+  "faceX": 0,
+  "notes": "dia LO-Class-710-1: car 1 0-709 px = 21.446 m (published DM) -> 33.06 px/m; car 2 722-1391 px = 19.99 m -> 33.47; vertical 33.1 px/m from the rail row 185.5"
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.94,
+   "cantrail": 3.32,
+   "roof": 3.76,
+   "window": [
+    1.98,
+    2.95
+   ]
+  },
+  "wheel": 0.825,
+  "wheelbase": 2.25,
+  "windowRadius": 0.1,
+  "cab": {
+   "length": 21.446,
+   "doors": [
+    {
+     "x": 2.238,
+     "w": 0.817,
+     "cab": true,
+     "window": [
+      2.45,
+      2.97
+     ],
+     "panes": [
+      -0.12,
+      0.15
+     ],
+     "span": [
+      1.13,
+      3.2
+     ]
+    },
+    {
+     "x": 6.7,
+     "w": 1.724,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 15.926,
+     "w": 1.724,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     3.902,
+     5.354
+    ],
+    [
+     8.046,
+     9.498
+    ],
+    [
+     9.74,
+     11.192
+    ],
+    [
+     11.434,
+     12.886
+    ],
+    [
+     13.128,
+     14.58
+    ],
+    [
+     17.272,
+     18.724
+    ],
+    [
+     18.966,
+     20.417
+    ]
+   ],
+   "bogies": [
+    4.159,
+    18.436
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 3.6,
+     "w": 2.1
+    },
+    {
+     "kind": "pod",
+     "x": 9.9,
+     "w": 4.6
+    }
+   ],
+   "under": [
+    [
+     7.0,
+     11.4
+    ],
+    [
+     12.4,
+     15.2
+    ]
+   ],
+   "glazing": [
+    [
+     [
+      1.02,
+      2.62
+     ],
+     [
+      1.36,
+      3.18
+     ],
+     [
+      1.62,
+      3.2,
+      1
+     ],
+     [
+      1.7,
+      3.12
+     ],
+     [
+      1.7,
+      2.66
+     ],
+     [
+      1.64,
+      2.58,
+      1
+     ]
+    ]
+   ]
+  },
+  "next": {
+   "length": 19.99,
+   "doors": [
+    {
+     "x": 5.422,
+     "w": 1.703,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    },
+    {
+     "x": 14.535,
+     "w": 1.703,
+     "leaves": 2,
+     "panes": [
+      0.17,
+      0.6
+     ],
+     "window": [
+      1.95,
+      2.94
+     ],
+     "span": [
+      1.16,
+      3.22
+     ],
+     "paneRadius": 0.21
+    }
+   ],
+   "windows": [
+    [
+     0.986,
+     2.42
+    ],
+    [
+     2.659,
+     4.093
+    ],
+    [
+     6.752,
+     8.186
+    ],
+    [
+     8.425,
+     9.86
+    ],
+    [
+     10.099,
+     11.533
+    ],
+    [
+     11.772,
+     13.206
+    ],
+    [
+     15.865,
+     17.299
+    ],
+    [
+     17.538,
+     18.972
+    ]
+   ],
+   "bogies": [
+    2.943,
+    17.015
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 3.6
+    },
+    {
+     "kind": "pod",
+     "x": 9.0,
+     "w": 4.5
+    }
+   ],
+   "under": [
+    [
+     5.5,
+     10.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.32,
+     0.5,
+     1
+    ],
+    [
+     0.15,
+     0.59
+    ],
+    [
+     0.03,
+     0.71
+    ],
+    [
+     0.0,
+     0.95
+    ],
+    [
+     0.0,
+     1.19
+    ],
+    [
+     0.03,
+     1.43
+    ],
+    [
+     0.12,
+     1.67
+    ],
+    [
+     0.22,
+     1.91
+    ],
+    [
+     0.34,
+     2.15
+    ],
+    [
+     0.46,
+     2.39
+    ],
+    [
+     0.62,
+     2.64
+    ],
+    [
+     0.8,
+     2.88
+    ],
+    [
+     0.99,
+     3.12
+    ],
+    [
+     1.21,
+     3.36
+    ],
+    [
+     1.42,
+     3.6
+    ],
+    [
+     1.64,
+     3.72
+    ],
+    [
+     1.85,
+     3.76,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.772,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.45
+    ]
+   ],
+   "squareness": 3,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.386,
+   "mask": [
+    [
+     0,
+     3.76
+    ],
+    [
+     0.62,
+     3.74
+    ],
+    [
+     1.0,
+     3.64
+    ],
+    [
+     1.22,
+     3.5
+    ],
+    [
+     1.06,
+     3.44
+    ],
+    [
+     0.98,
+     3.2
+    ],
+    [
+     0.96,
+     2.6
+    ],
+    [
+     0.91,
+     2.2
+    ],
+    [
+     0.84,
+     2.05
+    ],
+    [
+     0.7,
+     2.0,
+     1
+    ],
+    [
+     0,
+     2.0,
+     1
+    ]
+   ],
+   "darkCentre": [
+    {
+     "half": 0.76,
+     "lo": 0.45,
+     "hi": 1.27,
+     "r": [
+      0,
+      0.06,
+      0.06,
+      0
+     ]
+    },
+    {
+     "half": 0.31,
+     "lo": 1.4,
+     "hi": 1.75,
+     "r": 0.05
+    }
+   ],
+   "screen": {
+    "half": 0.82,
+    "halfTop": 0.9,
+    "lo": 2.15,
+    "hi": 3.45,
+    "r": [
+     0.12,
+     0.3,
+     0.3,
+     0.12
+    ]
+   },
+   "pods": [
+    {
+     "inner": 0.52,
+     "outer": 0.84,
+     "lo": 1.43,
+     "hi": 1.86,
+     "r": 0.15
+    }
+   ],
+   "headlamps": "below",
+   "lampRim": "black",
+   "grilles": [
+    {
+     "half": 0.28,
+     "lo": 1.43,
+     "hi": 1.71,
+     "r": 0.04
+    }
+   ],
+   "lineBoxes": [
+    {
+     "half": 0.3,
+     "lo": 1.74,
+     "hi": 2.0,
+     "r": 0.04
+    }
+   ],
+   "lines": [
+    [
+     [
+      0.92,
+      1.97
+     ],
+     [
+      1.1,
+      1.92
+     ],
+     [
+      1.22,
+      1.8
+     ],
+     [
+      1.27,
+      1.55
+     ],
+     [
+      1.28,
+      1.3
+     ]
+    ]
+   ],
+   "shapes": [
+    {
+     "half": true,
+     "color": "#1035A8",
+     "pts": [
+      [
+       0,
+       1.3
+      ],
+      [
+       1.36,
+       1.3
+      ],
+      [
+       1.39,
+       1.25
+      ],
+      [
+       1.39,
+       0.5
+      ],
+      [
+       0,
+       0.5
+      ]
+     ]
+    },
+    {
+     "half": true,
+     "color": "#EC803F",
+     "pts": [
+      [
+       0,
+       3.6
+      ],
+      [
+       0.6,
+       3.57
+      ],
+      [
+       1.0,
+       3.47
+      ],
+      [
+       1.25,
+       3.36
+      ],
+      [
+       1.25,
+       3.33
+      ],
+      [
+       1.0,
+       3.44
+      ],
+      [
+       0.6,
+       3.54
+      ],
+      [
+       0,
+       3.57
+      ]
+     ]
+    }
+   ],
+   "wipers": [
+    {
+     "pivot": [
+      -0.12,
+      2.0
+     ],
+     "tip": [
+      -0.62,
+      3.3
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "white": "#EEF0F2",
+   "orange": "#EE7623",
+   "blue": "#1035A8",
+   "band": "#1C1E23",
+   "roof": "#B9BDC2",
+   "cap": "#2A2D33",
+   "under": "#1C1E22",
+   "orangeLine": [
+    1.28,
+    1.34
+   ],
+   "blueTop": 1.29,
+   "bandLo": 1.88,
+   "bandHi": 3.25,
+   "nose": [
+    [
+     1.29,
+     3.26
+    ],
+    [
+     0.95,
+     2.7
+    ],
+    [
+     0.55,
+     2.1
+    ],
+    [
+     0.23,
+     1.6
+    ],
+    [
+     0.1,
+     1.1
+    ]
+   ],
+   "noseW": 0.12,
+   "branding": [
+    {
+     "logo": "LO",
+     "on": "front",
+     "at": [
+      0.5,
+      1.575
+     ],
+     "height": 0.13,
+     "color": "#FFFFFF"
+    },
+    {
+     "logo": "LO",
+     "at": [
+      11.56,
+      1.62
+     ],
+     "height": 0.22
+    },
+    {
+     "logo": "LO",
+     "car": "next",
+     "at": [
+      10.23,
+      1.62
+     ],
+     "height": 0.22
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dia LO-Class-710-1: car 1 0-709 px = 21.446 m (published DM) -> 33.06 px/m; car 2 722-1391 px = 19.99 m -> 33.47; vertical 33.1 px/m from the rail row 185.5",
+  "heights": "the 345's, except the foot: the 710's blue skirt is body panel down to dia row 155 (0.92 m), as 710268 shows (the blue reaching well below the doors' feet): bottom 0.94 m; window glass dia col 150 rows 88-120 -> 1.98-2.95 m",
+  "cab.doors[0]": "dia cab door 60.5-87.5 px -> 1.83-2.65 m, its window cols 70-79",
+  "cab.doors[1..2]": "dia 193-250, 498-555 px; leaf glass 202-216/227-241 -> 0.17-0.6 m from centre",
+  "cab.windows": "dia glass runs 129-177, 266-314, 322-370, 378-426, 434-482, 571-619, 627-675 px",
+  "cab.bogies": "dia wheel centres 101.5/173.5, 573.5/645.5 px",
+  "next.doors": "dia 875-932, 1180-1237 px from 722",
+  "next.windows": "dia 755-803 ... 1309-1357 px",
+  "next.bogies": "dia wheel centres 784.5/856.5, 1255.5/1327.5 px",
+  "nose": "the 345's profile and plan: the 710 diagram's nose matches the 345's within a pixel",
+  "face.grille": "review vs 710375/710270: a black grille panel between the pods (+-0.31 m, 1.40-1.75 m: zoom px 1013-1137, 640-707 at 204 px/m) carrying the white roundel; the pods rounder and taller, 0.52-0.84 m out, 1.43-1.86 m, corner radius 0.15, two round lamps stacked",
+  "face": "710375 head-on (Kensal Green, 2026), scaled across by the body's width at the pods (566 px for 2.77 m: 204 px/m), the centre on the roundel, and up from the blue bumper's top (1.30 m, dia front) at the same scale: pods 0.55-0.85 m out, 1.41-1.90 m (tail above, headlamp below); grille +-0.28 m, 1.43-1.71; wiper housing +-0.30, 1.74-2.00; the black mask round the screen from the dark roof cap down to the orange lower face at 2.0 m, the screen +-0.82 m at its foot (2.15 m) to +-0.90 at 3.45; the blue bumper below 1.30 m with the coupler's recess +-0.76 m, the orange line over the screen as on the 345",
+  "livery": "LO standard colours (#EE7623 orange, #1035A8 blue); bands from dia col 150: black window band 1.88-3.25 m, white 1.37-1.88, orange line 1.28-1.34, blue 1.13-1.28; the nose's orange edge from dia (1.29 m at 3.26 m to 0.23 m at 1.6 m)",
+  "livery.branding": "LO (the Overground roundel) white on the black grille, centred, 0.13 m tall (710375: 26 px at 204 px/m), its centre 1.575 m; bodyside LO roundels (710268 near side-on): one per car on the white band under the windows, between the two double doors a little behind the midpoint (0.44 of the way from door 1's rear to door 2's front on the photo), 0.22 m tall (about half the white band's 0.51 m), centred 1.62 m"
+ },
+ "views": {}
+}

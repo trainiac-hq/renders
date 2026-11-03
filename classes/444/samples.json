@@ -1,0 +1,54 @@
+{
+ "white-door-016": {
+  "ref": "p016",
+  "box": [
+   425,
+   600,
+   470,
+   690
+  ],
+  "what": "door 1 leaf below its window, sunlit",
+  "median": "#C3C6C3",
+  "iqr": [
+   18,
+   23,
+   29
+  ]
+ },
+ "navy-016": {
+  "ref": "p016",
+  "box": [
+   500,
+   600,
+   560,
+   680
+  ],
+  "what": "cab car navy below the logo",
+  "median": "#1E2835",
+  "iqr": [
+   5,
+   4,
+   6
+  ],
+  "balanced": "#253041",
+  "neutral": "white-door-016"
+ },
+ "yellow-016": {
+  "ref": "p016",
+  "box": [
+   720,
+   420,
+   760,
+   560
+  ],
+  "what": "yellow crescent on the corner, sunlit",
+  "median": "#E8CF44",
+  "iqr": [
+   6,
+   8,
+   5
+  ],
+  "balanced": "#FFFB54",
+  "neutral": "white-door-016"
+ }
+}

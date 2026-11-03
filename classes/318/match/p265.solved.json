@@ -1,0 +1,300 @@
+{
+ "photo": "p265",
+ "size": [
+  3840,
+  2560
+ ],
+ "fit": [
+  "wf-front-top",
+  "wf-rear-top",
+  "wf-front-bottom",
+  "cw-front-top",
+  "lamp0-head",
+  "lamp0-tail",
+  "lamp1-head",
+  "screen0-top-near",
+  "screen0-top-far",
+  "screen0-bottom-near",
+  "screen0-bottom-far",
+  "screen1-top-near",
+  "screen1-bottom-near",
+  "screen1-bottom-far",
+  "screen2-top-near",
+  "screen2-top-far",
+  "screen2-bottom-near",
+  "screen2-bottom-far"
+ ],
+ "holdout": [
+  "wf-rear-bottom",
+  "cw-rear-top",
+  "lamp1-tail",
+  "screen1-top-far"
+ ],
+ "rmsFit": 42.73,
+ "outliers": [
+  "wf-front-top",
+  "wf-front-bottom",
+  "cw-front-top",
+  "screen0-top-near",
+  "screen0-bottom-near",
+  "screen0-bottom-far",
+  "screen1-bottom-near",
+  "screen2-top-far",
+  "screen2-bottom-near",
+  "screen2-bottom-far"
+ ],
+ "focalPx": 6018.8,
+ "principal": [
+  1920.0,
+  1280.0
+ ],
+ "k1": 0.0,
+ "fitErrors": {
+  "wf-front-top": {
+   "px": 50.45,
+   "cm": 9.43,
+   "projected": [
+    2799.6,
+    915.0
+   ]
+  },
+  "wf-rear-top": {
+   "px": 11.39,
+   "cm": 2.45,
+   "projected": [
+    3010.4,
+    1035.1
+   ]
+  },
+  "wf-front-bottom": {
+   "px": 77.2,
+   "cm": 14.31,
+   "projected": [
+    2803.2,
+    1494.3
+   ]
+  },
+  "cw-front-top": {
+   "px": 81.94,
+   "cm": 12.35,
+   "projected": [
+    2414.3,
+    714.7
+   ]
+  },
+  "lamp0-head": {
+   "px": 33.92,
+   "cm": 4.7,
+   "projected": [
+    1899.5,
+    1742.9
+   ]
+  },
+  "lamp0-tail": {
+   "px": 26.84,
+   "cm": 3.76,
+   "projected": [
+    1761.2,
+    1734.2
+   ]
+  },
+  "lamp1-head": {
+   "px": 22.22,
+   "cm": 3.35,
+   "projected": [
+    729.2,
+    1668.6
+   ]
+  },
+  "screen0-top-near": {
+   "px": 25.81,
+   "cm": 3.61,
+   "projected": [
+    2097.6,
+    446.7
+   ]
+  },
+  "screen0-top-far": {
+   "px": 38.27,
+   "cm": 5.47,
+   "projected": [
+    1758.6,
+    440.0
+   ]
+  },
+  "screen0-bottom-near": {
+   "px": 33.86,
+   "cm": 4.68,
+   "projected": [
+    2091.5,
+    1157.4
+   ]
+  },
+  "screen0-bottom-far": {
+   "px": 12.97,
+   "cm": 1.84,
+   "projected": [
+    1732.7,
+    1144.3
+   ]
+  },
+  "screen1-top-near": {
+   "px": 23.06,
+   "cm": 3.33,
+   "projected": [
+    1614.9,
+    470.4
+   ]
+  },
+  "screen1-bottom-near": {
+   "px": 20.03,
+   "cm": 2.86,
+   "projected": [
+    1582.4,
+    1157.5
+   ]
+  },
+  "screen1-bottom-far": {
+   "px": 10.25,
+   "cm": 1.52,
+   "projected": [
+    1078.0,
+    1145.7
+   ]
+  },
+  "screen2-top-near": {
+   "px": 10.75,
+   "cm": 1.62,
+   "projected": [
+    1007.2,
+    460.4
+   ]
+  },
+  "screen2-top-far": {
+   "px": 85.14,
+   "cm": 13.14,
+   "projected": [
+    722.5,
+    482.5
+   ]
+  },
+  "screen2-bottom-near": {
+   "px": 55.84,
+   "cm": 8.37,
+   "projected": [
+    943.1,
+    1126.7
+   ]
+  },
+  "screen2-bottom-far": {
+   "px": 13.55,
+   "cm": 2.08,
+   "projected": [
+    644.6,
+    1124.7
+   ]
+  }
+ },
+ "heldOut": {
+  "wf-rear-bottom": {
+   "px": 91.4,
+   "cm": 19.51,
+   "projected": [
+    3015.1,
+    1539.0
+   ]
+  },
+  "cw-rear-top": {
+   "px": 73.59,
+   "cm": 11.66,
+   "projected": [
+    2510.9,
+    762.7
+   ]
+  },
+  "lamp1-tail": {
+   "px": 21.12,
+   "cm": 3.16,
+   "projected": [
+    847.4,
+    1676.1
+   ]
+  },
+  "screen1-top-far": {
+   "px": 47.52,
+   "cm": 7.1,
+   "projected": [
+    1135.2,
+    482.5
+   ]
+  }
+ },
+ "conditioning": {
+  "flatness": 0.4125,
+  "offPlane": 15,
+  "faceSigmaCm": {
+   "lamp0-tail": 2.37,
+   "lamp0-head": 2.54,
+   "lamp1-tail": 2.62,
+   "lamp1-head": 2.84,
+   "screen0-top-near": 2.48,
+   "screen0-top-far": 2.07,
+   "screen0-bottom-near": 2.43,
+   "screen0-bottom-far": 1.89,
+   "screen1-top-near": 1.96,
+   "screen1-top-far": 2.15,
+   "screen1-bottom-near": 1.75,
+   "screen1-bottom-far": 1.88,
+   "screen2-top-near": 2.37,
+   "screen2-top-far": 2.94,
+   "screen2-bottom-near": 2.08,
+   "screen2-bottom-far": 2.71,
+   "nose-tip": 1.74
+  },
+  "faceScored": false
+ },
+ "notScored": [
+  "lamp1-tail",
+  "screen1-top-far"
+ ],
+ "worstHeldOutCm": 19.51,
+ "ok": false,
+ "camera": {
+  "matrix": [
+   [
+    0.38116207860562734,
+    -0.08473297982453937,
+    -0.9206170712967973,
+    -7.728874628161098
+   ],
+   [
+    -0.9226094532817289,
+    0.02892592215601571,
+    -0.38464930487733057,
+    -4.176766071255886
+   ],
+   [
+    0.05922217952952435,
+    0.9959837414122171,
+    -0.0671499835762786,
+    1.5776204668265645
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "lens": 56.426249999999996,
+  "shift": [
+   0.0,
+   0.0
+  ],
+  "size": [
+   1600,
+   1067
+  ],
+  "k1": 0.0
+ }
+}

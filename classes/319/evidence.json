@@ -1,0 +1,626 @@
+{
+ "refs": {
+  "dia16": {
+   "file": "refs/Class-319-Northern-2016-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_319_Northern_2016_Diagram.png",
+   "author": "Feathers44",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-03-06",
+   "kind": "diagram",
+   "unit": "319 (4 cars), Northern (2016 livery)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dia18": {
+   "file": "refs/Class-319-Northern-2018-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_319_Northern_2018_Diagram.png",
+   "author": "Feathers44, AJKPhotography",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-04-06",
+   "kind": "diagram",
+   "unit": "319 (4 cars), Northern 'by Arriva'",
+   "view": "side elevation, nose left (same drawing as dia16)",
+   "light": "flat colours"
+  },
+  "diaNE": {
+   "file": "refs/Class-319-Northern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_319_Northern_Diagram.png",
+   "author": "Feathers44",
+   "licence": "CC BY-SA 3.0",
+   "date": "2017-07-24",
+   "kind": "diagram",
+   "unit": "319, Northern Electrics (earlier livery; not rendered)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p366": {
+   "file": "refs/41-365-The-15-44-to-Preston.-50930127671-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:41-365_The_15_44_to_Preston._%2850930127671%29.jpg",
+   "author": "JOHN DICKINSON from Chorley, Lancashire, United Kingdom",
+   "licence": "Public domain",
+   "date": "2021-02-10",
+   "kind": "photo",
+   "unit": "319366 (Northern Trains)",
+   "view": "three-quarter, cab car side, long lens 44 mm APS-C, nose right (far side)",
+   "light": "overcast"
+  },
+  "p386w": {
+   "file": "refs/Class-319-Wigan-North-Western.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_319_Wigan_North_Western.jpg",
+   "author": "David Frankal",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-07-01",
+   "kind": "photo",
+   "unit": "319386",
+   "view": "nearly head-on from slightly to the train's left, 4.3 mm (24 mm equiv.)",
+   "light": "overcast"
+  },
+  "p367": {
+   "file": "refs/319367-at-LIV-2023.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:319367_at_LIV_2023.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY 4.0",
+   "date": "2023-11-25",
+   "kind": "photo",
+   "unit": "319367 (one of the last in service)",
+   "view": "close front three-quarter from the left, nose left",
+   "light": "station roof, diffuse"
+  },
+  "p386m": {
+   "file": "refs/Northern-Class-319-386-at-Manchester-Piccadilly-Platform-14.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Northern_Class_319_386_at_Manchester_Piccadilly_Platform_14.jpg",
+   "author": "davwheat",
+   "licence": "CC BY-SA 2.0",
+   "date": "2022-02-19",
+   "kind": "photo",
+   "unit": "319386",
+   "view": "front three-quarter, nose left, headlamp lit",
+   "light": "station roof"
+  },
+  "p386l": {
+   "file": "refs/30.07.21-Liverpool-Lime-Street-319386-51361867300-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:30.07.21_Liverpool_Lime_Street_319386_%2851361867300%29.jpg",
+   "author": "Phil Richards from London, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2021-07-30",
+   "kind": "photo",
+   "unit": "319386",
+   "view": "front three-quarter, nose left",
+   "light": "station roof"
+  },
+  "p383": {
+   "file": "refs/319383-of-Northern-Trains-at-Lime-Street.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:319383_of_Northern_Trains_at_Lime_Street.jpg",
+   "author": "Rodhullandemu",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-05-11",
+   "kind": "photo",
+   "unit": "319383",
+   "view": "close front three-quarter, nose right",
+   "light": "station roof"
+  },
+  "p379": {
+   "file": "refs/58-365-BREL-319-379-50988414321-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:58-365_BREL_319_379_%2850988414321%29.jpg",
+   "author": "JOHN DICKINSON from Chorley, Lancashire, United Kingdom",
+   "licence": "Public domain",
+   "date": "2021-02-27",
+   "kind": "photo",
+   "unit": "319379",
+   "view": "high three-quarter, nose right, on a curve",
+   "light": "overcast"
+  },
+  "p370": {
+   "file": "refs/319370-at-Lime-Street-Station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:319370_at_Lime_Street_Station.jpg",
+   "author": "Rodhullandemu",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-05-08",
+   "kind": "photo",
+   "unit": "319370",
+   "view": "close front three-quarter, nose left",
+   "light": "station roof"
+  },
+  "p368": {
+   "file": "refs/Stockport-Arriva-319368-Hazel-Grove-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Stockport_-_Arriva_319368_Hazel_Grove_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-09-14",
+   "kind": "photo",
+   "unit": "319368",
+   "view": "front three-quarter, nose right",
+   "light": "bright"
+  },
+  "p364": {
+   "file": "refs/Manchester-Piccadilly-Arriva-319364-Liverpool-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Manchester_Piccadilly_-_Arriva_319364_Liverpool_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-09-05",
+   "kind": "photo",
+   "unit": "319364",
+   "view": "front three-quarter",
+   "light": "bright"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-386w",
+   "ref": "p386w",
+   "box": [
+    680,
+    560,
+    1520,
+    1550
+   ],
+   "feature": "whole front, nearly head-on",
+   "reading": "Flat front, all yellow from the orange line under the grey dome down to a rounded lower edge; navy corners and a navy band below. Two screens either side of a flush gangway door with a tall window; wipers parked from the lower outer corners up toward the door; a chrome grab rail under each screen; one black-rimmed lamp box low on each side; number 319386 in black above the right-hand box.",
+   "secondReader": "Grey dome, thin orange line, yellow front, navy at the bottom and round both sides; two screens with wipers, narrower centre door with tall window, grab rails under the screens, number on the right under the right rail above the right lamps, grille to its left. Agrees."
+  },
+  {
+   "id": "f-dome-386w",
+   "ref": "p386w",
+   "box": [
+    680,
+    560,
+    1520,
+    840
+   ],
+   "feature": "roof dome, orange line, top of the yellow",
+   "reading": "Dark grey roof dome; a thin orange line runs over the top of the yellow, rising to the centre and joining the cantrail line on the side; the yellow's top corners are well rounded."
+  },
+  {
+   "id": "f-screens-386w",
+   "ref": "p386w",
+   "box": [
+    690,
+    780,
+    1520,
+    1170
+   ],
+   "feature": "windscreens and gangway door window",
+   "reading": "Two near-rectangular screens with rounded corners in black rubber, left top strip is a sun-blind; the gangway door window is narrower and as tall, all three tops level and bottoms level."
+  },
+  {
+   "id": "f-gangway-386w",
+   "ref": "p386w",
+   "box": [
+    930,
+    700,
+    1240,
+    1480
+   ],
+   "feature": "gangway door: outline, seams, window",
+   "reading": "Gangway door outlined only by thin dark seams, flush with the face, yellow; its window has a black rubber frame; a small hinged handle box below the window; the door's lower seams run down to the bottom of the yellow.",
+   "secondReader": "Thin seams only, no black frame or rubber; seams run down to the navy band. Agrees."
+  },
+  {
+   "id": "f-lamps-l-386w",
+   "ref": "p386w",
+   "box": [
+    730,
+    1270,
+    930,
+    1400
+   ],
+   "feature": "lamp housing, image left (train's right)",
+   "reading": "Black-rimmed rounded-rectangle housing; outboard to inboard: a narrow upright clear marker, a large round clear headlamp, a round red tail lamp (unlit).",
+   "secondReader": "Outer to centre: small clear upright rectangle, large clear headlamp, round dark red lamp. Agrees."
+  },
+  {
+   "id": "f-lamps-r-386w",
+   "ref": "p386w",
+   "box": [
+    1210,
+    1290,
+    1420,
+    1420
+   ],
+   "feature": "lamp housing, image right (train's left)",
+   "reading": "Mirror of the left: inboard red tail, then clear headlamp, then the narrow marker outboard (lit amber-white).",
+   "secondReader": "Outer to centre: small rectangle (lit), clear headlamp, red lamp. Agrees."
+  },
+  {
+   "id": "f-number-386w",
+   "ref": "p386w",
+   "box": [
+    1200,
+    1230,
+    1480,
+    1320
+   ],
+   "feature": "unit number and grille",
+   "reading": "'319386' in black sans digits about as tall as the grille beside it; a 3x4 grid of dark round holes (horn grille) to the left; both above the right-hand lamp box."
+  },
+  {
+   "id": "f-lower-386w",
+   "ref": "p386w",
+   "box": [
+    680,
+    1380,
+    1520,
+    1700
+   ],
+   "feature": "below the lamps: yellow edge, lower band, coupler",
+   "reading": "Below the yellow a dark navy band, then black valance/coupler; the yellow's lower edge curves up at the corners.",
+   "secondReader": "Navy band under the yellow, deepest under the door (step plate), then dark valance and coupler. Agrees."
+  },
+  {
+   "id": "f-face-367",
+   "ref": "p367",
+   "box": [
+    120,
+    230,
+    1720,
+    1750
+   ],
+   "feature": "front three-quarter from the left, 2023",
+   "reading": "Same front in 2023: yellow, flush gangway door with thin seams, lamp boxes marker/head/tail outboard to inboard, number 319367 above the right box; navy corner and a deep navy band under the yellow, black valance below.",
+   "secondReader": "Navy directly under the yellow, step plate under the door. Agrees."
+  },
+  {
+   "id": "f-lamps-l-367",
+   "ref": "p367",
+   "box": [
+    250,
+    1300,
+    650,
+    1520
+   ],
+   "feature": "lamp housing, image left, close, tail lit",
+   "reading": "Housing: narrow marker outboard, clear headlamp, red LED tail inboard (lit, a cluster of red LEDs).",
+   "secondReader": "Marker, headlamp, lit red LED cluster. Agrees."
+  },
+  {
+   "id": "f-lamps-r-367",
+   "ref": "p367",
+   "box": [
+    1150,
+    1340,
+    1550,
+    1560
+   ],
+   "feature": "lamp housing, image right, close",
+   "reading": "Mirror: red LED tail inboard (lit), clear headlamp, narrow marker outboard.",
+   "secondReader": "Marker, headlamp, lit red LED cluster. Agrees."
+  },
+  {
+   "id": "f-face-366",
+   "ref": "p366",
+   "box": [
+    2300,
+    950,
+    3250,
+    1850
+   ],
+   "feature": "front seen from the right, with the corner",
+   "reading": "Front from the right: the yellow wraps only to the corner, the corner itself is navy; flat face with no rake visible against the vertical cab door window."
+  },
+  {
+   "id": "s-cabside-366",
+   "ref": "p366",
+   "box": [
+    2120,
+    1050,
+    2420,
+    1760
+   ],
+   "feature": "cab door and its window, cab corner",
+   "reading": "Cab door is a plain navy panel outlined by thin seams, with a tall narrow window in a white-edged frame split by a horizontal bar about halfway (a drop light over a fixed pane); a black rain strip above the door.",
+   "secondReader": "Navy cab door with one tall narrow window split by a bar halfway. Agrees."
+  },
+  {
+   "id": "s-corner-door-366",
+   "ref": "p366",
+   "box": [
+    1650,
+    1050,
+    2450,
+    1760
+   ],
+   "feature": "cab corner, cab door, windows A and B, door 1 (three-quarter)",
+   "reading": "From the corner back: cab door with tall window, a short single-pane window A, a long two-pane window B (sliding top lights), then the navy ends in a sweeping curve just ahead of door 1; door 1 navy with two leaf windows; three coloured 'n' dots low on the navy."
+  },
+  {
+   "id": "s-windowsAB-366",
+   "ref": "p366",
+   "box": [
+    1780,
+    1150,
+    2200,
+    1500
+   ],
+   "feature": "windows A (short) and B behind the cab",
+   "reading": "Window A narrower than B; both have light grey frames, B has a divided top light; frames' bottoms level."
+  },
+  {
+   "id": "s-door1-366",
+   "ref": "p366",
+   "box": [
+    1650,
+    1080,
+    1850,
+    1720
+   ],
+   "feature": "door 1, its leaves and windows",
+   "reading": "Door 1: two navy leaves with tall rounded windows, a thin dark central seam, an orange-edged step below; a grey door-gear cover strip above.",
+   "secondReader": "Navy pair of leaves, one tall rounded window each, orange step. Agrees."
+  },
+  {
+   "id": "s-navyedge-366",
+   "ref": "p366",
+   "box": [
+    1780,
+    1080,
+    2000,
+    1720
+   ],
+   "feature": "livery: navy cab end's curved edge to white",
+   "reading": "The navy/white boundary is a smooth convex curve: at the cantrail it meets door 1's front edge, at the bottom it is about 1.5 m further forward.",
+   "secondReader": "Smooth curve; white narrow at the top beside the door, widest at the bottom. Agrees (navy ends further forward low down)."
+  },
+  {
+   "id": "s-dots-366",
+   "ref": "p366",
+   "box": [
+    1920,
+    1460,
+    2120,
+    1700
+   ],
+   "feature": "three coloured 'n' dots on the navy",
+   "reading": "Three discs each with a white 'n': a small purple one rear, a large teal one, a mid orange one nearest the front; teal centre highest.",
+   "secondReader": "Left to right: small purple (partly behind teal), large teal, medium orange, each with a white 'n'. Agrees."
+  },
+  {
+   "id": "s-logo-366",
+   "ref": "p366",
+   "box": [
+    1420,
+    1440,
+    1620,
+    1640
+   ],
+   "feature": "Northern logo between door 1 and door 2",
+   "reading": "Northern logo: a navy disc with a white 'n' ring at the rear, then 'NORTHERN' in navy capitals, letters about half the disc's height, set at the disc's mid height.",
+   "secondReader": "Navy oval with a white arch on the left, 'NORTHERN' in thin capitals to the right, the oval about as tall as or taller than the lettering. Agrees (lettering about half the disc)."
+  },
+  {
+   "id": "s-door2-366",
+   "ref": "p366",
+   "box": [
+    1270,
+    1150,
+    1400,
+    1720
+   ],
+   "feature": "door 2",
+   "reading": "Door 2 navy, like door 1, on white bodyside."
+  },
+  {
+   "id": "s-windowsCDEF-366",
+   "ref": "p366",
+   "box": [
+    1080,
+    1180,
+    1720,
+    1460
+   ],
+   "feature": "windows C-F and door 2 (saloon)",
+   "reading": "Saloon windows in pairs between the doors, grey frames, same height as A/B."
+  },
+  {
+   "id": "s-carend-366",
+   "ref": "p366",
+   "box": [
+    980,
+    1150,
+    1180,
+    1500
+   ],
+   "feature": "cab car's rear end and gangway",
+   "reading": "Cab car rear end: white bodyside to a rounded corner, then a dark gangway connector."
+  },
+  {
+   "id": "s-car2-366",
+   "ref": "p366",
+   "box": [
+    480,
+    1180,
+    1110,
+    1520
+   ],
+   "feature": "second car (MSO): doors, windows, logo",
+   "reading": "Second car (motor car with pantograph): white, two pairs of windows, a navy double door, two pairs, navy door, two pairs; 'n NORTHERN' logo low between the doors, coloured dots near its end."
+  },
+  {
+   "id": "s-roof-366",
+   "ref": "p366",
+   "box": [
+    1000,
+    1000,
+    2400,
+    1200
+   ],
+   "feature": "roof edge and cantrail from below",
+   "reading": "From below only the cantrail edge is visible; an orange line along the cantrail on the navy."
+  },
+  {
+   "id": "s-cabside-367",
+   "ref": "p367",
+   "box": [
+    1700,
+    300,
+    2600,
+    1500
+   ],
+   "feature": "cab side, dots and first door from the front",
+   "reading": "The other side (nose left): same navy cab end; dots from the front: orange-gold, teal, small purple; curve to white before door 1; orange cantrail line."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-366",
+   "ref": "p366",
+   "box": [
+    1180,
+    1455,
+    1250,
+    1490
+   ],
+   "what": "white bodyside under window E"
+  },
+  {
+   "id": "navy-366",
+   "ref": "p366",
+   "box": [
+    2050,
+    1460,
+    2120,
+    1500
+   ],
+   "what": "navy bodyside at the cab end",
+   "neutral": "white-366"
+  },
+  {
+   "id": "navydoor-366",
+   "ref": "p366",
+   "box": [
+    1722,
+    1450,
+    1742,
+    1550
+   ],
+   "what": "navy door leaf, door 1",
+   "neutral": "white-366"
+  },
+  {
+   "id": "teal-366",
+   "ref": "p366",
+   "box": [
+    1982,
+    1560,
+    1996,
+    1600
+   ],
+   "what": "teal 'n' dot",
+   "neutral": "white-366"
+  },
+  {
+   "id": "orange-366",
+   "ref": "p366",
+   "box": [
+    2072,
+    1580,
+    2088,
+    1620
+   ],
+   "what": "orange 'n' dot",
+   "neutral": "white-366"
+  },
+  {
+   "id": "purple-366",
+   "ref": "p366",
+   "box": [
+    1948,
+    1598,
+    1956,
+    1612
+   ],
+   "what": "small purple 'n' dot",
+   "neutral": "white-366"
+  },
+  {
+   "id": "logo-366",
+   "ref": "p366",
+   "box": [
+    1450,
+    1520,
+    1460,
+    1560
+   ],
+   "what": "logo roundel navy",
+   "neutral": "white-366"
+  },
+  {
+   "id": "yellow-366",
+   "ref": "p366",
+   "box": [
+    2700,
+    1480,
+    2760,
+    1520
+   ],
+   "what": "yellow front (faces the camera at another angle; no neutral on the face)"
+  },
+  {
+   "id": "yellow-386w",
+   "ref": "p386w",
+   "box": [
+    1000,
+    1300,
+    1080,
+    1340
+   ],
+   "what": "yellow front head-on, gangway door lower panel (no neutral on the face)"
+  },
+  {
+   "id": "dome-386w",
+   "ref": "p386w",
+   "box": [
+    1000,
+    600,
+    1100,
+    640
+   ],
+   "what": "roof dome grey (no neutral)"
+  },
+  {
+   "id": "lower-386w",
+   "ref": "p386w",
+   "box": [
+    900,
+    1460,
+    1000,
+    1480
+   ],
+   "what": "band below the yellow (no neutral)"
+  },
+  {
+   "id": "white-367",
+   "ref": "p367",
+   "box": [
+    2560,
+    1080,
+    2610,
+    1140
+   ],
+   "what": "white bodyside, p367"
+  },
+  {
+   "id": "navy-367",
+   "ref": "p367",
+   "box": [
+    2060,
+    1520,
+    2100,
+    1580
+   ],
+   "what": "navy cab side, p367",
+   "neutral": "white-367"
+  },
+  {
+   "id": "yellow-367",
+   "ref": "p367",
+   "box": [
+    700,
+    1350,
+    800,
+    1450
+   ],
+   "what": "yellow front, p367 (no neutral on the face)"
+  }
+ ],
+ "secondReader": "A general-purpose subagent given only the crop images and a question per crop, 2026-10-06."
+}

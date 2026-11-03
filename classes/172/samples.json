@@ -1,0 +1,306 @@
+{
+ "gold-wor": {
+  "ref": "pwor",
+  "box": [
+   2610,
+   1600,
+   2660,
+   1700
+  ],
+  "what": "WMR gold, cab side below the logo, overcast",
+  "median": "#9E511B",
+  "iqr": [
+   8,
+   8,
+   6
+  ]
+ },
+ "purple-wor": {
+  "ref": "pwor",
+  "box": [
+   2050,
+   1720,
+   2140,
+   1780
+  ],
+  "what": "bodyside purple below the windows, overcast",
+  "median": "#423935",
+  "iqr": [
+   18,
+   15,
+   15
+  ]
+ },
+ "purple-top-wor": {
+  "ref": "pwor",
+  "box": [
+   1900,
+   1390,
+   2050,
+   1420
+  ],
+  "what": "bodyside purple above the windows",
+  "median": "#6F6B6C",
+  "iqr": [
+   23,
+   23,
+   23
+  ]
+ },
+ "door-wor": {
+  "ref": "pwor",
+  "box": [
+   2180,
+   1600,
+   2210,
+   1700
+  ],
+  "what": "door 1 gold",
+  "median": "#825237",
+  "iqr": [
+   73,
+   28,
+   21
+  ]
+ },
+ "roof-wor": {
+  "ref": "pwor",
+  "box": [
+   1900,
+   1300,
+   2100,
+   1330
+  ],
+  "what": "roof",
+  "median": "#C9C9CA",
+  "iqr": [
+   6,
+   6,
+   6
+  ]
+ },
+ "yellow-wor": {
+  "ref": "pwor",
+  "box": [
+   2980,
+   1400,
+   3070,
+   1780
+  ],
+  "what": "gangway door yellow",
+  "median": "#D7940A",
+  "iqr": [
+   10,
+   10,
+   8
+  ]
+ },
+ "face-wor": {
+  "ref": "pwor",
+  "box": [
+   2710,
+   1648,
+   2840,
+   1678
+  ],
+  "what": "face gold beside the lamp box",
+  "median": "#C47424",
+  "iqr": [
+   7,
+   7,
+   10
+  ]
+ },
+ "black-wor": {
+  "ref": "pwor",
+  "box": [
+   2743,
+   1869,
+   2880,
+   1954
+  ],
+  "what": "lower front black",
+  "median": "#222220",
+  "iqr": [
+   7,
+   7,
+   7
+  ]
+ },
+ "gold-342": {
+  "ref": "p342",
+  "box": [
+   590,
+   1360,
+   630,
+   1460
+  ],
+  "what": "face gold, warm evening light",
+  "median": "#D17F02",
+  "iqr": [
+   16,
+   17,
+   7
+  ]
+ },
+ "yellow-342": {
+  "ref": "p342",
+  "box": [
+   1120,
+   860,
+   1200,
+   1060
+  ],
+  "what": "gangway door yellow, evening",
+  "median": "#DB9402",
+  "iqr": [
+   16,
+   15,
+   8
+  ]
+ },
+ "frame-342": {
+  "ref": "p342",
+  "box": [
+   1420,
+   860,
+   1460,
+   1160
+  ],
+  "what": "gangway frame grey",
+  "median": "#575D68",
+  "iqr": [
+   59,
+   70,
+   75
+  ]
+ },
+ "black-342": {
+  "ref": "p342",
+  "box": [
+   710,
+   1810,
+   860,
+   1910
+  ],
+  "what": "lower front black",
+  "median": "#1E2638",
+  "iqr": [
+   11,
+   12,
+   11
+  ]
+ },
+ "purple-p": {
+  "ref": "pside",
+  "box": [
+   845,
+   790,
+   895,
+   805
+  ],
+  "what": "bodyside purple below the windows, sun",
+  "median": "#5D3F58",
+  "iqr": [
+   7,
+   7,
+   6
+  ]
+ },
+ "purple-top-p": {
+  "ref": "pside",
+  "box": [
+   850,
+   636,
+   905,
+   646
+  ],
+  "what": "bodyside purple above the windows, sun",
+  "median": "#3B374A",
+  "iqr": [
+   34,
+   24,
+   25
+  ]
+ },
+ "gold-p": {
+  "ref": "pside",
+  "box": [
+   600,
+   818,
+   620,
+   860
+  ],
+  "what": "cab side gold, sun",
+  "median": "#C47B1E",
+  "iqr": [
+   26,
+   25,
+   7
+  ]
+ },
+ "yellow-p": {
+  "ref": "pside",
+  "box": [
+   370,
+   760,
+   430,
+   860
+  ],
+  "what": "gangway door yellow, sun",
+  "median": "#FAB613",
+  "iqr": [
+   20,
+   27,
+   19
+  ]
+ },
+ "face-p": {
+  "ref": "pside",
+  "box": [
+   486,
+   894,
+   507,
+   909
+  ],
+  "what": "face gold beside the number",
+  "median": "#D78817",
+  "iqr": [
+   11,
+   12,
+   3
+  ]
+ },
+ "door-p": {
+  "ref": "pside",
+  "box": [
+   783,
+   760,
+   798,
+   828
+  ],
+  "what": "door 1 gold, sun",
+  "median": "#64462B",
+  "iqr": [
+   147,
+   78,
+   29
+  ]
+ },
+ "roof-p": {
+  "ref": "pside",
+  "box": [
+   670,
+   625,
+   730,
+   640
+  ],
+  "what": "roof, sun",
+  "median": "#B2C0D1",
+  "iqr": [
+   31,
+   51,
+   82
+  ]
+ }
+}

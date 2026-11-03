@@ -1,0 +1,184 @@
+{
+ "ref": "p316",
+ "side": "far",
+ "model": {
+  "wa-front-top": [
+   2.275,
+   3.116
+  ],
+  "wa-rear-top": [
+   3.651,
+   3.116
+  ],
+  "wa-front-bottom": [
+   2.275,
+   2.032
+  ],
+  "wa-rear-bottom": [
+   3.651,
+   2.032
+  ],
+  "wb-front-top": [
+   4.346,
+   3.116
+  ],
+  "wb-rear-top": [
+   5.722,
+   3.116
+  ],
+  "wb-front-bottom": [
+   4.346,
+   2.032
+  ],
+  "wb-rear-bottom": [
+   5.722,
+   2.032
+  ]
+ },
+ "points": {
+  "wa-front-top": [
+   1020.7,
+   727.1
+  ],
+  "wa-rear-top": [
+   689.9,
+   728.1
+  ],
+  "wa-front-bottom": [
+   1008.9,
+   1079.7
+  ],
+  "wa-rear-bottom": [
+   677.7,
+   1070.8
+  ],
+  "wb-front-top": [
+   508.9,
+   728.0
+  ],
+  "wb-rear-top": [
+   204.7,
+   727.4
+  ],
+  "wb-front-bottom": [
+   496.9,
+   1064.7
+  ],
+  "wb-rear-bottom": [
+   193.4,
+   1055.6
+  ],
+  "door0-rear-top": [
+   1124,
+   637
+  ],
+  "door0-front-top": [
+   1352,
+   637
+  ]
+ },
+ "holdout": [
+  "wb-rear-bottom",
+  "door0-front-top"
+ ],
+ "readings": {
+  "wa-*": "first saloon-side window behind the cab door, outer edge of its light frame (edges fitted along 60% of each side, bodyside.py edgefit), frame = glass +-0.068 m along, +-0.062 m up (diagram 5 px)",
+  "wb-*": "second window, same",
+  "door0-rear-top": "cab door top seam meets its rear seam (blurred; +-3 px)",
+  "door0-front-top": "top seam meets the front seam, among the saltire dots"
+ },
+ "surface": {
+  "yel-top-far": [
+   1648,
+   1026
+  ],
+  "yel-top-near": [
+   2228,
+   1016
+  ],
+  "yel-outer-bot-far": [
+   1672,
+   1220
+  ],
+  "yel-outer-bot-near": [
+   2228,
+   1200
+  ],
+  "yel-tongue-far": [
+   1892,
+   1308
+  ],
+  "yel-tongue-near": [
+   2060,
+   1300
+  ],
+  "orange-mid": [
+   1900,
+   612
+  ],
+  "surround-top-mid": [
+   1900,
+   632
+  ],
+  "band-bottom-mid": [
+   1900,
+   1020
+  ],
+  "lamp-far": [
+   1746,
+   1264
+  ],
+  "number-mid": [
+   2168,
+   1448
+  ],
+  "slot-far-l": [
+   1700,
+   1384
+  ],
+  "slot-far-r": [
+   1856,
+   1420
+  ],
+  "divider-top": [
+   1895,
+   640
+  ],
+  "divider-bot": [
+   1903,
+   990
+  ]
+ },
+ "facePairs": {
+  "yellow-top": {
+   "far": [
+    1648,
+    1028
+   ],
+   "near": [
+    2231,
+    1022
+   ]
+  },
+  "yellow-outer-bottom": {
+   "far": [
+    1668,
+    1222
+   ],
+   "near": [
+    2232,
+    1201
+   ]
+  },
+  "yellow-tongue-bottom": {
+   "far": [
+    1893,
+    1302
+   ],
+   "near": [
+    2058,
+    1296
+   ]
+  }
+ }
+}

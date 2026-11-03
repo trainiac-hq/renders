@@ -1,0 +1,254 @@
+{
+ "ref": "p814",
+ "side": "far",
+ "note": "375814, far cab. Bodyside to the LEFT of the face, nose to the right: the train's right side (far, +Y). The face cluster nearer the camera (left as seen) is z>0: lamp1. Points placed 2026-10-05 on 4x pick panels and 2-4x grid crops.",
+ "points": {
+  "door0-front-top": [
+   2238,
+   980
+  ],
+  "door0-rear-top": [
+   2128,
+   992
+  ],
+  "door1-front-top": [
+   1828,
+   1038
+  ],
+  "door1-rear-top": [
+   1698,
+   1050
+  ],
+  "door1-front-bottom": [
+   1821,
+   1675
+  ],
+  "door1-rear-bottom": [
+   1692,
+   1640
+  ],
+  "door2-front-top": [
+   1296,
+   1114
+  ],
+  "door2-rear-top": [
+   1237,
+   1122
+  ],
+  "lamp1-head": [
+   2515,
+   1623
+  ],
+  "lamp1-tail": [
+   2610,
+   1650
+  ],
+  "lamp0-head": [
+   3200,
+   1611
+  ],
+  "lamp0-tail": [
+   3131,
+   1641
+  ],
+  "gangway-frame-top-far": [
+   2760,
+   873
+  ],
+  "gangway-frame-bottom-far": [
+   2753,
+   1809
+  ],
+  "gangway-frame-bottom-near": [
+   3104,
+   1803
+  ],
+  "frame-cap-end": [
+   2446,
+   972
+  ],
+  "frame-screen-top-in": [
+   2690,
+   977
+  ],
+  "frame-panel-top-out": [
+   2430,
+   1453
+  ],
+  "frame-panel-bottom-out": [
+   2502,
+   1723
+  ],
+  "frame-number": [
+   2563,
+   1515
+  ],
+  "lw1r-top-rear": [
+   1706,
+   1152
+  ],
+  "lw1r-top-front": [
+   1731,
+   1150
+  ],
+  "lw1r-bottom-rear": [
+   1678,
+   1425
+  ],
+  "lw1r-bottom-front": [
+   1702,
+   1427
+  ],
+  "lw1f-top-rear": [
+   1771,
+   1146
+  ],
+  "lw1f-top-front": [
+   1799,
+   1144
+  ],
+  "lw1f-bottom-rear": [
+   1742,
+   1430
+  ],
+  "lw1f-bottom-front": [
+   1770,
+   1432
+  ]
+ },
+ "model": {
+  "lw1r-top-rear": [
+   6.442,
+   2.87
+  ],
+  "lw1r-top-front": [
+   6.032,
+   2.87
+  ],
+  "lw1r-bottom-rear": [
+   6.442,
+   1.9
+  ],
+  "lw1r-bottom-front": [
+   6.032,
+   1.9
+  ],
+  "lw1f-top-rear": [
+   5.532,
+   2.87
+  ],
+  "lw1f-top-front": [
+   5.122,
+   2.87
+  ],
+  "lw1f-bottom-rear": [
+   5.532,
+   1.9
+  ],
+  "lw1f-bottom-front": [
+   5.122,
+   1.9
+  ]
+ },
+ "modelFace": {
+  "frame-cap-end": [
+   1.185,
+   3.285
+  ],
+  "frame-screen-top-in": [
+   0.523,
+   3.26
+  ],
+  "frame-panel-top-out": [
+   1.262,
+   2.0
+  ],
+  "frame-panel-bottom-out": [
+   1.062,
+   1.31
+  ],
+  "frame-number": [
+   0.898,
+   1.843
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "door2-rear-top",
+  "lw1f-bottom-front"
+ ],
+ "readings": {
+  "door0-front-top": "cab door front seam meets the door's top outline under the orange line (pk814b d0ft)",
+  "door0-rear-top": "cab door rear seam (dark line, 2128) meets its top outline at 992 (g1, pk814b)",
+  "door1-front-top": "cyan leaf's dark seal, outer front-top corner (g4)",
+  "door1-rear-top": "cyan leaf's dark seal, outer rear-top corner (g2)",
+  "door1-front-bottom": "front leaf edge meets the step strip's top (g5)",
+  "door1-rear-bottom": "rear leaf edge meets the step strip's top (g3)",
+  "door2-front-top": "far door 2 leaf seal front-top corner under the orange line (g6)",
+  "door2-rear-top": "far door 2 leaf seal rear-top corner (g6)",
+  "win-a-front-top": "first bay glass's black surround, front-top corner by the cab door (g8, pk814b)",
+  "win-a-front-bottom": "same window, front-bottom corner (g8, pk814b)",
+  "win-b-rear-top": "bay glass's black surround, rear-top corner by door 1 (g8, pk814b)",
+  "win-b-rear-bottom": "same, rear-bottom corner (g8, pk814b)",
+  "lamp1-head": "lens's bright inner ring 2476-2555 x 1579-1666, centre (pk814c)",
+  "lamp1-tail": "red LED disc 2580-2641 x 1619-1680, centre (pk814c)",
+  "lamp0-head": "far cluster's head lens ring 3158-3242 x 1570-1652, centre (pk814c)",
+  "lamp0-tail": "far cluster's red disc 3106-3157 x 1611-1670, centre (pk814c)",
+  "gangway-frame-top-far": "black frame front: left edge 2760 and top edge 873 extended past the rounded corner (g15)",
+  "gangway-frame-bottom-far": "frame's left edge 2753 meets its bottom 1809 above the dark coupler pocket (g16, brightened; dark)",
+  "gangway-frame-bottom-near": "frame's right edge (white seal ends 3104) at the frame bottom 1803 (g18, brightened; uncertain)",
+  "frame-cap-end": "yellow cap's outer lower end on the orange line's top (pk814d cap)",
+  "frame-screen-top-out": "screen's black surround, outer top corner under the orange line (pk814d sto)",
+  "frame-screen-top-in": "screen's black surround, inner top corner beside the yellow strip at the bellows (pk814d sti)",
+  "frame-panel-top-out": "yellow lamp panel's outer top corner under the black rail (g12, pk814d pto)",
+  "frame-panel-bottom-out": "yellow panel's lower outer tip where its bottom edge starts (g13, pk814d pbc); spec has an r 0.2 corner, so its tangent point",
+  "frame-number": "centre of the '375 814' digits' box 2465-2660 x 1495-1535",
+  "lw1r-top-rear": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1r-top-front": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1r-bottom-rear": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1r-bottom-front": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1f-top-rear": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1f-top-front": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1f-bottom-rear": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "lw1f-bottom-front": "door 1 leaf window (dark pane in the cyan leaf), corner; spec panes 0.25-0.66 m from the door centre, 1.90-2.87 m (g19, g20)",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side far, lamps, gangway-frame near/far and modelFace signs (all z>0 on the left as seen) correct. No change.",
+  "_shift": "cab-car model points moved back 0.20 m with the spec"
+ },
+ "dropped": {
+  "frame-screen-top-out": {
+   "pick": [
+    2443,
+    981
+   ],
+   "why": "the spec corner (z 1.265 at 3.26) lies outside the face's half-width there; landmarks pulls it inward, so it is not the corner the pick sits on"
+  },
+  "win-a-front-top": {
+   "pick": [
+    2100,
+    1118
+   ],
+   "why": "bay window's black surround: read 1.80-2.89 m against the spec glass 1.886-2.784; surround vs glass edge unclear, so not used"
+  },
+  "win-a-front-bottom": {
+   "pick": [
+    2072,
+    1462
+   ],
+   "why": "bay window's black surround: read 1.80-2.89 m against the spec glass 1.886-2.784; surround vs glass edge unclear, so not used"
+  },
+  "win-b-rear-top": {
+   "pick": [
+    1819,
+    1137
+   ],
+   "why": "bay window's black surround: read 1.80-2.89 m against the spec glass 1.886-2.784; surround vs glass edge unclear, so not used"
+  },
+  "win-b-rear-bottom": {
+   "pick": [
+    1797,
+    1443
+   ],
+   "why": "bay window's black surround: read 1.80-2.89 m against the spec glass 1.886-2.784; surround vs glass edge unclear, so not used"
+  }
+ }
+}

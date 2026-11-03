@@ -1,0 +1,114 @@
+{
+ "ref": "p040",
+ "side": "far",
+ "note": "466040 (DMSO leading), 2020, nose to the right: the train's right side (far, +Y); the left-as-seen lamp box is lamp1, the number is on that side (z +0.67..+1.20). Canon EOS 800D at 50 mm (APS-C 23.39 mm wide by its FocalPlaneXResolution); original 6016 px, this copy 3840: about 8210 px.",
+ "points": {
+  "door1-front-top": [
+   2102,
+   1271
+  ],
+  "door1-rear-top": [
+   2004,
+   1283
+  ],
+  "door0-front-top": [
+   2452,
+   1249
+  ],
+  "door0-rear-top": [
+   2368,
+   1254
+  ],
+  "lamp1-head": [
+   2676.5,
+   1860.5
+  ],
+  "lamp0-head": [
+   3231,
+   1854
+  ],
+  "number-start": [
+   2583,
+   1728
+  ],
+  "number-end": [
+   2752,
+   1728
+  ],
+  "cw-front-mid": [
+   2420,
+   1545
+  ],
+  "cw-rear-mid": [
+   2366,
+   1545
+  ],
+  "cw-top-mid": [
+   2393,
+   1339
+  ],
+  "cw-bottom-mid": [
+   2393,
+   1752
+  ],
+  "cd-rear-mid": [
+   2346,
+   1525
+  ],
+  "cd-front-mid": [
+   2428,
+   1525
+  ]
+ },
+ "model": {
+  "cw-front-mid": [
+   1.39,
+   2.395
+  ],
+  "cw-rear-mid": [
+   1.99,
+   2.395
+  ],
+  "cw-top-mid": [
+   1.69,
+   3.02
+  ],
+  "cw-bottom-mid": [
+   1.69,
+   1.77
+  ],
+  "cd-rear-mid": [
+   2.2,
+   2.41
+  ],
+  "cd-front-mid": [
+   1.3,
+   2.41
+  ]
+ },
+ "modelFace": {
+  "number-start": [
+   1.196,
+   1.9
+  ],
+  "number-end": [
+   0.672,
+   1.9
+  ]
+ },
+ "holdout": [
+  "door1-rear-top",
+  "cw-bottom-mid",
+  "number-end",
+  "cd-rear-mid",
+  "cd-front-mid"
+ ],
+ "readings": {
+  "door1-*-top": "zd1top (4x): the leaves' top corners where they meet the roof seam above the orange line",
+  "door0-*-top": "zd0top (4x): the cab door's rear seam top corner and its black front seal at the top",
+  "lamp*-head": "pa: centres of the clear headlamp discs (left 2618-2735 x 1831-1890 lit, right 3206-3256)",
+  "number-*": "pa: '466040' from the 4's left edge to the 0's right edge, digits rows 1710-1746",
+  "cw-*": "zd0top and profiles: the cab door window's outer frame rows 1339-1752 (cols 2395-2405; the glass alone is 1351-1740), x 2366-2420 (rows 1520-1530), between the rear seam 2346 and the front seal 2428",
+  "cd-*": "profile rows 1520-1530: the cab door's rear seam (dip at 2346) and black front seal (2427-2431), at mid height"
+ }
+}

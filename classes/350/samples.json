@@ -1,0 +1,98 @@
+{
+ "grey-116": {
+  "ref": "p116",
+  "box": [
+   2150,
+   1150,
+   2200,
+   1200
+  ],
+  "what": "bodyside grey below the first window (no neutral: raw)",
+  "median": "#535455",
+  "iqr": [
+   9,
+   9,
+   9
+  ]
+ },
+ "darkgreen-116": {
+  "ref": "p116",
+  "box": [
+   2330,
+   1170,
+   2370,
+   1210
+  ],
+  "what": "dark green on the cab end side",
+  "median": "#1B201E",
+  "iqr": [
+   13,
+   11,
+   10
+  ]
+ },
+ "teal-116": {
+  "ref": "p116",
+  "box": [
+   2430,
+   1170,
+   2460,
+   1195
+  ],
+  "what": "teal on the face's lower corner",
+  "median": "#2A4C46",
+  "iqr": [
+   40,
+   48,
+   43
+  ]
+ },
+ "green-116": {
+  "ref": "p116",
+  "box": [
+   1735,
+   1110,
+   1750,
+   1145
+  ],
+  "what": "bright green stripe",
+  "median": "#334540",
+  "iqr": [
+   48,
+   26,
+   40
+  ]
+ },
+ "yellow-116": {
+  "ref": "p116",
+  "box": [
+   2760,
+   1090,
+   2840,
+   1180
+  ],
+  "what": "gangway door yellow",
+  "median": "#BE9B00",
+  "iqr": [
+   6,
+   4,
+   2
+  ]
+ },
+ "roof-116": {
+  "ref": "p116",
+  "box": [
+   2030,
+   733,
+   2120,
+   742
+  ],
+  "what": "roof",
+  "median": "#2F2C35",
+  "iqr": [
+   106,
+   108,
+   99
+  ]
+ }
+}

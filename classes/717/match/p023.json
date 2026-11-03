@@ -1,0 +1,65 @@
+{
+ "ref": "p023",
+ "side": "near",
+ "points": {
+  "lamp1-tail": [
+   605.2,
+   1517.0
+  ],
+  "lamp1-head": [
+   620.9,
+   1588.9
+  ],
+  "lamp0-tail": [
+   1677.1,
+   1549.7
+  ],
+  "lamp0-head": [
+   1585.6,
+   1615.0
+  ],
+  "screen2-top-far": [
+   670.6,
+   883.0
+  ],
+  "screen2-top-near": [
+   892.8,
+   876.5
+  ],
+  "screen2-bottom-far": [
+   631.4,
+   1340.5
+  ],
+  "screen2-bottom-near": [
+   853.6,
+   1347.1
+  ],
+  "screen0-top-far": [
+   1409.2,
+   876.5
+  ],
+  "screen0-top-near": [
+   1762.1,
+   869.9
+  ],
+  "screen0-bottom-far": [
+   1396.1,
+   1347.1
+  ],
+  "screen0-bottom-near": [
+   1729.4,
+   1360.1
+  ]
+ },
+ "holdout": [
+  "lamp0-head",
+  "screen0-bottom-near",
+  "screen2-top-near"
+ ],
+ "readings": {
+  "all": "g717 grid (0.77x): lamp centres (red tails lit, headlamps below inboard); glass corners of the two screens either side of the front door (virtual, rounded)",
+  "focalPx": "no EXIF (3840 px, likely scaled); the face is near planar and the free focal collapses (384 px): fixed at 8000 px, the held-out errors flat within 1 cm over 3000-8000 px",
+  "screens": "the screens glass edges hardly show against the black mask (z25): their corner picks are approximate to 5-10 cm"
+ },
+ "focalPx": 8000
+}

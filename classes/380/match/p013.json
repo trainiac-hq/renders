@@ -1,0 +1,75 @@
+{
+ "ref": "p013",
+ "side": "far",
+ "model": {
+  "w1-top-front": [
+   3.35,
+   2.96
+  ],
+  "w1-bottom-front": [
+   3.35,
+   1.93
+  ],
+  "w1-top-rear": [
+   4.29,
+   2.96
+  ],
+  "w1-bottom-rear": [
+   4.29,
+   1.93
+  ],
+  "s1-top-front": [
+   6.75,
+   2.96
+  ],
+  "s1-bottom-front": [
+   6.75,
+   1.93
+  ]
+ },
+ "points": {
+  "w1-top-front": [
+   814,
+   421
+  ],
+  "w1-bottom-front": [
+   809,
+   513
+  ],
+  "w1-top-rear": [
+   788,
+   423
+  ],
+  "w1-bottom-rear": [
+   781,
+   513
+  ],
+  "s1-top-front": [
+   722,
+   425
+  ],
+  "s1-bottom-front": [
+   717,
+   509
+  ],
+  "door1-front-top": [
+   776,
+   381
+  ],
+  "lamp3-head": [
+   920,
+   541
+  ],
+  "lamp2-tail": [
+   944,
+   549
+  ]
+ },
+ "holdout": [
+  "w1-bottom-rear",
+  "lamp2-tail"
+ ],
+ "readings": {
+  "all": "z26/z27 (12x): window glass corners (front at image right, nose right), door 1's grey leaf top front corner, the far-side headlamp's centre; the LED tail's centre from g13b (3x)"
+ }
+}

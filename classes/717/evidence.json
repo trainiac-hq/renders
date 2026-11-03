@@ -1,0 +1,74 @@
+{
+ "class": "717",
+ "subject": "Class 717 in Great Northern livery",
+ "refs": {
+  "dia": {
+   "file": "refs/Great-Northern-Class-717.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Great_Northern_Class_717.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "kind": "diagram",
+   "view": "side elevation, 130 px tall",
+   "light": "flat colours"
+  },
+  "p023": {
+   "file": "refs/Class-717-023-Great-Northern-at-Finsbury-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_717_023_Great_Northern_at_Finsbury_Park.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "photo",
+   "unit": "717023",
+   "view": "near head-on",
+   "light": "overcast"
+  },
+  "p021": {
+   "file": "refs/717-021-at-Finsbury-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:717_021_at_Finsbury_Park.jpg",
+   "author": "see SOURCES.md",
+   "licence": "see SOURCES.md",
+   "kind": "photo",
+   "unit": "717021",
+   "view": "three-quarter",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-023",
+   "ref": "p023",
+   "box": [
+    400,
+    700,
+    2600,
+    2900
+   ],
+   "feature": "front",
+   "reading": "White face; one black mask round two screens and the centre front door (black, '717023' white on its lower part); black pods on the white cheeks, red tail outboard and higher, headlamp lower inboard; no yellow; an orange line over the roof's front; ribbed white cheeks below either side of the coupler."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    660,
+    130
+   ],
+   "feature": "diagram cab car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-023",
+   "ref": "p023",
+   "box": [
+    700,
+    1950,
+    800,
+    2050
+   ],
+   "what": "white cheek, raw"
+  }
+ ]
+}

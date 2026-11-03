@@ -1,0 +1,114 @@
+{
+ "ref": "pwor",
+ "side": "far",
+ "points": {
+  "lamp1-head": [
+   2755,
+   1737
+  ],
+  "lamp1-tail": [
+   2816,
+   1751
+  ],
+  "lamp0-tail": [
+   3170,
+   1750
+  ],
+  "lamp0-head": [
+   3220,
+   1732
+  ],
+  "v1-tf": [
+   2162,
+   1436
+  ],
+  "v1-br": [
+   2073,
+   1638
+  ],
+  "v2-tf": [
+   2067,
+   1440
+  ],
+  "v2-br": [
+   1983,
+   1633
+  ],
+  "v3-tf": [
+   1977,
+   1444
+  ],
+  "v3-br": [
+   1898,
+   1629
+  ],
+  "v4-tf": [
+   1892,
+   1447
+  ],
+  "v4-br": [
+   1818,
+   1626
+  ],
+  "v5-tf": [
+   1817,
+   1450
+  ],
+  "v5-br": [
+   1743,
+   1622
+  ]
+ },
+ "model": {
+  "v1-tf": [
+   7.76,
+   2.99
+  ],
+  "v1-br": [
+   9.44,
+   1.91
+  ],
+  "v2-tf": [
+   9.64,
+   2.99
+  ],
+  "v2-br": [
+   11.25,
+   1.91
+  ],
+  "v3-tf": [
+   11.45,
+   2.99
+  ],
+  "v3-br": [
+   13.0,
+   1.91
+  ],
+  "v4-tf": [
+   13.21,
+   2.99
+  ],
+  "v4-br": [
+   14.69,
+   1.91
+  ],
+  "v5-tf": [
+   14.8,
+   2.99
+  ],
+  "v5-br": [
+   16.31,
+   1.91
+  ]
+ },
+ "holdout": [
+  "v2-br",
+  "v4-tf",
+  "lamp0-tail"
+ ],
+ "readings": {
+  "windows": "outer frame corners of the five-window run between the doors (k1-k4, 6x, 10 px): its front window's front edge (7.76 m) and its rear window's rear edge (16.31 m), frame heights 1.91/2.99",
+  "lamps": "lamp centres (l172, 2x, 10 px); the visible bodyside is the far one, so its cluster is on the viewer's left",
+  "windows2": "the five windows' front-top and rear-bottom frame corners: x from the w172 grid (mid-height edges), y interpolated along the run between the measured corners of the first and last (k1-k4, 6x)"
+ }
+}

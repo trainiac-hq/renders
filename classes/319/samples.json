@@ -1,0 +1,240 @@
+{
+ "white-366": {
+  "ref": "p366",
+  "box": [
+   1180,
+   1455,
+   1250,
+   1490
+  ],
+  "what": "white bodyside under window E",
+  "median": "#839497",
+  "iqr": [
+   5,
+   5,
+   5
+  ]
+ },
+ "navy-366": {
+  "ref": "p366",
+  "box": [
+   2050,
+   1460,
+   2120,
+   1500
+  ],
+  "what": "navy bodyside at the cab end",
+  "median": "#212A3C",
+  "iqr": [
+   8,
+   7,
+   7
+  ],
+  "balanced": "#3C445F",
+  "neutral": "white-366"
+ },
+ "navydoor-366": {
+  "ref": "p366",
+  "box": [
+   1722,
+   1450,
+   1742,
+   1550
+  ],
+  "what": "navy door leaf, door 1",
+  "median": "#1E273B",
+  "iqr": [
+   10,
+   16,
+   15
+  ],
+  "balanced": "#373F5E",
+  "neutral": "white-366"
+ },
+ "teal-366": {
+  "ref": "p366",
+  "box": [
+   1982,
+   1560,
+   1996,
+   1600
+  ],
+  "what": "teal 'n' dot",
+  "median": "#187583",
+  "iqr": [
+   12,
+   12,
+   9
+  ],
+  "balanced": "#2CBED0",
+  "neutral": "white-366"
+ },
+ "orange-366": {
+  "ref": "p366",
+  "box": [
+   2072,
+   1580,
+   2088,
+   1620
+  ],
+  "what": "orange 'n' dot",
+  "median": "#A57948",
+  "iqr": [
+   14,
+   13,
+   19
+  ],
+  "balanced": "#FFC472",
+  "neutral": "white-366"
+ },
+ "purple-366": {
+  "ref": "p366",
+  "box": [
+   1948,
+   1598,
+   1956,
+   1612
+  ],
+  "what": "small purple 'n' dot",
+  "median": "#4C344B",
+  "iqr": [
+   73,
+   83,
+   78
+  ],
+  "balanced": "#8B5477",
+  "neutral": "white-366"
+ },
+ "logo-366": {
+  "ref": "p366",
+  "box": [
+   1450,
+   1520,
+   1460,
+   1560
+  ],
+  "what": "logo roundel navy",
+  "median": "#333C44",
+  "iqr": [
+   74,
+   73,
+   74
+  ],
+  "balanced": "#5D616C",
+  "neutral": "white-366"
+ },
+ "yellow-366": {
+  "ref": "p366",
+  "box": [
+   2700,
+   1480,
+   2760,
+   1520
+  ],
+  "what": "yellow front (faces the camera at another angle; no neutral on the face)",
+  "median": "#C38C3B",
+  "iqr": [
+   7,
+   8,
+   12
+  ]
+ },
+ "yellow-386w": {
+  "ref": "p386w",
+  "box": [
+   1000,
+   1300,
+   1080,
+   1340
+  ],
+  "what": "yellow front head-on, gangway door lower panel (no neutral on the face)",
+  "median": "#A48003",
+  "iqr": [
+   8,
+   8,
+   8
+  ]
+ },
+ "dome-386w": {
+  "ref": "p386w",
+  "box": [
+   1000,
+   600,
+   1100,
+   640
+  ],
+  "what": "roof dome grey (no neutral)",
+  "median": "#8F98A0",
+  "iqr": [
+   30,
+   30,
+   29
+  ]
+ },
+ "lower-386w": {
+  "ref": "p386w",
+  "box": [
+   900,
+   1460,
+   1000,
+   1480
+  ],
+  "what": "band below the yellow (no neutral)",
+  "median": "#17182F",
+  "iqr": [
+   4,
+   4,
+   5
+  ]
+ },
+ "white-367": {
+  "ref": "p367",
+  "box": [
+   2560,
+   1080,
+   2610,
+   1140
+  ],
+  "what": "white bodyside, p367",
+  "median": "#979797",
+  "iqr": [
+   9,
+   9,
+   8
+  ]
+ },
+ "navy-367": {
+  "ref": "p367",
+  "box": [
+   2060,
+   1520,
+   2100,
+   1580
+  ],
+  "what": "navy cab side, p367",
+  "median": "#353849",
+  "iqr": [
+   4,
+   4,
+   6
+  ],
+  "balanced": "#545974",
+  "neutral": "white-367"
+ },
+ "yellow-367": {
+  "ref": "p367",
+  "box": [
+   700,
+   1350,
+   800,
+   1450
+  ],
+  "what": "yellow front, p367 (no neutral on the face)",
+  "median": "#CD9B22",
+  "iqr": [
+   4,
+   4,
+   8
+  ]
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "ref": "p265",
+ "side": "near",
+ "model": {
+  "wf-front-top": [
+   3.197,
+   3.11
+  ],
+  "wf-rear-top": [
+   5.035,
+   3.11
+  ],
+  "wf-front-bottom": [
+   3.197,
+   2.028
+  ],
+  "wf-rear-bottom": [
+   5.035,
+   2.028
+  ],
+  "cw-front-top": [
+   0.837,
+   3.08
+  ],
+  "cw-rear-top": [
+   1.339,
+   3.09
+  ]
+ },
+ "points": {
+  "wf-front-top": [
+   2815,
+   963
+  ],
+  "wf-rear-top": [
+   3007,
+   1046
+  ],
+  "wf-front-bottom": [
+   2815,
+   1418
+  ],
+  "wf-rear-bottom": [
+   3007,
+   1448
+  ],
+  "cw-front-top": [
+   2461,
+   782
+  ],
+  "cw-rear-top": [
+   2550,
+   825
+  ],
+  "lamp0-head": [
+   1874.8,
+   1719.7
+  ],
+  "lamp0-tail": [
+   1744.3,
+   1713.3
+  ],
+  "lamp1-head": [
+   724,
+   1647
+  ],
+  "lamp1-tail": [
+   841,
+   1656
+  ],
+  "screen0-top-near": [
+   2123,
+   451
+  ],
+  "screen0-top-far": [
+   1722,
+   451
+  ],
+  "screen0-bottom-near": [
+   2123,
+   1145
+  ],
+  "screen0-bottom-far": [
+   1722,
+   1137
+  ],
+  "screen1-top-near": [
+   1600,
+   488
+  ],
+  "screen1-top-far": [
+   1088,
+   488
+  ],
+  "screen1-bottom-near": [
+   1600,
+   1148
+  ],
+  "screen1-bottom-far": [
+   1088,
+   1148
+  ],
+  "screen2-top-near": [
+   998,
+   466
+  ],
+  "screen2-top-far": [
+   639,
+   466
+  ],
+  "screen2-bottom-near": [
+   998,
+   1137
+  ],
+  "screen2-bottom-far": [
+   639,
+   1137
+  ]
+ },
+ "holdout": [
+  "wf-rear-bottom",
+  "lamp1-tail",
+  "screen1-top-far",
+  "cw-rear-top"
+ ],
+ "readings": {
+  "wf-*": "first saloon window, outer edge of its dark gasket (3x zoom), as p258's light frame",
+  "cw-*": "cab side window frame's top corners (4x zoom); model place from p258 (spec nose.glazing)",
+  "lamp*": "lamp lens centres, circles read on 4x panels; near housing (image right): LED tail inboard, clear headlamp outboard",
+  "screen*": "whole windscreen glass, upper pane's top to the main pane's bottom, virtual corners; x from the main pane (0.95x zoom, +-4 px)"
+ },
+ "facePairs": {
+  "head": {
+   "far": [
+    724,
+    1647
+   ],
+   "near": [
+    1874.8,
+    1719.7
+   ]
+  },
+  "tail": {
+   "far": [
+    841,
+    1656
+   ],
+   "near": [
+    1744.3,
+    1713.3
+   ]
+  },
+  "screen-outer-top": {
+   "far": [
+    650,
+    655
+   ],
+   "near": [
+    2078,
+    642
+   ]
+  },
+  "screen-outer-bottom": {
+   "far": [
+    655,
+    1140
+   ],
+   "near": [
+    2075,
+    1165
+   ]
+  },
+  "screen-inner-top": {
+   "far": [
+    990,
+    655
+   ],
+   "near": [
+    1757,
+    640
+   ]
+  },
+  "screen-inner-bottom": {
+   "far": [
+    985,
+    1140
+   ],
+   "near": [
+    1757,
+    1160
+   ]
+  },
+  "centre-top": {
+   "far": [
+    1095,
+    495
+   ],
+   "near": [
+    1590,
+    488
+   ]
+  },
+  "centre-bottom": {
+   "far": [
+    1100,
+    1120
+   ],
+   "near": [
+    1585,
+    1115
+   ]
+  }
+ },
+ "focalPx": 6018.8
+}

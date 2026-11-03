@@ -1,0 +1,102 @@
+{
+ "white-108": {
+  "ref": "p108",
+  "box": [
+   935,
+   1040,
+   975,
+   1055
+  ],
+  "what": "platform edge white line (horizontal, weathered)",
+  "median": "#DED8D0",
+  "iqr": [
+   4,
+   3,
+   3
+  ]
+ },
+ "silver-108": {
+  "ref": "p108",
+  "box": [
+   724,
+   505,
+   742,
+   522
+  ],
+  "what": "grey bodyside above the first window",
+  "median": "#9A9A99",
+  "iqr": [
+   18,
+   17,
+   13
+  ],
+  "balanced": "#9CA0A6",
+  "neutral": "white-108"
+ },
+ "yellow-108": {
+  "ref": "p108",
+  "box": [
+   590,
+   642,
+   630,
+   655
+  ],
+  "what": "yellow face beside the number",
+  "median": "#C98201",
+  "iqr": [
+   4,
+   4,
+   2
+  ],
+  "balanced": "#CC8701",
+  "neutral": "white-108"
+ },
+ "yellow-141": {
+  "ref": "p141",
+  "box": [
+   380,
+   560,
+   420,
+   620
+  ],
+  "what": "yellow gangway door (yellow unit)",
+  "median": "#F3A90B",
+  "iqr": [
+   46,
+   52,
+   11
+  ]
+ },
+ "disc-141": {
+  "ref": "p141",
+  "box": [
+   230,
+   500,
+   250,
+   520
+  ],
+  "what": "logo disc",
+  "median": "#5E6E7A",
+  "iqr": [
+   10,
+   6,
+   14
+  ]
+ },
+ "mlogo-141": {
+  "ref": "p141",
+  "box": [
+   255,
+   545,
+   265,
+   560
+  ],
+  "what": "logo M",
+  "median": "#FDB31C",
+  "iqr": [
+   84,
+   50,
+   71
+  ]
+ }
+}

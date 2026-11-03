@@ -1,0 +1,103 @@
+{
+ "ref": "p009",
+ "side": "far",
+ "note": "466009 head-on from the left at Victoria: the bodyside seen (left of the face) is the train's right (far, +Y), so the left-as-seen lamp box and the number are on +Y (lamp1). Nikon D3200, 45 mm equivalent (EXIF), original 6016x4000.",
+ "points": {
+  "lamp1-head": [
+   1892,
+   1524.5
+  ],
+  "lamp1-tail": [
+   1982,
+   1525
+  ],
+  "lamp0-head": [
+   2627,
+   1524
+  ],
+  "lamp0-tail": [
+   2547.5,
+   1525
+  ],
+  "number-start": [
+   1789,
+   1357.5
+  ],
+  "number-end": [
+   2012.5,
+   1357.5
+  ],
+  "cw-top-mid": [
+   1591,
+   869
+  ],
+  "cw-bottom-mid": [
+   1561,
+   1389
+  ],
+  "cw-rear-mid": [
+   1557,
+   1129
+  ],
+  "cw-front-mid": [
+   1600,
+   1129
+  ],
+  "cd-front-mid": [
+   1607,
+   1130
+  ]
+ },
+ "model": {
+  "cw-top-mid": [
+   1.69,
+   3.02
+  ],
+  "cw-bottom-mid": [
+   1.69,
+   1.77
+  ],
+  "cw-rear-mid": [
+   1.99,
+   2.395
+  ],
+  "cw-front-mid": [
+   1.39,
+   2.395
+  ],
+  "cd-front-mid": [
+   1.3,
+   2.41
+  ]
+ },
+ "modelFace": {
+  "number-start": [
+   1.196,
+   1.9
+  ],
+  "number-end": [
+   0.672,
+   1.9
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "number-end",
+  "cw-front-mid"
+ ],
+ "focalPx": "exif",
+ "exif": {
+  "focal35mm": 45,
+  "width": 6016,
+  "height": 4000
+ },
+ "readings": {
+  "lamp1-head": "profiles: the clear disc x 1856-1928, rows 1487-1562",
+  "lamp1-tail": "pb: the lit red LED cluster's centre",
+  "lamp0-head": "pb: the clear disc 2592-2662",
+  "lamp0-tail": "pb: the unlit LED cluster's centre",
+  "number-*": "pb: '466009' from the 4's left edge to the 9's right edge, digits rows 1333-1382",
+  "cw-*": "pc: the cab door window's outer frame on the far bodyside: top 869, bottom 1389, sides 1557/1600 at mid height (strongly foreshortened)",
+  "cd-front-mid": "pc: the cab door's front seal at mid height, just ahead of the window"
+ }
+}

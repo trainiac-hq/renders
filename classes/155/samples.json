@@ -1,0 +1,190 @@
+{
+ "white-341": {
+  "ref": "p341",
+  "box": [
+   1560,
+   1128,
+   1680,
+   1176
+  ],
+  "what": "white bodyside in sun",
+  "median": "#696765",
+  "iqr": [
+   71,
+   78,
+   82
+  ]
+ },
+ "purple-341": {
+  "ref": "p341",
+  "box": [
+   1968,
+   1104,
+   2040,
+   1176
+  ],
+  "what": "purple cab side in sun",
+  "median": "#727273",
+  "iqr": [
+   136,
+   141,
+   95
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-341"
+ },
+ "yellow-341": {
+  "ref": "p341",
+  "box": [
+   2760,
+   1000,
+   2840,
+   1080
+  ],
+  "what": "face yellow in sun (front plane, different light)",
+  "median": "#FCC706",
+  "iqr": [
+   3,
+   3,
+   4
+  ],
+  "balanced": "#FFFF0E",
+  "neutral": "white-341"
+ },
+ "roof-341": {
+  "ref": "p341",
+  "box": [
+   1680,
+   600,
+   2100,
+   640
+  ],
+  "what": "roof in sun",
+  "median": "#8DA295",
+  "iqr": [
+   72,
+   104,
+   150
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-341"
+ },
+ "white-346": {
+  "ref": "p346",
+  "box": [
+   1820,
+   1000,
+   1900,
+   1060
+  ],
+  "what": "white bodyside",
+  "median": "#948F82",
+  "iqr": [
+   42,
+   44,
+   45
+  ]
+ },
+ "purple-346": {
+  "ref": "p346",
+  "box": [
+   1100,
+   950,
+   1200,
+   1100
+  ],
+  "what": "purple cab door",
+  "median": "#36374D",
+  "iqr": [
+   3,
+   2,
+   2
+  ],
+  "balanced": "#585C8E",
+  "neutral": "white-346"
+ },
+ "door-346": {
+  "ref": "p346",
+  "box": [
+   1300,
+   1000,
+   1380,
+   1150
+  ],
+  "what": "door 1 white",
+  "median": "#B4AF97",
+  "iqr": [
+   40,
+   41,
+   42
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-346"
+ },
+ "roof-346": {
+  "ref": "p346",
+  "box": [
+   1300,
+   470,
+   1700,
+   500
+  ],
+  "what": "roof",
+  "median": "#BBB7B6",
+  "iqr": [
+   15,
+   14,
+   14
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "white-346"
+ },
+ "yellow-345": {
+  "ref": "p345",
+  "box": [
+   2650,
+   1830,
+   2800,
+   1890
+  ],
+  "what": "face yellow head-on",
+  "median": "#BA9135",
+  "iqr": [
+   18,
+   16,
+   4
+  ]
+ },
+ "surround-345": {
+  "ref": "p345",
+  "box": [
+   1700,
+   1250,
+   1720,
+   1550
+  ],
+  "what": "black windscreen surround",
+  "median": "#202227",
+  "iqr": [
+   4,
+   3,
+   4
+  ]
+ },
+ "gangway-345": {
+  "ref": "p345",
+  "box": [
+   2150,
+   1400,
+   2200,
+   1800
+  ],
+  "what": "gangway frame grime",
+  "median": "#353637",
+  "iqr": [
+   9,
+   9,
+   8
+  ]
+ }
+}

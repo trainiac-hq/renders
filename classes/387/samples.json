@@ -1,0 +1,372 @@
+{
+ "green-174": {
+  "ref": "p174",
+  "box": [
+   504,
+   1000,
+   528,
+   1024
+  ],
+  "what": "GW green bodyside above the windows (no white on the car: raw)",
+  "median": "#314B5A",
+  "iqr": [
+   1,
+   1,
+   1
+  ]
+ },
+ "face-174": {
+  "ref": "p174",
+  "box": [
+   1059,
+   1212,
+   1075,
+   1228
+  ],
+  "what": "GW green cab corner",
+  "median": "#2C434F",
+  "iqr": [
+   3,
+   2,
+   3
+  ]
+ },
+ "door-174": {
+  "ref": "p174",
+  "box": [
+   390,
+   1022,
+   402,
+   1034
+  ],
+  "what": "GW door leaf silver-grey",
+  "median": "#838489",
+  "iqr": [
+   1,
+   1,
+   1
+  ]
+ },
+ "yellow-174": {
+  "ref": "p174",
+  "box": [
+   1215,
+   1411,
+   1239,
+   1435
+  ],
+  "what": "warning yellow, overcast",
+  "median": "#F9C96B",
+  "iqr": [
+   7,
+   10,
+   8
+  ]
+ },
+ "lime-ldn": {
+  "ref": "pldn",
+  "box": [
+   2490,
+   1454,
+   2494,
+   1458
+  ],
+  "what": "GW lime line on the door leaf (sodium light, raw)",
+  "median": "#54941A",
+  "iqr": [
+   5,
+   8,
+   7
+  ]
+ },
+ "yellow-164": {
+  "ref": "p164",
+  "box": [
+   952,
+   842,
+   968,
+   858
+  ],
+  "what": "warning yellow, face in shade",
+  "median": "#BB8D2E",
+  "iqr": [
+   3,
+   3,
+   4
+  ]
+ },
+ "frame-164": {
+  "ref": "p164",
+  "box": [
+   740,
+   590,
+   780,
+   610
+  ],
+  "what": "gangway frame charcoal",
+  "median": "#38373B",
+  "iqr": [
+   3,
+   3,
+   3
+  ]
+ },
+ "white-kgx": {
+  "ref": "pkgx",
+  "box": [
+   2708,
+   696,
+   2732,
+   720
+  ],
+  "what": "GN white bodyside",
+  "median": "#C9CDCC",
+  "iqr": [
+   1,
+   1,
+   1
+  ]
+ },
+ "door-kgx": {
+  "ref": "pkgx",
+  "box": [
+   2556,
+   1362,
+   2568,
+   1374
+  ],
+  "what": "GN door leaf (dark green, lit by the roof)",
+  "median": "#535550",
+  "iqr": [
+   3,
+   3,
+   4
+  ],
+  "balanced": "#63645E",
+  "neutral": "white-kgx"
+ },
+ "band-kgx": {
+  "ref": "pkgx",
+  "box": [
+   2625,
+   845,
+   2635,
+   855
+  ],
+  "what": "GN window glass/frame",
+  "median": "#1B1B1A",
+  "iqr": [
+   3,
+   3,
+   3
+  ],
+  "balanced": "#20201F",
+  "neutral": "white-kgx"
+ },
+ "yellow-kgx": {
+  "ref": "pkgx",
+  "box": [
+   1720,
+   1200,
+   1736,
+   1216
+  ],
+  "what": "warning yellow GN",
+  "median": "#A07501",
+  "iqr": [
+   2,
+   2,
+   2
+  ],
+  "balanced": "#BF8901",
+  "neutral": "white-kgx"
+ },
+ "white-vic": {
+  "ref": "pvic",
+  "box": [
+   1355,
+   1649,
+   1361,
+   1655
+  ],
+  "what": "GX white line (neutral)",
+  "median": "#B6B0B1",
+  "iqr": [
+   4,
+   2,
+   2
+  ]
+ },
+ "red-vic": {
+  "ref": "pvic",
+  "box": [
+   864,
+   1672,
+   888,
+   1696
+  ],
+  "what": "GX red cab end",
+  "median": "#931C3C",
+  "iqr": [
+   3,
+   3,
+   4
+  ],
+  "balanced": "#C22651",
+  "neutral": "white-vic"
+ },
+ "door-vic": {
+  "ref": "pvic",
+  "box": [
+   1972,
+   1192,
+   1988,
+   1208
+  ],
+  "what": "GX door leaf grey",
+  "median": "#8A9197",
+  "iqr": [
+   3,
+   4,
+   3
+  ],
+  "balanced": "#B6C6CD",
+  "neutral": "white-vic"
+ },
+ "red-coo": {
+  "ref": "pcoo",
+  "box": [
+   860,
+   590,
+   880,
+   610
+  ],
+  "what": "GX red face, overcast (raw)",
+  "median": "#CC1608",
+  "iqr": [
+   2,
+   3,
+   2
+  ]
+ },
+ "red-205": {
+  "ref": "p205",
+  "box": [
+   1384,
+   1744,
+   1408,
+   1768
+  ],
+  "what": "GX red cab side, overcast (raw)",
+  "median": "#8B1E1C",
+  "iqr": [
+   2,
+   2,
+   2
+  ]
+ },
+ "white-133": {
+  "ref": "p133",
+  "box": [
+   2480,
+   1944,
+   2488,
+   1952
+  ],
+  "what": "HX white crescent (neutral)",
+  "median": "#EAEAEA",
+  "iqr": [
+   1,
+   1,
+   1
+  ]
+ },
+ "grey-133": {
+  "ref": "p133",
+  "box": [
+   2668,
+   1552,
+   2692,
+   1576
+  ],
+  "what": "HX silver-grey cab side",
+  "median": "#A5A9A8",
+  "iqr": [
+   1,
+   1,
+   1
+  ],
+  "balanced": "#A9ADAC",
+  "neutral": "white-133"
+ },
+ "purple-133": {
+  "ref": "p133",
+  "box": [
+   2260,
+   1950,
+   2280,
+   1970
+  ],
+  "what": "HX purple panel",
+  "median": "#312C33",
+  "iqr": [
+   2,
+   2,
+   3
+  ],
+  "balanced": "#322D34",
+  "neutral": "white-133"
+ },
+ "yellow-133": {
+  "ref": "p133",
+  "box": [
+   3310,
+   1800,
+   3330,
+   1820
+  ],
+  "what": "HX warning yellow",
+  "median": "#FEA701",
+  "iqr": [
+   2,
+   3,
+   2
+  ],
+  "balanced": "#FFAB01",
+  "neutral": "white-133"
+ },
+ "white-306": {
+  "ref": "p306r",
+  "box": [
+   626,
+   310,
+   638,
+   322
+  ],
+  "what": "c2c white bodyside",
+  "median": "#A9A8AD",
+  "iqr": [
+   0,
+   0,
+   0
+  ]
+ },
+ "door-306": {
+  "ref": "p306r",
+  "box": [
+   780,
+   356,
+   788,
+   364
+  ],
+  "what": "c2c door leaf navy/purple",
+  "median": "#2C3150",
+  "iqr": [
+   2,
+   2,
+   1
+  ],
+  "balanced": "#3E466F",
+  "neutral": "white-306"
+ }
+}

@@ -1,0 +1,511 @@
+{
+ "class": "450",
+ "subject": "Class 450 in South Western Railway's painted livery (2024 on)",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-450-in-the-new-South-Western-Railway-painted-livery.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_450_in_the_new_South_Western_Railway_painted_livery.png",
+   "author": "N0thhan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024",
+   "kind": "diagram",
+   "unit": "450 (4 cars), SWR painted livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p082": {
+   "file": "refs/450082-Cosham-March-11th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:450082,_Cosham,_March_11th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-03-11",
+   "kind": "photo",
+   "unit": "450082",
+   "view": "near head-on, from the left (far side visible)",
+   "light": "overcast"
+  },
+  "p031": {
+   "file": "refs/450031-Clapham-Junction-October-17th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:450031,_Clapham_Junction,_October_17th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-10-17",
+   "kind": "photo",
+   "unit": "450031",
+   "view": "front three-quarter, nose left (near side)",
+   "light": "overcast, bright"
+  },
+  "p113": {
+   "file": "refs/450113-Southampton-Central-July-14th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:450113,_Southampton_Central,_July_14th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-14",
+   "kind": "photo",
+   "unit": "450113",
+   "view": "front three-quarter, nose left (near side), close",
+   "light": "sun"
+  },
+  "p028": {
+   "file": "refs/450028-Fratton-Depot-May-20th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:450028,_Fratton_Depot,_May_20th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-20",
+   "kind": "photo",
+   "unit": "450028",
+   "view": "cab end side, close, nose left",
+   "light": "overcast"
+  },
+  "p105": {
+   "file": "refs/450105-Swanwick-March-10th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:450105,_Swanwick_March_10th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-10",
+   "kind": "photo",
+   "unit": "450105",
+   "view": "near head-on from the right, lamps lit",
+   "light": "overcast"
+  },
+  "p044": {
+   "file": "refs/450044-Southampton-Central-May-8th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:450044,_Southampton_Central,_May_8th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-08",
+   "kind": "photo",
+   "unit": "450044",
+   "view": "three-quarter from above, nose right",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-082",
+   "ref": "p082",
+   "box": [
+    770,
+    170,
+    1360,
+    930
+   ],
+   "feature": "whole front",
+   "reading": "Yellow is two parts a side: a crescent up the outer edge from just under the roof, and a panel under the screen holding the lamps, stopping at the gangway frame; everything above (round the screens, the dome) dark navy; valance, skirts and coupler dark. (reader 1, reader 2 agree)"
+  },
+  {
+   "id": "f-lamps-l-082",
+   "ref": "p082",
+   "box": [
+    830,
+    570,
+    1000,
+    675
+   ],
+   "feature": "far-side lamp group (image left)",
+   "reading": "Three lamps: big clear headlamp inboard, small dark LED marker outboard at the same height (0.6 of its size), red LED tail below between; flush on the yellow in thin black rings."
+  },
+  {
+   "id": "f-lamps-r-082",
+   "ref": "p082",
+   "box": [
+    1190,
+    570,
+    1350,
+    675
+   ],
+   "feature": "near-side lamp group (image right)",
+   "reading": "Mirror of the left: headlamp inboard, marker outboard slightly higher, tail below between; the panel's lower outer corner rounded with navy below."
+  },
+  {
+   "id": "f-gangway-082",
+   "ref": "p082",
+   "box": [
+    975,
+    190,
+    1215,
+    745
+   ],
+   "feature": "gangway door and frame",
+   "reading": "Frame of bare weathered riveted metal, sides about 0.2 of the door's width, top corners chamfered; door black over yellow, split straight at 65% down, three seams making four equal panels, two recessed handles mid-height."
+  },
+  {
+   "id": "f-screens-082",
+   "ref": "p082",
+   "box": [
+    800,
+    250,
+    1330,
+    560
+   ],
+   "feature": "windscreens and surrounds",
+   "reading": "Near-rectangular screens in black surrounds, all corners rounded, the outer top following the cab; destination display across the top 15% of the far screen only; wipers parked upright on the inboard edges; '450082' white above each screen."
+  },
+  {
+   "id": "f-number-082",
+   "ref": "p082",
+   "box": [
+    820,
+    262,
+    960,
+    322
+   ],
+   "feature": "unit number",
+   "reading": "'450082' white sans, centred over the screen on the navy."
+  },
+  {
+   "id": "f-lower-082",
+   "ref": "p082",
+   "box": [
+    780,
+    640,
+    1340,
+    870
+   ],
+   "feature": "lower front: valance, skirts, coupler",
+   "reading": "Navy valance under the yellow, then two dark ribbed skirts outboard (about 7 ribs) and the coupler with its pale electrical head between; nothing yellow below the lamp panels."
+  },
+  {
+   "id": "f-dome-082",
+   "ref": "p082",
+   "box": [
+    780,
+    165,
+    1360,
+    285
+   ],
+   "feature": "dome and roof marker lamp",
+   "reading": "Dark dome, one round lamp at top centre above the gangway, a roof fitting behind it; no yellow."
+  },
+  {
+   "id": "f-crescent-082",
+   "ref": "p082",
+   "box": [
+    755,
+    240,
+    850,
+    690
+   ],
+   "feature": "yellow crescent at the far corner",
+   "reading": "Tall strip on the far corner, widest at mid height, rounded at the top, flowing into the under-screen panel at the bottom."
+  },
+  {
+   "id": "f-face-031",
+   "ref": "p031",
+   "box": [
+    95,
+    320,
+    530,
+    880
+   ],
+   "feature": "front, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-031",
+   "ref": "p031",
+   "box": [
+    350,
+    600,
+    470,
+    705
+   ],
+   "feature": "near-side lamp group, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-031",
+   "ref": "p031",
+   "box": [
+    430,
+    370,
+    800,
+    720
+   ],
+   "feature": "cab corner, cab door and first passenger door",
+   "reading": "From the corner: crescent, cab door (narrow, its window half its width, two panes), SWR logo, one window, door 1 (pale, first class)."
+  },
+  {
+   "id": "s-cab-031",
+   "ref": "p031",
+   "box": [
+    500,
+    360,
+    640,
+    720
+   ],
+   "feature": "cab side and cab door",
+   "reading": ""
+  },
+  {
+   "id": "s-door1-031",
+   "ref": "p031",
+   "box": [
+    690,
+    400,
+    770,
+    700
+   ],
+   "feature": "first passenger door (first class)",
+   "reading": "Pale cool grey leaves with a sky-blue band over the top; tall narrow round-cornered windows; a yellow outline over the top and down each side only about 30% (450031), a flag on the rear side."
+  },
+  {
+   "id": "s-diagonal-031",
+   "ref": "p031",
+   "box": [
+    860,
+    420,
+    1000,
+    680
+   ],
+   "feature": "navy to white diagonal and door 2",
+   "reading": "Navy to white along a straight diagonal leaning back (bottom further forward), rounded where it meets the white roof; door 2 navy with a blue band, in the white."
+  },
+  {
+   "id": "f-face-113",
+   "ref": "p113",
+   "box": [
+    60,
+    380,
+    480,
+    880
+   ],
+   "feature": "front, close three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-113",
+   "ref": "p113",
+   "box": [
+    285,
+    615,
+    400,
+    710
+   ],
+   "feature": "near-side lamp group, close",
+   "reading": ""
+  },
+  {
+   "id": "s-crescent-113",
+   "ref": "p113",
+   "box": [
+    285,
+    395,
+    500,
+    720
+   ],
+   "feature": "crescent on the corner and cab side",
+   "reading": "The yellow wraps the corner a long way, rounded at the top, widest high up, its rear edge convex, ending ahead of the cab door."
+  },
+  {
+   "id": "s-cab-028",
+   "ref": "p028",
+   "box": [
+    880,
+    340,
+    1600,
+    960
+   ],
+   "feature": "cab end side close-up",
+   "reading": "Side-on: crescent rear edge 0.31 m ahead of the cab door; cab door about 0.8 m wide; 1.46 m from it to the next window; the first-class line starts at the cab door's rear edge."
+  },
+  {
+   "id": "f-lamps-105",
+   "ref": "p105",
+   "box": [
+    1150,
+    330,
+    1550,
+    760
+   ],
+   "feature": "front with lamps lit",
+   "reading": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    720,
+    369
+   ],
+   "feature": "diagram: cab end to door 1",
+   "reading": ""
+  },
+  {
+   "id": "d-door1",
+   "ref": "dia",
+   "box": [
+    420,
+    0,
+    610,
+    369
+   ],
+   "feature": "diagram: door 1",
+   "reading": ""
+  },
+  {
+   "id": "d-diagonal",
+   "ref": "dia",
+   "box": [
+    1000,
+    0,
+    1400,
+    369
+   ],
+   "feature": "diagram: diagonal and door 2",
+   "reading": ""
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    260,
+    369
+   ],
+   "feature": "diagram: nose",
+   "reading": ""
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    1765,
+    0,
+    3400,
+    369
+   ],
+   "feature": "diagram: car 2",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-door-031",
+   "ref": "p031",
+   "box": [
+    707,
+    600,
+    718,
+    650
+   ],
+   "what": "first-class door leaf, white, near side, below its window"
+  },
+  {
+   "id": "navy-031",
+   "ref": "p031",
+   "box": [
+    645,
+    600,
+    690,
+    630
+   ],
+   "what": "cab car bodyside navy between the cab-end window and door 1",
+   "neutral": "white-door-031"
+  },
+  {
+   "id": "white-diag-031",
+   "ref": "p031",
+   "box": [
+    892,
+    585,
+    904,
+    598
+   ],
+   "what": "white past the diagonal",
+   "neutral": "white-door-031"
+  },
+  {
+   "id": "yellow-fc-031",
+   "ref": "p031",
+   "box": [
+    590,
+    416,
+    605,
+    418
+   ],
+   "what": "yellow first-class line at the cantrail",
+   "neutral": "white-door-031"
+  },
+  {
+   "id": "roof-031",
+   "ref": "p031",
+   "box": [
+    640,
+    378,
+    680,
+    384
+   ],
+   "what": "roof, light grey"
+  },
+  {
+   "id": "yellow-face-082",
+   "ref": "p082",
+   "box": [
+    790,
+    450,
+    815,
+    520
+   ],
+   "what": "front yellow crescent, far corner (no neutral on the face)"
+  },
+  {
+   "id": "yellow-door-082",
+   "ref": "p082",
+   "box": [
+    1090,
+    580,
+    1140,
+    640
+   ],
+   "what": "gangway door's yellow lower panel (weathered)"
+  },
+  {
+   "id": "frame-082",
+   "ref": "p082",
+   "box": [
+    990,
+    300,
+    1030,
+    400
+   ],
+   "what": "gangway frame, weathered metal"
+  },
+  {
+   "id": "door-black-082",
+   "ref": "p082",
+   "box": [
+    1060,
+    300,
+    1150,
+    500
+   ],
+   "what": "gangway door upper part, black"
+  },
+  {
+   "id": "navy-face-082",
+   "ref": "p082",
+   "box": [
+    900,
+    210,
+    960,
+    250
+   ],
+   "what": "navy over the screens"
+  },
+  {
+   "id": "yellow-face-113",
+   "ref": "p113",
+   "box": [
+    425,
+    500,
+    445,
+    560
+   ],
+   "what": "front yellow on the corner, sunlit"
+  }
+ ]
+}

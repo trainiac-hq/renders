@@ -1,0 +1,126 @@
+{
+ "ref": "p035",
+ "side": "far",
+ "note": "465035 at London Bridge, nose to the right: the train's right side (far, +Y); the left-as-seen lamp box (lit headlamp) is lamp1. Canon EOS R50 at 55 mm (APS-C, 22.33 mm wide by its FocalPlaneXResolution), 6000 px resized to 1600: 3941 px.",
+ "points": {
+  "door1-front-top": [
+   420,
+   346
+  ],
+  "door1-rear-top": [
+   264,
+   349
+  ],
+  "door0-front-top": [
+   880,
+   329
+  ],
+  "door0-rear-top": [
+   777,
+   331
+  ],
+  "lamp1-head": [
+   1072,
+   678
+  ],
+  "lamp0-head": [
+   1325,
+   668
+  ],
+  "number-start": [
+   1278,
+   596
+  ],
+  "number-end": [
+   1340.5,
+   596
+  ],
+  "cw-front-mid": [
+   870,
+   493.5
+  ],
+  "cw-rear-mid": [
+   801,
+   493.5
+  ],
+  "cw-top-mid": [
+   835.5,
+   369
+  ],
+  "cw-bottom-mid": [
+   835.5,
+   618
+  ],
+  "big1-front-mid": [
+   646,
+   495
+  ],
+  "big1-rear-mid": [
+   497,
+   495
+  ],
+  "oval2-front-mid": [
+   714,
+   495
+  ]
+ },
+ "holdout": [
+  "door1-rear-top",
+  "cw-front-mid",
+  "number-end"
+ ],
+ "focalPx": 3941,
+ "modelFace": {
+  "number-start": [
+   -0.484,
+   1.875
+  ],
+  "number-end": [
+   -1.018,
+   1.875
+  ]
+ },
+ "model": {
+  "cw-front-mid": [
+   1.39,
+   2.395
+  ],
+  "cw-rear-mid": [
+   1.99,
+   2.395
+  ],
+  "cw-top-mid": [
+   1.69,
+   3.02
+  ],
+  "cw-bottom-mid": [
+   1.69,
+   1.77
+  ],
+  "big1-front-mid": [
+   3.146,
+   2.375
+  ],
+  "big1-rear-mid": [
+   4.561,
+   2.375
+  ],
+  "oval2-front-mid": [
+   2.711,
+   2.375
+  ]
+ },
+ "readings": {
+  "door1-front-top": "pk035a: door 1's front seal (x 416-418 at row 380) meeting the top seam",
+  "door1-rear-top": "pk035a: rear seal (x 260-263 at row 380) at the top seam",
+  "door0-front-top": "profile: the cab door's black front seal 875-886 at row 490, its centre, at the top seam (z035cab)",
+  "door0-rear-top": "z035cab: the rear seam at the top, the window band's end just behind it",
+  "lamp1-head": "pk035b: centre of the lit headlamp disc (1050-1090 x 661-695)",
+  "lamp0-head": "pk035b: centre of the unlit clear headlamp, right box; the marker strip's LEDs at x 1345 outboard of it",
+  "number-start": "pk035e: the 4's left edge, digits rows 585-607",
+  "number-end": "pk035e: the last 5's right edge",
+  "cw-*": "profiles: cab door window frame rows 369-618 (col 830-840), x 801-870 (rows 485-500); edge midpoints",
+  "big1-*/oval2-*": "profile rows 490-500: frame edges oval 436/470, big 497/646, oval 673/714",
+  "not used": "door 1's bottom corners (427.5,727.5) and (277.5,720.5) (z035d1b) land 0.10 m ahead of the tops on the bodyside plane: the leaves turn in low (tumblehome below the waist, which the shell does not model); solving for their place puts them at half-width 1.24 m, not 1.305"
+ }
+}

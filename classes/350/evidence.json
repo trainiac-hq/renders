@@ -1,0 +1,191 @@
+{
+ "class": "350",
+ "subject": "Class 350 in London Northwestern Railway livery",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-350-London-NorthWestern-Railway-diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_350_London_NorthWestern_Railway_diagram.png",
+   "author": "N0thhan",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "diagram",
+   "unit": "350 (4 cars), LNR",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p116": {
+   "file": "refs/Class-350-350116-Northampton-Station-25-10-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_350_350116_Northampton_Station_25-10-2025.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "2025-10-25",
+   "kind": "photo",
+   "unit": "350116",
+   "view": "three-quarter, nose right (far side)",
+   "light": "overcast"
+  },
+  "p120": {
+   "file": "refs/London-Northwestern-Railway-Class-350-350120-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:London_Northwestern_Railway_Class_350_(350120).jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY 4.0",
+   "date": "",
+   "kind": "photo",
+   "unit": "350120",
+   "view": "near head-on from the left, nose right",
+   "light": "sun, glossy reflections on the side"
+  },
+  "p109": {
+   "file": "refs/350109-350102-Watford-Junction-March-7th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:350109_%26_350102,_Watford_Junction,_March_7th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-07",
+   "kind": "photo",
+   "unit": "350109",
+   "view": "head-on, slightly left",
+   "light": "overcast"
+  },
+  "p113": {
+   "file": "refs/350113-at-Berkhamsted-railway-station-September-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:350113_at_Berkhamsted_railway_station,_September_2025.jpg",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09",
+   "kind": "photo",
+   "unit": "350113",
+   "view": "three-quarter, nose left",
+   "light": "sun behind"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-120",
+   "ref": "p120",
+   "box": [
+    2000,
+    100,
+    3840,
+    2100
+   ],
+   "feature": "front",
+   "reading": "The 450's front in LNR paint: dark grey round the screens with the white numbers over them, teal-green below and up the outer edges (where the SWR units are yellow), a thin orange line along the top; gangway door all yellow, four panels, in a weathered grey metal frame; three lamps a side: headlamp inboard, LED marker outboard at the same height, tail below between."
+  },
+  {
+   "id": "f-lamps-120",
+   "ref": "p120",
+   "box": [
+    2080,
+    1220,
+    2480,
+    1520
+   ],
+   "feature": "far lamps",
+   "reading": "Headlamp inboard (lit), marker outboard (LED cluster), tail below between, each in a black ring, flush on the teal."
+  },
+  {
+   "id": "s-cab-116",
+   "ref": "p116",
+   "box": [
+    2000,
+    700,
+    2700,
+    1400
+   ],
+   "feature": "cab end side",
+   "reading": "Dark green from the corner back past the cab door to a slanted edge just ahead of the first window, the W logo on it; grey beyond; door 1 green."
+  },
+  {
+   "id": "s-side-116",
+   "ref": "p116",
+   "box": [
+    1300,
+    700,
+    2300,
+    1400
+   ],
+   "feature": "bodyside stripes",
+   "reading": "Black window bands, green and dark-green diagonal stripes rising toward the rear, green doors: as the diagram."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    1720,
+    369
+   ],
+   "feature": "diagram: cab car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "grey-116",
+   "ref": "p116",
+   "box": [
+    2150,
+    1150,
+    2200,
+    1200
+   ],
+   "what": "bodyside grey below the first window (no neutral: raw)"
+  },
+  {
+   "id": "darkgreen-116",
+   "ref": "p116",
+   "box": [
+    2330,
+    1170,
+    2370,
+    1210
+   ],
+   "what": "dark green on the cab end side"
+  },
+  {
+   "id": "teal-116",
+   "ref": "p116",
+   "box": [
+    2430,
+    1170,
+    2460,
+    1195
+   ],
+   "what": "teal on the face's lower corner"
+  },
+  {
+   "id": "green-116",
+   "ref": "p116",
+   "box": [
+    1735,
+    1110,
+    1750,
+    1145
+   ],
+   "what": "bright green stripe"
+  },
+  {
+   "id": "yellow-116",
+   "ref": "p116",
+   "box": [
+    2760,
+    1090,
+    2840,
+    1180
+   ],
+   "what": "gangway door yellow"
+  },
+  {
+   "id": "roof-116",
+   "ref": "p116",
+   "box": [
+    2030,
+    733,
+    2120,
+    742
+   ],
+   "what": "roof"
+  }
+ ]
+}

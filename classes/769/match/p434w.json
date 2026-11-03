@@ -1,0 +1,240 @@
+{
+ "ref": "p434w",
+ "side": "near",
+ "note": "769434 (Northern), cab car three-quarter from the train's left, nose left: the near side (-Y) right of the face; lamp0 (near) is the right-as-seen cluster. Sony RX100 VII at 10.6 mm (28 mm equivalent), 5472x3648 original.",
+ "points": {
+  "lamp1-head": [
+   752.6,
+   1564.0
+  ],
+  "hl-far": [
+   783.8,
+   1567.0
+  ],
+  "lamp1-tail": [
+   825.5,
+   1571.9
+  ],
+  "lamp0-tail": [
+   1106.3,
+   1592.8
+  ],
+  "hl-near": [
+   1156.1,
+   1595.8
+  ],
+  "lamp0-head": [
+   1191.8,
+   1597.8
+  ],
+  "sc-far-out-top": [
+   743.2,
+   1111.4
+  ],
+  "sc-far-in-top": [
+   889.1,
+   1109.9
+  ],
+  "sc-far-out-bottom": [
+   720.0,
+   1403.5
+  ],
+  "sc-far-in-bottom": [
+   864.9,
+   1410.1
+  ],
+  "gw-far-top": [
+   938.0,
+   1109.3
+  ],
+  "gw-near-top": [
+   1050.2,
+   1107.5
+  ],
+  "gw-far-bottom": [
+   916.8,
+   1411.7
+  ],
+  "gw-near-bottom": [
+   1029.7,
+   1416.6
+  ],
+  "sc-near-in-top": [
+   1111.3,
+   1106.4
+  ],
+  "sc-near-out-top": [
+   1278.9,
+   1104.3
+  ],
+  "sc-near-in-bottom": [
+   1085.9,
+   1419.2
+  ],
+  "sc-near-out-bottom": [
+   1256.7,
+   1426.2
+  ],
+  "wA-front-top": [
+   1660.8,
+   1212.3
+  ],
+  "wA-rear-top": [
+   1759.3,
+   1215.7
+  ],
+  "wA-front-bottom": [
+   1659.6,
+   1446.7
+  ],
+  "wA-rear-bottom": [
+   1770.1,
+   1429.2
+  ],
+  "wB-front-top": [
+   1814.5,
+   1217.3
+  ],
+  "wB-front-bottom": [
+   1815.4,
+   1425.2
+  ],
+  "wC-front-bottom": [
+   2229.3,
+   1386.1
+  ],
+  "wC-rear-bottom": [
+   2333.0,
+   1377.6
+  ],
+  "wD-front-bottom": [
+   2351.1,
+   1375.7
+  ],
+  "wD-rear-bottom": [
+   2434.7,
+   1368.4
+  ],
+  "d1c-top": [
+   2117.9,
+   1184.8
+  ]
+ },
+ "model": {
+  "wA-front-top": [
+   2.326,
+   3.05
+  ],
+  "wA-rear-top": [
+   3.036,
+   3.05
+  ],
+  "wA-front-bottom": [
+   2.326,
+   2.11
+  ],
+  "wA-rear-bottom": [
+   3.036,
+   2.11
+  ],
+  "wB-front-top": [
+   3.496,
+   3.05
+  ],
+  "wB-front-bottom": [
+   3.496,
+   2.11
+  ],
+  "wC-front-bottom": [
+   8.329,
+   2.11
+  ],
+  "wC-rear-bottom": [
+   10.0,
+   2.11
+  ],
+  "wD-front-bottom": [
+   10.446,
+   2.11
+  ],
+  "wD-rear-bottom": [
+   12.117,
+   2.11
+  ],
+  "d1c-top": [
+   6.73,
+   3.25
+  ]
+ },
+ "modelFace": {
+  "hl-far": [
+   0.78,
+   1.7
+  ],
+  "hl-near": [
+   -0.78,
+   1.7
+  ],
+  "sc-far-out-top": [
+   1.14,
+   3.284
+  ],
+  "sc-far-out-bottom": [
+   1.14,
+   2.263
+  ],
+  "sc-far-in-top": [
+   0.474,
+   3.284
+  ],
+  "sc-far-in-bottom": [
+   0.474,
+   2.263
+  ],
+  "sc-near-in-top": [
+   -0.474,
+   3.284
+  ],
+  "sc-near-in-bottom": [
+   -0.474,
+   2.263
+  ],
+  "sc-near-out-top": [
+   -1.14,
+   3.284
+  ],
+  "sc-near-out-bottom": [
+   -1.14,
+   2.263
+  ],
+  "gw-far-top": [
+   0.24,
+   3.28
+  ],
+  "gw-near-top": [
+   -0.24,
+   3.28
+  ],
+  "gw-far-bottom": [
+   0.24,
+   2.265
+  ],
+  "gw-near-bottom": [
+   -0.24,
+   2.265
+  ]
+ },
+ "holdout": [
+  "wC-rear-bottom",
+  "hl-near",
+  "sc-far-in-top"
+ ],
+ "readings": {
+  "lamp*/hl-*": "lens centres at 4x (pk434): lamp*-head = marker, hl-* = headlamp, lamp*-tail = red tail",
+  "sc-*/gw-*": "yellow-to-rubber edges as lines fitted along scanlines (edgefit/eline, rms 0.2-0.5 px), virtual corners",
+  "w*": "saloon window glass inside the silver frame, fitted lines; tops only where the hopper glass's top fits cleanly (A, B), else bottoms",
+  "d1c-top": "door 1 top's midpoint between the navy leaves' front edge and the pocket's dark line (2067.7-2171)"
+ },
+ "focalPx": 3083.6,
+ "focalNote": "10.6 mm on the RX100 VII's 13.2 mm-wide sensor x 3840 px = 3083.6 px; the EXIF's 28 mm equivalent is rounded (10.6 x 2.73 = 28.9 mm) and puts the far windows 0.1-0.27 m too far back"
+}

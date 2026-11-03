@@ -1,0 +1,180 @@
+{
+ "ref": "p006",
+ "side": "near",
+ "note": "769006 (TfW; same body and face as the 319 and the 769 Northern), front three-quarter from the right, nose left: the near side (-Y) right of the face; lamp0 (near) is the right-as-seen cluster. Nikon D5300 at 34 mm (51 mm equivalent), 6000x4000 original. Doors open: the dark apertures.",
+ "points": {
+  "lamp1-head": [
+   841.9,
+   1538.6
+  ],
+  "hl-far": [
+   909.0,
+   1539.0
+  ],
+  "lamp1-tail": [
+   1004.0,
+   1544.1
+  ],
+  "lamp0-tail": [
+   1605.9,
+   1560.5
+  ],
+  "hl-near": [
+   1704.8,
+   1565.1
+  ],
+  "lamp0-head": [
+   1780.3,
+   1564.5
+  ],
+  "sc-far-out-top": [
+   776.0,
+   728.2
+  ],
+  "sc-far-in-top": [
+   1098.6,
+   726.4
+  ],
+  "sc-far-out-bottom": [
+   755.1,
+   1249.5
+  ],
+  "sc-far-in-bottom": [
+   1077.3,
+   1256.1
+  ],
+  "sc-near-out-top": [
+   1919.2,
+   716.6
+  ],
+  "sc-near-out-bottom": [
+   1900.6,
+   1266.5
+  ],
+  "gw-far-top": [
+   1207.7,
+   725.9
+  ],
+  "gw-near-top": [
+   1450.9,
+   722.4
+  ],
+  "gw-far-bottom": [
+   1189.0,
+   1256.6
+  ],
+  "gw-near-bottom": [
+   1429.7,
+   1260.2
+  ],
+  "wA-front-bottom": [
+   2294.2,
+   1301.9
+  ],
+  "wA-rear-bottom": [
+   2368.8,
+   1289.0
+  ],
+  "wB-front-bottom": [
+   2401.5,
+   1288.9
+  ],
+  "d1c-top": [
+   2601.3,
+   887.1
+  ],
+  "d2c-top": [
+   2859.8,
+   955.3
+  ]
+ },
+ "model": {
+  "wA-front-bottom": [
+   2.326,
+   2.11
+  ],
+  "wA-rear-bottom": [
+   3.036,
+   2.11
+  ],
+  "wB-front-bottom": [
+   3.496,
+   2.11
+  ],
+  "d1c-top": [
+   6.73,
+   3.25
+  ],
+  "d2c-top": [
+   13.68,
+   3.25
+  ]
+ },
+ "modelFace": {
+  "hl-far": [
+   0.78,
+   1.7
+  ],
+  "hl-near": [
+   -0.78,
+   1.7
+  ],
+  "sc-far-out-top": [
+   1.14,
+   3.284
+  ],
+  "sc-far-out-bottom": [
+   1.14,
+   2.263
+  ],
+  "sc-far-in-top": [
+   0.474,
+   3.284
+  ],
+  "sc-far-in-bottom": [
+   0.474,
+   2.263
+  ],
+  "sc-near-out-top": [
+   -1.14,
+   3.284
+  ],
+  "sc-near-out-bottom": [
+   -1.14,
+   2.263
+  ],
+  "gw-far-top": [
+   0.24,
+   3.28
+  ],
+  "gw-near-top": [
+   -0.24,
+   3.28
+  ],
+  "gw-far-bottom": [
+   0.24,
+   2.265
+  ],
+  "gw-near-bottom": [
+   -0.24,
+   2.265
+  ]
+ },
+ "holdout": [
+  "hl-near",
+  "gw-near-bottom",
+  "wA-rear-bottom"
+ ],
+ "readings": {
+  "lamp*/hl-*": "lens centres at 4x (pk006): lamp*-head = marker, hl-* = headlamp, lamp*-tail = red tail",
+  "sc-*/gw-*": "yellow-to-rubber edges as lines fitted along scanlines (rms 0.1-0.6 px), virtual corners; the near screen's inner edge is crossed by the wiper and its reflections (fits disagree by 14 px): not used",
+  "w*-bottom": "saloon window glass bottom and front/rear edges inside the silver frame, fitted lines; their tops are lost in reflections and the black window band",
+  "d*c-top": "door aperture (doors open) top midpoint between its fitted edges"
+ },
+ "focalPx": "exif",
+ "exif": {
+  "focal35mm": 51,
+  "width": 6000,
+  "height": 4000
+ }
+}

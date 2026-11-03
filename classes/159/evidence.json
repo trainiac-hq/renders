@@ -1,0 +1,383 @@
+{
+ "class": "159",
+ "subject": "Class 159 (South Western Railway): what differs from the 158 (3 cars, middle car, livery)",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-159-in-the-revised-South-Western-Railway-livery.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_159_in_the_revised_South_Western_Railway_livery.png",
+   "author": "N0thhan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-12-29",
+   "kind": "diagram",
+   "unit": "159/0 (3 cars), SWR revised livery (navy cab ends, white, navy lower band) = current",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "same template as the 158 diagrams (cab car identical to the pixel); middle car 1760-3443 px"
+  },
+  "dia-old": {
+   "file": "refs/Class-159-South-Western-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_159_South_Western_Diagram.png",
+   "author": "Feathers44",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-02-21",
+   "kind": "diagram",
+   "unit": "159, SWR diagonal-stripes livery",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "stripes livery; 159016 still carried it in 2025 (Commons category), minority"
+  },
+  "p002": {
+   "file": "refs/-GBR-London-South-Western-Railway-Class-159-159002-Vauxhall-2025-06-16.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:(GBR-London)_South_Western_Railway_Class_159_159002_@_Vauxhall_2025-06-16.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-16",
+   "kind": "photo",
+   "unit": "159002 (159/0)",
+   "view": "front three-quarter, cab left, long side",
+   "light": "low evening sun",
+   "exif": "Canon EOS R50, 55 mm (88 mm equiv); 4931x2774 of 6000x4000 (cropped)"
+  },
+  "p007": {
+   "file": "refs/-GBR-London-South-Western-Railway-Class-159-159007-Vauxhall-2025-06-16.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:(GBR-London)_South_Western_Railway_Class_159_159007_@_Vauxhall_2025-06-16.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-16",
+   "kind": "photo",
+   "unit": "159007",
+   "view": "front three-quarter",
+   "light": "evening sun"
+  },
+  "p012": {
+   "file": "refs/159012-Exeter-St-Davids-050825.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:159012_Exeter_St_Davids_050825.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-08-08",
+   "kind": "photo",
+   "unit": "159012",
+   "view": "head-on, slightly right",
+   "light": "sun"
+  },
+  "p020": {
+   "file": "refs/159020-Honiton-March-19th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:159020,_Honiton,_March_19th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-19",
+   "kind": "photo",
+   "unit": "159020",
+   "view": "front three-quarter, close",
+   "light": "sun",
+   "exif": "Canon EOS R50, 45 mm (72 mm equiv); 1600 px copy"
+  },
+  "p022": {
+   "file": "refs/159022-London-Waterloo-December-24th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:159022,_London_Waterloo,_December_24th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-12-24",
+   "kind": "photo",
+   "unit": "159022",
+   "view": "three-quarter, long side",
+   "light": "overcast",
+   "exif": "iPhone 16 Plus, 29 mm equiv"
+  },
+  "p010": {
+   "file": "refs/159010-London-Waterloo-February-2nd-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:159010,_London_Waterloo,_February_2nd_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-02-02",
+   "kind": "photo",
+   "unit": "159010",
+   "view": "three-quarter",
+   "light": "station"
+  },
+  "p108": {
+   "file": "refs/159018-159108-Axminster-March-19th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:159018_&_159108,_Axminster,_March_19th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-19",
+   "kind": "photo",
+   "unit": "159018 leading, 159108 (159/1) behind",
+   "view": "head-on three-quarter",
+   "light": "sun"
+  },
+  "p006": {
+   "file": "refs/SWR-159-006-55146817003.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:SWR_159_006_-_55146817003.jpg",
+   "author": "MissCatTrap",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-08-18",
+   "kind": "photo",
+   "unit": "159006",
+   "view": "front three-quarter, close",
+   "light": "overcast"
+  },
+  "p009": {
+   "file": "refs/Exeter-St-Davids-SWR-159009-newly-refurbished.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Exeter_St_Davids_-_SWR_159009_newly_refurbished.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "unknown (pre-2025)",
+   "kind": "photo",
+   "unit": "159009",
+   "view": "three-quarter",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    20,
+    1780,
+    345
+   ],
+   "feature": "cab car (DMCL) whole",
+   "reading": "159 cab car (DMCL): identical to the 158 diagram pixel for pixel (doors 146-225/1501-1580, windows, cab window, roof boxes); navy cab end to a diagonal at 9.6-11.4 m, white beyond, navy band below 1.27 m, yellow line at the bottom; first door white, second navy with light blue edges."
+  },
+  {
+   "id": "d-mid",
+   "ref": "dia",
+   "box": [
+    1740,
+    20,
+    3470,
+    345
+   ],
+   "feature": "middle car (MSL) whole",
+   "reading": "Middle car (MSL): a small window at both ends, a two-leaf door at both ends (navy, light blue edges), nine saloon windows; white with the navy lower band; 'SWR' logos."
+  },
+  {
+   "id": "d-mid-front",
+   "ref": "dia",
+   "box": [
+    1740,
+    20,
+    2240,
+    345
+   ],
+   "feature": "middle car front end: small window, door",
+   "reading": "Middle car front end: small window 0.98-1.35 m, door 1.68-2.75 m, as the 158's next car."
+  },
+  {
+   "id": "s-livery-159",
+   "ref": "p002",
+   "box": [
+    1388,
+    532,
+    2659,
+    1388
+   ],
+   "feature": "navy cab end, diagonal to white, first door",
+   "reading": "Navy cab end (steel blue in the low sun) meeting white at a straight diagonal leaning back; first door white; navy band continues low under the white.",
+   "reading2": "navy section with cab window, door leaves and three saloon windows; meets off-white at a diagonal from top centre down and to the left; door with light blue trim at the right; orange line along the top."
+  },
+  {
+   "id": "s-corner-door-159",
+   "ref": "p002",
+   "box": [
+    384,
+    354,
+    1654,
+    1477
+   ],
+   "feature": "cab corner and first door, three-quarter",
+   "reading": "Corner: yellow face wraps a few cm, navy side, cab window, white two-leaf door.",
+   "reading2": "cab-side window two panes with angled lower pane, then part of a pair of doors; left pod lit round lamp outer, right pod LED cluster centre, round lamp outer."
+  },
+  {
+   "id": "f-face-159",
+   "ref": "p002",
+   "box": [
+    369,
+    354,
+    1418,
+    1890
+   ],
+   "feature": "face three-quarter, lamps lit",
+   "reading": "159002: yellow round the screens down to below the lamp boxes; navy lower face, black skirt (in shade); headlamps outboard.",
+   "reading2": "yellow upper face, dark navy/black lower front and valance; black gangway surround round a yellow door with a dark bottom; plain round lamps outer, LED clusters centre."
+  },
+  {
+   "id": "s-mid-159",
+   "ref": "p002",
+   "box": [
+    2570,
+    680,
+    3397,
+    1359
+   ],
+   "feature": "middle car front, navy lower band",
+   "reading": "Middle car: white with navy lower band, navy two-leaf doors with light blue at the top, orange cantrail line.",
+   "reading2": "mostly cream bodyside with a navy band along the bottom and an orange line under the roof; two pairs of door leaves with navy trim and light blue at their tops."
+  },
+  {
+   "id": "f-face-hd",
+   "ref": "p012",
+   "box": [
+    1040,
+    380,
+    1920,
+    1420
+   ],
+   "feature": "whole front head-on",
+   "reading": "As 158 f-face-hd: yellow above, navy below a straight line under the lamp boxes; no gangway door window.",
+   "reading2": "yellow upper face and dark navy lower half; lamp pods: plain round lamp outer, red LED centre on both sides."
+  },
+  {
+   "id": "f-lamps-l-hd",
+   "ref": "p012",
+   "box": [
+    1050,
+    820,
+    1300,
+    1020
+   ],
+   "feature": "left lamp box head-on",
+   "reading": "Headlamp outboard, red LED tail inboard.",
+   "reading2": "clear round lamp outer, red LED cluster centre."
+  },
+  {
+   "id": "f-lamps-r-hd",
+   "ref": "p012",
+   "box": [
+    1520,
+    820,
+    1780,
+    1020
+   ],
+   "feature": "right lamp box head-on",
+   "reading": "Red tail inboard, headlamp outboard.",
+   "reading2": "red LED centre side, clear round lamp outer."
+  },
+  {
+   "id": "f-screen-r-hd",
+   "ref": "p012",
+   "box": [
+    1520,
+    500,
+    1780,
+    900
+   ],
+   "feature": "right windscreen recess",
+   "reading": "Destination, glass, number panel, lamp box in one black recess.",
+   "reading2": "orange display at the top, windscreen with wiper, black band with '159 012', yellow surround."
+  },
+  {
+   "id": "f-lower-hd",
+   "ref": "p012",
+   "box": [
+    1060,
+    980,
+    1460,
+    1400
+   ],
+   "feature": "lower face: navy band, slot, skirt",
+   "reading": "Navy lower face with black slots; navy skirt; coupler pocket.",
+   "reading2": "lower front dark navy with valance and separate lower skirt; yellow meets navy at a straight horizontal line."
+  }
+ ],
+ "samples": [
+  {
+   "id": "w-white",
+   "ref": "p002",
+   "box": [
+    2245,
+    1137,
+    2541,
+    1196
+   ],
+   "what": "white bodyside (neutral)",
+   "neutralIs": 240
+  },
+  {
+   "id": "w-navy",
+   "ref": "p002",
+   "box": [
+    1843,
+    1329,
+    2014,
+    1363
+   ],
+   "what": "navy lower bodyside, cab car",
+   "neutral": "w-white"
+  },
+  {
+   "id": "w-door",
+   "ref": "p002",
+   "box": [
+    1598,
+    1123,
+    1620,
+    1311
+   ],
+   "what": "first door (light)",
+   "neutral": "w-white"
+  },
+  {
+   "id": "w-face",
+   "ref": "p002",
+   "box": [
+    768,
+    650,
+    975,
+    1300
+   ],
+   "what": "gangway door yellow (dirty)",
+   "neutral": "w-white"
+  },
+  {
+   "id": "w-lowface",
+   "ref": "p002",
+   "box": [
+    1123,
+    1388,
+    1359,
+    1477
+   ],
+   "what": "navy lower face",
+   "neutral": "w-white"
+  },
+  {
+   "id": "w-roof",
+   "ref": "p002",
+   "box": [
+    1671,
+    540,
+    2014,
+    574
+   ],
+   "what": "roof",
+   "neutral": "w-white"
+  },
+  {
+   "id": "h-face",
+   "ref": "p012",
+   "box": [
+    1100,
+    985,
+    1240,
+    1008
+   ],
+   "what": "face yellow under the left lamp box, head-on"
+  },
+  {
+   "id": "h-skirt",
+   "ref": "p012",
+   "box": [
+    1135,
+    1155,
+    1260,
+    1255
+   ],
+   "what": "navy skirt head-on"
+  }
+ ]
+}

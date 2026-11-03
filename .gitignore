@@ -1,0 +1,5 @@
+node_modules
+out/
+__pycache__/
+# crops.py's contact sheet and box overlays; the crops themselves are kept.
+classes/*/crops/_*

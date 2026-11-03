@@ -1,0 +1,23 @@
+{
+ "class": "390",
+ "refs": {
+  "p111": {
+   "file": "refs/Railways-of-Great-Britain-111.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Railways_of_Great_Britain_111.jpg",
+   "licence": "CC BY-SA 2.0",
+   "kind": "photo",
+   "unit": "390141 (Avanti)",
+   "date": "2021-04",
+   "view": "three-quarter front from the train's right, 70 mm equivalent (RX10 IV, EXIF), 5472x3648 original"
+  },
+  "pgla": {
+   "file": "refs/Class-390-Glasgow-Central.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_390_Glasgow_Central.jpg",
+   "licence": "CC BY 4.0",
+   "kind": "photo",
+   "unit": "390 (Avanti)",
+   "view": "three-quarter front from the left, close"
+  }
+ },
+ "crops": {}
+}

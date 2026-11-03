@@ -1,0 +1,165 @@
+{
+ "ref": "pvic",
+ "side": "near",
+ "points": {
+  "lamp0-head": [
+   800,
+   1702
+  ],
+  "lamp0-tail": [
+   719,
+   1726
+  ],
+  "screen-d0-top-near": [
+   900,
+   1061
+  ],
+  "screen-d0-bottom-near": [
+   882,
+   1538
+  ],
+  "door0-rear-top": [
+   1426,
+   1101
+  ],
+  "door0-rear-bottom": [
+   1408,
+   1810
+  ],
+  "door1-front-top": [
+   1914,
+   1172
+  ],
+  "door1-rear-top": [
+   2094,
+   1192
+  ],
+  "door1-front-bottom": [
+   1902,
+   1715
+  ],
+  "door1-rear-bottom": [
+   2081,
+   1679
+  ],
+  "door2-front-top": [
+   2621,
+   1256
+  ],
+  "door2-rear-top": [
+   2687,
+   1263
+  ],
+  "door2-front-bottom": [
+   2611,
+   1584
+  ],
+  "door2-rear-bottom": [
+   2681,
+   1570
+  ],
+  "win-a-front-top": [
+   1510,
+   1225
+  ],
+  "win-a-front-bottom": [
+   1526,
+   1550
+  ],
+  "win-b-rear-top": [
+   1890,
+   1255
+  ],
+  "win-b-rear-bottom": [
+   1889,
+   1519
+  ],
+  "win3-front-top": [
+   2123,
+   1279
+  ],
+  "win3-front-bottom": [
+   2135,
+   1506
+  ],
+  "win6-rear-top": [
+   2622,
+   1312
+  ]
+ },
+ "holdout": [
+  "door2-rear-top",
+  "lamp0-head",
+  "lamp0-tail",
+  "screen-d0-bottom-near",
+  "screen-d0-top-near",
+  "win-b-rear-bottom"
+ ],
+ "model": {
+  "win-a-front-top": [
+   2.18,
+   2.79
+  ],
+  "win-a-front-bottom": [
+   2.18,
+   1.76
+  ],
+  "win-b-rear-top": [
+   4.7,
+   2.79
+  ],
+  "win-b-rear-bottom": [
+   4.7,
+   1.76
+  ],
+  "win3-front-top": [
+   6.871,
+   2.79
+  ],
+  "win3-front-bottom": [
+   6.871,
+   1.76
+  ],
+  "win6-rear-top": [
+   13.933,
+   2.79
+  ]
+ },
+ "modelFace": {
+  "screen-d0-top-near": [
+   -1.345,
+   3.26
+  ],
+  "screen-d0-bottom-near": [
+   -1.345,
+   1.84
+  ]
+ },
+ "readings": {
+  "note": "387227 GX at Victoria, train's LEFT side (nose image-left) = near. Picks from pick.py panels (r 30-60). Windows = black aperture corners as for pkgx (GX also blacks the pillars). Only the near half of the face shows: the proud gangway frame hides the far half. Gangway frame corners too rounded/blurred to place; gangway door not used (it is at the frame front, 0.47 m ahead of the face, not on the nose surface).",
+  "lamp0-head": "headlamp lens centre (inside the dark bezel ring), x 766-834, y 1657-1747",
+  "lamp0-tail": "lit tail disc centre, x 689-749, y 1693-1758",
+  "screen-d0-top-near": "near screen black surround: top y 1061, near edge x 900",
+  "screen-d0-bottom-near": "black/yellow boundary y 1538, near edge x 882",
+  "door0-rear-top": "cab door rear seal x 1426 at the cantrail gutter y 1101",
+  "door0-rear-bottom": "rear seal at the body bottom edge (1408,1810)",
+  "door1-front-top": "grey leaf front-top (1914,1172)",
+  "door1-rear-top": "grey leaf rear-top (2094,1192)",
+  "door1-front-bottom": "grey leaf bottom-front (1902,1715); body bottom ~16 px lower",
+  "door1-rear-bottom": "grey leaf bottom-rear (2081,1679)",
+  "door2-front-top": "grey leaf front-top (2621,1256)",
+  "door2-rear-top": "grey leaf rear-top (2687,1263)",
+  "door2-front-bottom": "leaf bottom-front (2611,1584)",
+  "door2-rear-bottom": "leaf bottom-rear (2681,1570)",
+  "win-a-front-top": "black aperture front-top (1510,1225); rim corner (1519,1236)",
+  "win-a-front-bottom": "aperture front-bottom (1526,1550); rim (1531,1538)",
+  "win-b-rear-top": "aperture rear-top (1890,1255), red pillar then door1 seal at 1915",
+  "win-b-rear-bottom": "aperture rear-bottom (1889,1519)",
+  "win3-front-top": "aperture front-top behind door1 (2123,1279)",
+  "win3-front-bottom": "aperture front-bottom (2135,1506)",
+  "win6-rear-top": "aperture rear-top (2622,1312): ends where door2's grey leaf starts",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): as pvic: correct. No change.",
+  "_shift": "cab-car model points moved back 0.20 m with the spec"
+ },
+ "focalPx": 3059.1
+}

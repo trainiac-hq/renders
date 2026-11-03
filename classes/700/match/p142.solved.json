@@ -1,0 +1,154 @@
+{
+ "photo": "p142",
+ "size": [
+  1600,
+  1067
+ ],
+ "fit": [
+  "w1-top-front",
+  "w1-bottom-front",
+  "w1-top-rear",
+  "lamp1-tail",
+  "lamp1-head",
+  "lamp0-tail"
+ ],
+ "holdout": [
+  "w1-bottom-rear",
+  "lamp0-head"
+ ],
+ "rmsFit": 7.35,
+ "outliers": [],
+ "focalPx": 2224.0,
+ "principal": [
+  800.0,
+  533.5
+ ],
+ "k1": 0.0,
+ "fitErrors": {
+  "w1-top-front": {
+   "px": 11.64,
+   "cm": 6.53,
+   "projected": [
+    697.8,
+    364.4
+   ]
+  },
+  "w1-bottom-front": {
+   "px": 6.82,
+   "cm": 3.82,
+   "projected": [
+    692.3,
+    542.8
+   ]
+  },
+  "w1-top-rear": {
+   "px": 3.69,
+   "cm": 2.32,
+   "projected": [
+    660.0,
+    383.7
+   ]
+  },
+  "lamp1-tail": {
+   "px": 8.5,
+   "cm": 3.67,
+   "projected": [
+    845.7,
+    600.6
+   ]
+  },
+  "lamp1-head": {
+   "px": 7.22,
+   "cm": 3.11,
+   "projected": [
+    888.4,
+    604.3
+   ]
+  },
+  "lamp0-tail": {
+   "px": 2.07,
+   "cm": 0.94,
+   "projected": [
+    1353.0,
+    584.3
+   ]
+  }
+ },
+ "heldOut": {
+  "w1-bottom-rear": {
+   "px": 17.23,
+   "cm": 10.8,
+   "projected": [
+    655.0,
+    543.2
+   ]
+  },
+  "lamp0-head": {
+   "px": 7.08,
+   "cm": 3.18,
+   "projected": [
+    1321.5,
+    590.1
+   ]
+  }
+ },
+ "conditioning": {
+  "flatness": 0.1429,
+  "offPlane": 4,
+  "faceSigmaCm": {
+   "lamp0-tail": 3.27,
+   "lamp0-head": 3.04,
+   "lamp1-tail": 2.25,
+   "lamp1-head": 2.14,
+   "screen0-top-near": 3.72,
+   "screen0-top-far": 2.95,
+   "screen0-bottom-near": 3.08,
+   "screen0-bottom-far": 2.13,
+   "nose-tip": 2.56
+  },
+  "faceScored": false
+ },
+ "notScored": [
+  "lamp0-head"
+ ],
+ "worstHeldOutCm": 10.8,
+ "ok": false,
+ "camera": {
+  "matrix": [
+   [
+    -0.2024799998338934,
+    -0.0058488237169646564,
+    -0.979268931871319,
+    -8.851470854914893
+   ],
+   [
+    -0.9789405012941337,
+    -0.025366970323941945,
+    0.20256359925360287,
+    3.3082892914273274
+   ],
+   [
+    -0.026025844717446553,
+    0.9996610966111021,
+    -0.0005893462744878641,
+    1.9991117039617883
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "lens": 50.04,
+  "shift": [
+   0.0,
+   0.0
+  ],
+  "size": [
+   1600,
+   1067
+  ],
+  "k1": 0.0
+ }
+}

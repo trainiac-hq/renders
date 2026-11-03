@@ -1,0 +1,99 @@
+{
+ "class": "700",
+ "subject": "Class 700 in Thameslink livery",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-700-Thameslink-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_700_Thameslink_Diagram.png",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "diagram",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p142": {
+   "file": "refs/700142-City-Thameslink-January-21st-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:700142,_City_Thameslink,_January_21st_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY 4.0",
+   "date": "2025-01-21",
+   "kind": "photo",
+   "unit": "700142",
+   "view": "near head-on from the left, nose right",
+   "light": "station lighting"
+  },
+  "p129": {
+   "file": "refs/700129-City-Thameslink-January-21st-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:700129,_City_Thameslink,_January_21st_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY 4.0",
+   "date": "2025-01-21",
+   "kind": "photo",
+   "unit": "700129",
+   "view": "head-on, nose right",
+   "light": "station lighting"
+  },
+  "p121": {
+   "file": "refs/700121-Harpenden-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:700121,_Harpenden,_September_18th_2025.jpg",
+   "author": "see SOURCES.md",
+   "licence": "see SOURCES.md",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "700121",
+   "view": "three-quarter, nose right",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-142",
+   "ref": "p142",
+   "box": [
+    450,
+    120,
+    1300,
+    1000
+   ],
+   "feature": "front",
+   "reading": "One black mask round a single big windscreen; the yellow a panel below it between two black lamp pods set in white cheeks; each pod: red tail outboard, headlamp inboard; '700142' black on the yellow; an orange line over the cab roof; dark coupler recess below."
+  },
+  {
+   "id": "s-cab-142",
+   "ref": "p142",
+   "box": [
+    480,
+    280,
+    900,
+    820
+   ],
+   "feature": "cab side",
+   "reading": "Cab door with a tall narrow window right behind the nose; one window, then door 1; the white cheek sweeping back under the pod."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    1720,
+    340
+   ],
+   "feature": "diagram cab car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "yellow-142",
+   "ref": "p142",
+   "box": [
+    700,
+    650,
+    800,
+    700
+   ],
+   "what": "face yellow (artificial light, raw)"
+  }
+ ]
+}

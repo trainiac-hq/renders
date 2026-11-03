@@ -1,0 +1,214 @@
+{
+ "white-004": {
+  "ref": "p004",
+  "box": [
+   1831,
+   1573,
+   1835,
+   1577
+  ],
+  "what": "white wordmark stroke, bodyside",
+  "median": "#FEF2EE",
+  "iqr": [
+   7,
+   11,
+   14
+  ]
+ },
+ "whitef-004": {
+  "ref": "p004",
+  "box": [
+   2818,
+   1898,
+   2822,
+   1902
+  ],
+  "what": "white unit number on the front",
+  "median": "#D4CCD0",
+  "iqr": [
+   12,
+   11,
+   11
+  ]
+ },
+ "red-004": {
+  "ref": "p004",
+  "box": [
+   2183,
+   1558,
+   2242,
+   1605
+  ],
+  "what": "red bodyside below the window ahead of door 1",
+  "median": "#F25448",
+  "iqr": [
+   5,
+   8,
+   8
+  ],
+  "balanced": "#E55349",
+  "neutral": "white-004"
+ },
+ "blue-004": {
+  "ref": "p004",
+  "box": [
+   2533,
+   1617,
+   2580,
+   1675
+  ],
+  "what": "blue cab side below the cab door's window, away from reflections",
+  "median": "#3657B6",
+  "iqr": [
+   14,
+   11,
+   7
+  ],
+  "balanced": "#3356B8",
+  "neutral": "white-004"
+ },
+ "orange-004": {
+  "ref": "p004",
+  "box": [
+   2378,
+   1430,
+   2400,
+   1450
+  ],
+  "what": "orange sweep behind the cab door",
+  "median": "#FF9A30",
+  "iqr": [
+   2,
+   5,
+   12
+  ],
+  "balanced": "#F19930",
+  "neutral": "white-004"
+ },
+ "yellow-004": {
+  "ref": "p004",
+  "box": [
+   2109,
+   1400,
+   2117,
+   1480
+  ],
+  "what": "yellow door surround, door 1 near side",
+  "median": "#F4C537",
+  "iqr": [
+   6,
+   6,
+   9
+  ],
+  "balanced": "#E7C337",
+  "neutral": "white-004"
+ },
+ "doorblue-004": {
+  "ref": "p004",
+  "box": [
+   2074,
+   1400,
+   2092,
+   1480
+  ],
+  "what": "blue door leaf, door 1",
+  "median": "#49568C",
+  "iqr": [
+   13,
+   14,
+   38
+  ],
+  "balanced": "#45558D",
+  "neutral": "white-004"
+ },
+ "yellowf-004": {
+  "ref": "p004",
+  "box": [
+   2900,
+   1550,
+   3100,
+   1650
+  ],
+  "what": "front yellow, raised middle section",
+  "median": "#FFCC27",
+  "iqr": [
+   0,
+   2,
+   6
+  ],
+  "balanced": "#FFF02D",
+  "neutral": "whitef-004"
+ },
+ "redf-004": {
+  "ref": "p004",
+  "box": [
+   2700,
+   2000,
+   2780,
+   2060
+  ],
+  "what": "front red, left of the coupler recess",
+  "median": "#BF1B15",
+  "iqr": [
+   8,
+   2,
+   2
+  ],
+  "balanced": "#D82018",
+  "neutral": "whitef-004"
+ },
+ "bluef-004": {
+  "ref": "p004",
+  "box": [
+   2800,
+   1010,
+   3000,
+   1080
+  ],
+  "what": "front dome blue above the orange line",
+  "median": "#36529E",
+  "iqr": [
+   88,
+   89,
+   75
+  ],
+  "balanced": "#3D60B7",
+  "neutral": "whitef-004"
+ },
+ "orangef-004": {
+  "ref": "p004",
+  "box": [
+   2900,
+   1776,
+   3000,
+   1790
+  ],
+  "what": "orange line under the yellow, front",
+  "median": "#F78517",
+  "iqr": [
+   27,
+   28,
+   5
+  ],
+  "balanced": "#FF9C1B",
+  "neutral": "whitef-004"
+ },
+ "surround-004": {
+  "ref": "p004",
+  "box": [
+   2628,
+   1250,
+   2645,
+   1400
+  ],
+  "what": "black windscreen surround",
+  "median": "#3C3E41",
+  "iqr": [
+   18,
+   18,
+   19
+  ],
+  "balanced": "#44494B",
+  "neutral": "whitef-004"
+ }
+}

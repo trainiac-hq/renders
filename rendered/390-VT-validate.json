@@ -1,0 +1,218 @@
+[
+ {
+  "check": "corners",
+  "name": "every outline",
+  "ok": true,
+  "detail": "123 outlines, 13568 points, none turning more than 20° at a point"
+ },
+ {
+  "check": "smooth edges",
+  "name": "every paint edge",
+  "ok": true,
+  "detail": "5 paint edges faired; the worst wobble 0.67 mm (limit 0.8), warning panel at (0.40, 0.80)"
+ },
+ {
+  "check": "bodyside",
+  "name": "doors and windows on the flat side",
+  "ok": true,
+  "detail": "19 features, all clear of the nose's corner and the car ends"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp head",
+  "ok": true,
+  "detail": "closest 12.0 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp tail",
+  "ok": true,
+  "detail": "closest 99.5 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp head",
+  "ok": true,
+  "detail": "closest 12.0 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp tail",
+  "ok": true,
+  "detail": "closest 99.5 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "front features",
+  "name": "nothing set into the front overlaps",
+  "ok": true,
+  "detail": "3 features, at least 10 mm apart"
+ },
+ {
+  "check": "front lines",
+  "name": "seams are joints, not paint edges",
+  "ok": true,
+  "detail": "2 lines inside painted areas, clear of their edges"
+ },
+ {
+  "check": "on the body",
+  "name": "panel",
+  "ok": true,
+  "detail": "spans 0.619 to 2.488 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 1.560 to 2.534 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 0.693 to 0.807 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "containment",
+  "name": "grille",
+  "ok": true,
+  "detail": "closest 141.4 mm to its parent's edge (margin 20 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "grille",
+  "ok": true,
+  "detail": "spans 1.938 to 2.188 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "containment",
+  "name": "grille",
+  "ok": true,
+  "detail": "closest 141.4 mm to its parent's edge (margin 20 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "grille",
+  "ok": true,
+  "detail": "spans 1.938 to 2.188 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "front lines",
+  "name": "joints run to the paint's edge or stop clear of it",
+  "ok": true,
+  "detail": "2 joints: every end on the paint's edge, on another joint, or clear of the edge"
+ },
+ {
+  "check": "line continuity",
+  "name": "cantrail line at the nose",
+  "ok": true,
+  "detail": "meets the bodyside line 0.00 mm off its centre, width 30 mm both sides, slope 0.05 at the seam"
+ },
+ {
+  "check": "line continuity",
+  "name": "cantrail line at the nose",
+  "ok": true,
+  "detail": "meets the bodyside line 0.00 mm off its centre, width 30 mm both sides, slope 0.05 at the seam"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.333 to 3.212 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.372 to 3.030 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.372 to 3.030 m up; the nose runs 0.500 to 3.560"
+ },
+ {
+  "check": "slivers",
+  "name": "panel left showing",
+  "ok": true,
+  "detail": "8 thin tips where edges cross, the longest 23 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "2 thin tips where edges cross, the longest 11 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "0 thin tips where edges cross, the longest 0 mm (limit 50)"
+ },
+ {
+  "check": "branding",
+  "name": "logos and wordmarks placed",
+  "ok": true,
+  "detail": "2 placed, each on the flat bodyside clear of doors and windows, or on the front"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layer lifts",
+  "ok": true,
+  "detail": "layers between 0.6 and 2.7 mm"
+ },
+ {
+  "check": "surface",
+  "name": "decal vertices laid on the shell",
+  "ok": true,
+  "detail": "0 of 495261 found no shell under them"
+ },
+ {
+  "check": "surface",
+  "name": "decal clearance",
+  "ok": true,
+  "detail": "0.60 to 2.70 mm off the body (allowed 0.4 to 3.1); furthest at (3.466, -1.236, 2.683), closest at (0.325, 0.678, 0.643)"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layers",
+  "ok": true,
+  "detail": "layers at 0.60, 1.20, 1.50, 1.80, 2.10, 2.40, 2.70 mm"
+ },
+ {
+  "check": "gaps",
+  "name": "body colour showing between regions",
+  "ok": true,
+  "detail": "0 pixels in the ID pass at 1800x1400"
+ },
+ {
+  "check": "branding",
+  "name": "logo-0-VT.svg",
+  "ok": true,
+  "detail": "937 faces on the near and far side, 2.300 x 1.290 m"
+ },
+ {
+  "check": "branding",
+  "name": "logo-1-VT.svg on the front",
+  "ok": true,
+  "detail": "959 of 959 points laid on the front, centre at x 0.363, face normal (-0.8, 0.03, 0.59)"
+ }
+]

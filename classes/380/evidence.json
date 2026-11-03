@@ -1,0 +1,119 @@
+{
+ "class": "380",
+ "subject": "Class 380 in ScotRail livery",
+ "refs": {
+  "dia": {
+   "file": "refs/Scotrail-Class-380-0-w-pantograph.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Scotrail_Class_380_0_w-pantograph.png",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "diagram",
+   "view": "side elevation (20 m template: not used for lengths)",
+   "light": "flat colours"
+  },
+  "p013": {
+   "file": "refs/Class-380-Desiro-EMU-ScotRail-380013.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_380_Desiro_EMU_-_ScotRail_380013.jpg",
+   "author": "see SOURCES.md",
+   "licence": "see SOURCES.md",
+   "kind": "photo",
+   "unit": "380013",
+   "view": "three-quarter, nose right (far side)",
+   "light": "sun"
+  },
+  "p107": {
+   "file": "refs/Paisley-Gilmour-Street-ScotRail-380107-Ayr-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Paisley_Gilmour_Street_-_ScotRail_380107_Ayr_service.JPG",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "photo",
+   "unit": "380107",
+   "view": "side-on, nose left",
+   "light": "station"
+  },
+  "p002": {
+   "file": "refs/Largs-ScotRail-380002-arriving-from-Glasgow.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Largs_-_ScotRail_380002_arriving_from_Glasgow.JPG",
+   "author": "see SOURCES.md",
+   "licence": "CC BY-SA 4.0",
+   "kind": "photo",
+   "unit": "380002",
+   "view": "near head-on",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-002",
+   "ref": "p002",
+   "box": [
+    1100,
+    200,
+    2400,
+    1650
+   ],
+   "feature": "front",
+   "reading": "Navy face raked back; the gangway door all yellow in two leaves in a black frame on black bellows, leaning back with the face; the screens tall in black surrounds with a thin yellow rim; one trapezoid yellow lamp recess a side under the screen, headlamp outboard, LED tail inboard; a black lower nose bulging forward; white unit number over the near screen."
+  },
+  {
+   "id": "s-nose-107",
+   "ref": "p107",
+   "box": [
+    800,
+    350,
+    1950,
+    1700
+   ],
+   "feature": "nose side-on",
+   "reading": "The gangway frame leans back about 0.5 m over 2.6 m; the face's corner further back; the white dot saltire behind the cab door."
+  },
+  {
+   "id": "s-cab-013",
+   "ref": "p013",
+   "box": [
+    600,
+    330,
+    1120,
+    620
+   ],
+   "feature": "cab car side",
+   "reading": "Navy, grey doors, blue LED-pattern lower panels, orange cantrail line; the saltire dots behind the cab."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    40,
+    680,
+    182
+   ],
+   "feature": "diagram (template)",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "navy-013",
+   "ref": "p013",
+   "box": [
+    838,
+    420,
+    842,
+    430
+   ],
+   "what": "navy, sunlit (raw)"
+  },
+  {
+   "id": "yellow-002",
+   "ref": "p002",
+   "box": [
+    1800,
+    700,
+    1840,
+    900
+   ],
+   "what": "gangway door yellow, weathered"
+  }
+ ]
+}

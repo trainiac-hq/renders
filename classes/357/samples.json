@@ -1,0 +1,522 @@
+{
+ "white-013": {
+  "ref": "p013",
+  "box": [
+   1470,
+   1420,
+   1600,
+   1480
+  ],
+  "what": "white bodyside below the first window, car 1 (overcast)",
+  "median": "#BCC5D2",
+  "iqr": [
+   8,
+   6,
+   5
+  ]
+ },
+ "door-013": {
+  "ref": "p013",
+  "box": [
+   1830,
+   1430,
+   1890,
+   1510
+  ],
+  "what": "door leaf magenta, lower leaf",
+  "median": "#8D2D68",
+  "iqr": [
+   9,
+   7,
+   10
+  ],
+  "balanced": "#B43777",
+  "neutral": "white-013"
+ },
+ "swoosh-013": {
+  "ref": "p013",
+  "box": [
+   2060,
+   1000,
+   2130,
+   1035
+  ],
+  "what": "swoosh magenta above window 2",
+  "median": "#AA5386",
+  "iqr": [
+   6,
+   7,
+   4
+  ],
+  "balanced": "#D96599",
+  "neutral": "white-013"
+ },
+ "white-cab-013": {
+  "ref": "p013",
+  "box": [
+   1000,
+   1230,
+   1070,
+   1340
+  ],
+  "what": "white cab side just behind the face corner",
+  "median": "#E6EBF0",
+  "iqr": [
+   13,
+   14,
+   10
+  ]
+ },
+ "band-013": {
+  "ref": "p013",
+  "box": [
+   950,
+   1050,
+   1000,
+   1200
+  ],
+  "what": "magenta band on the cab corner",
+  "median": "#B29CB1",
+  "iqr": [
+   106,
+   45,
+   71
+  ],
+  "balanced": "#CAA9BA",
+  "neutral": "white-face-013"
+ },
+ "white-face-013": {
+  "ref": "p013",
+  "box": [
+   1000,
+   1400,
+   1100,
+   1470
+  ],
+  "what": "white lower face below the yellow",
+  "median": "#D4DDE5",
+  "iqr": [
+   19,
+   16,
+   11
+  ]
+ },
+ "yellow-013": {
+  "ref": "p013",
+  "box": [
+   400,
+   1410,
+   570,
+   1450
+  ],
+  "what": "yellow warning panel",
+  "median": "#FAD35A",
+  "iqr": [
+   2,
+   2,
+   4
+  ],
+  "balanced": "#FFE55E",
+  "neutral": "white-face-013"
+ },
+ "dome-013": {
+  "ref": "p013",
+  "box": [
+   450,
+   810,
+   600,
+   840
+  ],
+  "what": "black dome",
+  "median": "#757E8B",
+  "iqr": [
+   13,
+   13,
+   11
+  ],
+  "balanced": "#848992",
+  "neutral": "white-face-013"
+ },
+ "roof-013": {
+  "ref": "p013",
+  "box": [
+   1540,
+   876,
+   1720,
+   900
+  ],
+  "what": "roof",
+  "median": "#A2A9BA",
+  "iqr": [
+   32,
+   32,
+   29
+  ],
+  "balanced": "#CFCED5",
+  "neutral": "white-013"
+ },
+ "white-045": {
+  "ref": "p045",
+  "box": [
+   1680,
+   960,
+   1900,
+   1010
+  ],
+  "what": "white bodyside below the first window (sun)",
+  "median": "#F0F1F3",
+  "iqr": [
+   5,
+   3,
+   3
+  ]
+ },
+ "door-045": {
+  "ref": "p045",
+  "box": [
+   2000,
+   925,
+   2030,
+   955
+  ],
+  "what": "door leaf magenta",
+  "median": "#DC68AB",
+  "iqr": [
+   3,
+   2,
+   5
+  ],
+  "balanced": "#DC68A9",
+  "neutral": "white-045"
+ },
+ "swoosh-045": {
+  "ref": "p045",
+  "box": [
+   2165,
+   612,
+   2200,
+   640
+  ],
+  "what": "swoosh magenta above window 2",
+  "median": "#DC74AE",
+  "iqr": [
+   4,
+   11,
+   4
+  ],
+  "balanced": "#DC74AC",
+  "neutral": "white-045"
+ },
+ "orange-045": {
+  "ref": "p045",
+  "box": [
+   1880,
+   552,
+   1920,
+   556
+  ],
+  "what": "cantrail orange line",
+  "median": "#F29A57",
+  "iqr": [
+   20,
+   9,
+   30
+  ],
+  "balanced": "#F29956",
+  "neutral": "white-045"
+ },
+ "band-045": {
+  "ref": "p045",
+  "box": [
+   1385,
+   600,
+   1420,
+   700
+  ],
+  "what": "magenta band on the cab side",
+  "median": "#DD73B6",
+  "iqr": [
+   5,
+   19,
+   11
+  ],
+  "balanced": "#DD73B4",
+  "neutral": "white-045"
+ },
+ "white-face-045": {
+  "ref": "p045",
+  "box": [
+   1300,
+   970,
+   1390,
+   1020
+  ],
+  "what": "white face beside/below the yellow (sun)",
+  "median": "#E7EBEE",
+  "iqr": [
+   10,
+   10,
+   9
+  ]
+ },
+ "yellow-045": {
+  "ref": "p045",
+  "box": [
+   760,
+   960,
+   880,
+   1000
+  ],
+  "what": "yellow warning panel",
+  "median": "#8D5501",
+  "iqr": [
+   5,
+   6,
+   2
+  ],
+  "balanced": "#925701",
+  "neutral": "white-face-045"
+ },
+ "dome-045": {
+  "ref": "p045",
+  "box": [
+   850,
+   385,
+   1150,
+   420
+  ],
+  "what": "black dome",
+  "median": "#242832",
+  "iqr": [
+   11,
+   9,
+   13
+  ],
+  "balanced": "#252932",
+  "neutral": "white-face-045"
+ },
+ "white-024": {
+  "ref": "p024",
+  "box": [
+   1390,
+   1160,
+   1530,
+   1330
+  ],
+  "what": "white cab side (diffuse)",
+  "median": "#CFC9BE",
+  "iqr": [
+   9,
+   10,
+   9
+  ]
+ },
+ "band-024": {
+  "ref": "p024",
+  "box": [
+   1540,
+   580,
+   1720,
+   760
+  ],
+  "what": "magenta band on the cab corner",
+  "median": "#793752",
+  "iqr": [
+   20,
+   8,
+   12
+  ],
+  "balanced": "#8C4268",
+  "neutral": "white-024"
+ },
+ "white-face-024": {
+  "ref": "p024",
+  "box": [
+   2115,
+   2040,
+   2205,
+   2090
+  ],
+  "what": "white lower face",
+  "median": "#9498A1",
+  "iqr": [
+   4,
+   4,
+   5
+  ]
+ },
+ "yellow-024": {
+  "ref": "p024",
+  "box": [
+   2310,
+   1640,
+   2590,
+   1820
+  ],
+  "what": "yellow warning panel",
+  "median": "#78541E",
+  "iqr": [
+   20,
+   15,
+   7
+  ],
+  "balanced": "#C3852D",
+  "neutral": "white-face-024"
+ },
+ "dome-024": {
+  "ref": "p024",
+  "box": [
+   1730,
+   290,
+   2110,
+   380
+  ],
+  "what": "black dome",
+  "median": "#1A1B22",
+  "iqr": [
+   6,
+   7,
+   8
+  ],
+  "balanced": "#2A2B33",
+  "neutral": "white-face-024"
+ },
+ "door-024": {
+  "ref": "p024",
+  "box": [
+   540,
+   870,
+   575,
+   1150
+  ],
+  "what": "open door leaf magenta",
+  "median": "#A07178",
+  "iqr": [
+   45,
+   42,
+   21
+  ],
+  "balanced": "#BA8798",
+  "neutral": "white-024"
+ },
+ "white-205": {
+  "ref": "p205",
+  "box": [
+   785,
+   515,
+   830,
+   540
+  ],
+  "what": "old livery white bodyside",
+  "median": "#E5E3DC",
+  "iqr": [
+   8,
+   9,
+   11
+  ]
+ },
+ "door-205": {
+  "ref": "p205",
+  "box": [
+   750,
+   525,
+   775,
+   570
+  ],
+  "what": "old livery dark door",
+  "median": "#343132",
+  "iqr": [
+   29,
+   23,
+   19
+  ],
+  "balanced": "#363437",
+  "neutral": "white-205"
+ },
+ "yellow-205": {
+  "ref": "p205",
+  "box": [
+   935,
+   520,
+   1010,
+   540
+  ],
+  "what": "old livery yellow panel",
+  "median": "#FDBF2D",
+  "iqr": [
+   4,
+   7,
+   13
+  ],
+  "balanced": "#F8BD2E",
+  "neutral": "white-face-205"
+ },
+ "white-face-205": {
+  "ref": "p205",
+  "box": [
+   875,
+   505,
+   900,
+   525
+  ],
+  "what": "old livery face white beside the yellow",
+  "median": "#F5F2ED",
+  "iqr": [
+   9,
+   10,
+   13
+  ]
+ },
+ "cap-205": {
+  "ref": "p205",
+  "box": [
+   935,
+   355,
+   1060,
+   370
+  ],
+  "what": "old livery yellow cap over the screen",
+  "median": "#EDAB33",
+  "iqr": [
+   19,
+   20,
+   17
+  ],
+  "balanced": "#E8AA34",
+  "neutral": "white-face-205"
+ },
+ "c2c-013": {
+  "ref": "p013",
+  "box": [
+   2257,
+   1388,
+   2268,
+   1396
+  ],
+  "what": "c2c wordmark: foot of the 2",
+  "median": "#8B266C",
+  "iqr": [
+   11,
+   9,
+   9
+  ],
+  "balanced": "#CA348C",
+  "neutral": "c2c-white-013"
+ },
+ "c2c-white-013": {
+  "ref": "p013",
+  "box": [
+   2300,
+   1355,
+   2312,
+   1370
+  ],
+  "what": "white bodyside beside the c2c wordmark",
+  "median": "#A5ADBA",
+  "iqr": [
+   2,
+   2,
+   2
+  ]
+ }
+}

@@ -1,0 +1,818 @@
+{
+ "class": "170",
+ "subject": "Class 170 Turbostar, cab car and the car behind",
+ "method": "stage A 170 (evidence.json, samples.json): diagram for positions along, photos for heights and the face",
+ "model": {
+  "heights": {
+   "bottom": 0.9,
+   "cantrail": 3.46,
+   "roof": 3.77,
+   "window": [
+    1.87,
+    2.94
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 23.6,
+   "doors": [
+    {
+     "x": 1.671,
+     "w": 0.986,
+     "cab": true,
+     "span": [
+      0.9,
+      3.4
+     ],
+     "window": [
+      1.82,
+      3.06
+     ]
+    },
+    {
+     "x": 6.74,
+     "w": 1.64,
+     "leaves": 2,
+     "kind": "plug",
+     "span": [
+      0.9,
+      3.4
+     ],
+     "window": [
+      1.87,
+      2.98
+     ],
+     "panes": [
+      0.26,
+      0.61
+     ]
+    },
+    {
+     "x": 17.85,
+     "w": 1.64,
+     "leaves": 2,
+     "kind": "plug",
+     "span": [
+      0.9,
+      3.4
+     ],
+     "window": [
+      1.87,
+      2.98
+     ],
+     "panes": [
+      0.26,
+      0.61
+     ]
+    }
+   ],
+   "windows": [
+    [
+     2.29,
+     3.92
+    ],
+    [
+     4.0,
+     5.56
+    ],
+    [
+     7.77,
+     9.55
+    ],
+    [
+     9.65,
+     11.41
+    ],
+    [
+     11.51,
+     13.21
+    ],
+    [
+     13.31,
+     14.99
+    ],
+    [
+     15.09,
+     16.81
+    ],
+    [
+     19.26,
+     20.78
+    ],
+    [
+     21.1,
+     22.62
+    ]
+   ],
+   "bogies": [
+    3.6,
+    20.76
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 5.5,
+     "w": 2.4
+    },
+    {
+     "kind": "pod",
+     "x": 16.4,
+     "w": 2.4
+    }
+   ],
+   "under": [
+    [
+     6.48,
+     18.25
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.61,
+   "doors": [
+    {
+     "x": 6.2,
+     "w": 1.55,
+     "leaves": 2
+    },
+    {
+     "x": 17.4,
+     "w": 1.55,
+     "leaves": 2
+    }
+   ],
+   "windows": [
+    [
+     1.0,
+     2.95
+    ],
+    [
+     3.15,
+     5.1
+    ],
+    [
+     7.4,
+     9.55
+    ],
+    [
+     9.65,
+     11.8
+    ],
+    [
+     11.9,
+     14.05
+    ],
+    [
+     14.15,
+     16.2
+    ],
+    [
+     18.6,
+     20.55
+    ],
+    [
+     20.65,
+     22.6
+    ]
+   ],
+   "bogies": [
+    3.8,
+    19.8
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 5.0,
+     "w": 2.4
+    },
+    {
+     "kind": "pod",
+     "x": 16.2,
+     "w": 2.4
+    }
+   ],
+   "under": [
+    [
+     5.6,
+     18.0
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.35,
+     0.62,
+     1
+    ],
+    [
+     0.05,
+     0.64
+    ],
+    [
+     0.0,
+     0.67
+    ],
+    [
+     0.0,
+     1.22
+    ],
+    [
+     0.16,
+     2.13
+    ],
+    [
+     0.4,
+     2.87
+    ],
+    [
+     0.6,
+     3.42
+    ],
+    [
+     0.88,
+     3.75
+    ],
+    [
+     1.0,
+     3.77,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.345,
+   "depth": 1.5,
+   "panel": [
+    {
+     "pts": [
+      [
+       0,
+       1.86
+      ],
+      [
+       0.98,
+       1.86,
+       1
+      ],
+      [
+       0.981,
+       1.8
+      ],
+      [
+       0.938,
+       1.7
+      ],
+      [
+       0.885,
+       1.6
+      ],
+      [
+       0.82,
+       1.5
+      ],
+      [
+       0.784,
+       1.45
+      ],
+      [
+       0.62,
+       1.33
+      ],
+      [
+       0.32,
+       1.25
+      ],
+      [
+       0,
+       1.23
+      ]
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      -0.98,
+      0.98
+     ],
+     "y": [
+      3.21,
+      3.45
+     ],
+     "r": [
+      0,
+      0.2,
+      0.2,
+      0
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "m": [
+      -1.03,
+      1.03
+     ],
+     "y": [
+      1.875,
+      3.2
+     ],
+     "r": [
+      0.08,
+      0.14,
+      0.14,
+      0.08
+     ]
+    },
+    {
+     "m": [
+      -1.345,
+      1.345
+     ],
+     "y": [
+      1.01,
+      1.155
+     ]
+    },
+    {
+     "m": [
+      0.55,
+      1.25
+     ],
+     "y": [
+      0.65,
+      1.01
+     ],
+     "mirror": true
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.022,
+      0.98
+     ],
+     "y": [
+      2.01,
+      3.17
+     ],
+     "r": [
+      0.04,
+      0.1,
+      0.1,
+      0.04
+     ],
+     "mirror": true
+    }
+   ],
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 1.06,
+      "y": 1.53,
+      "r": 0.078
+     },
+     {
+      "kind": "tail",
+      "m": 0.904,
+      "y": 1.44,
+      "r": 0.056
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.048
+   },
+   "number": {
+    "text": "170112",
+    "m": 0.56,
+    "y": 1.75,
+    "height": 0.09,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -0.57,
+      1.97
+     ],
+     "tip": [
+      -0.09,
+      2.58
+     ],
+     "mirror": true
+    }
+   ]
+  }
+ },
+ "liveries": {
+  "XC": {
+   "body": "#D8D8D8",
+   "roof": "#D4D9E2",
+   "doors": "#E1E2E1",
+   "panel": "#D6950E",
+   "face": "#E03C49",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "bands": [],
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       0.9
+      ],
+      [
+       11.5,
+       0.9
+      ],
+      [
+       13.3,
+       3.46
+      ],
+      [
+       -0.1,
+       3.46
+      ]
+     ],
+     "color": "#E03C49",
+     "layer": "under"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       17.03,
+       0.9
+      ],
+      [
+       18.67,
+       0.9
+      ],
+      [
+       18.67,
+       3.4
+      ],
+      [
+       17.03,
+       3.4
+      ]
+     ],
+     "color": "#E03C49"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       0.4,
+       1.0
+      ],
+      [
+       0.55,
+       1.0
+      ],
+      [
+       4.0,
+       3.2
+      ],
+      [
+       2.8,
+       3.2
+      ]
+     ],
+     "color": "#F3E9D6"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       1.75,
+       3.2
+      ],
+      [
+       2.5,
+       3.2
+      ],
+      [
+       4.3,
+       1.0
+      ],
+      [
+       2.8,
+       1.0
+      ]
+     ],
+     "color": "#F3E9D6"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "XC",
+     "at": [
+      9.92,
+      1.51
+     ],
+     "height": 0.49,
+     "color": "#F3E9D6",
+     "sides": "both"
+    }
+   ]
+  },
+  "NT": {
+   "body": "#C4C0BB",
+   "roof": "#CDE6EC",
+   "doors": "#C4C0BB",
+   "panel": "#FFD018",
+   "face": "#323581",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       0.9
+      ],
+      [
+       7.6,
+       0.9
+      ],
+      [
+       9.0,
+       3.46
+      ],
+      [
+       -0.1,
+       3.46
+      ]
+     ],
+     "color": "#313792",
+     "layer": "under"
+    }
+   ]
+  },
+  "EM": {
+   "body": "#491A2F",
+   "roof": "#3F3D34",
+   "doors": "#8C8E8C",
+   "panel": "#F8D133",
+   "face": "#402542",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A"
+  },
+  "SR": {
+   "body": "#344771",
+   "roof": "#6E7C8A",
+   "doors": "#8C8E8C",
+   "panel": "#FFEB68",
+   "face": "#1E205D",
+   "surround": "#1A1A1A",
+   "under": "#2A2A2A",
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       0.354,
+       3.379
+      ],
+      [
+       0.325,
+       3.166
+      ],
+      [
+       0.295,
+       2.832
+      ],
+      [
+       0.165,
+       2.65
+      ],
+      [
+       0.059,
+       2.467
+      ],
+      [
+       0.089,
+       2.102
+      ],
+      [
+       0.136,
+       1.889
+      ],
+      [
+       0.325,
+       1.725
+      ],
+      [
+       0.443,
+       1.554
+      ],
+      [
+       0.549,
+       1.403
+      ],
+      [
+       0.649,
+       1.251
+      ],
+      [
+       1.092,
+       1.251
+      ],
+      [
+       1.021,
+       1.403
+      ],
+      [
+       0.944,
+       1.554
+      ],
+      [
+       1.035,
+       1.725
+      ],
+      [
+       0.947,
+       1.889
+      ],
+      [
+       0.858,
+       2.102
+      ],
+      [
+       0.876,
+       2.467
+      ],
+      [
+       0.917,
+       2.65
+      ],
+      [
+       0.737,
+       2.832
+      ],
+      [
+       0.767,
+       3.166
+      ],
+      [
+       0.62,
+       3.379
+      ]
+     ],
+     "color": "#F0F0F0",
+     "dotFade": {
+      "pitch": 0.21,
+      "rowPitch": 0.22,
+      "from": 0.1,
+      "to": 0.06,
+      "stagger": false
+     }
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.18,
+       1.82
+      ],
+      [
+       4.9,
+       1.82
+      ],
+      [
+       5.5,
+       0.9500000000000001
+      ],
+      [
+       2.18,
+       0.9500000000000001
+      ]
+     ],
+     "color": "#46AFF8",
+     "dotFade": {
+      "pitch": 0.29,
+      "rowPitch": 0.13,
+      "from": 0.08,
+      "to": 0.03
+     }
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "XC diagram (dxc, Unisouth 5291x369): 73.0 px/m along (cab car px 46-1769 = 23.6 m; wheelbase 190 px = 2.60, wheels 61 px = 0.84), 81.9 px/m up from rail row 340 (roof row 31: 12% stretched); photos win for heights",
+  "model.heights": "photo: glass 1.87-2.94 (window), door span 0.90-3.40, cantrail ~3.46; roof 3.77 (published); the diagram's 1.99-2.89 glass and 3.28 orange line are drawn low",
+  "model.cab.doors": "cab door 1.178-2.164 (dxc); door 1 centre 6.72-6.76, 1.64 wide (photo; dxc 1.96), door 2 centre 17.85 (photo; dxc 18.04, unresolved: photo used); door windows 1.87-2.98 at 0.26-0.61 m from the door's centre; cab droplight 1.82-3.06",
+  "model.cab.windows": "photo: [2.29,3.83], [3.91,5.81]; five saloon panes between pillar edges 7.77, 9.60, 11.46, 13.26, 15.04, 16.81 (pillars ~0.1); rear [19.26,20.78], [21.10,22.62] (dxc)",
+  "model.cab.bogies": "3.60, 20.76 (dxc); underframe 6.48-18.25 (dxc)",
+  "model.cab.roof": "not measured: as before",
+  "model.next": "NOT MEASURED yet: the middle car as the old model had it (the diagram draws it 22.45 m against 23.61 published); windows split into panes at the old pitch ; still not measured (2026-10-06): the stage-A diagrams draw the middle car 22.45 m against 23.61 published, unresolved",
+  "model.nose.profile": "dxc and the four other tall diagrams (same nose pixels): x = 0 from 0.67 to 1.22 m, 0.16 at 2.13, 0.40 at 2.87, 0.60 at 3.42, 0.88 at 3.75; the screen doesn't wrap onto the side (no side windscreen)",
+  "model.face": "head-on 170635 (l635, 315 mm eq, roll 2.99 deg corrected, 2.6 mm/px, half-width 1.345 at the lamps): screen surround +-1.03 y 1.875-3.20, glass 2.01-3.17 with a 0.022 pillar on the centre line (glass edge taken 5 cm inside the surround, not read); yellow cap +-0.98 y 3.21-3.45 with large top radii; lower yellow from the surround down to 1.23 at the centre, edge +-0.98 at 1.8, 0.89 at 1.6, 0.81 at 1.5, 0.79 at 1.45; face colour band 1.155-1.23; dark valance recess 1.01-1.155; buffer boxes +-0.55-1.25 y 0.65-1.01; number m 0.56 y 1.75 h 0.09; wiper pivot (-0.57, 1.97) tip (-0.09, 2.58) mirrored ; the lower yellow's edge readings (+-1 cm scatter) smoothed by a quadratic through them (residuals under 1.1 cm): 0.981 at 1.8, 0.938 at 1.7, 0.885 at 1.6, 0.82 at 1.5, 0.784 at 1.45",
+  "model.face.lamps": "one figure-of-eight cluster a side (second reader on 26 crops): head lens m 1.06 y 1.53 r 0.078 (bezel 0.126), outboard and higher; tail m 0.904 y 1.44 r 0.056 (bezel 0.095); the separate ringed marker on XC/EM/AW/LM (m 0.68 y 1.414 r 0.086) is not drawn yet",
+  "liveries.XC": "samples x101s (station, silver bodyside neutral): red #E03C49, cream door #E1E2E1, roof #D4D9E2; front yellow yellow-x101 #D6950E; red to silver at 11.5 m low, 13.3 m high (photo); door 2 red, door 1 cream; the cream X as the stage-A readings give it, each arm a band widening as it goes: '/' from 0.40-0.55 m at 1.0 m up to 2.8-4.0 m at 3.2 m, '\\\\' from 1.75-2.5 m at 3.2 m to 2.8-4.3 m at 1.0 m (the first build drew both 0.3 m wide, which the x113 render showed as thin stripes); face red below the yellow (redfront)",
+  "liveries.NT": "samples n476 against the white first door (neutral): blue-purple cab end #313792, yellow #FFD018, lower front #323581, roof #CDE6EC; body the neutral white #C4C0BB (in shade); the purple ends at 7.6 m at the skirt, ~9.0 at the cantrail",
+  "notes": "EM and SR measured (this pass); AW and LM (both historical: until 2024-01 and 2023-05) keep their old turbostar liveries (samples exist: e418, s428, a271/a205, l509/l635). Not drawn: marker lamps, door bike roundels, saltire dots (SR), the 170/2 window layout.",
+  "liveries.XC.body": "silver-x101s is the neutral patch that balanced the other samples, so its true colour is grey: drawn as the neutral grey of its luminance (#D8D8D8), not its warm median #DCD9D2, which rendered cream",
+  "liveries.EM": "e418 (EMR 170418): purple bodyside purple-e418 balanced against the silver door #8C8E8C -> #967F85, face yellow yellow-e418 #F8D133 (raw: the balanced one clips), purple lower front lower-e418 balanced #402542, roof roof-e418 #636052 (seen side-on, /2.5 for sky light all the same: it reads near white otherwise); the silver swoosh not drawn ; body corrected: balancing e418's purple against its silver door rendered mauve-pink (round 5 sheet); EMR's purple is one paint across its fleet, so the 158's emr-body (pemr, balanced against the silver door in overcast light) #491A2F is used",
+  "liveries.SR": "s428 (ScotRail 170428): blue bodyside blue-s428 #344771, yellow yellow-s428 #FFEB68, lower front lower-s428 #1E205D, roof roof-s428 /2.5 (all raw: the door is in shade, no neutral); doors drawn the EM silver #8C8E8C (stage A: 'silver-grey door'); the saltire dots not drawn",
+  "liveries.XC.branding": "crosscountry wordmark and X on x113 (lg170 grid, 3x; the far side, nose right): 1170-1333 px, read along the car through the window fit (x113 picks): 8.72-11.13 m; height (the X) 1352-1478 px at ~224 px/m below the glass (1.87 at 1335 px): 1.23-1.79 m. Height by width 0.42, as read 0.56: mean 0.49, centred 9.92/1.51; cream as the X stripes",
+  "liveries.SR.saltire": "the dotted saltire as the 158 SR's (classes/158/spec.json liveries.SR: white saltire dots at the cab end, light blue graded dots low on the bodyside, from the ScotRail diagram) placed for this class from s428 (170428 at Bow of Fife): the white dots fill the cab end from the corner to 1.18 m (the 158's 0-1.63 m scaled to it), heights scaled between skirt and cantrail; the blue graded dots start 2.18 m (the 158's 2.76 m, just behind its first door, moved to this class's), heights scaled to end at the window bottom, as on the photo. Dot pitch as the 158's (0.10 / 0.29 m)",
+  "liveries.SR.dots": "third pass, outlines traced on pgc (pgcfull grid; along: door 1's front edge u 1330 = 1.65 m and the cab corner u 1530 = 0, 121 px/m; up: cantrail v 930 = 3.3 m, solebar v ~1340 = 1.0 m, 178 px/m). White saltire arm: row by row from v 940 to 1290 its rear and front ends (u 1425-1470 at the top ... 1407-1520 at mid height, reaching the corner ... 1345-1420 at the foot): a diagonal band, narrow at the top beside the cab window, reaching the corner at about 1.9 m and leaning back towards the door at the bottom. Light blue: from the window bottom (1.90) down to near the solebar (1.05), 7 rows (row pitch 0.13), from the door back about 3 m, its rear boundary a slanted diagonal (5.4 m at the top, 6.0 m at the foot). Other classes: the 156's outlines scaled to their own cab end (white: to their first door; blue: from behind the door) and heights ; the white arm widened by one column (0.21 m, scaled) at mid height (rows 4-8) after a comparison with pgc",
+  "model.cab.windows.front": "the two panes ahead of door 1 re-read through the x113 camera (now solved from the saloon run, held-out 3.5 cm; x113front grid): front edge 2.27-2.32 (kept 2.29), the pillar between them at 3.96 m (was 3.83/3.91), the rear edge 5.44-5.68 m (was 5.81: the camera rejected it as an outlier): drawn [2.29,3.92], [4.0,5.56]"
+ },
+ "views": {
+  "match-x113": {
+   "matrix": [
+    [
+     -0.3058668415886275,
+     -0.02127274245589117,
+     -0.9518366170961291,
+     -17.957645289913717
+    ],
+    [
+     -0.9520376200129126,
+     -0.001941957258749148,
+     0.3059748337398919,
+     7.830152414587724
+    ],
+    [
+     -0.008357349863845794,
+     0.9997718235829667,
+     -0.019658470765620654,
+     1.509656365892642
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 78.0,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  "match-x113-flat": {
+   "matrix": [
+    [
+     -0.3058668415886275,
+     -0.02127274245589117,
+     -0.9518366170961291,
+     -17.957645289913717
+    ],
+    [
+     -0.9520376200129126,
+     -0.001941957258749148,
+     0.3059748337398919,
+     7.830152414587724
+    ],
+    [
+     -0.008357349863845794,
+     0.9997718235829667,
+     -0.019658470765620654,
+     1.509656365892642
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 78.0,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1067
+   ],
+   "flat": true
+  }
+ }
+}

@@ -1,0 +1,615 @@
+{
+ "class": "800",
+ "subject": "Class 800/0 IET, GWR green, 2026",
+ "method": "Side from the WestRail642fan 800/0 diagram (revised April 2026), as fractions of the published car lengths since its scales disagree; heights from proportions along one vertical line of p311; nose head-on from the Bryncae photo (p-bry, refs already held).",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 29.09,
+  "railY": 188,
+  "faceX": 0,
+  "notes": "Cab car 0..752 px = 25.85 m, car 2 766..1490 px = 26.0 m (published, Wikipedia) -> 29.1 / 27.8 px/m; the drawn wheels (28 px for 0.86 m) and bogie wheelbase (83 px) would give 32.5 and 30.7 px/m, and rail to roof is 126 px for ~3.6 m (35 px/m): the drawing is not to one scale, so only positions along each car are taken from it, as fractions of that car.",
+  "pxPerMVertical": 35.0
+ },
+ "model": {
+  "heights": {
+   "window": [
+    1.9,
+    2.62
+   ]
+  },
+  "cab": {
+   "length": 25.85,
+   "doors": [
+    {
+     "x": 4.59,
+     "w": 0.79,
+     "cab": true
+    },
+    {
+     "x": 7.97,
+     "w": 0.89
+    },
+    {
+     "x": 22.62,
+     "w": 0.89
+    }
+   ],
+   "windows": [
+    [
+     9.659,
+     11.275
+    ],
+    [
+     11.584,
+     13.2
+    ],
+    [
+     13.509,
+     15.125
+    ],
+    [
+     15.469,
+     17.05
+    ],
+    [
+     17.394,
+     18.975
+    ],
+    [
+     19.319,
+     20.9
+    ]
+   ],
+   "bogies": [
+    5.0,
+    21.23
+   ]
+  },
+  "next": {
+   "length": 26.0,
+   "doors": [
+    {
+     "x": 2.33,
+     "w": 0.86
+    },
+    {
+     "x": 23.67,
+     "w": 0.86
+    }
+   ],
+   "windows": [
+    [
+     4.13,
+     5.782
+    ],
+    [
+     6.141,
+     7.793
+    ],
+    [
+     8.152,
+     9.804
+    ],
+    [
+     10.163,
+     11.815
+    ],
+    [
+     12.174,
+     13.826
+    ],
+    [
+     14.185,
+     15.837
+    ],
+    [
+     16.196,
+     17.848
+    ],
+    [
+     18.207,
+     19.859
+    ],
+    [
+     20.218,
+     21.87
+    ]
+   ],
+   "bogies": [
+    4.79,
+    20.65
+   ]
+  },
+  "front": {
+   "panel": [
+    [
+     0.218,
+     1.99,
+     1
+    ],
+    [
+     0.5,
+     1.99
+    ],
+    [
+     0.782,
+     1.99,
+     1
+    ],
+    [
+     0.756,
+     1.57
+    ],
+    [
+     0.729,
+     1.12
+    ],
+    [
+     0.706,
+     0.75
+    ],
+    [
+     0.701,
+     0.6
+    ],
+    [
+     0.67,
+     0.53
+    ],
+    [
+     0.5,
+     0.52
+    ],
+    [
+     0.33,
+     0.53
+    ],
+    [
+     0.299,
+     0.6
+    ],
+    [
+     0.294,
+     0.75
+    ],
+    [
+     0.271,
+     1.12
+    ],
+    [
+     0.244,
+     1.57
+    ]
+   ],
+   "coneSeam": [
+    [
+     0.25,
+     1.5
+    ],
+    [
+     0.3,
+     1.585
+    ],
+    [
+     0.37,
+     1.63
+    ],
+    [
+     0.5,
+     1.65
+    ],
+    [
+     0.63,
+     1.63
+    ],
+    [
+     0.7,
+     1.585
+    ],
+    [
+     0.75,
+     1.5
+    ]
+   ]
+  },
+  "livery": {
+   "body": "#0B3D2E",
+   "doors": "#0B3D2E",
+   "line": "#AEB4B4",
+   "lineY": [
+    0.263,
+    0.283
+   ],
+   "lineCab": [
+    15.4,
+    21.0
+   ],
+   "lineNext": [
+    4.0,
+    22.0
+   ],
+   "branding": [
+    {
+     "logo": "GW",
+     "at": [
+      6.43,
+      2.12
+     ],
+     "height": 0.62,
+     "color": "#AEB4B4"
+    },
+    {
+     "logo": "GW",
+     "on": "front",
+     "at": [
+      0.5,
+      1.8
+     ],
+     "height": 0.245,
+     "color": "#3A3D3B"
+    }
+   ]
+  },
+  "lamp": {
+   "style": "glazed",
+   "glazing": [
+    [
+     1.527,
+     1.96
+    ],
+    [
+     2.036,
+     1.95
+    ],
+    [
+     1.455,
+     1.485
+    ],
+    [
+     0.918,
+     1.48
+    ]
+   ],
+   "units": [
+    {
+     "kind": "tail",
+     "at": [
+      1.351,
+      1.62
+     ],
+     "r": 0.11
+    },
+    {
+     "kind": "head",
+     "at": [
+      1.72,
+      1.8
+     ],
+     "r": 0.1
+    }
+   ]
+  }
+ },
+ "trace": {
+  "cab.doors": "dia row 110: cab door rails at 121-125/143-146 px (4.19-4.98 m); door 1 219-245 px (7.53-8.42 m); door 2 645-671 px (22.17-23.07 m)",
+  "cab.windows": "dia row 110: three first-class windows 281-328, 337-384, 393-440 px (drawn dark), three standard 450-496, 506-552, 562-608 px. The old data spread six windows evenly over 9.9-21.3 m",
+  "cab.bogies": "dia row 178-186: wheel pairs centred 104/187 and 576/659 px -> 5.00 and 21.23 m",
+  "next": "dia row 110 from 766 px: nine windows 881-927 ... 1329-1375 px; doors 819-843 and 1413-1437 px (2.33 and 23.67 m); the old data had one door and eleven windows",
+  "heights.window": "p311 col 2170: orange line 902-909, window 1043-1235, under-window line 1338-1353, body foot ~1500 px; the proportions (0.232 : 0.323 : 0.185 : 0.260) put on the model's own line (3.18 m) and foot (0.85 m). The diagram's proportions (0.231 : 0.266 : 0.091 : 0.406) draw the windows smaller and the line higher: overruled by the photo",
+  "livery.doors": "s-cabzone-311, s-saloon-311: every door is body green with silver grab rails (the old data had silver doors; the diagram draws some doors grey)",
+  "livery.line": "s-saloon-311 and dia rows 123-125: a light grey line under the standard-class windows only (dia 450-608 px on the cab car, 881-1375 px on car 2)",
+  "front.panel": "Fourth pass: the yellow is a near-rectangle, its top straight along the screen frame's base, its sides near-straight lines down to the valance, very slightly wider at the top; the lamp pods sit outside it in the green, beside its top corners. Measured head-on on p008 (800008 at Silk Mills, nearly head-on from above; h008b grid, 2x) against the LED clusters' spacing (258.5 px): the yellow's width is 0.826 of it at the top (row 1135), 0.754 where the seam meets its edges (row 1230), 0.685 at row 1300 and 0.59 at the bottom (row 1390); the Bryncae head-on gives 0.83 at the top. With the LEDs 2.318 m apart, the half-width is 0.96 m at the top falling in a straight line (z = 0.685 + 0.19 (y - 0.95)) to 0.69 m at the valance; as u on the model's face (half-width 1.32-1.35 m) that is u = 0.755 + 0.0745 (y - 1.0), each side. Re-derived on the lowered nose (fifth pass): top at the screen frame, 1.99 m; the yellow ends at p008 row 1395 (0.566 of the LED spacing wide: half-width 0.655 m) above the grey valance, at 0.52 m on the model; between them the side is the straight line z = 0.655 + 0.2075 (y - 0.52), u = 0.7435 + 0.0771 (y - 0.52) with the face 1.345 m half-wide. Top corners sharp, bottom corners rounded into the valance. p311 traced on the same edges (y311/yl311/yr311 grids) agrees in shape: top straight, sides straight. The previous panel's sides followed the lamp recesses (panelToLamps) and swept round the pods: removed. ; sixth pass, the width: the widths above were read against the LED clusters taken as 2.318 m apart, a spacing that came from p311 read on the old shell, not measured. Two checks say the face is narrower: in the p311 camera (which, with the lowered nose, puts the yellow's top line and the seam's crown on the photo's) the 1.92 m yellow stood 0.1 m outboard of the real near edge, and the yellow's height over its top width is 1.2 on both p311 and p008 against 0.8 on ours in the same views. Scaled by 0.79, the edges land on the photo's near and far edges in p311 along their whole visible length. So: half-width 0.758 m at the top, 0.517 m at the foot, u = 0.692 + 0.0612 (y - 0.52) (the yellow's top about 1.52 m wide; Bryncae's body silhouette gives 1.43-1.9 m depending on which edge is taken as full width, so it can't decide this alone). Below ~1 m the real yellow continues lower than ours in p311; that camera is not trusted there (it puts the valance under the rail), so the foot stays at the diagram's 0.44 m.",
+  "front.coneSeam": "f-yellow-311: the cone's top edge arches over, ends lower at the sides ; ends pulled in to 0.20/0.80 so the seam stops inside the yellow (review: the line carried on across the green); the cone's outline line added in the third pass removed: the yellow's edge is a paint edge, no joint ; fifth pass, on the lowered nose: the crown at 0.25 of the yellow's height down from its top on p008 (rows 1135/1200/1395) and 0.21 on p311 (1210/1336/1815): 1.65 m; it meets the yellow's edges at 0.35/0.32 down (p008 1225-1232, p311 1385): 1.50 m, where the lamp covers end; at u 0.33/0.67 1.61 m. The coupler cover's split runs from the crown to the valance (0.53 m). ; sixth pass (lead: a tall arch, crown just under the logo, ends dropping steeply): flat over the middle third, 1.65 at the crown and 1.63 at u 0.37/0.63, then 1.585 at 0.3/0.7 and 1.50 at the yellow's edges (0.25/0.75).",
+  "lamp": "Review: the real lamp is a flat, flush clear cover following the nose's crease, with a round LED cluster and a headlamp behind it; ours was a deep bowl. Measured on p311 (l311 grid, 10 px): the cover's inner frame corners A (low front), B (top front), C (top rear), D (low rear), the LED cluster's and the headlamp's centres and edges, each found on the shell through the solved camera (match.py surface). The cover is a long triangle: a short lower edge, a steep front edge along the yellow's side, a top edge under the screen frame, a diagonal back down. Positions are taken relative to the yellow band's top corner (real 1.059/1.925 m, the model's 1.899/2.40 m) since the shell's nose differs (see camera match), 2 cm lower so the top clears the windscreen. Slough (p002, 800/0) shows the same shape: 800/0 and 800/3 agree ; third pass (review: the lamp read as an opaque black shape with two tiny lights): on p311 (crop 1280-1550 x 1110-1410, 3x, 10 px grid) the LED cluster is a disc about 0.39 of the cover's front edge across (r 0.11-0.12 m on the model's cover) low and forward, with about 40 emitters in a honeycomb (7 across); the headlamp's reflector about the same size, high and back; the cover is clear glass over a dark grey recess, in a thin raised body-coloured lip. Placed in the cover as unwrapped on the shell (the shell is not yet right: see camera) ; fourth/fifth pass (review: the pods sit outside the yellow, beside its top corners): the cover's front edge runs parallel to the yellow's side about 4 cm outside it (p008: 5 px at 7.6 mm/px; p311: 10-35 px), from just under the screen frame (1.96 m) down to where the seam meets the yellow (1.48 m); its top-rear corner 1.29 m out head-on, the bottom-rear 1.22 m; each head-on [z, y] put on the flank through the shell (noseField): A 1.172/1.48, B 1.812/1.96, C 2.518/1.95, D 1.878/1.485. LED cluster low and forward (p008: 0.25 m outboard of the yellow's edge, 0.17 below the headlamp), headlamp high and further out: tail 1.643/1.62 (1.08 m out head-on), head 2.214/1.80 (1.24 m out). ; sixth pass: with the yellow 0.79 as wide the covers moved in with it (front edge 4 cm outside the yellow, A 0.918/1.48, B 1.527/1.96, C 2.036/1.95, D 1.455/1.485; head-on 0.71-1.12 m out), the LED 0.2 m outboard of the yellow's edge (tail 1.351/1.62) and the headlamp above and outboard of it (head 1.72/1.80).",
+  "camera": "Camera matches: p311 (800311, 120 mm equivalent, focal from EXIF 13270 px) and p307 (800307, 39 mm equivalent, EXIF 4119 px), each from the cab car's window corners. Bodyside held out: p311 0.6, 1.2, 4.7 cm; p307 3.7, 6.6 cm. The nose: with those cameras the model's yellow corner, screen corners and lamps project 46-71 cm from where p311 has them, but the two photos, read on the shell, put the same yellow corner 0.8 m apart (u 0.21 at 1.93 m on p311, u 0.04 at 2.05 m on p307): window corners all lie in one plane, so the cameras are not pinned off it, and the nose (up to 2.6 m off that plane) can't be judged from them. A scaled profile and setback (grid over tip height and plan) brought p311 only from 48 to 37 cm rms. Needs points off the bodyside plane known exactly: axlebox covers, the far side's cab door, a head-on photo's symmetry",
+  "livery.branding": "Side: the GWR logo upright (p307 800/3 2026, p311, p002 800/0 all show it level; only p004, 2017, shows an older arrangement), between the cab door and the first passenger door. Centre at 0.57 of the gap from the cab door's rear edge to door 1's front edge (p307 0.578, p311 0.565, each read on the bodyside plane through the solved match camera), so x 4.985 + 0.57 x 2.54; height 0.62 m from the W's top to its foot against the cab door's height on p307 (119 px of 333 px for 1.71 m; the solved camera gives 0.67), centre 2.12 m up (p307 camera 2.09, door proportion 2.10-2.20). Colour: the light grey of the window line (p307/p311 lettering samples 161,174,175 / 173,185,178). Front: centred (Bryncae head-on: 812 px against the lamps' mid-point 814.5 px), 0.57 m wide on the face against the lamp spacing (34 px of 139 px for 2.32 m on Bryncae; 0.56 m on p311), so 0.31 m high on the surface. Its centre is 0.165 of the yellow's height down from its top on p008 (row 1178) and 0.124 on p311 (row 1280): 1.78 m on the lowered nose, above the seam's crown (1.65 m) as on both photos. ; sixth pass: its width was read against the same 2.318 m LED spacing: scaled by 0.79 with the yellow, 0.45 m wide, 0.245 m high on the surface, its centre 1.80 m up so its foot clears the seam's crown as on p008/p311.",
+  "nose": "The AT300 centre line (classes/hitachi.ts atNose.profile, shared by 800-803) re-read from the 800/0 diagram's nose (dia, 6x grid, rows 55-188): front-most x at each row, the yellow line's foot, the underside back to the skirt. Horizontal 29.09 px/m from the tip. Vertical: the diagram's own scales disagree (rail to roof 35 px/m puts the skirt at 1.0 m; its drawn wheel, 28 px for 0.86 m, gives 32.6 px/m and 1.07 m) with the skirt the side was built on, 0.85 m from proportions along one vertical line of p311. Looked for a third source to settle it: no near side-on photo among the held refs shows rail, skirt and a known size together (p311/p307 bogies hide the wheel hubs and rail; p004 and p313 are three-quarter views from platforms whose heights aren't known; Commons search found no second drawing). Decision: keep 0.85 m (it agrees with the doors and windows the camera matches fit to 1-5 cm) and read the diagram piecewise, rail-to-skirt and skirt-to-roof (3.6 m) each linear. Result: unchanged above ~2.7 m (within 5 cm of the old line); below, the tip at 0.94 m (was 1.28), the windscreen's foot on the centre line at 2.0 m (was 2.42), the yellow's foot and the nose's at 0.44 m (was 0.85). Read uniformly at 35 px/m instead, the foot would be 0.51 m and the screen's foot 2.09 m: that is the uncertainty. Checked through the p311 camera: the new yellow top lands on the photo's screen frame (was ~0.4 m high) and the seam's crown on the photo's; that camera is not trusted below ~1 m (it puts the valance under the rail). The face's other outlines (screens, wipers, side-view surround/windscreen/panel, the flank hatch) moved with the face: heights mapped 0.85/0.92/2.13/2.41/3.33 to 0.44/0.52/1.65/2.00/3.33, each point kept as far behind the centre line as before; the plan (setback) is carried down to 0.44 m."
+ },
+ "views": {
+  "ref-311": {
+   "azimuth": 24,
+   "elevation": 4,
+   "lens": 40,
+   "frame": 14,
+   "size": [
+    1300,
+    860
+   ]
+  },
+  "match-p311": {
+   "matrix": [
+    [
+     0.17755311649657987,
+     -0.007210876424140637,
+     -0.9840848002502363,
+     -36.49295049808703
+    ],
+    [
+     -0.9841090575349568,
+     0.0007947108522973247,
+     -0.1775633163474934,
+     -9.255988917283199
+    ],
+    [
+     0.0020624500019820052,
+     0.999973685501702,
+     -0.006955185413223001,
+     1.3795580137995054
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 124.40625,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  "match-p311-flat": {
+   "matrix": [
+    [
+     0.17755311649657987,
+     -0.007210876424140637,
+     -0.9840848002502363,
+     -36.49295049808703
+    ],
+    [
+     -0.9841090575349568,
+     0.0007947108522973247,
+     -0.1775633163474934,
+     -9.255988917283199
+    ],
+    [
+     0.0020624500019820052,
+     0.999973685501702,
+     -0.006955185413223001,
+     1.3795580137995054
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 124.40625,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1067
+   ],
+   "flat": true
+  },
+  "match-p307": {
+   "matrix": [
+    [
+     0.34821586216362715,
+     0.08550545357978283,
+     -0.9335065777731605,
+     -13.155664518193054
+    ],
+    [
+     -0.9334975661409622,
+     0.12256785927443592,
+     -0.33698577697253335,
+     -8.954247855223887
+    ],
+    [
+     0.08560378114628918,
+     0.9887699111931946,
+     0.12249920559930397,
+     5.71950217694996
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 38.615625,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1067
+   ]
+  },
+  "match-p307-flat": {
+   "matrix": [
+    [
+     0.34821586216362715,
+     0.08550545357978283,
+     -0.9335065777731605,
+     -13.155664518193054
+    ],
+    [
+     -0.9334975661409622,
+     0.12256785927443592,
+     -0.33698577697253335,
+     -8.954247855223887
+    ],
+    [
+     0.08560378114628918,
+     0.9887699111931946,
+     0.12249920559930397,
+     5.71950217694996
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 38.615625,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1067
+   ],
+   "flat": true
+  }
+ },
+ "elevation": {
+  "colours": {
+   "glass": "#1B232C",
+   "line": "#AEB4B4",
+   "green": "#0B3D2E"
+  },
+  "colourTol": {
+   "glass": 10,
+   "door": 12
+  },
+  "checks": [
+   {
+    "kind": "run",
+    "what": "under-window line, cab car (dia 450-608 px)",
+    "car": "cab",
+    "y": 1.505,
+    "x": [
+     15.4,
+     21.0
+    ],
+    "colour": "line",
+    "tol": 0.1,
+    "colourTol": 30
+   },
+   {
+    "kind": "run",
+    "what": "under-window line, car 2 (dia 881-1375 px)",
+    "car": "next",
+    "y": 1.505,
+    "x": [
+     4.0,
+     22.0
+    ],
+    "colour": "line",
+    "tol": 0.1,
+    "colourTol": 30
+   }
+  ]
+ },
+ "pairs": [
+  {
+   "id": "corner-door",
+   "crop": "s-corner-door-311",
+   "view": "ref-311",
+   "box": [
+    1.5,
+    8.6,
+    0.6,
+    3.6,
+    -1.4,
+    -1.2
+   ]
+  },
+  {
+   "id": "nose",
+   "crop": "f-nose-311",
+   "view": "ref-311",
+   "box": [
+    -0.2,
+    4.0,
+    0.6,
+    3.7,
+    -1.5,
+    1.5
+   ]
+  },
+  {
+   "id": "yellow",
+   "crop": "f-yellow-311",
+   "view": "ref-311",
+   "box": [
+    -0.2,
+    1.5,
+    0.85,
+    2.5,
+    -1.0,
+    0.9
+   ]
+  },
+  {
+   "id": "lamps",
+   "crop": "f-lamps-r-311",
+   "view": "ref-311",
+   "box": [
+    0.8,
+    2.4,
+    1.9,
+    2.6,
+    -1.45,
+    -0.6
+   ]
+  },
+  {
+   "id": "screen",
+   "crop": "f-screen-311",
+   "view": "ref-311",
+   "box": [
+    0.8,
+    3.6,
+    2.3,
+    3.5,
+    -1.4,
+    1.4
+   ]
+  },
+  {
+   "id": "marker",
+   "crop": "f-camera-311",
+   "view": "ref-311",
+   "box": [
+    2.8,
+    3.8,
+    3.3,
+    3.65,
+    -0.4,
+    0.4
+   ]
+  },
+  {
+   "id": "cab-side",
+   "crop": "s-cabzone-311",
+   "view": "ref-311",
+   "box": [
+    2.5,
+    10.5,
+    0.8,
+    3.5,
+    -1.4,
+    -1.2
+   ]
+  },
+  {
+   "id": "saloon",
+   "crop": "s-saloon-311",
+   "view": "ref-311",
+   "box": [
+    8.0,
+    30.0,
+    0.8,
+    3.5,
+    -1.4,
+    -1.2
+   ]
+  }
+ ]
+}

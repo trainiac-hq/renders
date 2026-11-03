@@ -1,0 +1,254 @@
+{
+ "white-864": {
+  "ref": "p864",
+  "box": [
+   1663,
+   1478,
+   1667,
+   1482
+  ],
+  "what": "white wordmark stroke (R stem), bodyside, sun",
+  "median": "#FFEFEA",
+  "iqr": [
+   14,
+   6,
+   4
+  ]
+ },
+ "red-864": {
+  "ref": "p864",
+  "box": [
+   1960,
+   1460,
+   2040,
+   1540
+  ],
+  "what": "red bodyside below window 1, sun",
+  "median": "#F5403F",
+  "iqr": [
+   7,
+   10,
+   9
+  ],
+  "balanced": "#E74041",
+  "neutral": "white-864"
+ },
+ "blue-864": {
+  "ref": "p864",
+  "box": [
+   2290,
+   1300,
+   2340,
+   1380
+  ],
+  "what": "blue cab side ahead of the cab door",
+  "median": "#355BC4",
+  "iqr": [
+   12,
+   9,
+   6
+  ],
+  "balanced": "#325BC9",
+  "neutral": "white-864"
+ },
+ "orange-864": {
+  "ref": "p864",
+  "box": [
+   2194,
+   1445,
+   2208,
+   1458
+  ],
+  "what": "orange sweep band across the cab door",
+  "median": "#FFA83C",
+  "iqr": [
+   1,
+   3,
+   5
+  ],
+  "balanced": "#F0A93E",
+  "neutral": "white-864"
+ },
+ "yellow-864": {
+  "ref": "p864",
+  "box": [
+   1885,
+   1290,
+   1900,
+   1380
+  ],
+  "what": "yellow door surround, door 1 near side",
+  "median": "#FDD253",
+  "iqr": [
+   9,
+   11,
+   34
+  ],
+  "balanced": "#EED255",
+  "neutral": "white-864"
+ },
+ "doorblue-864": {
+  "ref": "p864",
+  "box": [
+   1835,
+   1420,
+   1848,
+   1480
+  ],
+  "what": "blue door leaf, door 1",
+  "median": "#5865A4",
+  "iqr": [
+   10,
+   23,
+   54
+  ],
+  "balanced": "#5365A8",
+  "neutral": "white-864"
+ },
+ "yellow-l-861": {
+  "ref": "p861",
+  "box": [
+   2772,
+   984,
+   2789,
+   1052
+  ],
+  "what": "yellow panel, face left (no neutral on the face)",
+  "median": "#885D1B",
+  "iqr": [
+   18,
+   10,
+   5
+  ]
+ },
+ "yellow-r-861": {
+  "ref": "p861",
+  "box": [
+   3481,
+   1009,
+   3515,
+   1060
+  ],
+  "what": "yellow panel, face right (no neutral on the face)",
+  "median": "#9D6E2B",
+  "iqr": [
+   26,
+   20,
+   5
+  ]
+ },
+ "blue-861": {
+  "ref": "p861",
+  "box": [
+   2560,
+   455,
+   2680,
+   495
+  ],
+  "what": "blue upper face above the left display",
+  "median": "#1B3686",
+  "iqr": [
+   17,
+   18,
+   15
+  ]
+ },
+ "red-861": {
+  "ref": "p861",
+  "box": [
+   3270,
+   1339,
+   3397,
+   1381
+  ],
+  "what": "red band under the yellow",
+  "median": "#4E1316",
+  "iqr": [
+   32,
+   8,
+   10
+  ]
+ },
+ "frame-861": {
+  "ref": "p861",
+  "box": [
+   3175,
+   700,
+   3215,
+   900
+  ],
+  "what": "gangway frame, unpainted grey",
+  "median": "#38475E",
+  "iqr": [
+   21,
+   26,
+   32
+  ]
+ },
+ "door-861": {
+  "ref": "p861",
+  "box": [
+   2920,
+   1000,
+   3100,
+   1200
+  ],
+  "what": "gangway door yellow",
+  "median": "#C18D18",
+  "iqr": [
+   7,
+   7,
+   4
+  ]
+ },
+ "roof-uh": {
+  "ref": "puh",
+  "box": [
+   750,
+   872,
+   850,
+   882
+  ],
+  "what": "roof grey over the second car",
+  "median": "#6D5F70",
+  "iqr": [
+   17,
+   14,
+   21
+  ]
+ },
+ "white-wm": {
+  "ref": "pwm",
+  "box": [
+   1960,
+   2902,
+   1964,
+   2906
+  ],
+  "what": "white wordmark letter, close (station light)",
+  "median": "#EAEEE8",
+  "iqr": [
+   6,
+   5,
+   6
+  ]
+ },
+ "red-wm": {
+  "ref": "pwm",
+  "box": [
+   1300,
+   3300,
+   1500,
+   3350
+  ],
+  "what": "red bodyside beside the wordmark, close",
+  "median": "#B6332C",
+  "iqr": [
+   6,
+   6,
+   6
+  ],
+  "balanced": "#BB332D",
+  "neutral": "white-wm"
+ }
+}

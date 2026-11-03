@@ -1,0 +1,437 @@
+{
+ "class": "197",
+ "subject": "Class 197 Civity DMU, Transport for Wales, 2024",
+ "method": "Body from the operator's diagram (the 195's template behind a gangway), face from 197006; every number's source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerMVertical": 32.2,
+  "railY": 126.5,
+  "faceX": 11,
+  "notes": "dias West-Midland-Trains-Class-196-0 and TfW-Class-197-3-Car (128 px tall, the 195's template behind an 11 px gangway): vertical 32.2 px/m from row 126.5; the 197's car 1 11-835 px = 824 px = 24.026 m (34.3 px/m, the 195's scale); the 196's car 1 11-898 px has one more window bay: scaled to the published 24.03 m (36.9 px/m), the diagram and the published length disagree by 7%: a side-on photo should settle it"
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.04,
+   "cantrail": 3.59,
+   "roof": 3.85,
+   "window": [
+    1.85,
+    2.83
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.25,
+  "windowRadius": 0.12,
+  "cab": {
+   "length": 24.026,
+   "doors": [
+    {
+     "x": 2.026,
+     "w": 0.554,
+     "cab": true,
+     "window": [
+      2.3,
+      2.85
+     ],
+     "panes": [
+      -0.1,
+      0.1
+     ],
+     "span": [
+      1.06,
+      3.2
+     ]
+    },
+    {
+     "x": 7.625,
+     "w": 1.545,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    },
+    {
+     "x": 17.043,
+     "w": 1.545,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    }
+   ],
+   "windows": [
+    [
+     3.178,
+     4.49
+    ],
+    [
+     5.015,
+     6.327
+    ],
+    [
+     8.922,
+     10.234
+    ],
+    [
+     10.759,
+     12.071
+    ],
+    [
+     12.596,
+     13.908
+    ],
+    [
+     14.433,
+     15.745
+    ],
+    [
+     18.34,
+     19.652
+    ],
+    [
+     20.177,
+     21.489
+    ],
+    [
+     22.014,
+     22.918
+    ]
+   ],
+   "bogies": [
+    4.126,
+    20.542
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 2.6,
+     "w": 4.0
+    },
+    {
+     "kind": "pod",
+     "x": 12.3,
+     "w": 3.2
+    }
+   ],
+   "under": [
+    [
+     6.4,
+     15.6
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.35,
+   "doors": [
+    {
+     "x": 6.973,
+     "w": 1.544,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    },
+    {
+     "x": 16.377,
+     "w": 1.544,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    }
+   ],
+   "windows": [
+    [
+     0.699,
+     2.009
+    ],
+    [
+     2.533,
+     3.843
+    ],
+    [
+     4.367,
+     5.677
+    ],
+    [
+     8.269,
+     9.579
+    ],
+    [
+     10.103,
+     11.413
+    ],
+    [
+     11.937,
+     13.247
+    ],
+    [
+     13.771,
+     15.081
+    ],
+    [
+     17.673,
+     18.983
+    ],
+    [
+     19.507,
+     20.817
+    ],
+    [
+     21.341,
+     22.651
+    ]
+   ],
+   "bogies": [
+    3.479,
+    19.871
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 3.3,
+     "w": 2.4
+    },
+    {
+     "kind": "pod",
+     "x": 11.5,
+     "w": 3.2
+    }
+   ],
+   "under": [
+    [
+     6.5,
+     15.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     1.0,
+     0.3,
+     1
+    ],
+    [
+     0.0,
+     0.62,
+     1
+    ],
+    [
+     0.0,
+     3.4
+    ],
+    [
+     0.08,
+     3.62
+    ],
+    [
+     0.35,
+     3.8
+    ],
+    [
+     1.55,
+     3.85,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.712,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.35
+    ]
+   ],
+   "squareness": 4,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.356,
+   "dark": [
+    {
+     "inner": 0.55,
+     "outer": 1.24,
+     "lo": 1.98,
+     "hi": 3.3,
+     "r": [
+      0.06,
+      0.08,
+      0.15,
+      0.08
+     ]
+    }
+   ],
+   "darkCentre": [
+    {
+     "half": 0.62,
+     "lo": 0.45,
+     "hi": 1.0,
+     "r": 0
+    }
+   ],
+   "screens": [
+    {
+     "inner": 0.59,
+     "outer": 1.19,
+     "lo": 2.03,
+     "hi": 3.24,
+     "r": [
+      0.04,
+      0.06,
+      0.12,
+      0.06
+     ]
+    }
+   ],
+   "pods": [
+    {
+     "inner": 0.76,
+     "outer": 1.32,
+     "lo": 1.3,
+     "hi": 1.79,
+     "r": [
+      0.1,
+      0.2,
+      0.2,
+      0.1
+     ]
+    }
+   ],
+   "lampRim": "black",
+   "shapes": [
+    {
+     "half": true,
+     "color": "#9CA1A8",
+     "pts": [
+      [
+       0,
+       0.62
+      ],
+      [
+       1.36,
+       0.62
+      ],
+      [
+       1.36,
+       1.03
+      ],
+      [
+       0,
+       1.03
+      ]
+     ]
+    }
+   ],
+   "gangwayDoor": {
+    "half": 0.36,
+    "lo": 1.06,
+    "hi": 3.48,
+    "r": 0.03
+   },
+   "gangwayFrame": {
+    "box": {
+     "half": 0.57,
+     "lo": 0.96,
+     "hi": 3.66,
+     "r": 0.08
+    },
+    "depth": 0.32,
+    "color": "#1E1F21"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -1.05,
+      2.1
+     ],
+     "tip": [
+      -0.85,
+      3.05
+     ]
+    },
+    {
+     "pivot": [
+      1.05,
+      2.1
+     ],
+     "tip": [
+      0.85,
+      3.05
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "body": "#DCE0E6",
+   "red": "#E12A2A",
+   "orange": "#F08A1E",
+   "roof": "#B9BEC4",
+   "band": "#1C1E24",
+   "under": "#2A2C30",
+   "redTop": 3.39,
+   "branding": [
+    {
+     "logo": "AW",
+     "at": [
+      4.86,
+      1.48
+     ],
+     "height": 0.34
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dias West-Midland-Trains-Class-196-0 and TfW-Class-197-3-Car (128 px tall, the 195's template behind an 11 px gangway): vertical 32.2 px/m from row 126.5; the 197's car 1 11-835 px = 824 px = 24.026 m (34.3 px/m, the 195's scale); the 196's car 1 11-898 px has one more window bay: scaled to the published 24.03 m (36.9 px/m), the diagram and the published length disagree by 7%: a side-on photo should settle it",
+  "nose.profile": "dias: the gangway's bellows 0-4 px, the face flat behind it from the bumper (rows 91-106) to the roof's edge (row 2-6 at 23 px: 0.35 m back); the chin back to 1.0 m at 0.30",
+  "face": "197006 near head-on (TfW, 2000 px), scaled by the face's width at the lamps (375 px for 2.712 m: 138 px/m; each half by its own width, the view from the right), up from the face's foot at 1.04 m: a black-framed gangway door standing 0.32 m proud (frame +-0.57 m, 0.96-3.66 m; door +-0.36, 1.06-3.48), each side a screen in a black frame (glass 0.59-1.19 m out, 2.03-3.24), a lamp pod 0.76-1.32 out, 1.30-1.79; grey cheek boxes below the face's foot and the coupler between. Shared by the 196 (same front, 196002/196114)",
+  "cab.doors": "dia row 50: cab door 71-90 px, doors 246-299, 569-622 (red #FF0C0C); windows 120-165 ... 766-797; wheels 106-127/178-199, 669-690/741-762",
+  "next": "dia from 853: doors 1066-1119, 1389-1442; windows 877-922 ... 1586-1631; wheels 926-947/998-1019, 1489-1510/1561-1582",
+  "livery": "dia: light grey body (#D0D6E2), red doors; 197006 (photo): the cab's top red down to 3.39 m with an orange line under it, red roof edges",
+  "livery.branding": "AW (the Transport for Wales logo: red T roundel, two lines of lettering) low under the windows between the cab door and door 1: 197003 (Chester) read along by a projective fit through seven door and window edges (residuals to 17 cm), 3.99-5.72 m; up from the window's foot (1.85 m, 169 px/m) 1.32-1.65 m; width and height agree with the artwork's 5.1 aspect (0.34 m). The 'Cymru a'r Gororau / Wales and Borders' line after it not drawn"
+ },
+ "views": {}
+}

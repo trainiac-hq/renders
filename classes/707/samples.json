@@ -1,0 +1,34 @@
+{
+ "yellow-022": {
+  "ref": "p022",
+  "box": [
+   330,
+   640,
+   400,
+   670
+  ],
+  "what": "face yellow, sunlit",
+  "median": "#FFCC2D",
+  "iqr": [
+   1,
+   2,
+   3
+  ]
+ },
+ "navy-022": {
+  "ref": "p022",
+  "box": [
+   565,
+   500,
+   585,
+   520
+  ],
+  "what": "bodyside navy, sunlit",
+  "median": "#1F2D61",
+  "iqr": [
+   7,
+   4,
+   4
+  ]
+ }
+}

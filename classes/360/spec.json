@@ -1,0 +1,717 @@
+{
+ "class": "360",
+ "subject": "Class 360 in East Midlands Railway (EMR Connect) livery",
+ "method": "The EMR diagram (N0thhan) is the Desiro UK template the 450's and 350's are drawn on, with the 360's own nose; the body is therefore the 450's as measured there (diagram plus joint camera fit), the nose profile and livery from this diagram, the face measured head-on on p105 and checked by camera on p115 (EXIF focal).",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 79.89,
+  "pxPerMVertical": 81.3,
+  "railY": 338.5,
+  "faceX": 83,
+  "notes": "Horizontal: cab car 83..1708 px and car 2 1765..3398 px both taken as 20.34 m (published) -> 79.9 and 80.3 px/m. Vertical: rail at row 338.5, roof at row 31 (3.78 m published) -> 81.3 px/m. Window edges are the outer edges of their black frames."
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.95,
+   "cantrail": 3.43,
+   "roof": 3.78,
+   "window": [
+    1.93,
+    2.96
+   ]
+  },
+  "windowRadius": 0.1,
+  "wheel": 0.85,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 20.34,
+   "doors": [
+    {
+     "x": 1.65,
+     "w": 0.81,
+     "cab": true,
+     "window": [
+      1.92,
+      3.17
+     ],
+     "panes": [
+      -0.12,
+      0.29
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    },
+    {
+     "x": 6.302,
+     "w": 1.638,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.6
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    },
+    {
+     "x": 15.712,
+     "w": 1.638,
+     "leaves": 2,
+     "panes": [
+      0.27,
+      0.67
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    }
+   ],
+   "windows": [
+    [
+     3.53,
+     4.76
+    ],
+    [
+     7.72,
+     9.02
+    ],
+    [
+     9.29,
+     10.78
+    ],
+    [
+     11.06,
+     12.55
+    ],
+    [
+     12.83,
+     14.12
+    ],
+    [
+     16.7,
+     17.85
+    ],
+    [
+     18.25,
+     19.5
+    ]
+   ],
+   "bogies": [
+    2.6,
+    17.35
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 8.5,
+     "w": 3.0
+    }
+   ],
+   "under": [
+    [
+     5.0,
+     15.6
+    ]
+   ]
+  },
+  "next": {
+   "length": 20.34,
+   "doors": [
+    {
+     "x": 5.468,
+     "w": 1.794,
+     "leaves": 2,
+     "panes": [
+      0.27,
+      0.67
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    },
+    {
+     "x": 14.884,
+     "w": 1.793,
+     "leaves": 2,
+     "panes": [
+      0.27,
+      0.67
+     ],
+     "window": [
+      2.0,
+      3.14
+     ],
+     "span": [
+      0.95,
+      3.41
+     ]
+    }
+   ],
+   "windows": [
+    [
+     1.183,
+     2.466
+    ],
+    [
+     2.877,
+     4.16
+    ],
+    [
+     6.776,
+     8.059
+    ],
+    [
+     8.47,
+     9.977
+    ],
+    [
+     10.388,
+     11.883
+    ],
+    [
+     12.294,
+     13.577
+    ],
+    [
+     16.192,
+     17.475
+    ],
+    [
+     17.886,
+     19.169
+    ]
+   ],
+   "bogies": [
+    2.979,
+    17.36
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 8.6,
+     "w": 3.0
+    }
+   ],
+   "under": [
+    [
+     5.0,
+     15.0
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.8,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.2
+    ]
+   ],
+   "squareness": 8
+  },
+  "nose": {
+   "profile": [
+    [
+     0.3,
+     0.42,
+     1
+    ],
+    [
+     -0.25,
+     0.5,
+     1
+    ],
+    [
+     -0.25,
+     1.0
+    ],
+    [
+     0.0,
+     1.1,
+     1
+    ],
+    [
+     0.0,
+     1.6
+    ],
+    [
+     0.01,
+     1.83
+    ],
+    [
+     0.04,
+     2.07
+    ],
+    [
+     0.075,
+     2.32
+    ],
+    [
+     0.11,
+     2.56
+    ],
+    [
+     0.19,
+     2.81
+    ],
+    [
+     0.28,
+     3.06
+    ],
+    [
+     0.36,
+     3.3
+    ],
+    [
+     0.46,
+     3.55
+    ],
+    [
+     0.6,
+     3.68
+    ],
+    [
+     1.0,
+     3.78,
+     1
+    ]
+   ]
+  },
+  "face": {
+   "halfWidth": 1.4,
+   "panel": {
+    "lo": 1.08,
+    "hi": 3.42,
+    "rBottom": 0.35
+   },
+   "surround": [
+    [
+     -1.32,
+     3.4
+    ],
+    [
+     1.32,
+     3.4
+    ],
+    [
+     1.32,
+     2.15
+    ],
+    [
+     1.22,
+     2.02
+    ],
+    [
+     0.9,
+     1.9
+    ],
+    [
+     0.4,
+     1.81
+    ],
+    [
+     0.0,
+     1.79
+    ],
+    [
+     -0.4,
+     1.81
+    ],
+    [
+     -0.9,
+     1.9
+    ],
+    [
+     -1.22,
+     2.02
+    ],
+    [
+     -1.32,
+     2.15
+    ]
+   ],
+   "glass": {
+    "left": [
+     -1.185,
+     -0.26
+    ],
+    "right": [
+     -0.01,
+     1.185
+    ],
+    "lo": 2.24,
+    "hi": 3.28,
+    "rOuterTop": 0.15,
+    "r": 0.05
+   },
+   "lamps": {
+    "head": {
+     "m": 0.824,
+     "y": 1.47,
+     "r": 0.115
+    },
+    "marker": {
+     "m": 1.2,
+     "y": 1.48,
+     "r": 0.065
+    },
+    "tail": {
+     "m": 1.056,
+     "y": 1.24,
+     "r": 0.065
+    },
+    "ring": 0.025
+   },
+   "number": {
+    "text": "105",
+    "m": -1.18,
+    "y": 1.78,
+    "height": 0.13
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.67,
+      1.93
+     ],
+     "tip": [
+      0.11,
+      2.53
+     ]
+    },
+    {
+     "pivot": [
+      -0.82,
+      1.96
+     ],
+     "tip": [
+      -0.28,
+      2.62
+     ]
+    }
+   ],
+   "topLine": {
+    "lo": 3.42,
+    "hi": 3.45
+   },
+   "lower": {
+    "top": 0.95,
+    "skirts": {
+     "inner": 0.82,
+     "outer": 1.35,
+     "lo": 0.4,
+     "hi": 0.93,
+     "ribs": 7,
+     "color": "#45474A",
+     "rib": "#6A6D70"
+    },
+    "recess": {
+     "half": 0.8,
+     "lo": 0.4,
+     "hi": 0.98,
+     "color": "#0E0F11"
+    }
+   }
+  },
+  "livery": {
+   "body": "#4A1A3A",
+   "band": "#5E1446",
+   "line": "#E6E2E6",
+   "roof": "#57575B",
+   "doors": "#B9BDC3",
+   "yellow": "#F2C200",
+   "orange": "#E0702A",
+   "black": "#141518",
+   "glass": "#1A1D22",
+   "under": "#2A2A2C",
+   "windowBand": [
+    1.86,
+    3.08
+   ],
+   "windowBandFrom": 3.18,
+   "lowerBand": [
+    1.19,
+    1.7
+   ],
+   "lineY": 1.46,
+   "lineW": 0.026,
+   "taper": [
+    3.73,
+    4.41
+   ],
+   "branding": [
+    {
+     "logo": "EM-electrics",
+     "at": [
+      10.93,
+      1.475
+     ],
+     "height": 0.25
+    },
+    {
+     "logo": "EM-electrics",
+     "car": "next",
+     "at": [
+      10.21,
+      1.475
+     ],
+     "height": 0.25
+    },
+    {
+     "logo": "EM-front",
+     "on": "front",
+     "at": [
+      0.5,
+      1.485
+     ],
+     "height": 0.1
+    },
+    {
+     "logo": "EM-luton",
+     "at": [
+      2.61,
+      2.385
+     ],
+     "height": 0.41
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "see calibration.notes (the 450's drawing template)",
+  "body": "cab and car 2: the 450's measured layout (classes/450/spec.json trace): this diagram's doors and windows are the same pixels (row 135: doors 442-585, 1198-1341; windows 327-414 ... 1511-1613)",
+  "nose.profile": "dia: leftmost body pixel per row (rows 40-240): face upright to 1.6 m, raking back to 0.46 m at 3.55 m and 0.6 m at 3.68 m; skirts and anticlimber drawn 0.25 m ahead below 1.1 m (rows 250-290)",
+  "face": "p105 near head-on (360105, Bedford): centre at px 996 (lamps and markers symmetric to 1 px); 162 px/m across (body edges +-227 px = +-1.40 m) and 150 px/m up (orange line row 172 = 3.43 m, the diagram's cantrail line; purple bottom row 544 = 0.95 m)",
+  "face.surround": "p105: one black band round both screens, its top at 3.40 m under the orange line, sides +-1.32 m down to 2.04 m, its lower edge dipping to 1.79 m at the centre",
+  "face.glass": "p105: the near (image right, -x) pane -1.185..-0.26 m, the far pane -0.01..+1.185 m (the divider off-centre toward the near side), 2.32-3.27 m; heights re-measured through the solved camera (match.py measure p105): 2.24-3.28 m, from 2.32-3.27 first read",
+  "face.lamps": "p105: three a side, flush on the yellow in black rings: headlamp inboard (+-0.82 m, 1.47 m, 0.30 m across with its ring), LED marker outboard (+-1.20 m, 1.48 m), red tail below between (+-1.06 m, 1.29 m); 360115 agrees (near group, three-quarter); tail lowered to 1.24 m: through the solved cameras p105 puts the tails at 1.30/1.22 m and p115 at 1.195 m",
+  "face.panel": "p105: yellow over the whole face from 0.98 m up to the orange line, bottom corners rounded about 0.35 m; dark grey dome above; skirts and coupler black below",
+  "face.number": "p105: '105' black on the yellow above the near-side (image right) lamps only",
+  "face.wipers": "p105: both parked leaning the same way (toward image left), pivots low in the black band",
+  "livery": "colours: yellow #F2C200 (p115 sunlit #FCC500, p105 overcast #C5A911: raw, no neutral on the face); purple #4A1A3A (p115 shaded lower side #534545, p105 corner #361922, diagram #47143A: the upper side is glossy and shows the sky, unmeasurable); band #5E1446 and doors from the diagram (#59063F, #DADADA) toned to the photos' grey doors; roof #57575B (p105 dome #59585C)",
+  "livery.windowBand": "dia: black band rows 88-187 (3.08-1.86 m) from px 304 (3.18 m through the map) between the doors",
+  "livery.lowerBand": "dia rows 200-242: a lighter purple band 1.19-1.70 m between white pinstripes, starting as a taper from 3.73 m (px 342) to full width at 4.41 m (px 390); a single white line at 1.46 m from the nose to the taper (row 220, px 99-342); on car 2 the band runs the full length",
+  "livery.branding": "EM-electrics ('EMR ELECTRICS' spaced white capitals in the lower band): dia px 729-1058, rows 207-230 through the 450 body's map: 9.00-12.86 m, 1.33-1.62 m, the capitals 20 of those 23 rows, so 0.25 m tall (3.88 m long at the artwork's 15.5 aspect), centred 10.93 m, 1.475 m; car 2 px 2421-2749 from 1765 at 80.3 px/m: 8.17-12.25 m. EM-front ('EMR' spaced dark capitals on the yellow, between the headlamps): 360105 head-on (p105) at 161.7 px/m from the headlamps' 1.648 m spacing: 0.40 m long, 0.10 m tall, centred on the face (3.5 cm off, within the reading), 1.5 cm above the headlamps' centres (1.485 m); p115's surface picks agree on the centre (u 0.48-0.49) and height (1.455-1.59 m) though its camera does not pin depth at the face; colour sampled dark purple #3B2235; EM-luton ('LUTON / AIRPORT / EXPRESS', stacked white capitals, the line's sub-brand): on 360115 (p115) and 360105 (p105) between the cab door and the first window, read along the car between the cab door's rear edge (2.055 m) and door 1's front (5.48 m): 2.18-3.04 m (oblique, so its width is loose; the artwork's own 1.6 aspect is used), up between the windows' heights: 2.18-2.59 m; so 0.41 m tall centred 2.61 m, 2.385 m. The diagram doesn't draw it; the photos (2024, 2025) both carry it",
+  "face.lower": "360105 head-on (p105, 152 px/m across from the headlamps' 1.648 m, up from their centres at 1.47 m): the yellow ends at 1.01 m (drawn 1.08 m, where the chin's top turns into the face: below that the front view smeared down the chin); below it a grey ribbed skirt box each side, 0.82-1.35 m out, 0.93 down to about 0.35 m (drawn to 0.40), and the coupler's recess between them, black. Before: {\"panel\": {\"lo\": 0.98, \"hi\": 3.42, \"rBottom\": 0.35}, \"lower\": {\"top\": 0.95}}"
+ },
+ "views": {
+  "match-p105": {
+   "matrix": [
+    [
+     -0.12742310020832973,
+     0.01882362515603751,
+     -0.991669816354861,
+     -13.66272997044831
+    ],
+    [
+     -0.9918441809931468,
+     -0.005352704497643552,
+     0.12734390124617326,
+     3.9591923786227676
+    ],
+    [
+     -0.002911041623214229,
+     0.9998084915075218,
+     0.01935216127780047,
+     2.0844285365665494
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 64.78159407901812,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1280,
+    853
+   ]
+  },
+  "match-p105-flat": {
+   "matrix": [
+    [
+     -0.12742310020832973,
+     0.01882362515603751,
+     -0.991669816354861,
+     -13.66272997044831
+    ],
+    [
+     -0.9918441809931468,
+     -0.005352704497643552,
+     0.12734390124617326,
+     3.9591923786227676
+    ],
+    [
+     -0.002911041623214229,
+     0.9998084915075218,
+     0.01935216127780047,
+     2.0844285365665494
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 64.78159407901812,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1280,
+    853
+   ],
+   "flat": true
+  },
+  "match-p115": {
+   "matrix": [
+    [
+     0.10197300934311024,
+     0.6894673501417345,
+     -0.7171026972854339,
+     -20.83967866923299
+    ],
+    [
+     -0.9725322922565843,
+     -0.08253070733872231,
+     -0.2176456359873174,
+     -3.0953425181932093
+    ],
+    [
+     -0.20924255275556083,
+     0.7195995104464044,
+     0.6621133578788692,
+     21.683291976566032
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 67.7925,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1066
+   ]
+  },
+  "match-p115-flat": {
+   "matrix": [
+    [
+     0.10197300934311024,
+     0.6894673501417345,
+     -0.7171026972854339,
+     -20.83967866923299
+    ],
+    [
+     -0.9725322922565843,
+     -0.08253070733872231,
+     -0.2176456359873174,
+     -3.0953425181932093
+    ],
+    [
+     -0.20924255275556083,
+     0.7195995104464044,
+     0.6621133578788692,
+     21.683291976566032
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "lens": 67.7925,
+   "shift": [
+    0.0,
+    0.0
+   ],
+   "size": [
+    1600,
+    1066
+   ],
+   "flat": true
+  }
+ },
+ "elevation": {
+  "colours": {
+   "glass": "#1A1D22"
+  },
+  "colourTol": {
+   "glass": 14
+  },
+  "checks": []
+ },
+ "pairs": [
+  {
+   "id": "face",
+   "crop": "f-face-105",
+   "view": "match-p105",
+   "box": [
+    -0.6,
+    1.7,
+    0.3,
+    3.95,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "corner-door",
+   "crop": "s-cab-115",
+   "view": "match-p115",
+   "box": [
+    -0.6,
+    7.6,
+    0.3,
+    3.95,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "dia-cab",
+   "crop": "d-cab",
+   "view": "elevation",
+   "box": [
+    -0.6,
+    8.0,
+    0.3,
+    3.95,
+    -1.46,
+    -1.3
+   ]
+  }
+ ]
+}

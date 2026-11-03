@@ -1,0 +1,205 @@
+{
+ "ref": "pgw",
+ "side": "near",
+ "points": {
+  "w1-tf": [
+   1493,
+   758
+  ],
+  "w1-br": [
+   1660,
+   994
+  ],
+  "w2-tf": [
+   1692,
+   757
+  ],
+  "w2-br": [
+   1840,
+   987
+  ],
+  "w3-tf": [
+   1879,
+   757
+  ],
+  "w3-br": [
+   2022,
+   983
+  ],
+  "w4-tf": [
+   2050,
+   758
+  ],
+  "w4-br": [
+   2190,
+   977
+  ],
+  "w5-tf": [
+   2208,
+   760
+  ],
+  "w5-br": [
+   2341,
+   971
+  ],
+  "w6-tf": [
+   2359,
+   763
+  ],
+  "w6-br": [
+   2481,
+   964
+  ],
+  "w7-tf": [
+   2500,
+   765
+  ],
+  "w7-br": [
+   2617,
+   960
+  ],
+  "w8-tf": [
+   2632,
+   768
+  ],
+  "w8-br": [
+   2742,
+   953
+  ],
+  "w9-tf": [
+   2753,
+   770
+  ],
+  "w9-br": [
+   2860,
+   948
+  ],
+  "d0f-stripe": [
+   1309,
+   1106
+  ],
+  "d0r-stripe": [
+   1416,
+   1104
+  ],
+  "lamp0-head": [
+   955,
+   1082
+  ],
+  "lamp0-tail": [
+   900,
+   1082
+  ],
+  "lamp1-head": [
+   410,
+   1083
+  ],
+  "lamp1-tail": [
+   463,
+   1083
+  ],
+  "d0c-stripe": [
+   1362,
+   1105
+  ]
+ },
+ "model": {
+  "w1-tf": [
+   3.284,
+   2.78
+  ],
+  "w1-br": [
+   4.834,
+   1.95
+  ],
+  "w2-tf": [
+   5.104,
+   2.78
+  ],
+  "w2-br": [
+   6.653,
+   1.95
+  ],
+  "w3-tf": [
+   6.923,
+   2.78
+  ],
+  "w3-br": [
+   8.473,
+   1.95
+  ],
+  "w4-tf": [
+   8.742,
+   2.78
+  ],
+  "w4-br": [
+   10.292,
+   1.95
+  ],
+  "w5-tf": [
+   10.562,
+   2.78
+  ],
+  "w5-br": [
+   12.112,
+   1.95
+  ],
+  "w6-tf": [
+   12.381,
+   2.78
+  ],
+  "w6-br": [
+   13.931,
+   1.95
+  ],
+  "w7-tf": [
+   14.201,
+   2.78
+  ],
+  "w7-br": [
+   15.75,
+   1.95
+  ],
+  "w8-tf": [
+   16.02,
+   2.78
+  ],
+  "w8-br": [
+   17.57,
+   1.95
+  ],
+  "w9-tf": [
+   17.839,
+   2.78
+  ],
+  "w9-br": [
+   19.389,
+   1.95
+  ],
+  "d0f-stripe": [
+   1.667,
+   1.575
+  ],
+  "d0r-stripe": [
+   2.745,
+   1.575
+  ],
+  "d0c-stripe": [
+   2.206,
+   1.575
+  ]
+ },
+ "holdout": [
+  "w4-br",
+  "w7-tf",
+  "lamp0-tail",
+  "lamp1-tail"
+ ],
+ "focalPx": 12757,
+ "readings": {
+  "windows": "outer corner of each window's rubber gasket (edges extended past the rounding), w158_* grids at 2x, 20 px; 1-2 px",
+  "door": "door 1's front and rear edges and its centre seam on the green stripe's row (door158z, 6x, 10 px grid): 1309, 1362, 1416 px; the first reading (1282/1392, 1x) was 25 px early",
+  "lamps": "lamp centres on f158 grid (head white outboard, tail red inboard); the near cluster is on the right of the face",
+  "focalPx": "spec views note: EXIF 115 mm equivalent, uncropped: 115 x hypot(3840,2880)/43.27 = 12757 px"
+ }
+}

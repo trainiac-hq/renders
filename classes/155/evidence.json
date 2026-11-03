@@ -1,0 +1,574 @@
+{
+ "class": "155",
+ "subject": "Class 155 Super Sprinter, Northern (7 units, 155341-155347)",
+ "fleet": {
+  "source": "https://en.wikipedia.org/wiki/British_Rail_Class_155 (read 2026-10-05)",
+  "NT": "7 x 155/3, all one type; single-leaf sliding plug doors, 2 per side per car"
+ },
+ "refs": {
+  "dia": {
+   "file": "refs/Class-155-Arriva-Northern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_155_Arriva_Northern_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-05-28",
+   "kind": "diagram",
+   "unit": "155 (2 cars), Northern (Arriva Rail North) livery = the current Northern livery",
+   "view": "side elevation, nose left, both cars",
+   "light": "flat colours",
+   "px": [
+    5656,
+    528
+   ]
+  },
+  "p345": {
+   "file": "refs/155345-Hull-Paragon-121024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:155345_Hull_Paragon_121024.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-10-14",
+   "kind": "photo",
+   "unit": "155345",
+   "view": "near head-on from the left, platform level, headlamps lit",
+   "light": "station roof, overcast"
+  },
+  "p346": {
+   "file": "refs/155346-Hull-Paragon-121024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:155346_Hull_Paragon_121024.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-10-14",
+   "kind": "photo",
+   "unit": "155346",
+   "view": "side three-quarter, cab end left, tail lamp lit",
+   "light": "station roof, even"
+  },
+  "p341": {
+   "file": "refs/155341-Beverley-LC-111024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:155341_Beverley_LC_111024.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-10-14",
+   "kind": "photo",
+   "unit": "155341",
+   "view": "front three-quarter, near side left, in sun",
+   "light": "bright sun"
+  },
+  "p344": {
+   "file": "refs/155344-at-York.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:155344_at_York.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-08-18",
+   "kind": "photo",
+   "unit": "155344",
+   "view": "front three-quarter, close, portrait",
+   "light": "station roof",
+   "exif": "iPhone SE (3rd gen), 28 mm equiv"
+  },
+  "pG3": {
+   "file": "refs/British-Rail-Class-155-at-Garforth-railway-station-11th-August-2026-003.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_155_at_Garforth_railway_station_(11th_August_2026)_003.jpg",
+   "author": "Mtaylor848",
+   "licence": "CC BY-SA 3.0",
+   "date": "2026-08-11",
+   "kind": "photo",
+   "unit": "155341",
+   "view": "front three-quarter, near side left, from above platform",
+   "light": "bright sun",
+   "exif": "4.74 mm (phone)"
+  },
+  "pG2": {
+   "file": "refs/British-Rail-Class-155-at-Garforth-railway-station-11th-August-2026-002.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_155_at_Garforth_railway_station_(11th_August_2026)_002.jpg",
+   "author": "Mtaylor848",
+   "licence": "CC BY-SA 3.0",
+   "date": "2026-08-11",
+   "kind": "photo",
+   "unit": "155341",
+   "view": "front three-quarter",
+   "light": "bright sun",
+   "exif": "4.74 mm (phone)"
+  },
+  "pG1": {
+   "file": "refs/British-Rail-Class-155-at-Garforth-railway-station-11th-August-2026-001.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_155_at_Garforth_railway_station_(11th_August_2026)_001.jpg",
+   "author": "Mtaylor848",
+   "licence": "CC BY-SA 3.0",
+   "date": "2026-08-11",
+   "kind": "photo",
+   "unit": "155341",
+   "view": "three-quarter, further away",
+   "light": "sun",
+   "note": "earlier ref, 1280 px"
+  },
+  "pG347": {
+   "file": "refs/British-Rail-Class-155-155347-at-Garforth-railway-station-28th-May-2026-002.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_155_(155347)_at_Garforth_railway_station_(28th_May_2026)_002.jpg",
+   "author": "Mtaylor848",
+   "licence": "CC BY-SA 3.0",
+   "date": "2026-05-28",
+   "kind": "photo",
+   "unit": "155347",
+   "view": "from above",
+   "light": "sun",
+   "note": "earlier ref, 1280 px"
+  }
+ },
+ "crops": [
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    60,
+    20,
+    330,
+    480
+   ],
+   "feature": "diagram nose and gangway frame, side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    60,
+    20,
+    1100,
+    500
+   ],
+   "feature": "diagram cab end: cab door, door 1, purple curve, circles",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-door1",
+   "ref": "dia",
+   "box": [
+    280,
+    80,
+    450,
+    350
+   ],
+   "feature": "diagram door 1 (white, plug)",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    440,
+    20,
+    2850,
+    500
+   ],
+   "feature": "diagram saloon windows and inner end",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-inner",
+   "ref": "dia",
+   "box": [
+    2450,
+    20,
+    3150,
+    500
+   ],
+   "feature": "diagram inner ends: purple doors either side of the gangway, toilet window",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d-car2",
+   "ref": "dia",
+   "box": [
+    2850,
+    20,
+    5656,
+    500
+   ],
+   "feature": "diagram car 2",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-345",
+   "ref": "p345",
+   "box": [
+    1580,
+    960,
+    2980,
+    2420
+   ],
+   "feature": "whole front, near head-on",
+   "reading": "",
+   "reading2": "Yellow front, black speckled gangway surround with rounded top, yellow door with handle; two large rounded windscreens in black riveted surrounds. Left cluster: lit round lamp outboard, LED-dot inboard; right: LED-dot inboard, lit round outboard. Grab rails under windows, orange line at roof edge."
+  },
+  {
+   "id": "f-lamps-l-345",
+   "ref": "p345",
+   "box": [
+    1700,
+    2060,
+    2080,
+    2240
+   ],
+   "feature": "left lamp box (headlamp lit)",
+   "reading": "",
+   "reading2": "Black rounded rectangle with screws: lit round lamp with reflector outboard, unlit LED-dot lamp inboard."
+  },
+  {
+   "id": "f-lamps-r-345",
+   "ref": "p345",
+   "box": [
+    2650,
+    2060,
+    2960,
+    2240
+   ],
+   "feature": "right lamp box",
+   "reading": "",
+   "reading2": "Partial black cluster: LED-dot lamp inboard, lit round lamp outboard."
+  },
+  {
+   "id": "f-screens-345",
+   "ref": "p345",
+   "box": [
+    1640,
+    1020,
+    2960,
+    1760
+   ],
+   "feature": "windscreens, black surround",
+   "reading": "",
+   "reading2": "Two large rounded-corner windscreens with black riveted surrounds either side of the black gangway surround; wipers low; orange roof-edge line."
+  },
+  {
+   "id": "f-gangway-345",
+   "ref": "p345",
+   "box": [
+    2080,
+    1030,
+    2680,
+    2400
+   ],
+   "feature": "gangway frame and door",
+   "reading": "",
+   "reading2": "Tall rounded-top gangway surround of black/dark grey speckled material with rivets, framing a yellow door with recessed handle."
+  },
+  {
+   "id": "f-lower-345",
+   "ref": "p345",
+   "box": [
+    1600,
+    2200,
+    2980,
+    2420
+   ],
+   "feature": "valance and lower front",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-346",
+   "ref": "p346",
+   "box": [
+    640,
+    1030,
+    900,
+    1170
+   ],
+   "feature": "near lamp box, three-lamp type, tail lit",
+   "reading": "",
+   "reading2": "Black rectangle recessed in yellow: lit red round inboard, unlit clear round middle, dark vertical rectangle outboard."
+  },
+  {
+   "id": "f-face-346",
+   "ref": "p346",
+   "box": [
+    150,
+    350,
+    950,
+    1330
+   ],
+   "feature": "front, oblique",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-346",
+   "ref": "p346",
+   "box": [
+    800,
+    450,
+    2000,
+    1250
+   ],
+   "feature": "cab side: cab door, white door 1, purple windows, circles, curve",
+   "reading": "",
+   "reading2": "Dark blue side by the yellow cab, orange cantrail; one rounded window with teal rubber surround in a blue panel, door-control box, light grey single-leaf door with black-framed window, then windows, n-circles, curved transition to light grey body."
+  },
+  {
+   "id": "s-door1-346",
+   "ref": "p346",
+   "box": [
+    1220,
+    520,
+    1460,
+    1240
+   ],
+   "feature": "door 1 (white plug)",
+   "reading": "",
+   "reading2": "Light grey single-leaf plug door with rounded black-framed window, stickers, step plate; dark blue either side."
+  },
+  {
+   "id": "s-cabdoor-346",
+   "ref": "p346",
+   "box": [
+    1050,
+    520,
+    1270,
+    1220
+   ],
+   "feature": "cab door with droplight",
+   "reading": "",
+   "reading2": "Dark blue riveted panel with one tall rounded window in a thick teal gasket, door button box below."
+  },
+  {
+   "id": "s-curve-346",
+   "ref": "p346",
+   "box": [
+    1600,
+    520,
+    2000,
+    1150
+   ],
+   "feature": "purple to white curve",
+   "reading": "",
+   "reading2": "Navy section whose lower edge sweeps in a convex curve into light grey; cyan and purple n-circles on navy; orange cantrail under grey roof."
+  },
+  {
+   "id": "s-livery-341",
+   "ref": "p341",
+   "box": [
+    1289,
+    630,
+    2716,
+    1316
+   ],
+   "feature": "cab car side in sun",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-341",
+   "ref": "p341",
+   "box": [
+    2150,
+    560,
+    2780,
+    1316
+   ],
+   "feature": "cab corner to door 1, sun",
+   "reading": "",
+   "reading2": "By the yellow cab: dark blue riveted body with narrow tall rounded window, crew door control plate; light grey single-leaf door with black-framed window and yellow pole inside; orange n-circle."
+  },
+  {
+   "id": "f-face-341",
+   "ref": "p341",
+   "box": [
+    2716,
+    466,
+    3401,
+    1289
+   ],
+   "feature": "front in sun, oblique",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-G3",
+   "ref": "pG3",
+   "box": [
+    1400,
+    750,
+    2600,
+    1700
+   ],
+   "feature": "cab corner to the purple curve, three-quarter",
+   "reading": "",
+   "reading2": "By the yellow cab: blue body with narrow tall window, white single-leaf door with black-framed window, blue section with paired windows, n-circles, white body with RTHERN text."
+  },
+  {
+   "id": "f-face-G3",
+   "ref": "pG3",
+   "box": [
+    2350,
+    500,
+    3600,
+    1700
+   ],
+   "feature": "front three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-344",
+   "ref": "p344",
+   "box": [
+    710,
+    730,
+    1517,
+    1824
+   ],
+   "feature": "front, close",
+   "reading": "",
+   "reading2": "Yellow front, weathered riveted gangway surround, gangway door with large upper window; rounded windscreens in black surrounds; left cluster lit round lamp outboard, LED-dot inboard."
+  },
+  {
+   "id": "s-cab-344",
+   "ref": "p344",
+   "box": [
+    384,
+    920,
+    710,
+    1730
+   ],
+   "feature": "cab side and open door 1",
+   "reading": "",
+   "reading2": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-341",
+   "ref": "p341",
+   "box": [
+    1560,
+    1128,
+    1680,
+    1176
+   ],
+   "what": "white bodyside in sun"
+  },
+  {
+   "id": "purple-341",
+   "ref": "p341",
+   "box": [
+    1968,
+    1104,
+    2040,
+    1176
+   ],
+   "what": "purple cab side in sun",
+   "neutral": "white-341"
+  },
+  {
+   "id": "yellow-341",
+   "ref": "p341",
+   "box": [
+    2760,
+    1000,
+    2840,
+    1080
+   ],
+   "what": "face yellow in sun (front plane, different light)",
+   "neutral": "white-341"
+  },
+  {
+   "id": "roof-341",
+   "ref": "p341",
+   "box": [
+    1680,
+    600,
+    2100,
+    640
+   ],
+   "what": "roof in sun",
+   "neutral": "white-341"
+  },
+  {
+   "id": "white-346",
+   "ref": "p346",
+   "box": [
+    1820,
+    1000,
+    1900,
+    1060
+   ],
+   "what": "white bodyside"
+  },
+  {
+   "id": "purple-346",
+   "ref": "p346",
+   "box": [
+    1100,
+    950,
+    1200,
+    1100
+   ],
+   "what": "purple cab door",
+   "neutral": "white-346"
+  },
+  {
+   "id": "door-346",
+   "ref": "p346",
+   "box": [
+    1300,
+    1000,
+    1380,
+    1150
+   ],
+   "what": "door 1 white",
+   "neutral": "white-346"
+  },
+  {
+   "id": "roof-346",
+   "ref": "p346",
+   "box": [
+    1300,
+    470,
+    1700,
+    500
+   ],
+   "what": "roof",
+   "neutral": "white-346"
+  },
+  {
+   "id": "yellow-345",
+   "ref": "p345",
+   "box": [
+    2650,
+    1830,
+    2800,
+    1890
+   ],
+   "what": "face yellow head-on"
+  },
+  {
+   "id": "surround-345",
+   "ref": "p345",
+   "box": [
+    1700,
+    1250,
+    1720,
+    1550
+   ],
+   "what": "black windscreen surround"
+  },
+  {
+   "id": "gangway-345",
+   "ref": "p345",
+   "box": [
+    2150,
+    1400,
+    2200,
+    1800
+   ],
+   "what": "gangway frame grime"
+  }
+ ]
+}

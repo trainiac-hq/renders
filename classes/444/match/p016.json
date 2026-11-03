@@ -1,0 +1,73 @@
+{
+ "ref": "p016",
+ "side": "far",
+ "model": {
+  "w1-top-front": [
+   4.543,
+   2.96
+  ],
+  "w1-bottom-front": [
+   4.543,
+   1.93
+  ],
+  "w1-top-rear": [
+   5.961,
+   2.96
+  ]
+ },
+ "points": {
+  "door1-rear-top": [
+   412.5,
+   262.5
+  ],
+  "door1-front-top": [
+   499.0,
+   254.0
+  ],
+  "door0-rear-top": [
+   581.5,
+   240.5
+  ],
+  "door0-front-top": [
+   659.5,
+   233.5
+  ],
+  "w1-top-front": [
+   369.5,
+   344.5
+  ],
+  "w1-bottom-front": [
+   368.0,
+   528.0
+  ],
+  "w1-top-rear": [
+   303.2,
+   344.6
+  ],
+  "lamp3-head": [
+   956.0,
+   748.0
+  ],
+  "lamp5-marker": [
+   858.0,
+   754.0
+  ],
+  "lamp4-tail": [
+   896.0,
+   800.8
+  ]
+ },
+ "holdout": [
+  "door0-rear-top",
+  "lamp4-tail",
+  "w1-bottom-front"
+ ],
+ "readings": {
+  "door1-*": "single pale leaf: rear top where its blue band starts under the chamfered outline, front top at the blue band's end (z7)",
+  "door0-*": "cab door outline groove, rounded corners (z7, z10)",
+  "w1-*": "first window behind door 1: glass corners (z10); front is image right",
+  "lamp*": "far group from the g16 grid: ring extents (head 916-996 x 702-794)",
+  "focalPx": "EXIF: iPhone 16 Plus, 34 mm equivalent, 4:3 frame uncropped (1600x1200): 34/43.27 of the 2000 px diagonal"
+ },
+ "focalPx": 1571
+}

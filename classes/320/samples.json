@@ -1,0 +1,208 @@
+{
+ "white-316": {
+  "ref": "p316",
+  "box": [
+   1523,
+   911,
+   1537,
+   923
+  ],
+  "what": "white saltire dot (white paint), side",
+  "median": "#D6DAD9",
+  "iqr": [
+   2,
+   2,
+   2
+  ]
+ },
+ "navy-316": {
+  "ref": "p316",
+  "box": [
+   1075,
+   900,
+   1105,
+   1000
+  ],
+  "what": "navy bodyside",
+  "median": "#555979",
+  "iqr": [
+   2,
+   2,
+   3
+  ],
+  "balanced": "#5F6286",
+  "neutral": "white-316"
+ },
+ "yellow-316": {
+  "ref": "p316",
+  "box": [
+   1800,
+   1080,
+   1900,
+   1180
+  ],
+  "what": "yellow panel (face, other light)",
+  "median": "#C0A058",
+  "iqr": [
+   9,
+   7,
+   6
+  ],
+  "balanced": "#D7B061",
+  "neutral": "white-316"
+ },
+ "orange-316": {
+  "ref": "p316",
+  "box": [
+   1100,
+   602,
+   1300,
+   605
+  ],
+  "what": "orange cantrail line",
+  "median": "#DA9E92",
+  "iqr": [
+   6,
+   3,
+   5
+  ],
+  "balanced": "#F4AEA1",
+  "neutral": "white-316"
+ },
+ "blue-316": {
+  "ref": "p316",
+  "box": [
+   262,
+   1120,
+   272,
+   1130
+  ],
+  "what": "light blue dot",
+  "median": "#6287B1",
+  "iqr": [
+   2,
+   4,
+   9
+  ],
+  "balanced": "#6E95C4",
+  "neutral": "white-316"
+ },
+ "roof-316": {
+  "ref": "p316",
+  "box": [
+   700,
+   430,
+   1000,
+   460
+  ],
+  "what": "roof grey",
+  "median": "#A1A6A9",
+  "iqr": [
+   33,
+   32,
+   28
+  ],
+  "balanced": "#B5B7BB",
+  "neutral": "white-316"
+ },
+ "white-411": {
+  "ref": "p411",
+  "box": [
+   1838,
+   690,
+   1866,
+   722
+  ],
+  "what": "white saltire dot, side, p411",
+  "median": "#E3E4E1",
+  "iqr": [
+   6,
+   10,
+   20
+  ]
+ },
+ "navy-411": {
+  "ref": "p411",
+  "box": [
+   1785,
+   1845,
+   1830,
+   1875
+  ],
+  "what": "navy bodyside low",
+  "median": "#22243B",
+  "iqr": [
+   2,
+   1,
+   7
+  ],
+  "balanced": "#24263F",
+  "neutral": "white-411"
+ },
+ "yellow-glc": {
+  "ref": "pglc",
+  "box": [
+   1900,
+   1250,
+   2200,
+   1400
+  ],
+  "what": "yellow panel head-on (no neutral on the face)",
+  "median": "#D0A33B",
+  "iqr": [
+   8,
+   8,
+   11
+  ]
+ },
+ "door-411": {
+  "ref": "p411",
+  "box": [
+   1150,
+   1300,
+   1175,
+   1360
+  ],
+  "what": "saloon door leaf (open), p411",
+  "median": "#3B3C43",
+  "iqr": [
+   38,
+   36,
+   31
+  ],
+  "balanced": "#3E3F47",
+  "neutral": "white-411"
+ },
+ "yellow-411": {
+  "ref": "p411",
+  "box": [
+   2370,
+   1320,
+   2430,
+   1380
+  ],
+  "what": "yellow panel, p411 (no neutral on the face)",
+  "median": "#F7C95B",
+  "iqr": [
+   3,
+   3,
+   10
+  ]
+ },
+ "navy-glc": {
+  "ref": "pglc",
+  "box": [
+   2600,
+   1880,
+   2700,
+   1940
+  ],
+  "what": "navy lower front head-on, beside the number",
+  "median": "#1B1D2C",
+  "iqr": [
+   5,
+   4,
+   7
+  ]
+ }
+}

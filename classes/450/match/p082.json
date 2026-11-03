@@ -1,0 +1,91 @@
+{
+ "ref": "p082",
+ "side": "far",
+ "focalPx": 3013,
+ "points": {
+  "lamp5-marker": [
+   858.0,
+   618.1
+  ],
+  "lamp3-head": [
+   927.6,
+   615.4
+  ],
+  "lamp4-tail": [
+   888.1,
+   652.3
+  ],
+  "lamp2-head": [
+   1232.3,
+   602.3
+  ],
+  "lamp0-marker": [
+   1299.2,
+   598.0
+  ],
+  "lamp1-tail": [
+   1274.5,
+   631.3
+  ],
+  "gangway-frame-top-near": [
+   1201.7,
+   220.0
+  ],
+  "gangway-frame-top-far": [
+   983.0,
+   220.0
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "lamp1-tail"
+ ],
+ "surface": {
+  "number-centre": [
+   882,
+   287
+  ],
+  "glass-top-outer": [
+   838,
+   320
+  ],
+  "glass-top-inner": [
+   955,
+   322
+  ],
+  "glass-bottom-outer": [
+   845,
+   500
+  ],
+  "glass-bottom-inner": [
+   955,
+   500
+  ],
+  "surround-top-outer": [
+   825,
+   300
+  ],
+  "surround-bottom-outer": [
+   828,
+   560
+  ],
+  "panel-bottom-outer": [
+   815,
+   665
+  ],
+  "panel-top-inner": [
+   978,
+   560
+  ],
+  "strip-top": [
+   792,
+   265
+  ]
+ },
+ "readings": {
+  "focalPx": "EXIF: Canon EOS R50 (APS-C, 22.3 mm), 42 mm, 3:2 uncropped at 1600 px",
+  "lamp*": "g82 grid (1.9x): lamp centres, far group image left",
+  "gangway-frame-top-*": "the frame's top edge (sy 220) meeting its side edges (virtual: the corners are chamfered)",
+  "surface": "far-side (image left) screen and its surround, the panel and strip, read off g82"
+ }
+}

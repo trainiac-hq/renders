@@ -1,0 +1,233 @@
+{
+ "ref": "p366",
+ "side": "far",
+ "note": "319366, nose right: the train's right side (far, +Y) to the left of the face; the face's left-as-seen cluster is lamp1 (far, z>0). Canon EOS 200D at 44 mm; the Commons original (5365 px) is smaller than the sensor's 6000 px, so whether it is cropped or resized is unknown: focal searched.",
+ "points": {
+  "wA-front-top": [
+   2124.8,
+   1166.3
+  ],
+  "wA-front-bottom": [
+   2129.8,
+   1443.8
+  ],
+  "wA-rear-top": [
+   2052.9,
+   1170.6
+  ],
+  "wA-rear-bottom": [
+   2049.5,
+   1440.3
+  ],
+  "wB-front-top": [
+   2010.4,
+   1173.8
+  ],
+  "wB-front-bottom": [
+   2013.9,
+   1438.7
+  ],
+  "wB-rear-top": [
+   1858.6,
+   1184.7
+  ],
+  "wB-rear-bottom": [
+   1856.8,
+   1433.3
+  ],
+  "lamp1-head": [
+   2522,
+   1593.2
+  ],
+  "lamp1-tail": [
+   2633.8,
+   1587
+  ],
+  "lamp0-head": [
+   3129.5,
+   1556
+  ],
+  "lamp0-tail": [
+   3023.2,
+   1564.5
+  ],
+  "hl-far": [
+   2569.6,
+   1590.5
+  ],
+  "hl-near": [
+   3085.4,
+   1561.1
+  ],
+  "sc-far-out-top": [
+   2408.7,
+   1050.6
+  ],
+  "sc-far-out-bottom": [
+   2440.4,
+   1404.6
+  ],
+  "sc-far-in-top": [
+   2633.9,
+   1042.4
+  ],
+  "sc-far-in-bottom": [
+   2662.9,
+   1394.8
+  ],
+  "sc-near-in-top": [
+   2940.4,
+   1029.0
+  ],
+  "sc-near-in-bottom": [
+   2968.7,
+   1377.2
+  ],
+  "sc-near-out-top": [
+   3154.9,
+   1021.3
+  ],
+  "sc-near-out-bottom": [
+   3182.7,
+   1366.5
+  ],
+  "gw-far-top": [
+   2714.6,
+   1045.4
+  ],
+  "gw-near-top": [
+   2866.2,
+   1040.8
+  ],
+  "gw-far-bottom": [
+   2743.2,
+   1390.0
+  ],
+  "gw-near-bottom": [
+   2893.2,
+   1383.5
+  ],
+  "d1c-top": [
+   1740.5,
+   1131.2
+  ],
+  "d2c-top": [
+   1324.7,
+   1171.2
+  ]
+ },
+ "model": {
+  "wA-front-top": [
+   2.326,
+   3.05
+  ],
+  "wA-front-bottom": [
+   2.326,
+   2.11
+  ],
+  "wA-rear-top": [
+   3.036,
+   3.05
+  ],
+  "wA-rear-bottom": [
+   3.036,
+   2.11
+  ],
+  "wB-front-top": [
+   3.496,
+   3.05
+  ],
+  "wB-front-bottom": [
+   3.496,
+   2.11
+  ],
+  "wB-rear-top": [
+   5.167,
+   3.05
+  ],
+  "wB-rear-bottom": [
+   5.167,
+   2.11
+  ],
+  "d1c-top": [
+   6.73,
+   3.25
+  ],
+  "d2c-top": [
+   13.68,
+   3.25
+  ]
+ },
+ "modelFace": {
+  "hl-far": [
+   0.78,
+   1.7
+  ],
+  "hl-near": [
+   -0.78,
+   1.7
+  ],
+  "sc-far-out-top": [
+   1.14,
+   3.284
+  ],
+  "sc-far-out-bottom": [
+   1.14,
+   2.263
+  ],
+  "sc-far-in-top": [
+   0.474,
+   3.284
+  ],
+  "sc-far-in-bottom": [
+   0.474,
+   2.263
+  ],
+  "sc-near-in-top": [
+   -0.474,
+   3.284
+  ],
+  "sc-near-in-bottom": [
+   -0.474,
+   2.263
+  ],
+  "sc-near-out-top": [
+   -1.14,
+   3.284
+  ],
+  "sc-near-out-bottom": [
+   -1.14,
+   2.263
+  ],
+  "gw-far-top": [
+   0.24,
+   3.28
+  ],
+  "gw-near-top": [
+   -0.24,
+   3.28
+  ],
+  "gw-far-bottom": [
+   0.24,
+   2.265
+  ],
+  "gw-near-bottom": [
+   -0.24,
+   2.265
+  ]
+ },
+ "holdout": [
+  "d2c-top",
+  "wA-rear-bottom",
+  "hl-near",
+  "sc-far-in-top"
+ ],
+ "readings": {
+  "wA/wB-*": "saloon windows A (2.326-3.036) and B (3.496-5.167): glass edges inside the silver frame (hopper glass top, lower glass bottom), each a line fitted along scanlines (eline.py, rms 0.1-0.8 px), virtual corners; the front edge is the right one (nose right)",
+  "lamp*": "lens centres at 4x (pk366a): lamp*-head is the marker (m 0.925), hl-* the round headlamp (m 0.78), lamp*-tail the red tail (m 0.59)",
+  "sc-*": "windscreens: the yellow-to-black-rubber edge, lines fitted along scanlines (rms 0.1-0.5 px), virtual corners; the edges lean ~0.08 px/px",
+  "gw-*": "gangway door window opening: lines fitted along scanlines (top in the blue channel), virtual corners",
+  "_cab-door-window": "not used: its frame shows three nested outlines (1170, 1175, 1191 px at the top) and which the spec's 1.89-2.96 means is unclear",
+  "d*c-top": "door leaf top's midpoint between the navy leaves' fitted front and rear edges (edgefit): the centre, because the navy leaves read 1.33 m wide, not the spec's 1.5 m (see notes)"
+ }
+}

@@ -1,0 +1,768 @@
+{
+ "class": "221",
+ "subject": "Class 221 Super Voyager (Bombardier, tilting), CrossCountry and Grand Central: cab car and the car behind it.",
+ "method": "The 220's body and nose (classes/220/spec.json: ptr shows 220018 and 221133 nose to nose with the same profile, cab door 2.74 vs 2.78 m from the tip); the 221's own bogies: ptr reads its front axles at 2.56 and 5.12 m from the tip (wheelbase 2.56 against the published 2.70: the published value used, centred at 3.84), the rest from the 221 diagram (axles 1481/1683, car 2 1962/2164, 3174/3376 px at 74.8 px/m).",
+ "model": {
+  "heights": {
+   "bottom": 0.94,
+   "cantrail": 3.36,
+   "roof": 3.75,
+   "window": [
+    2.02,
+    2.9
+   ]
+  },
+  "wheel": 0.78,
+  "wheelbase": 2.7,
+  "cab": {
+   "length": 23.61,
+   "doors": [
+    {
+     "x": 3.1,
+     "w": 0.64,
+     "cab": true
+    },
+    {
+     "x": 7.345,
+     "w": 1.09
+    },
+    {
+     "x": 22.04,
+     "w": 1.08
+    }
+   ],
+   "windows": [
+    [
+     8.92,
+     10.45
+    ],
+    [
+     11.06,
+     12.59
+    ],
+    [
+     13.2,
+     14.72
+    ],
+    [
+     15.32,
+     16.84
+    ],
+    [
+     17.45,
+     18.98
+    ]
+   ],
+   "bogies": [
+    3.84,
+    20.71
+   ]
+  },
+  "next": {
+   "length": 21.9,
+   "doors": [
+    {
+     "x": 1.57,
+     "w": 1.08
+    },
+    {
+     "x": 20.33,
+     "w": 1.08
+    }
+   ],
+   "windows": [
+    [
+     4.69,
+     6.23
+    ],
+    [
+     6.82,
+     8.36
+    ],
+    [
+     8.96,
+     10.48
+    ],
+    [
+     11.08,
+     12.61
+    ],
+    [
+     13.21,
+     14.75
+    ],
+    [
+     15.35,
+     16.87
+    ],
+    [
+     17.47,
+     19.01
+    ]
+   ],
+   "bogies": [
+    2.79,
+    19.0
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.182,
+     0.339,
+     1
+    ],
+    [
+     0.007,
+     0.689
+    ],
+    [
+     0.0,
+     1.254
+    ],
+    [
+     0.032,
+     1.293
+    ],
+    [
+     0.0,
+     1.6
+    ],
+    [
+     0.032,
+     1.804
+    ],
+    [
+     0.104,
+     1.986
+    ],
+    [
+     0.204,
+     2.129
+    ],
+    [
+     0.346,
+     2.211
+    ],
+    [
+     0.55,
+     2.396
+    ],
+    [
+     0.757,
+     2.639
+    ],
+    [
+     0.961,
+     2.886
+    ],
+    [
+     1.164,
+     3.129
+    ],
+    [
+     1.368,
+     3.336
+    ],
+    [
+     1.489,
+     3.479
+    ],
+    [
+     1.636,
+     3.6
+    ],
+    [
+     2.154,
+     3.679
+    ],
+    [
+     2.6,
+     3.75,
+     1
+    ]
+   ],
+   "glazing": [
+    {
+     "poly": [
+      [
+       2.418,
+       2.839
+      ],
+      [
+       2.332,
+       3.089
+      ],
+      [
+       2.154,
+       3.118
+      ],
+      [
+       1.868,
+       2.982
+      ],
+      [
+       1.618,
+       2.732
+      ],
+      [
+       1.6,
+       2.571
+      ],
+      [
+       1.725,
+       2.496
+      ],
+      [
+       2.154,
+       2.496
+      ],
+      [
+       2.332,
+       2.589
+      ]
+     ]
+    }
+   ],
+   "glazingOnNose": true
+  },
+  "form": {
+   "width": 2.73,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.35,
+     0.35
+    ],
+    [
+     1.3,
+     0.3
+    ],
+    [
+     1.8,
+     0.45
+    ],
+    [
+     2.4,
+     0.7
+    ],
+    [
+     3.0,
+     0.75
+    ],
+    [
+     3.5,
+     0.5
+    ],
+    [
+     3.75,
+     0.0
+    ]
+   ],
+   "squareness": 1.6,
+   "glazing": "bonded",
+   "front": {
+    "depth": 0,
+    "panel": [
+     [
+      0.0421,
+      1.4,
+      1
+     ],
+     [
+      0.2729,
+      1.4,
+      1
+     ],
+     [
+      0.2985,
+      1.55
+     ],
+     [
+      0.7015,
+      1.55
+     ],
+     [
+      0.7271,
+      1.4,
+      1
+     ],
+     [
+      0.9579,
+      1.4,
+      1
+     ],
+     [
+      0.9799,
+      1.8
+     ],
+     [
+      0.9762,
+      2.5
+     ],
+     [
+      0.9396,
+      3.0
+     ],
+     [
+      0.8663,
+      3.35
+     ],
+     [
+      0.6832,
+      3.5
+     ],
+     [
+      0.5,
+      3.52
+     ],
+     [
+      0.3168,
+      3.5
+     ],
+     [
+      0.1337,
+      3.35
+     ],
+     [
+      0.0604,
+      3.0
+     ],
+     [
+      0.0238,
+      2.5
+     ],
+     [
+      0.0201,
+      1.8
+     ]
+    ],
+    "dark": [
+     [
+      [
+       0.207,
+       2.42
+      ],
+      [
+       0.2802,
+       2.32
+      ],
+      [
+       0.5,
+       2.3
+      ],
+      [
+       0.7198,
+       2.32
+      ],
+      [
+       0.793,
+       2.42
+      ],
+      [
+       0.7894,
+       3.15
+      ],
+      [
+       0.7381,
+       3.31
+      ],
+      [
+       0.5,
+       3.37
+      ],
+      [
+       0.2619,
+       3.31
+      ],
+      [
+       0.2106,
+       3.15
+      ]
+     ]
+    ],
+    "screens": [
+     [
+      [
+       0.2326,
+       2.48
+      ],
+      [
+       0.2802,
+       2.41
+      ],
+      [
+       0.5,
+       2.39
+      ],
+      [
+       0.7198,
+       2.41
+      ],
+      [
+       0.7674,
+       2.48
+      ],
+      [
+       0.7637,
+       3.1
+      ],
+      [
+       0.7198,
+       3.24
+      ],
+      [
+       0.5,
+       3.3
+      ],
+      [
+       0.2802,
+       3.24
+      ],
+      [
+       0.2363,
+       3.1
+      ]
+     ]
+    ],
+    "lights": [
+     [
+      [
+       0.1337,
+       1.85
+      ],
+      [
+       0.207,
+       1.97
+      ],
+      [
+       0.2985,
+       1.8
+      ],
+      [
+       0.3352,
+       1.55
+      ],
+      [
+       0.2985,
+       1.35
+      ],
+      [
+       0.1886,
+       1.31
+      ],
+      [
+       0.1337,
+       1.5
+      ]
+     ],
+     [
+      [
+       0.8663,
+       1.85
+      ],
+      [
+       0.793,
+       1.97
+      ],
+      [
+       0.7015,
+       1.8
+      ],
+      [
+       0.6648,
+       1.55
+      ],
+      [
+       0.7015,
+       1.35
+      ],
+      [
+       0.8114,
+       1.31
+      ],
+      [
+       0.8663,
+       1.5
+      ]
+     ],
+     [
+      [
+       0.4707,
+       3.38
+      ],
+      [
+       0.5,
+       3.36
+      ],
+      [
+       0.5293,
+       3.38
+      ],
+      [
+       0.5366,
+       3.45
+      ],
+      [
+       0.5293,
+       3.52
+      ],
+      [
+       0.5,
+       3.54
+      ],
+      [
+       0.4707,
+       3.52
+      ],
+      [
+       0.4634,
+       3.45
+      ]
+     ]
+    ],
+    "lampUnits": [
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.1795,
+        1.76
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.207,
+        1.52
+       ],
+       "r": 0.09
+      }
+     ],
+     [
+      {
+       "kind": "tail",
+       "at": [
+        0.8205,
+        1.76
+       ],
+       "r": 0.07
+      },
+      {
+       "kind": "head",
+       "at": [
+        0.793,
+        1.52
+       ],
+       "r": 0.09
+      }
+     ],
+     [
+      {
+       "kind": "head",
+       "at": [
+        0.5,
+        3.45
+       ],
+       "r": 0.07
+      }
+     ]
+    ],
+    "wipers": [
+     {
+      "pivot": [
+       0.3535,
+       3.3
+      ],
+      "tip": [
+       0.2582,
+       2.47
+      ]
+     },
+     {
+      "pivot": [
+       0.533,
+       3.3
+      ],
+      "tip": [
+       0.4597,
+       2.47
+      ]
+     }
+    ],
+    "lampRim": "black",
+    "tailLens": "clear",
+    "pockets": [
+     {
+      "outline": [
+       [
+        0.2985,
+        0.45,
+        1
+       ],
+       [
+        0.7015,
+        0.45,
+        1
+       ],
+       [
+        0.7015,
+        1.45
+       ],
+       [
+        0.6648,
+        1.53
+       ],
+       [
+        0.3352,
+        1.53
+       ],
+       [
+        0.2985,
+        1.45
+       ]
+      ],
+      "depth": 0.3
+     }
+    ]
+   }
+  }
+ },
+ "liveries": {
+  "XC": {
+   "body": "#C9CDD1",
+   "roof": "#7F858B",
+   "doors": "#C9CDD1",
+   "panel": "#F2B33F",
+   "face": "#3F3640",
+   "glass": "#141618",
+   "rects": [
+    {
+     "x": [
+      -1,
+      6.7
+     ],
+     "y": [
+      0.9,
+      3.4
+     ],
+     "color": "#3F3640"
+    },
+    {
+     "x": [
+      6.7,
+      6.78
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    },
+    {
+     "x": [
+      7.8,
+      7.88
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    },
+    {
+     "x": [
+      21.39,
+      21.47
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    },
+    {
+     "x": [
+      22.49,
+      22.57
+     ],
+     "y": [
+      0.95,
+      3.25
+     ],
+     "color": "#9C2A55"
+    }
+   ],
+   "coach": {
+    "body": "#C9CDD1",
+    "swooshes": []
+   },
+   "branding": [
+    {
+     "logo": "XC",
+     "on": "flank",
+     "at": [
+      0.97,
+      1.32
+     ],
+     "height": 0.2,
+     "width": 1.29
+    }
+   ]
+  },
+  "GC": {
+   "body": "#22272B",
+   "roof": "#22272B",
+   "doors": "#22272B",
+   "panel": "#D59510",
+   "face": "#22272B",
+   "glass": "#141618",
+   "bands": [
+    {
+     "y": [
+      1.05,
+      1.25
+     ],
+     "color": "#D9621E"
+    }
+   ],
+   "branding": []
+  }
+ },
+ "trace": {
+  "model": "As classes/220/spec.json (same body and nose), bogies as in method.",
+  "model.form.front": "The 220's measured front; the panel carried up round the screen to 3.52 m and the dark limited to the screen's surround (0.06 m round the glass): the old CrossCountry scheme paints the whole face yellow (pdo 221122, ppg 221135, 2025-26).",
+  "liveries.XC": "The maroon and silver scheme the 221s still carry (pso 221113 2026-06, ppg 221135 2026-08, pdo 221122 2025-01): maroon cab end to door 1's front edge (pdo; raw #312632 overcast, drawn #3F3640), silver body (#C9CDD1, the lit upper side; raw #5D5E5F in shade), pink stripes beside each door (pdo), yellow face (raw #EBAE4B, drawn #F2B33F). The thin white X outline on the maroon is not drawn yet.",
+  "liveries.GC": "Grand Central (221142-143; pgc1-3 2023-10, pgcx 2023-12): black (raw #3F4B54, no neutral; drawn #22272B), the orange band low on the bodyside (orange-gc #B6531C raw with a wide spread; drawn #D9621E), orange-yellow face (face-gc #D59510). Band heights read on pgc1 approximately (1.05-1.25 m).",
+  "model.form.front.panelFoot": "The yellow's foot at the sides 1.40 (photo 1.32): at 1.32 its corners sat in the crease where the bumper's top lip meets the face and the decal clearance check read 0.15 mm off the body.",
+  "model.form.front.couplerRecess": "The coupler recess between the two red bumper blocks (ptg levelled, 466 px/m: ±0.55 m, from the bottom to the yellow's notch at 1.55), black: the render showed a solid red nose there.",
+  "liveries.XC.branding": "The red 'crosscountry X' on the nose's flank under the cab window, behind the lamp pod (pso 221113, 2026-06; 1280 px, close three-quarter): scaled along the flank by the cab side window's edges (1.58/2.42 m back, model) and up by its bottom and top (2.50/3.12): 0.32-1.61 m back, 1.22-1.42 m up (±0.15 m: the flank curves and the photo is close). Laid on the nose with the flank branding option; logos/XC.svg in its own red.",
+  "model.form.front.pockets": "The coupler opening between the bumper blocks cut 0.3 m back (a void with the coupler in it), not painted black."
+ },
+ "views": {
+  "ref-pdo": {
+   "azimuth": -22,
+   "elevation": 5,
+   "lens": 60,
+   "frame": 7,
+   "size": [
+    1400,
+    1030
+   ],
+   "note": "pdo (221122, 2025): near head-on from the train's right, estimated"
+  },
+  "ref-pgc1": {
+   "azimuth": -45,
+   "elevation": 3,
+   "lens": 50,
+   "frame": 9,
+   "size": [
+    1400,
+    935
+   ],
+   "note": "pgc1 (221142 Grand Central, King's Cross): three-quarter from the right, estimated"
+  }
+ },
+ "pairs": []
+}

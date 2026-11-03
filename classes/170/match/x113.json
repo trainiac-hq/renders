@@ -1,0 +1,150 @@
+{
+ "ref": "x113",
+ "side": "far",
+ "points": {
+  "w1-tf": [
+   1928,
+   893
+  ],
+  "w1-bf": [
+   1897,
+   1303
+  ],
+  "w2-tr": [
+   1578,
+   958
+  ],
+  "w3-bf": [
+   1395,
+   1327
+  ],
+  "w7-tr": [
+   868,
+   1102
+  ],
+  "w7-br": [
+   843,
+   1352
+  ],
+  "lamp0-head": [
+   3176,
+   1418
+  ],
+  "lamp0-tail": [
+   3117,
+   1468
+  ],
+  "lamp1-head": [
+   2304,
+   1418
+  ],
+  "lamp1-tail": [
+   2378,
+   1468
+  ],
+  "p1-t": [
+   1275,
+   1070
+  ],
+  "p1-b": [
+   1262,
+   1335
+  ],
+  "p2-t": [
+   1162,
+   1078
+  ],
+  "p2-b": [
+   1137,
+   1340
+  ],
+  "p3-t": [
+   1055,
+   1086
+  ],
+  "p3-b": [
+   1030,
+   1344
+  ],
+  "p4-t": [
+   957,
+   1093
+  ],
+  "p4-b": [
+   932,
+   1347
+  ]
+ },
+ "model": {
+  "w1-tf": [
+   2.29,
+   2.94
+  ],
+  "w1-bf": [
+   2.29,
+   1.87
+  ],
+  "w2-tr": [
+   5.56,
+   2.94
+  ],
+  "w3-bf": [
+   7.77,
+   1.87
+  ],
+  "w7-tr": [
+   16.81,
+   2.94
+  ],
+  "w7-br": [
+   16.81,
+   1.87
+  ],
+  "p1-t": [
+   9.6,
+   2.94
+  ],
+  "p1-b": [
+   9.6,
+   1.87
+  ],
+  "p2-t": [
+   11.46,
+   2.94
+  ],
+  "p2-b": [
+   11.46,
+   1.87
+  ],
+  "p3-t": [
+   13.26,
+   2.94
+  ],
+  "p3-b": [
+   13.26,
+   1.87
+  ],
+  "p4-t": [
+   15.04,
+   2.94
+  ],
+  "p4-b": [
+   15.04,
+   1.87
+  ]
+ },
+ "holdout": [
+  "w3-bf",
+  "p2-b",
+  "lamp0-tail",
+  "lamp1-tail"
+ ],
+ "focalPx": 8320,
+ "readings": {
+  "windows": "outer corner of each window's dark frame on x113 (6x crops c1-c4, 10 px grids): w1/w2 the cab car's front pair, w3/w7 the five-pane saloon run's ends; nose to the right, so the far side",
+  "lamps": "lamp centres read off the thumbnail (x2.954): head outboard/higher, tail inboard/lower; approximate (5 px)",
+  "focalPx": "EXIF Nikon D3400 52 mm (78 mm equivalent), full 6000x4000 frame scaled to 3840: 78 x hypot(3840,2560)/43.27 = 8320 px",
+  "w2-br": "dropped: RANSAC outlier (29 px), the window's lower rear corner is behind a reflection on x113",
+  "pillars": "the four pillars of the five-pane saloon run at the glass's top and foot (x113run grid, 2x, 10 px); y on the run's top and foot edges, interpolated"
+ }
+}

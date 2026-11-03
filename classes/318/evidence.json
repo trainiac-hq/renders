@@ -1,0 +1,168 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-317-BR-Corporate-Livery.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_317_BR_Corporate_Livery.png",
+   "author": "Feathers44",
+   "licence": "CC BY-SA 3.0",
+   "date": "2017-07-29",
+   "kind": "diagram",
+   "unit": "317 (4 cars), BR corporate; stands in for the 318's body",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p254": {
+   "file": "refs/318254-GLC.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:318254_-_GLC.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-07-07",
+   "kind": "photo",
+   "unit": "318254",
+   "view": "nearly head-on, slightly from the left",
+   "light": "station roof, diffuse"
+  },
+  "p263": {
+   "file": "refs/318263-GLC.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:318263_-_GLC.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-07-07",
+   "kind": "photo",
+   "unit": "318263",
+   "view": "front three-quarter from the left",
+   "light": "station roof, diffuse"
+  },
+  "p265": {
+   "file": "refs/318265-Dalmuir.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:318265_-_Dalmuir.jpg",
+   "author": "TheDullName",
+   "licence": "Public domain",
+   "date": "2024-08-06",
+   "kind": "photo",
+   "unit": "318265",
+   "view": "close three-quarter, nose left",
+   "light": "bright overcast"
+  },
+  "p256": {
+   "file": "refs/318256-CBC-2C34.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:318256_-_CBC_-_2C34.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-02-11",
+   "kind": "photo",
+   "unit": "318256",
+   "view": "front, slightly left",
+   "light": "overcast"
+  },
+  "p258": {
+   "file": "refs/318258-at-Glasgow-Central-150624-53793364469-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:318258_at_Glasgow_Central_150624_%2853793364469%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-06-15",
+   "kind": "photo",
+   "unit": "318258",
+   "view": "three-quarter, nose left, side",
+   "light": "station roof"
+  },
+  "p267": {
+   "file": "refs/318267-318270-at-Cumbernauld-15-06-24-53795911669-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:318267_%2B_318270_at_Cumbernauld_15_06_24_%2853795911669%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-06-15",
+   "kind": "photo",
+   "unit": "318267",
+   "view": "three-quarter, nose right, side",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "s-corner-door-258",
+   "ref": "p258",
+   "box": [
+    1380,
+    880,
+    2480,
+    1780
+   ],
+   "feature": "cab corner, saltire dots, cab side window, cab door and first door, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-face-258",
+   "ref": "p258",
+   "box": [
+    740,
+    880,
+    1500,
+    1760
+   ],
+   "feature": "cab front, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-face-265",
+   "ref": "p265",
+   "box": [
+    480,
+    250,
+    2250,
+    2050
+   ],
+   "feature": "cab front, close three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-face-254",
+   "ref": "p254",
+   "box": [
+    1740,
+    640,
+    2840,
+    1780
+   ],
+   "feature": "cab front, nearly head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-258",
+   "ref": "p258",
+   "box": [
+    1220,
+    1540,
+    1450,
+    1720
+   ],
+   "feature": "near lamp housing (image right)",
+   "reading": ""
+  },
+  {
+   "id": "s-cab-258",
+   "ref": "p258",
+   "box": [
+    1640,
+    1020,
+    1930,
+    1740
+   ],
+   "feature": "cab side window and cab door",
+   "reading": ""
+  },
+  {
+   "id": "s-door1-258",
+   "ref": "p258",
+   "box": [
+    2270,
+    1080,
+    2440,
+    1600
+   ],
+   "feature": "first passenger door",
+   "reading": ""
+  }
+ ],
+ "samples": []
+}

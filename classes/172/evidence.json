@@ -1,0 +1,702 @@
+{
+ "class": "172",
+ "subject": "Class 172 Turbostar, West Midlands Trains (WMR gold and purple), gangwayed 172/2-/3",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-172-in-West-Midlands-Railway-2018-present-.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_172_in_West_Midlands_Railway_(2018-present).png",
+   "author": "Chiltern006",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-04-12",
+   "kind": "diagram",
+   "unit": "172/2 (2 cars, gangwayed), WMR livery",
+   "view": "side elevation, nose left; second car's cab at the right",
+   "light": "flat colours",
+   "note": "Chiltern006, 384 px high. Draws WMR gold as #DD5800 orange and the body as #400040 purple; photos show a deeper gold and a dark purple that reads near-black in shade"
+  },
+  "dia3": {
+   "file": "refs/West-Midlands-Trains-Class-172-3.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:West_Midlands_Trains_Class_172-3.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-02-02",
+   "kind": "diagram",
+   "unit": "172/3 (3 cars)",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "WestRail642fan, 119 px: livery only"
+  },
+  "dia2": {
+   "file": "refs/West-Midlands-Trains-Class-172-2.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:West_Midlands_Trains_Class_172-2.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-02-02",
+   "kind": "diagram",
+   "unit": "172/2",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "119 px: livery only"
+  },
+  "dia0": {
+   "file": "refs/West-Midlands-Trains-Class-172-0.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:West_Midlands_Trains_Class_172-0.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-02-02",
+   "kind": "diagram",
+   "unit": "172/0 and 172/1 (non-gangwayed)",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "119 px: variant livery"
+  },
+  "dialo": {
+   "file": "refs/Class-172-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_172_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-07-17",
+   "kind": "diagram",
+   "unit": "172/0 (non-gangwayed) as built for London Overground",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "Unisouth 2008: variant cab shape only, livery obsolete"
+  },
+  "p342": {
+   "file": "refs/WMR-172-342-55146890829.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:WMR_172_342_-_55146890829.jpg",
+   "author": "MissCatTrap",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-08-19",
+   "kind": "photo",
+   "unit": "172342 (172/3)",
+   "view": "head-on, slightly from the right; right headlamp, left marker and roof lamp lit",
+   "light": "evening, warm low light"
+  },
+  "p220k": {
+   "file": "refs/WMR-172-220-55142395442.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:WMR_172_220_-_55142395442.jpg",
+   "author": "MissCatTrap",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-07",
+   "kind": "photo",
+   "unit": "172220 (172/2)",
+   "view": "front three-quarter from above",
+   "light": "evening"
+  },
+  "p342h": {
+   "file": "refs/Class-172-172342-Henley-in-Arden-9-11-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_172_172342_Henley-in-Arden_9-11-2025.jpg",
+   "author": "BWard 1997",
+   "licence": "CC BY 4.0",
+   "date": "2025-11-09",
+   "kind": "photo",
+   "unit": "172342 (172/3)",
+   "view": "head-on, slightly right",
+   "light": "overcast",
+   "note": "EXIF Sony DSC-HX60 18.8 mm"
+  },
+  "p213": {
+   "file": "refs/Class-172-172213-Henley-in-Arden-9-11-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_172_172213_Henley-in-Arden_9-11-2025.jpg",
+   "author": "BWard 1997",
+   "licence": "CC BY 4.0",
+   "date": "2025-11-09",
+   "kind": "photo",
+   "unit": "172213 (172/2)",
+   "view": "front three-quarter, tail lamps lit",
+   "light": "overcast"
+  },
+  "p222": {
+   "file": "refs/172222-Birmingham-Moor-Street-081025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:172222_Birmingham_Moor_Street_081025.jpg",
+   "author": "Steve Knight",
+   "licence": "CC BY 4.0",
+   "date": "2025-10-10",
+   "kind": "photo",
+   "unit": "172222 (172/2)",
+   "view": "front",
+   "light": "station"
+  },
+  "psh": {
+   "file": "refs/172-220-at-Birmingham-Snow-Hill.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:172_220_at_Birmingham_Snow_Hill.jpg",
+   "author": "hugh llewelyn",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-17",
+   "kind": "photo",
+   "unit": "172220 (172/2)",
+   "view": "front three-quarter, close, near side right",
+   "light": "station, artificial"
+  },
+  "pside": {
+   "file": "refs/Class-172-2-Turbostar-DMU-55123809886-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_172_2_Turbostar_DMU_(55123809886).jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-26",
+   "kind": "photo",
+   "unit": "172217 (172/2) leading",
+   "view": "three-quarter from above, long side",
+   "light": "sun",
+   "note": "EXIF Canon EOS R6 112 mm"
+  },
+  "pwor": {
+   "file": "refs/172220-172212-at-Worcester-Shrub-Hill-16-04-25-54461968681-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:172220_%2B_172212_at_Worcester_Shrub_Hill_16_04_25_(54461968681).jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2025-04-16",
+   "kind": "photo",
+   "unit": "172220 (172/2)",
+   "view": "three-quarter, near side left, whole cab car",
+   "light": "overcast"
+  },
+  "p345": {
+   "file": "refs/172345-172008-Tyseley-May-4th-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:172345_%26_172008,_Tyseley,_May_4th_2024.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-05-04",
+   "kind": "photo",
+   "unit": "172345 (172/3) + 172008 (172/0)",
+   "view": "front three-quarter",
+   "light": "sun",
+   "note": "EXIF Canon EOS 700D 103 mm"
+  },
+  "p007": {
+   "file": "refs/Class-172-172007-West-Midlands-trains-warwick-Parkway-26-06-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_172_172007_West_Midlands_trains_warwick_Parkway_26-06-2024.jpg",
+   "author": "cvtperson",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-08-03",
+   "kind": "photo",
+   "unit": "172007 (172/0)",
+   "view": "front three-quarter",
+   "light": "sun",
+   "note": "taken 2024-06-26 (title)"
+  },
+  "p103": {
+   "file": "refs/172103-172336-Hartlebury-May-4th-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:172103_%26_172336,_Hartlebury,_May_4th_2024.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-05-04",
+   "kind": "photo",
+   "unit": "172103 (172/1)",
+   "view": "front three-quarter",
+   "light": "sun",
+   "note": "EXIF Canon EOS 700D 141 mm"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-342",
+   "ref": "p342",
+   "box": [
+    560,
+    400,
+    1960,
+    2200
+   ],
+   "feature": "whole front, 172/3"
+  },
+  {
+   "id": "f-lamps-l-342",
+   "ref": "p342",
+   "box": [
+    620,
+    1380,
+    960,
+    1660
+   ],
+   "feature": "left lamp box: headlamp outboard, LED inboard (lit)"
+  },
+  {
+   "id": "f-lamps-r-342",
+   "ref": "p342",
+   "box": [
+    1450,
+    1400,
+    1820,
+    1700
+   ],
+   "feature": "right lamp box: headlamp lit outboard, LED inboard, round fitting above"
+  },
+  {
+   "id": "f-gangway-342",
+   "ref": "p342",
+   "box": [
+    950,
+    560,
+    1500,
+    1800
+   ],
+   "feature": "gangway door and frame"
+  },
+  {
+   "id": "f-screens-342",
+   "ref": "p342",
+   "box": [
+    600,
+    680,
+    1830,
+    1360
+   ],
+   "feature": "windscreens, wipers, destination display"
+  },
+  {
+   "id": "f-lower-342",
+   "ref": "p342",
+   "box": [
+    580,
+    1600,
+    1950,
+    2200
+   ],
+   "feature": "black lower front, coupler"
+  },
+  {
+   "id": "f-dome-342",
+   "ref": "p342",
+   "box": [
+    1080,
+    420,
+    1420,
+    600
+   ],
+   "feature": "roof dome lamp"
+  },
+  {
+   "id": "f-number-342",
+   "ref": "p342",
+   "box": [
+    1510,
+    1360,
+    1750,
+    1430
+   ],
+   "feature": "unit number"
+  },
+  {
+   "id": "f-corner-342",
+   "ref": "p342",
+   "box": [
+    1750,
+    600,
+    1960,
+    1900
+   ],
+   "feature": "right front corner, cab side start"
+  },
+  {
+   "id": "f-face-wor",
+   "ref": "pwor",
+   "box": [
+    2680,
+    1150,
+    3300,
+    1990
+   ],
+   "feature": "front three-quarter, overcast"
+  },
+  {
+   "id": "f-lamps-wor",
+   "ref": "pwor",
+   "box": [
+    2700,
+    1680,
+    2870,
+    1810
+   ],
+   "feature": "near lamp box, tail lit"
+  },
+  {
+   "id": "s-corner-door-wor",
+   "ref": "pwor",
+   "box": [
+    2150,
+    1150,
+    3300,
+    2000
+   ],
+   "feature": "cab front corner and the first doors, three-quarter"
+  },
+  {
+   "id": "s-livery-wor",
+   "ref": "pwor",
+   "box": [
+    2150,
+    1250,
+    2710,
+    1900
+   ],
+   "feature": "cab end gold, logo, the gold/purple edge, door 1"
+  },
+  {
+   "id": "s-edge-wor",
+   "ref": "pwor",
+   "box": [
+    2260,
+    1280,
+    2620,
+    1850
+   ],
+   "feature": "where the gold ends behind the cab door; diamonds in the purple"
+  },
+  {
+   "id": "s-saloon-wor",
+   "ref": "pwor",
+   "box": [
+    1500,
+    1330,
+    2200,
+    1840
+   ],
+   "feature": "purple saloon side, gold doors"
+  },
+  {
+   "id": "s-side-p",
+   "ref": "pside",
+   "box": [
+    560,
+    580,
+    1500,
+    1000
+   ],
+   "feature": "cab car long side, from above"
+  },
+  {
+   "id": "f-face-p",
+   "ref": "pside",
+   "box": [
+    240,
+    600,
+    600,
+    1072
+   ],
+   "feature": "front from above, lamps lit"
+  },
+  {
+   "id": "f-lamps-sh",
+   "ref": "psh",
+   "box": [
+    1440,
+    1660,
+    1820,
+    1910
+   ],
+   "feature": "near lamp box close"
+  },
+  {
+   "id": "s-cab-sh",
+   "ref": "psh",
+   "box": [
+    1800,
+    660,
+    2240,
+    1950
+   ],
+   "feature": "cab side: gold, WMR logo, cab door"
+  },
+  {
+   "id": "f-gangway-sh",
+   "ref": "psh",
+   "box": [
+    790,
+    500,
+    1430,
+    2060
+   ],
+   "feature": "gangway door and frame close"
+  },
+  {
+   "id": "v-face-007",
+   "ref": "p007",
+   "box": [
+    560,
+    540,
+    1300,
+    1580
+   ],
+   "feature": "variant 172/0: non-gangwayed front"
+  },
+  {
+   "id": "v-face-103",
+   "ref": "p103",
+   "box": [
+    310,
+    290,
+    670,
+    810
+   ],
+   "feature": "variant 172/1: non-gangwayed front"
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    0,
+    25,
+    230,
+    345
+   ],
+   "feature": "diagram nose and gangway"
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    25,
+    640,
+    345
+   ],
+   "feature": "diagram cab end: gold, diamonds, purple"
+  },
+  {
+   "id": "d-door1",
+   "ref": "dia",
+   "box": [
+    430,
+    60,
+    600,
+    275
+   ],
+   "feature": "diagram first door"
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    580,
+    25,
+    1360,
+    345
+   ],
+   "feature": "diagram saloon"
+  },
+  {
+   "id": "d-carend",
+   "ref": "dia",
+   "box": [
+    1560,
+    25,
+    1900,
+    345
+   ],
+   "feature": "diagram car joint"
+  }
+ ],
+ "samples": [
+  {
+   "id": "gold-wor",
+   "ref": "pwor",
+   "box": [
+    2610,
+    1600,
+    2660,
+    1700
+   ],
+   "what": "WMR gold, cab side below the logo, overcast"
+  },
+  {
+   "id": "purple-wor",
+   "ref": "pwor",
+   "box": [
+    2050,
+    1720,
+    2140,
+    1780
+   ],
+   "what": "bodyside purple below the windows, overcast"
+  },
+  {
+   "id": "purple-top-wor",
+   "ref": "pwor",
+   "box": [
+    1900,
+    1390,
+    2050,
+    1420
+   ],
+   "what": "bodyside purple above the windows"
+  },
+  {
+   "id": "door-wor",
+   "ref": "pwor",
+   "box": [
+    2180,
+    1600,
+    2210,
+    1700
+   ],
+   "what": "door 1 gold"
+  },
+  {
+   "id": "roof-wor",
+   "ref": "pwor",
+   "box": [
+    1900,
+    1300,
+    2100,
+    1330
+   ],
+   "what": "roof"
+  },
+  {
+   "id": "yellow-wor",
+   "ref": "pwor",
+   "box": [
+    2980,
+    1400,
+    3070,
+    1780
+   ],
+   "what": "gangway door yellow"
+  },
+  {
+   "id": "face-wor",
+   "ref": "pwor",
+   "box": [
+    2710,
+    1648,
+    2840,
+    1678
+   ],
+   "what": "face gold beside the lamp box"
+  },
+  {
+   "id": "black-wor",
+   "ref": "pwor",
+   "box": [
+    2743,
+    1869,
+    2880,
+    1954
+   ],
+   "what": "lower front black"
+  },
+  {
+   "id": "gold-342",
+   "ref": "p342",
+   "box": [
+    590,
+    1360,
+    630,
+    1460
+   ],
+   "what": "face gold, warm evening light"
+  },
+  {
+   "id": "yellow-342",
+   "ref": "p342",
+   "box": [
+    1120,
+    860,
+    1200,
+    1060
+   ],
+   "what": "gangway door yellow, evening"
+  },
+  {
+   "id": "frame-342",
+   "ref": "p342",
+   "box": [
+    1420,
+    860,
+    1460,
+    1160
+   ],
+   "what": "gangway frame grey"
+  },
+  {
+   "id": "black-342",
+   "ref": "p342",
+   "box": [
+    710,
+    1810,
+    860,
+    1910
+   ],
+   "what": "lower front black"
+  },
+  {
+   "id": "purple-p",
+   "ref": "pside",
+   "box": [
+    845,
+    790,
+    895,
+    805
+   ],
+   "what": "bodyside purple below the windows, sun"
+  },
+  {
+   "id": "purple-top-p",
+   "ref": "pside",
+   "box": [
+    850,
+    636,
+    905,
+    646
+   ],
+   "what": "bodyside purple above the windows, sun"
+  },
+  {
+   "id": "gold-p",
+   "ref": "pside",
+   "box": [
+    600,
+    818,
+    620,
+    860
+   ],
+   "what": "cab side gold, sun"
+  },
+  {
+   "id": "yellow-p",
+   "ref": "pside",
+   "box": [
+    370,
+    760,
+    430,
+    860
+   ],
+   "what": "gangway door yellow, sun"
+  },
+  {
+   "id": "face-p",
+   "ref": "pside",
+   "box": [
+    486,
+    894,
+    507,
+    909
+   ],
+   "what": "face gold beside the number"
+  },
+  {
+   "id": "door-p",
+   "ref": "pside",
+   "box": [
+    783,
+    760,
+    798,
+    828
+   ],
+   "what": "door 1 gold, sun"
+  },
+  {
+   "id": "roof-p",
+   "ref": "pside",
+   "box": [
+    670,
+    625,
+    730,
+    640
+   ],
+   "what": "roof, sun"
+  }
+ ]
+}

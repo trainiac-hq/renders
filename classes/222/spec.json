@@ -1,0 +1,647 @@
+{
+ "class": "222",
+ "subject": "Class 222 Meridian (Bombardier), EMR (and Lumo from May 2026): cab car and the car behind it.",
+ "method": "Body along the cars from the WestRail642fan 222 diagram (the 220's template: 74.8 px/m along, tip at col 41); the nose, cab door, cab window, lamp pod and front bogie from the side-on pe0 (222020, 82 mm equivalent, far: 121.9 px/m from rail to roof 3.75, the wheel 96 px = 0.79 m); head-on features from pe15a (222015, close, centred) as fractions of the nose's width at each height, heights interpolated between anchors from pe0 (lamp centre 1.57, glass foot 2.13, roof 3.75, skirt 0.26).",
+ "calibration": {
+  "ref": "dia",
+  "pxAlong": 74.8,
+  "tipCol": 41
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.05,
+   "cantrail": 3.36,
+   "roof": 3.75,
+   "window": [
+    2.02,
+    2.9
+   ]
+  },
+  "wheel": 0.78,
+  "wheelbase": 2.3,
+  "cab": {
+   "length": 23.5,
+   "doors": [
+    {
+     "x": 3.26,
+     "w": 0.64,
+     "cab": true
+    },
+    {
+     "x": 7.24,
+     "w": 1.08
+    },
+    {
+     "x": 21.93,
+     "w": 1.08
+    }
+   ],
+   "windows": [
+    [
+     8.74,
+     10.29
+    ],
+    [
+     10.88,
+     12.42
+    ],
+    [
+     13.01,
+     14.55
+    ],
+    [
+     15.15,
+     16.67
+    ],
+    [
+     17.26,
+     18.8
+    ]
+   ],
+   "bogies": [
+    4.24,
+    20.61
+   ]
+  },
+  "next": {
+   "length": 21.9,
+   "doors": [
+    {
+     "x": 1.57,
+     "w": 1.08
+    },
+    {
+     "x": 20.33,
+     "w": 1.08
+    }
+   ],
+   "windows": [
+    [
+     2.73,
+     4.26
+    ],
+    [
+     4.85,
+     6.39
+    ],
+    [
+     6.99,
+     8.53
+    ],
+    [
+     9.12,
+     10.66
+    ],
+    [
+     11.24,
+     12.78
+    ],
+    [
+     13.38,
+     14.91
+    ],
+    [
+     15.51,
+     17.05
+    ],
+    [
+     17.63,
+     18.25
+    ]
+   ],
+   "bogies": [
+    2.89,
+    19.01
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.164,
+     0.263,
+     1
+    ],
+    [
+     0.068,
+     0.468
+    ],
+    [
+     0.0,
+     1.124
+    ],
+    [
+     0.027,
+     1.34
+    ],
+    [
+     0.096,
+     1.668
+    ],
+    [
+     0.191,
+     1.887
+    ],
+    [
+     0.301,
+     2.051
+    ],
+    [
+     0.383,
+     2.133
+    ],
+    [
+     0.656,
+     2.434
+    ],
+    [
+     0.929,
+     2.707
+    ],
+    [
+     1.203,
+     2.98
+    ],
+    [
+     1.477,
+     3.254
+    ],
+    [
+     1.75,
+     3.486
+    ],
+    [
+     2.024,
+     3.623
+    ],
+    [
+     2.297,
+     3.705
+    ],
+    [
+     2.516,
+     3.747
+    ],
+    [
+     2.8,
+     3.75,
+     1
+    ]
+   ],
+   "glazing": [
+    {
+     "poly": [
+      [
+       1.747,
+       2.543
+      ],
+      [
+       1.887,
+       2.871
+      ],
+      [
+       2.215,
+       2.97
+      ],
+      [
+       2.477,
+       2.978
+      ],
+      [
+       2.477,
+       2.461
+      ],
+      [
+       2.215,
+       2.338
+      ],
+      [
+       1.805,
+       2.338
+      ]
+     ]
+    }
+   ],
+   "glazingOnNose": true
+  },
+  "form": {
+   "width": 2.73,
+   "tumblehome": 0.1,
+   "squareness": 1.6,
+   "glazing": "bonded",
+   "setback": [
+    [
+     0.26,
+     0.3
+    ],
+    [
+     1.2,
+     0.25
+    ],
+    [
+     1.6,
+     0.35
+    ],
+    [
+     2.1,
+     0.7
+    ],
+    [
+     2.8,
+     0.8
+    ],
+    [
+     3.4,
+     0.6
+    ],
+    [
+     3.75,
+     0.0
+    ]
+   ],
+   "front": {
+    "depth": 0,
+    "panel": [
+     [
+      0.0206,
+      1.348,
+      1
+     ],
+     [
+      0.1975,
+      1.348
+     ],
+     [
+      0.4989,
+      1.348
+     ],
+     [
+      0.8025,
+      1.348
+     ],
+     [
+      0.9794,
+      1.348,
+      1
+     ],
+     [
+      1.0045,
+      2.006,
+      1
+     ],
+     [
+      0.9899,
+      2.089,
+      1
+     ],
+     [
+      0.0101,
+      2.089
+     ],
+     [
+      0.0,
+      2.006
+     ]
+    ],
+    "dark": [
+     [
+      [
+       0.0101,
+       2.04,
+       1
+      ],
+      [
+       0.9899,
+       2.04,
+       1
+      ],
+      [
+       1.0,
+       2.697
+      ],
+      [
+       1.0336,
+       3.264
+      ],
+      [
+       0.9524,
+       3.588
+      ],
+      [
+       0.4984,
+       3.709
+      ],
+      [
+       0.0476,
+       3.588
+      ],
+      [
+       -0.0336,
+       3.264
+      ],
+      [
+       0.0,
+       2.697
+      ]
+     ]
+    ],
+    "screens": [
+     [
+      [
+       0.19,
+       2.16
+      ],
+      [
+       0.4988,
+       2.152
+      ],
+      [
+       0.81,
+       2.16
+      ],
+      [
+       0.8502,
+       2.616
+      ],
+      [
+       0.8758,
+       3.264
+      ],
+      [
+       0.6273,
+       3.426
+      ],
+      [
+       0.3727,
+       3.426
+      ],
+      [
+       0.1242,
+       3.264
+      ],
+      [
+       0.1498,
+       2.616
+      ]
+     ]
+    ],
+    "lights": [
+     [
+      [
+       -0.0022,
+       1.757
+      ],
+      [
+       0.0812,
+       1.798
+      ],
+      [
+       0.1508,
+       1.694
+      ],
+      [
+       0.1643,
+       1.496
+      ],
+      [
+       0.1301,
+       1.348
+      ],
+      [
+       0.0461,
+       1.323
+      ],
+      [
+       -0.0012,
+       1.446
+      ]
+     ],
+     [
+      [
+       1.0022,
+       1.757
+      ],
+      [
+       0.9188,
+       1.798
+      ],
+      [
+       0.8492,
+       1.694
+      ],
+      [
+       0.8357,
+       1.496
+      ],
+      [
+       0.8699,
+       1.348
+      ],
+      [
+       0.9539,
+       1.323
+      ],
+      [
+       1.0012,
+       1.446
+      ]
+     ]
+    ],
+    "lampUnits": [
+     [
+      {
+       "kind": "head",
+       "at": [
+        0.0835,
+        1.57
+       ],
+       "r": 0.1
+      }
+     ],
+     [
+      {
+       "kind": "head",
+       "at": [
+        0.9187,
+        1.57
+       ],
+       "r": 0.1
+      }
+     ]
+    ],
+    "lampRim": "black",
+    "tailLens": "clear",
+    "wipers": [
+     {
+      "pivot": [
+       0.3175,
+       3.628
+      ],
+      "tip": [
+       0.2695,
+       2.292
+      ]
+     },
+     {
+      "pivot": [
+       0.6032,
+       3.628
+      ],
+      "tip": [
+       0.4823,
+       2.292
+      ]
+     }
+    ],
+    "pockets": [
+     {
+      "outline": [
+       [
+        0.2404,
+        1.323,
+        1
+       ],
+       [
+        0.7578,
+        1.323,
+        1
+       ],
+       [
+        0.7834,
+        0.507,
+        1
+       ],
+       [
+        0.2132,
+        0.507,
+        1
+       ]
+      ],
+      "depth": 0.3
+     }
+    ],
+    "number": {
+     "text": "222006",
+     "at": [
+      0.5,
+      1.923
+     ],
+     "height": 0.12,
+     "color": "#1A1A1A"
+    }
+   }
+  }
+ },
+ "liveries": {
+  "EM": {
+   "body": "#7A2F4D",
+   "roof": "#3A2C31",
+   "doors": "#E8E8E4",
+   "panel": "#F8CA6B",
+   "face": "#7A2F4D",
+   "glass": "#141618",
+   "shapes": [
+    {
+     "points": [
+      [
+       7.8,
+       0.9,
+       1
+      ],
+      [
+       7.8,
+       1.7
+      ],
+      [
+       11.0,
+       2.0
+      ],
+      [
+       23.6,
+       2.02,
+       1
+      ],
+      [
+       23.6,
+       0.9,
+       1
+      ]
+     ],
+     "color": "#848082"
+    }
+   ],
+   "coach": {
+    "body": "#848082",
+    "doors": "#E8E8E4",
+    "swooshes": []
+   },
+   "branding": [
+    {
+     "logo": "EM-letters",
+     "at": [
+      5.48,
+      1.83
+     ],
+     "height": 0.34,
+     "width": 1.8,
+     "color": "#F0F0F0"
+    }
+   ]
+  },
+  "LD": {
+   "body": "#2E67C0",
+   "roof": "#2A3C5A",
+   "doors": "#6E7986",
+   "panel": "#E89F35",
+   "face": "#2E67C0",
+   "glass": "#141618",
+   "coach": {
+    "body": "#2E67C0",
+    "doors": "#6E7986"
+   },
+   "branding": []
+  }
+ },
+ "trace": {
+  "model.nose.profile": "pe0 silhouette on a 10 px grid at 3x: x = (u - 2630)/121.9, y = (1600 - v)/121.9 (bumper front u 2630, rail v 1600).",
+  "model.cab.doors[0]": "pe0: cab door outline u 2989-3068: 2.94-3.58 m (centre 3.26, 0.64). The diagram's cab region is drawn about 0.7 m long, as on the 220 (classes/220).",
+  "model.cab.bogies": "pe0: front axles at u 3008.6 and 3289: 3.11 and 5.41 m from the tip, wheelbase 2.30 (published 2.25), centre 4.24; the diagram draws the front bogie 0.6 m further forward (3.64): wrong in the cab region. Rear 20.61 from the diagram.",
+  "model.cab.windows": "dia row 140 glass runs from the tip (col 41) at 74.8 px/m; doors 6.70-7.78 and 21.39-22.47 (white door runs).",
+  "model.next": "dia car 2 from col 1854, the 220's template (body 21.90).",
+  "model.heights": "bottom 1.05 (pe0: the blue body's foot under the cab door 1.09, the skirt's top line 1.15); glass and cantrail as the 220's body (ptm1); roof 3.75.",
+  "model.form.front": "pe15a head-on: each feature's u as a fraction of the nose's outline width at its own height (outline edges read at sy 150-720), heights interpolated between the pe0 anchors. Lamp pods at the corners (u 0.0-0.17), one large headlamp each; glass u 0.13-0.87, 2.13-3.43; yellow from the glass to 1.56 at the centre; coupler recess u 0.24-0.76, 0.6-1.4.",
+  "model.form.setback": "Provisional (±0.15 m): from pe0's side view of the flank and pe15a's outline.",
+  "liveries.EM": "EMR as carried 2025 (pmh 222006, p003 222003): purple cab car (purple-003 balanced on the white door leaf #4B333C), white door leaves, the yellow lower face (yellow-003 raw #F8CA6B: the balanced value clips), a silver sweep (silver-003 #848082) from door 1's rear foot rising to the window line by 11 m and on to the car end; car 2 silver. The 'EMR' lettering and the purple-on-silver detail of car 2 are not drawn yet.",
+  "liveries.LD": "Lumo from May 2026 (ppr 222605, pcw): blue (blue-pr, no neutral: raw #2E67C0), grey door leaves (#6E7986), yellow lower face (#E89F35 raw); its lighter blue stripes are not drawn yet.",
+  "model.form.side": "The pod as seen from the side (pe0: x 0.10-0.71, y 1.29-1.86) is not drawn as a flank lamp: the pipeline projects flank lamps onto the face and this one degenerates there; the head-on pods cover it.",
+  "liveries.EM.branding": "The spaced white capitals 'E M R' between the cab door and door 1 (p003, 222003, 2025): a 1D projective fit along the side on the cab door, door 1 and the first two windows (rms 11 px) puts them at 4.56-6.39 m; heights against door 1's leaf (2.0 m tall, 190 px/m locally): 1.66-2.00 m. logos/EM-letters.svg drawn (bold sans, wide spacing). The 'EMR INTERCITY' lettering on the silver is not drawn yet.",
+  "model.form.front.panelFoot": "The yellow runs down to the lamps' feet (sy 500 on pe15a, 1.34 m), its bottom edge on the coupler recess: the first render had it stop at the lamp centres (1.57), a thin strip against the EMR photos (p003, pmh) where the yellow fills the face between the pods.",
+  "model.form.front.pockets": "The coupler recess (pe15a) cut 0.3 m back, not painted black.",
+  "model.form.front.number": "Black unit number on the yellow, centred under the screen (pe15a: digits 0.12 m tall at 1.92 m); pmh 222006.",
+  "liveries.EM.body": "EMR plum, re-sampled (coordinator, 2026-10-06: the first value read brown): pmh 222006 (Market Harborough, sun), the sunlit cab side #7D314B raw, balanced on the galvanised platform post (#B6B9B2 raw taken as neutral grey) #893454; the same paint in shade below #6C2B33. Drawn #7A2F4D, between the two (the renderer adds its own shading). The first value (#4B333C) was balanced on a door leaf in overcast light at Leicester (p003) and lost the red."
+ },
+ "views": {
+  "ref-pmh": {
+   "azimuth": -18,
+   "elevation": 3,
+   "lens": 50,
+   "frame": 16,
+   "size": [
+    1400,
+    935
+   ],
+   "note": "pmh (222006, Market Harborough 2025): three-quarter front from the train's right, the whole cab car, estimated"
+  },
+  "ref-ppr": {
+   "azimuth": 55,
+   "elevation": 2,
+   "lens": 40,
+   "frame": 9,
+   "size": [
+    1400,
+    935
+   ],
+   "note": "ppr (222605 Lumo, Preston): three-quarter from the left, close, estimated"
+  }
+ },
+ "pairs": []
+}

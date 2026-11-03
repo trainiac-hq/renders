@@ -1,0 +1,446 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Southeastern-Class-466.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Southeastern_Class_466.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2013 (upload)",
+   "kind": "diagram",
+   "unit": "466 (2 cars: DTSOL left, DMSO right), Southeastern white",
+   "view": "side elevation, both ends cabs",
+   "light": "flat colours"
+  },
+  "p040s": {
+   "file": "refs/Class-466-Networker-EMU.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_466_Networker_EMU.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-04-27",
+   "kind": "photo",
+   "unit": "466040 + 465s",
+   "view": "three-quarter, long lens, both 466 cars visible",
+   "light": "sun"
+  },
+  "p007": {
+   "file": "refs/20220519-Southeastern-466007.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20220519_Southeastern_466007.jpg",
+   "author": "Alex Noble",
+   "licence": "CC0",
+   "date": "2022-05-19",
+   "kind": "photo",
+   "unit": "466007 (DMSO 64866 leading)",
+   "view": "three-quarter front, near side, 35 mm on APS-C",
+   "light": "sun"
+  },
+  "p009": {
+   "file": "refs/466009-VIC.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:466009_-_VIC.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-05-20",
+   "kind": "photo",
+   "unit": "466009",
+   "view": "head-on from the left, 45 mm-equiv",
+   "light": "sun and shade"
+  },
+  "p008": {
+   "file": "refs/466008-465158-465907-London-Bridge-September-30th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:466008%2C_465158_%26_465907%2C_London_Bridge%2C_September_30th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-30",
+   "kind": "photo",
+   "unit": "466008",
+   "view": "head-on three-quarter, lamps lit",
+   "light": "dusk, station lights"
+  },
+  "p022": {
+   "file": "refs/466022-465022-465179-London-Bridge-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:466022%2C_465022_%26_465179%2C_London_Bridge%2C_September_18th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "466022",
+   "view": "three-quarter front close",
+   "light": "station canopy"
+  },
+  "p040": {
+   "file": "refs/20200916-Southeastern-466040.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20200916_Southeastern_466040.jpg",
+   "author": "Alex Noble",
+   "licence": "CC0",
+   "date": "2020-09-16",
+   "kind": "photo",
+   "unit": "466040",
+   "view": "three-quarter front",
+   "light": "sun"
+  },
+  "p025": {
+   "file": "refs/466025-Lewisham-080224.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:466025_Lewisham_080224.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-02-08",
+   "kind": "photo",
+   "unit": "466025",
+   "view": "three-quarter front",
+   "light": "overcast"
+  },
+  "p003": {
+   "file": "refs/466003-465923-465043-London-Bridge-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:466003%2C_465923_%26_465043%2C_London_Bridge%2C_September_18th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "466003",
+   "view": "three-quarter front, station",
+   "light": "station canopy"
+  },
+  "pgp": {
+   "file": "refs/Class-466-at-Grove-Park-station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_466_at_Grove_Park_station.jpg",
+   "author": "Hammersfan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-01-03",
+   "kind": "photo",
+   "unit": "466015",
+   "view": "front three-quarter, tail lamps lit",
+   "light": "overcast"
+  },
+  "pgp2": {
+   "file": "refs/2020-09-26-Class-466-at-Grove-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:2020-09-26_Class_466_at_Grove_Park.jpg",
+   "author": "Huhorihe2",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-09-26",
+   "kind": "photo",
+   "unit": "466006",
+   "view": "front corner, very close",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    1106,
+    0,
+    1346,
+    119
+   ],
+   "feature": "diagram: DMSO cab end (right car)",
+   "reading": "Diagram DMSO cab end: identical to the 465 DMSO (cab door, oval/big/oval, door 1)."
+  },
+  {
+   "id": "d-inner",
+   "ref": "dia",
+   "box": [
+    560,
+    0,
+    790,
+    119
+   ],
+   "feature": "diagram: coupled ends: DTSOL toilet windows, DMSO",
+   "reading": "Diagram coupled ends: DTSOL (left) ends small, small (toilet), big, small; DMSO (right) starts small, big, big: the cars differ at the coupled end."
+  },
+  {
+   "id": "d-rearcab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    240,
+    119
+   ],
+   "feature": "diagram: DTSOL cab end (left car)",
+   "reading": "Diagram DTSOL outer end: a full cab like the DMSO's (yellow face, bumper, cab door)."
+  },
+  {
+   "id": "f-face-009",
+   "ref": "p009",
+   "box": [
+    1650,
+    650,
+    2850,
+    2000
+   ],
+   "feature": "whole front, head-on",
+   "reading": "Same face as the 465: yellow to an arch, two-pane screens, black band, lamp boxes, two bumper blocks; the number is at the LEFT of the band."
+  },
+  {
+   "id": "f-number-009",
+   "ref": "p009",
+   "box": [
+    1750,
+    1300,
+    2050,
+    1410
+   ],
+   "feature": "number on the black band, left",
+   "reading": "466009 white-grey bold sans on the black band, left of centre.",
+   "secondReader": "second reader agrees"
+  },
+  {
+   "id": "f-lamps-l-009",
+   "ref": "p009",
+   "box": [
+    1700,
+    1430,
+    2100,
+    1620
+   ],
+   "feature": "left lamp box",
+   "reading": "Left box: pale upright rectangle outboard, round clear headlamp, red LED tail (lit) inboard.",
+   "secondReader": "second reader agrees"
+  },
+  {
+   "id": "f-lamps-r-009",
+   "ref": "p009",
+   "box": [
+    2460,
+    1430,
+    2800,
+    1620
+   ],
+   "feature": "right lamp box",
+   "reading": "Right box: red dotted tail inboard, round clear headlamp, small upright amber-cream rectangle outboard: mirrored.",
+   "secondReader": "second reader: red dotted at left, clear, small amber-cream rectangle right: agrees"
+  },
+  {
+   "id": "f-lamps-lit-008",
+   "ref": "p008",
+   "box": [
+    750,
+    200,
+    1260,
+    920
+   ],
+   "feature": "front at dusk, lamps lit",
+   "reading": "Dusk: both tails lit red, each on the inboard side of its box."
+  },
+  {
+   "id": "s-cab-040s",
+   "ref": "p040s",
+   "box": [
+    1290,
+    580,
+    1400,
+    920
+   ],
+   "feature": "cab door",
+   "reading": "White cab door with a tall window and mid bar, black front seal, white strip, yellow corner."
+  },
+  {
+   "id": "s-doors-040s",
+   "ref": "p040s",
+   "box": [
+    960,
+    540,
+    1420,
+    920
+   ],
+   "feature": "DMSO doors 1 and 2, windows, wordmark",
+   "reading": "DMSO side: cab door, black band from 2.7 m, door 1, five windows, door 2, wordmark on the white strip between the doors, navy lower band."
+  },
+  {
+   "id": "s-car2-040s",
+   "ref": "p040s",
+   "box": [
+    700,
+    520,
+    1000,
+    880
+   ],
+   "feature": "DTSOL: its doors and the rear cab coupled to the 465",
+   "reading": "The DTSOL: two light blue double doors, navy lower band, and at its far end a yellow cab corner curving down, coupled to the 465.",
+   "secondReader": "second reader: orange/yellow strip at the left end curving down, two blue-grey door pairs: agrees (the DTSOL's cab end)"
+  },
+  {
+   "id": "s-inner-007",
+   "ref": "p007",
+   "box": [
+    300,
+    1100,
+    1250,
+    1800
+   ],
+   "feature": "coupled ends of DMSO 64866 and the DTSOL",
+   "reading": "Coupled ends of DMSO 64866 and the DTSOL; both carry the wordmark between their doors."
+  },
+  {
+   "id": "s-wordmark-007",
+   "ref": "p007",
+   "box": [
+    1130,
+    1490,
+    1270,
+    1580
+   ],
+   "feature": "bodyside wordmark",
+   "reading": "'southeastern.': 'south' black/navy, 'eastern' and the full stop periwinkle blue.",
+   "secondReader": "second reader: 'south' black, 'eastern' periwinkle, blue full stop: agrees"
+  },
+  {
+   "id": "s-dots-007",
+   "ref": "p007",
+   "box": [
+    1650,
+    1610,
+    2110,
+    1845
+   ],
+   "feature": "dot fade at the cab end",
+   "reading": "Halftone dots on the navy, larger toward the back, shrinking and thinning toward the cab; the top edge slopes down toward the front.",
+   "secondReader": "second reader agrees"
+  },
+  {
+   "id": "s-corner-door-007",
+   "ref": "p007",
+   "box": [
+    2016,
+    920,
+    3360,
+    1920
+   ],
+   "feature": "cab corner and cab door, three-quarter",
+   "reading": "Cab corner three-quarter: yellow only on the rounded corner, white cab door behind it, dots below."
+  },
+  {
+   "id": "s-cab-040",
+   "ref": "p040",
+   "box": [
+    2310,
+    1220,
+    2480,
+    1820
+   ],
+   "feature": "cab door and cab side",
+   "reading": "White cab door: a tall round-cornered window toward the leaf's front, black front seal, white strip behind the door before the band; door not contrasting."
+  },
+  {
+   "id": "s-door1-040",
+   "ref": "p040",
+   "box": [
+    1930,
+    1240,
+    2130,
+    1940
+   ],
+   "feature": "door 1 (double leaf)",
+   "reading": "Door 1: two light blue leaves, each a tall round-ended window from just under the cantrail line; the band either side; the leaves turn in toward the bottom."
+  },
+  {
+   "id": "s-windows-040",
+   "ref": "p040",
+   "box": [
+    2060,
+    1300,
+    2360,
+    1800
+   ],
+   "feature": "windows between door 1 and the cab door, the band's front end",
+   "reading": "From door 1 forward: band with a narrow oval window, a big window with a hopper top, a narrow oval, then the band ends and a white strip (about a third of the cab door's width) before the cab door."
+  },
+  {
+   "id": "s-dots-040",
+   "ref": "p040",
+   "box": [
+    2040,
+    1740,
+    2560,
+    2000
+   ],
+   "feature": "lower bodyside: navy band and dot fade at the cab end",
+   "reading": "Navy lower band breaking into halftone dots toward the cab, dots shrinking forward; the fade's top edge slopes down toward the front, ending under the cab door's rear edge."
+  },
+  {
+   "id": "s-corner-door-040",
+   "ref": "p040",
+   "box": [
+    2250,
+    1150,
+    3000,
+    2150
+   ],
+   "feature": "cab corner and cab door, three-quarter",
+   "reading": "Cab corner three-quarter: the yellow wraps the rounded corner and runs back a little onto the side ahead of the white strip and the cab door; black band and lamp box at the corner."
+  },
+  {
+   "id": "f-face-040",
+   "ref": "p040",
+   "box": [
+    2500,
+    1150,
+    3400,
+    2300
+   ],
+   "feature": "whole front, three-quarter",
+   "reading": "Whole front: yellow to an arch with a white dome, two screens, black band with 466040 at the left, two lamp boxes (clear headlamp outboard in each), two bumper blocks, coupler between."
+  },
+  {
+   "id": "s-wordmark-040",
+   "ref": "p040",
+   "box": [
+    1640,
+    1650,
+    1800,
+    1760
+   ],
+   "feature": "bodyside wordmark between doors 1 and 2",
+   "reading": "'southeastern.': 'south' black/navy, 'eastern.' pale periwinkle, on the white strip under the window band."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-007",
+   "ref": "p007",
+   "box": [
+    1270,
+    1520,
+    1450,
+    1545
+   ],
+   "what": "white bodyside below the windows, sun"
+  },
+  {
+   "id": "navy-007",
+   "ref": "p007",
+   "box": [
+    1152,
+    1660,
+    1440,
+    1728
+   ],
+   "what": "navy lower band",
+   "neutral": "white-007"
+  },
+  {
+   "id": "door-007",
+   "ref": "p007",
+   "box": [
+    1517,
+    1600,
+    1555,
+    1720
+   ],
+   "what": "door leaf",
+   "neutral": "white-007"
+  },
+  {
+   "id": "yellow-007",
+   "ref": "p007",
+   "box": [
+    2784,
+    1690,
+    3034,
+    1766
+   ],
+   "what": "yellow face between lamps, sun",
+   "neutral": "white-007"
+  }
+ ]
+}

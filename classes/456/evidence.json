@@ -1,0 +1,554 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-456-swr.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_456_swr.png",
+   "author": "Benspiersphotos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-10-17",
+   "kind": "diagram",
+   "unit": "456 (2 cars), South Western Railway branding on SWT red",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dias": {
+   "file": "refs/Class-456-Southern-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_456_Southern_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-12-07",
+   "kind": "diagram",
+   "unit": "456 (2 cars), Southern livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p004": {
+   "file": "refs/20190321-SWR-456004.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20190321_SWR_456004.jpg",
+   "author": "Alex Noble",
+   "licence": "CC0",
+   "date": "2019-03-21",
+   "kind": "photo",
+   "unit": "456004",
+   "view": "front three-quarter from the right, nose nearly head-on, both cars' bodyside; 38 mm APS-C",
+   "light": "overcast"
+  },
+  "p006": {
+   "file": "refs/456006-at-Sunbury.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:456006_at_Sunbury.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2019-09-26",
+   "kind": "photo",
+   "unit": "456006",
+   "view": "front three-quarter, close, from the right",
+   "light": "overcast"
+  },
+  "p020c": {
+   "file": "refs/456020-at-Clapham-Junction.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:456020_at_Clapham_Junction.jpg",
+   "author": "train_photos",
+   "licence": "CC BY-SA 2.0",
+   "date": "2016-03-04",
+   "kind": "photo",
+   "unit": "456020 (SWT era, same paint)",
+   "view": "close front from the left, wide angle",
+   "light": "low sun"
+  },
+  "p020h": {
+   "file": "refs/456020-Hampton-Court.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:456020_Hampton_Court.jpg",
+   "author": "SavageKieran",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-04-30",
+   "kind": "photo",
+   "unit": "456020",
+   "view": "front three-quarter from the left, low, wide angle",
+   "light": "rain, overcast"
+  },
+  "p011": {
+   "file": "refs/456011-at-Wandsworth-Town-15th-March-2018.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:456011_at_Wandsworth_Town_15th_March_2018.jpg",
+   "author": "The Basingstoker",
+   "licence": "CC BY-SA 2.0",
+   "date": "2018-03-15",
+   "kind": "photo",
+   "unit": "456011",
+   "view": "front three-quarter from the left",
+   "light": "overcast"
+  },
+  "p021": {
+   "file": "refs/456021-at-Wandsworth-Town-11th-February-2019.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:456021_at_Wandsworth_Town_11th_February_2019.jpg",
+   "author": "The Basingstoker",
+   "licence": "CC BY-SA 2.0",
+   "date": "2019-02-11",
+   "kind": "photo",
+   "unit": "456021",
+   "view": "front three-quarter from the left, far",
+   "light": "overcast"
+  },
+  "p003": {
+   "file": "refs/456003-at-Clapham-Junction-station.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:456003_at_Clapham_Junction_station.jpg",
+   "author": "Hammersfan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2016-07-24",
+   "kind": "photo",
+   "unit": "456003 (SWT era)",
+   "view": "front three-quarter from the left",
+   "light": "overcast"
+  },
+  "p014": {
+   "file": "refs/SWR-456-014-at-Guildford.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:SWR_456_014_at_Guildford.jpg",
+   "author": "Murgatroyd49",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-06-01",
+   "kind": "photo",
+   "unit": "456014",
+   "view": "front three-quarter from above",
+   "light": "sun"
+  },
+  "pkg": {
+   "file": "refs/Kingston-railway-station-20180422-151647-49505207963-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Kingston_railway_station_20180422_151647_%2849505207963%29.jpg",
+   "author": "Irid Escent",
+   "licence": "CC BY-SA 2.0",
+   "date": "2018-04-22",
+   "kind": "photo",
+   "unit": "456 + 455 (Kingston)",
+   "view": "bodyside, far, side on",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-004",
+   "ref": "p004",
+   "box": [
+    2560,
+    940,
+    3460,
+    2200
+   ],
+   "feature": "whole front, nearly head-on",
+   "reading": "Blue dome; orange line across the face at the screen's top, carried round the corners; one black surround with two panes and a thin centre pillar; LED destination display in the top of the image-left pane; wipers pivoted low near the centre, parked flat along each pane's bottom; yellow panel (middle section framed by seams); thin blue then orange strip under it; deep red lower front with a large coupler recess, steps, '456004' in white each side."
+  },
+  {
+   "id": "f-roof-004",
+   "ref": "p004",
+   "box": [
+    2560,
+    940,
+    3460,
+    1170
+   ],
+   "feature": "roof dome and orange line over the screens",
+   "reading": "Domed blue roof end, the orange line along the screen top."
+  },
+  {
+   "id": "f-screens-004",
+   "ref": "p004",
+   "box": [
+    2600,
+    1120,
+    3420,
+    1470
+   ],
+   "feature": "windscreen: two panes in one black surround, destination display, wipers",
+   "reading": "Two equal panes in one black surround, pillar near the centre; display behind the glass, top of the left pane."
+  },
+  {
+   "id": "f-panel-004",
+   "ref": "p004",
+   "box": [
+    2600,
+    1450,
+    3440,
+    1810
+   ],
+   "feature": "yellow panel, raised middle section, blue and orange strips under it",
+   "reading": "Yellow panel full width under the screens, black handrails along its top, middle section a separate framed panel, blue and orange strips below curving back round the corners."
+  },
+  {
+   "id": "f-lamps-l-004",
+   "ref": "p004",
+   "box": [
+    2670,
+    1630,
+    2870,
+    1740
+   ],
+   "feature": "lamp housing, image left",
+   "reading": "Yellow screwed plate: headlamp outboard (left), red LED cluster inboard."
+  },
+  {
+   "id": "f-lamps-r-004",
+   "ref": "p004",
+   "box": [
+    3170,
+    1625,
+    3380,
+    1735
+   ],
+   "feature": "lamp housing, image right",
+   "reading": "Mirror: red LED cluster inboard (left), headlamp outboard."
+  },
+  {
+   "id": "f-lower-004",
+   "ref": "p004",
+   "box": [
+    2580,
+    1780,
+    3450,
+    2180
+   ],
+   "feature": "red lower front: numbers, coupler recess, steps",
+   "reading": "Red lower front: coupler in a deep recess, footsteps either side, white numbers."
+  },
+  {
+   "id": "f-front-020c",
+   "ref": "p020c",
+   "box": [
+    1750,
+    350,
+    3300,
+    2300
+   ],
+   "feature": "close front from the left",
+   "reading": "Close from the left: middle yellow panel stands proud of the sides; screen surround near vertical above it; LED inboard lit red."
+  },
+  {
+   "id": "f-lamps-020c",
+   "ref": "p020c",
+   "box": [
+    1930,
+    1470,
+    2250,
+    1640
+   ],
+   "feature": "lamp housing, image left, close",
+   "reading": "Headlamp outboard unlit, LED inboard lit red."
+  },
+  {
+   "id": "f-front-006",
+   "ref": "p006",
+   "box": [
+    2300,
+    700,
+    3697,
+    1700
+   ],
+   "feature": "front three-quarter from the right, close",
+   "reading": "From the right, close: same layout; the middle panel framed by seams."
+  },
+  {
+   "id": "s-cab-004",
+   "ref": "p004",
+   "box": [
+    2280,
+    1150,
+    2650,
+    1850
+   ],
+   "feature": "cab side: cab door with drop light, short window, sweep",
+   "reading": "From the front: cab corner, cab door (narrow, a tall drop-light window), a narrow short window, then a full window; blue covers the cab door; the orange band crosses its rear lower corner."
+  },
+  {
+   "id": "s-corner-door-004",
+   "ref": "p004",
+   "box": [
+    1990,
+    1150,
+    2650,
+    1850
+   ],
+   "feature": "cab corner, cab door, short window, window and door 1",
+   "reading": "Cab door, short window (about half the next window's width), full window, door 1."
+  },
+  {
+   "id": "s-door1-004",
+   "ref": "p004",
+   "box": [
+    1990,
+    1180,
+    2140,
+    1800
+   ],
+   "feature": "first passenger door",
+   "reading": "Blue leaves with narrow tall round-topped windows; yellow surround on the body, carried over the top; step plate."
+  },
+  {
+   "id": "s-door2-004",
+   "ref": "p004",
+   "box": [
+    1700,
+    1250,
+    1800,
+    1700
+   ],
+   "feature": "second passenger door",
+   "reading": "Door 2, oblique; the orange waist line runs to its far edge."
+  },
+  {
+   "id": "s-windows-004",
+   "ref": "p004",
+   "box": [
+    1790,
+    1250,
+    2290,
+    1560
+   ],
+   "feature": "windows between the doors and ahead of door 1",
+   "reading": "Paired windows with top hoppers between the doors; one window ahead of door 1."
+  },
+  {
+   "id": "s-wordmark-004",
+   "ref": "p004",
+   "box": [
+    1810,
+    1550,
+    1965,
+    1665
+   ],
+   "feature": "bodyside wordmark, cab car",
+   "reading": "White arrow + 'South Western Railway', between doors 1 and 2 under the windows."
+  },
+  {
+   "id": "s-waistline-004",
+   "ref": "p004",
+   "box": [
+    1600,
+    1540,
+    1720,
+    1620
+   ],
+   "feature": "orange waist line behind door 2",
+   "reading": "Thin orange line below the windows, meeting door 2's surround."
+  },
+  {
+   "id": "s-dtso-004",
+   "ref": "p004",
+   "box": [
+    1150,
+    1180,
+    1700,
+    1700
+   ],
+   "feature": "second car (DTSO): doors, windows, line, wordmark",
+   "reading": "Second car: wordmark between its doors, an orange line below the windows from its inner end to the wordmark."
+  },
+  {
+   "id": "s-side-kg",
+   "ref": "pkg",
+   "box": [
+    0,
+    1700,
+    3840,
+    2400
+   ],
+   "feature": "bodysides side on, Kingston",
+   "reading": "Side on at Kingston (456 + 455): red bodysides, yellow surrounds, wordmark lettering."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    40,
+    30,
+    1530,
+    350
+   ],
+   "feature": "diagram cab car",
+   "reading": "SWR-era diagram, the Unisouth template: SWR wordmark between doors 1 and 2, orange line behind it."
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    40,
+    30,
+    360,
+    345
+   ],
+   "feature": "diagram nose and cab end",
+   "reading": "Raked upper face over an upright lower nose and deep skirt; blue cab end, orange band, red below; hinged cab door drawn close behind the nose."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-004",
+   "ref": "p004",
+   "box": [
+    1831,
+    1573,
+    1835,
+    1577
+   ],
+   "what": "white wordmark stroke, bodyside"
+  },
+  {
+   "id": "whitef-004",
+   "ref": "p004",
+   "box": [
+    2818,
+    1898,
+    2822,
+    1902
+   ],
+   "what": "white unit number on the front"
+  },
+  {
+   "id": "red-004",
+   "ref": "p004",
+   "box": [
+    2183,
+    1558,
+    2242,
+    1605
+   ],
+   "what": "red bodyside below the window ahead of door 1",
+   "neutral": "white-004"
+  },
+  {
+   "id": "blue-004",
+   "ref": "p004",
+   "box": [
+    2533,
+    1617,
+    2580,
+    1675
+   ],
+   "what": "blue cab side below the cab door's window, away from reflections",
+   "neutral": "white-004"
+  },
+  {
+   "id": "orange-004",
+   "ref": "p004",
+   "box": [
+    2378,
+    1430,
+    2400,
+    1450
+   ],
+   "what": "orange sweep behind the cab door",
+   "neutral": "white-004"
+  },
+  {
+   "id": "yellow-004",
+   "ref": "p004",
+   "box": [
+    2109,
+    1400,
+    2117,
+    1480
+   ],
+   "what": "yellow door surround, door 1 near side",
+   "neutral": "white-004"
+  },
+  {
+   "id": "doorblue-004",
+   "ref": "p004",
+   "box": [
+    2074,
+    1400,
+    2092,
+    1480
+   ],
+   "what": "blue door leaf, door 1",
+   "neutral": "white-004"
+  },
+  {
+   "id": "yellowf-004",
+   "ref": "p004",
+   "box": [
+    2900,
+    1550,
+    3100,
+    1650
+   ],
+   "what": "front yellow, raised middle section",
+   "neutral": "whitef-004"
+  },
+  {
+   "id": "redf-004",
+   "ref": "p004",
+   "box": [
+    2700,
+    2000,
+    2780,
+    2060
+   ],
+   "what": "front red, left of the coupler recess",
+   "neutral": "whitef-004"
+  },
+  {
+   "id": "bluef-004",
+   "ref": "p004",
+   "box": [
+    2800,
+    1010,
+    3000,
+    1080
+   ],
+   "what": "front dome blue above the orange line",
+   "neutral": "whitef-004"
+  },
+  {
+   "id": "orangef-004",
+   "ref": "p004",
+   "box": [
+    2900,
+    1776,
+    3000,
+    1790
+   ],
+   "what": "orange line under the yellow, front",
+   "neutral": "whitef-004"
+  },
+  {
+   "id": "surround-004",
+   "ref": "p004",
+   "box": [
+    2628,
+    1250,
+    2645,
+    1400
+   ],
+   "what": "black windscreen surround",
+   "neutral": "whitef-004"
+  }
+ ],
+ "secondReader": {
+  "crops": [
+   "f-face-004",
+   "f-lamps-l-004",
+   "f-lamps-r-004",
+   "f-lamps-020c",
+   "f-front-020c",
+   "f-front-006",
+   "s-cab-004",
+   "s-corner-door-004",
+   "s-door1-004",
+   "s-waistline-004",
+   "s-dtso-004",
+   "s-wordmark-004"
+  ],
+  "agreed": [
+   "two panes in one black surround, display top of the image-left pane",
+   "wipers pivoted low near the centre, parked flat",
+   "yellow, then blue strip, then orange strip, then red",
+   "head outboard, LED (red) inboard, both sides",
+   "window behind the cab door narrower than the next (about half)",
+   "blue over the cab door, orange crossing its rear lower corner",
+   "yellow surround on the body, over the top of the door",
+   "wordmark between doors 1 and 2, the orange line below the windows"
+  ],
+  "differed": [
+   "reader: the middle yellow panel stands proud (moderate confidence): agrees with the spec's note, not modelled",
+   "reader could not confirm the screen leans back from these views: the lean is the drawing's",
+   "reader called the line 'one window height below the sill'; the s-dtso crop puts it about 1.4-1.5 m, as the spec"
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "ref": "p120",
+ "side": "near",
+ "points": {
+  "lamp5-marker": [
+   2170,
+   1346.5
+  ],
+  "lamp4-tail": [
+   2252,
+   1438.5
+  ],
+  "lamp0-marker": [
+   3419,
+   1300.5
+  ],
+  "lamp1-tail": [
+   3352.5,
+   1392
+  ],
+  "lamp3-head": [
+   2363,
+   1338
+  ],
+  "screen0-top-near": [
+   3421,
+   457
+  ],
+  "screen0-top-far": [
+   3109,
+   492
+  ],
+  "screen0-bottom-near": [
+   3452,
+   1001
+  ],
+  "screen0-bottom-far": [
+   3126,
+   1016
+  ],
+  "screen1-top-near": [
+   2447,
+   494
+  ],
+  "screen1-top-far": [
+   2057,
+   489
+  ],
+  "screen1-bottom-near": [
+   2485,
+   1048
+  ],
+  "screen1-bottom-far": [
+   2090,
+   1050
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "lamp1-tail",
+  "screen1-bottom-near"
+ ],
+ "readings": {
+  "lamp*": "z20 (2x crops): ring centres; the far headlamp lit (centre approximate); image right is the near side",
+  "screen*": "z21 (2x crops): the glass's corners inside the black surround, rounded (virtual corners)",
+  "note": "the screen picks fit badly (rms 30-40 px) at any focal length: the glass edges inside the black surround are soft at this exposure; the lamps alone are held to 2.5-6.8 cm"
+ }
+}

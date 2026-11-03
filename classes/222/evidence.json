@@ -1,0 +1,509 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-222-East-Midlands-Railway-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_222_East_Midlands_Railway_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-24",
+   "kind": "diagram",
+   "unit": "222/0 (EMR 'Intercity' purple)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "pe0": {
+   "file": "refs/08899-and-222020-Meet-at-Etches-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:08899_and_222020_Meet_at_Etches_Park.jpg",
+   "author": "TheJRB",
+   "licence": "CC BY-SA 2.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222020 (East Midlands Trains)",
+   "view": "side on, 82 mm equivalent, far: the profile and the cab door",
+   "light": "sun"
+  },
+  "pe21": {
+   "file": "refs/222021-arrives-at-Etches-Park-3-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222021_arrives_at_Etches_Park_%283%29.JPG",
+   "author": "Harry Mitchell",
+   "licence": "CC BY 4.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222021 (East Midlands Trains)",
+   "view": "three-quarter, cab car whole: doors and windows by a projective fit",
+   "light": "overcast"
+  },
+  "pe8": {
+   "file": "refs/222008-Passes-Etches-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222008_Passes_Etches_Park.jpg",
+   "author": "TheJRB",
+   "licence": "CC BY-SA 2.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222008 (East Midlands Trains)",
+   "view": "three-quarter front",
+   "light": "haze"
+  },
+  "pe6": {
+   "file": "refs/222006-Passes-Etches-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222006_Passes_Etches_Park.jpg",
+   "author": "TheJRB",
+   "licence": "CC BY-SA 2.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222006 (East Midlands Trains)",
+   "view": "three-quarter",
+   "light": "haze"
+  },
+  "pe15a": {
+   "file": "refs/222015-at-Etches-Park-open-day-1-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222015_at_Etches_Park_open_day_%281%29.JPG",
+   "author": "Harry Mitchell",
+   "licence": "CC BY 4.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222015 in the depot",
+   "view": "head-on, close",
+   "light": "artificial"
+  },
+  "pe15b": {
+   "file": "refs/222015-at-Etches-Park-open-day-2-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222015_at_Etches_Park_open_day_%282%29.JPG",
+   "author": "Harry Mitchell",
+   "licence": "CC BY 4.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222015 over a pit",
+   "view": "head-on, close (5.9 mm compact: strong perspective)",
+   "light": "artificial"
+  },
+  "pe104": {
+   "file": "refs/222104-on-jacks-at-Etches-Park-open-day-2-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222104_on_jacks_at_Etches_Park_open_day_%282%29.JPG",
+   "author": "Harry Mitchell",
+   "licence": "CC BY 4.0",
+   "date": "unknown (EMT era)",
+   "kind": "photo",
+   "unit": "222104 on jacks",
+   "view": "head-on, close",
+   "light": "artificial"
+  },
+  "pmh": {
+   "file": "refs/222006-Market-Harborough-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222006%2C_Market_Harborough%2C_September_18th_2025.jpg",
+   "author": "Matt Taylor",
+   "licence": "CC BY 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "222006 (EMR)",
+   "view": "three-quarter front",
+   "light": "overcast"
+  },
+  "pbd": {
+   "file": "refs/222021-Bedford-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222021%2C_Bedford%2C_September_18th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "222021 (EMR)",
+   "view": "three-quarter front",
+   "light": "sun"
+  },
+  "prl": {
+   "file": "refs/222101-Radlett-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222101%2C_Radlett%2C_September_18th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "222101 (EMR)",
+   "view": "three-quarter front",
+   "light": "overcast"
+  },
+  "pdb": {
+   "file": "refs/Derby-EMR-222003-approaching-from-St-Pancras.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Derby_-_EMR_222003_approaching_from_St_Pancras.jpg",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-09-08",
+   "kind": "photo",
+   "unit": "222003 (EMR)",
+   "view": "three-quarter front, long lens",
+   "light": "sun"
+  },
+  "p003": {
+   "file": "refs/EMR-222-Meridian-222003-54735304613.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:EMR_222_Meridian_222003_-_54735304613.jpg",
+   "author": "ahisgett",
+   "licence": "CC BY 4.0",
+   "date": "2025-08",
+   "kind": "photo",
+   "unit": "222003 (EMR), tail lamps lit",
+   "view": "three-quarter front, close",
+   "light": "overcast"
+  },
+  "pnt": {
+   "file": "refs/EMR-Class-222-at-Nottingham.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:EMR_Class_222_at_Nottingham.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY 4.0",
+   "date": "2024-03-25",
+   "kind": "photo",
+   "unit": "222020 (EMR)",
+   "view": "three-quarter front, close",
+   "light": "overcast, wet"
+  },
+  "plc": {
+   "file": "refs/Leicester-EMR-222002.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Leicester_-_EMR_222002.jpg",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-09-09",
+   "kind": "photo",
+   "unit": "222002 (EMR)",
+   "view": "side, very oblique, close",
+   "light": "sun"
+  },
+  "pukt": {
+   "file": "refs/United-Kingdom-Transport-261.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:United_Kingdom_Transport_261.jpg",
+   "author": "Matthew Black",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-29",
+   "kind": "photo",
+   "unit": "222 (EMR), car end",
+   "view": "side, oblique",
+   "light": "overcast"
+  },
+  "plu": {
+   "file": "refs/Lumo-British-Rail-Class-222.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Lumo_British_Rail_Class_222.jpg",
+   "author": "Cdriver14",
+   "licence": "CC BY 4.0",
+   "date": "2026-05-25",
+   "kind": "photo",
+   "unit": "222 6xx (Lumo)",
+   "view": "three-quarter front, close",
+   "light": "station roof"
+  },
+  "pcl": {
+   "file": "refs/222601-at-Carlisle.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222601_at_Carlisle.jpg",
+   "author": "The joy of all things",
+   "licence": "CC0",
+   "date": "2026-07-28",
+   "kind": "photo",
+   "unit": "222601 (Lumo)",
+   "view": "near head-on, 200 mm",
+   "light": "sun"
+  },
+  "ppr": {
+   "file": "refs/Preston-Lumo-222605-cab-close-up.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Preston_-_Lumo_222605_cab_close_up.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-20",
+   "kind": "photo",
+   "unit": "222605 (Lumo)",
+   "view": "three-quarter front, close",
+   "light": "station roof"
+  },
+  "pcw": {
+   "file": "refs/222605-at-Crewe.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222605_at_Crewe.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-08-19",
+   "kind": "photo",
+   "unit": "222605 (Lumo)",
+   "view": "three-quarter front, portrait",
+   "light": "sun"
+  },
+  "plt": {
+   "file": "refs/222601-Lumo-test-train-Carlisle.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:222601_Lumo_test_train_Carlisle.jpg",
+   "author": "Steve Knight",
+   "licence": "CC BY 4.0",
+   "date": "2026-05-24",
+   "kind": "photo",
+   "unit": "222601 (Lumo)",
+   "view": "three-quarter from above, distant",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-cl",
+   "ref": "pcl",
+   "box": [
+    1250,
+    230,
+    2080,
+    1360
+   ],
+   "feature": "Lumo front near head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-face-003",
+   "ref": "p003",
+   "box": [
+    100,
+    280,
+    620,
+    900
+   ],
+   "feature": "EMR front, tail lamps lit",
+   "reading": ""
+  },
+  {
+   "id": "f-pod-003",
+   "ref": "p003",
+   "box": [
+    430,
+    560,
+    540,
+    660
+   ],
+   "feature": "near-side lamp pod, EMR",
+   "reading": ""
+  },
+  {
+   "id": "s-profile-e0",
+   "ref": "pe0",
+   "box": [
+    2600,
+    1120,
+    3500,
+    1640
+   ],
+   "feature": "222 nose in profile, side on (EMT)",
+   "reading": ""
+  },
+  {
+   "id": "s-bogie-e0",
+   "ref": "pe0",
+   "box": [
+    2900,
+    1440,
+    3400,
+    1640
+   ],
+   "feature": "leading bogie",
+   "reading": ""
+  },
+  {
+   "id": "s-side-e21",
+   "ref": "pe21",
+   "box": [
+    1600,
+    950,
+    3400,
+    1450
+   ],
+   "feature": "car 2 side (EMT): door near each end, seven windows",
+   "reading": ""
+  },
+  {
+   "id": "s-emr-003",
+   "ref": "p003",
+   "box": [
+    650,
+    500,
+    1280,
+    900
+   ],
+   "feature": "EMR cab side: EMR letters, white door, silver sweep",
+   "reading": ""
+  },
+  {
+   "id": "s-emr-ukt",
+   "ref": "pukt",
+   "box": [
+    0,
+    150,
+    1600,
+    850
+   ],
+   "feature": "EMR Intercity wordmark on the silver, car end",
+   "reading": ""
+  },
+  {
+   "id": "s-lumo-pr",
+   "ref": "ppr",
+   "box": [
+    1100,
+    600,
+    2730,
+    1700
+   ],
+   "feature": "Lumo cab side: swooshes, grey door, number",
+   "reading": ""
+  },
+  {
+   "id": "s-lumo-lu",
+   "ref": "plu",
+   "box": [
+    200,
+    600,
+    3500,
+    2500
+   ],
+   "feature": "Lumo cab car, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "s-cabdoor-e0",
+   "ref": "pe0",
+   "box": [
+    2900,
+    1150,
+    3150,
+    1480
+   ],
+   "feature": "cab door, grab rails, cab side window, side on",
+   "reading": ""
+  },
+  {
+   "id": "s-roofgrille-e0",
+   "ref": "pe0",
+   "box": [
+    2980,
+    1130,
+    3160,
+    1220
+   ],
+   "feature": "grille on the cab roof behind the dome",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-003",
+   "ref": "p003",
+   "box": [
+    890,
+    470,
+    902,
+    620
+   ],
+   "what": "white door leaf (neutral)"
+  },
+  {
+   "id": "purple-003",
+   "ref": "p003",
+   "box": [
+    745,
+    575,
+    800,
+    615
+   ],
+   "what": "EMR purple cab side",
+   "neutral": "white-003"
+  },
+  {
+   "id": "silver-003",
+   "ref": "p003",
+   "box": [
+    1065,
+    609,
+    1111,
+    655
+   ],
+   "what": "EMR silver sweep",
+   "neutral": "white-003"
+  },
+  {
+   "id": "yellow-003",
+   "ref": "p003",
+   "box": [
+    270,
+    488,
+    400,
+    510
+   ],
+   "what": "EMR yellow front",
+   "neutral": "white-003"
+  },
+  {
+   "id": "blue-lu",
+   "ref": "plu",
+   "box": [
+    1700,
+    1500,
+    1780,
+    1580
+   ],
+   "what": "Lumo blue cab side (no neutral)"
+  },
+  {
+   "id": "yellow-lu",
+   "ref": "plu",
+   "box": [
+    470,
+    1580,
+    540,
+    1650
+   ],
+   "what": "Lumo yellow front (no neutral)"
+  },
+  {
+   "id": "grey-pr",
+   "ref": "ppr",
+   "box": [
+    2200,
+    1090,
+    2235,
+    1240
+   ],
+   "what": "Lumo grey door (no neutral)"
+  },
+  {
+   "id": "blue-pr",
+   "ref": "ppr",
+   "box": [
+    1830,
+    930,
+    1880,
+    980
+   ],
+   "what": "Lumo blue bodyside, Preston (no neutral)"
+  },
+  {
+   "id": "white-ukt",
+   "ref": "pukt",
+   "box": [
+    1214,
+    730,
+    1240,
+    770
+   ],
+   "what": "white cab-car door leaf, overcast (neutral)"
+  },
+  {
+   "id": "silver-ukt",
+   "ref": "pukt",
+   "box": [
+    700,
+    690,
+    780,
+    720
+   ],
+   "what": "EMR silver lower bodyside",
+   "neutral": "white-ukt"
+  },
+  {
+   "id": "purple-ukt",
+   "ref": "pukt",
+   "box": [
+    1160,
+    730,
+    1200,
+    770
+   ],
+   "what": "EMR purple cab end",
+   "neutral": "white-ukt"
+  }
+ ]
+}

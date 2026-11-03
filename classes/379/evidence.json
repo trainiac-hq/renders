@@ -1,0 +1,1186 @@
+{
+ "class": "379",
+ "subject": "Class 379 Electrostar: Great Northern (since 2025-02-10, ex-GA white livery with GN branding) and Greater Anglia (to Feb 2022)",
+ "refs": {
+  "dia": {
+   "file": "refs/GA-Class-379-w-pantograph.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GA_Class_379_w-pantograph.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-04-03",
+   "kind": "diagram",
+   "unit": "379 (4 cars, DMCO left)",
+   "view": "side elevation, nose left, whole unit",
+   "light": "flat colours"
+  },
+  "g018": {
+   "file": "refs/379018-at-Kings-Cross-enlarged-image-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379018_at_Kings_Cross_(enlarged_image).jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-07-31",
+   "kind": "photo",
+   "unit": "379018 (DMCO leading)",
+   "livery": "GN",
+   "view": "front three-quarter, close, left side of the face and the whole cab car side",
+   "light": "station roof, diffuse, some sun on the body"
+  },
+  "g018p": {
+   "file": "refs/379018-at-Kings-Cross.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379018_at_Kings_Cross.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-07-31",
+   "kind": "photo",
+   "unit": "379018",
+   "livery": "GN",
+   "view": "front three-quarter, portrait, close",
+   "light": "station roof, diffuse"
+  },
+  "g002": {
+   "file": "refs/379002-London-King-s-Cross.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379002_-_London_King%27s_Cross.jpg",
+   "author": "TheDullName",
+   "licence": "Public domain",
+   "date": "2025-02-10",
+   "kind": "photo",
+   "unit": "379002",
+   "livery": "GN",
+   "view": "near head-on, tail lamps lit",
+   "light": "station roof, dusk"
+  },
+  "g024": {
+   "file": "refs/379024-at-Hornsey-Depot-2025-04-04.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379024_at_Hornsey_Depot_2025-04-04.jpg",
+   "author": "Tom Page",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-04-04",
+   "kind": "photo",
+   "unit": "379024",
+   "livery": "GN",
+   "view": "head-on from above",
+   "light": "overcast"
+  },
+  "g028": {
+   "file": "refs/379028-379010-Finsbury-Park-May-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379028_%26_379010,_Finsbury_Park,_May_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "379028",
+   "livery": "GN",
+   "view": "near head-on, slight three-quarter",
+   "light": "overcast"
+  },
+  "g010": {
+   "file": "refs/379010-379028-Finsbury-Park-May-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379010_%26_379028,_Finsbury_Park,_May_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "379010",
+   "livery": "GN",
+   "view": "front three-quarter, side visible",
+   "light": "overcast"
+  },
+  "g003": {
+   "file": "refs/379003-Shepreth-branch-Junc-071025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379003_Shepreth_branch_Junc_071025.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-10-09",
+   "kind": "photo",
+   "unit": "379003",
+   "livery": "GN",
+   "view": "front three-quarter from above, whole side of cab car",
+   "light": "sun"
+  },
+  "l029": {
+   "file": "refs/379029-Sawbridgeworth-230521.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379029_Sawbridgeworth_230521.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2021-05-23",
+   "kind": "photo",
+   "unit": "379029",
+   "livery": "LE",
+   "view": "front three-quarter",
+   "light": "overcast"
+  },
+  "l017": {
+   "file": "refs/317342-and-379-017-Bishops-Stortford-280721.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:317342_and_379_017_Bishops_Stortford_280721.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2021-07-29",
+   "kind": "photo",
+   "unit": "379017",
+   "livery": "LE",
+   "view": "near head-on",
+   "light": "overcast"
+  },
+  "l008": {
+   "file": "refs/Greater-Anglia-379008-Stansted-Express.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Greater_Anglia_-_379008_-_Stansted_Express.jpg",
+   "author": "Aubrey",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-05-31",
+   "kind": "photo",
+   "unit": "379008",
+   "livery": "LE (Stansted Express)",
+   "view": "near head-on, headlamps lit",
+   "light": "evening"
+  },
+  "l012": {
+   "file": "refs/Unit-379012-at-Bethnal-Green.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Unit_379012_at_Bethnal_Green.jpg",
+   "author": "Sunil060902",
+   "licence": "CC BY-SA 3.0",
+   "date": "2011-06-04",
+   "kind": "photo",
+   "unit": "379012",
+   "livery": "NXEA (geometry only)",
+   "view": "front three-quarter, long side",
+   "light": "sun"
+  },
+  "g027": {
+   "file": "refs/379027-379006-Letchworth-May-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:379027_%26_379006,_Letchworth,_May_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "379027",
+   "livery": "GN",
+   "view": "front three-quarter, face left; visible bodyside = train LEFT; 1600 px",
+   "light": "bright sun"
+  },
+  "l029b": {
+   "file": "refs/Greater-Anglia-379029-Stansted-Express.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Greater_Anglia_-_379029_-_Stansted_Express.jpg",
+   "author": "Aubrey",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-05-31",
+   "kind": "photo",
+   "unit": "379029",
+   "livery": "LE",
+   "view": "front three-quarter, face left; visible bodyside = train LEFT",
+   "light": "low evening sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-l-018",
+   "ref": "g018",
+   "box": [
+    2380,
+    940,
+    3100,
+    2350
+   ],
+   "feature": "left half of the face (as seen head-on): cap, screen, panel, lamps, gangway, valance, coupler",
+   "reading": "Yellow cap over the screen, its bottom edge an orange line, top edge curving up into a white dome with a round grey marker lens; screen in a thick black frame, orange LED destination display top-outboard inside the glass; wiper pivots low at the inner (gangway) edge and parks vertical up that edge; yellow panel from the screen sill down with a large-radius outer bottom corner into white; black warning triangle on this panel above the lamps; one black figure-of-eight bolted bezel: large clear headlamp outboard, smaller red tail inboard at about the same height (tail a touch lower); gangway in a very proud weathered dark grey frame with grey rubber bellows behind, yellow door with vertical seams and two small handles at mid height; lower face white (no yellow), Dellner coupler in a dark recess.",
+   "reading2": "(see f-lamps-l-018, f-panel-l-018, f-screen-l-018, f-gangway-018 for the per-feature second readings)"
+  },
+  {
+   "id": "f-lamps-l-018",
+   "ref": "g018",
+   "box": [
+    2470,
+    1760,
+    2700,
+    2030
+   ],
+   "feature": "lamp cluster, left as seen head-on (train's right side)",
+   "reading": "One black figure-of-eight bolted bezel (8 screws) low on the yellow: large clear headlamp reflector outboard (left), smaller round red tail lens inboard (right), its centre a little lower; the waist between the lobes is smooth. The panel's outer bottom corner sweeps round in a large radius below the bezel.",
+   "reading2": "Peanut/figure-8 black bezel, larger circle left, smaller right; left = clear/silver headlamp reflector (outboard), right = smaller round red tail lamp (inboard); 7-8 silver screws; black triangle top right; panel lower edge slopes down-left to a rounded corner (r ~0.1 of width)."
+  },
+  {
+   "id": "f-screen-l-018",
+   "ref": "g018",
+   "box": [
+    2420,
+    1150,
+    2720,
+    1700
+   ],
+   "feature": "left windscreen, destination display, wiper",
+   "reading": "Tall near-black windscreen in a thick black frame, top corners rounded, bottom square; orange LED destination display in the top half, outboard; wiper pivot low near the middle-inner bottom, arm parked diagonally up towards the gangway edge; a black sill/wiper housing along the bottom.",
+   "reading2": "Tall narrow near-black windscreen, rounded-rectangle outline, black frame; destination display at top with orange 'Ely'; wiper arm from lower right pivot up to the upper right, parked at the right; small warning stickers bottom left, yellow below."
+  },
+  {
+   "id": "f-cap-018",
+   "ref": "g018",
+   "box": [
+    2440,
+    1030,
+    2900,
+    1230
+   ],
+   "feature": "yellow cap, orange cap line, dome",
+   "reading": "Cap and the side's orange line sweeping up into the cap's bottom edge at the corner; bellows behind."
+  },
+  {
+   "id": "f-panel-l-018",
+   "ref": "g018",
+   "box": [
+    2450,
+    1650,
+    2720,
+    2060
+   ],
+   "feature": "left warning panel, triangle, bottom corner",
+   "reading": "Left warning panel: top edge straight at the screen sill, inner edge runs behind the gangway frame, outer edge vertical then a large-radius sweep into the bottom edge; black triangle top-inboard above the bezel; white body below and outboard.",
+   "reading2": "Tall yellow panel, flat top, right edge vertical; left side cut diagonally down/inward to a rounded lower-left corner, bottom edge to lower right with a smaller rounded corner; peanut bezel (clear left, red right) lower half, black triangle upper right."
+  },
+  {
+   "id": "f-gangway-018",
+   "ref": "g018",
+   "box": [
+    2700,
+    1050,
+    3110,
+    2100
+   ],
+   "feature": "gangway frame, door, bellows",
+   "reading": "Three-quarter: the frame stands well proud of the face with grey rubber concertina bellows filling the side; yellow speckled door with seams and two slot handles at mid height; frame dark grey with a pale inner lip; top corner large radius.",
+   "reading2": "Mottled yellow door with faint central seam and two slot handles at ~50% height in a thick dark grey frame with pale inner lip; top-right corner rounded (~10% of width); left third dark grey concertina bellows; hinge hardware lower left."
+  },
+  {
+   "id": "f-lower-018",
+   "ref": "g018",
+   "box": [
+    2100,
+    1950,
+    3000,
+    2450
+   ],
+   "feature": "lower face, valance step, coupler recess",
+   "reading": "White lower face (body colour, not green/grey) standing forward of the panel line with a sloping top; a small round hole; dark coupler recess between the two halves with the Dellner head; the valance's inner edge steps back at the recess.",
+   "reading2": "Bulbous cream/grey valance with rounded lower-left corner, grimy, small round hole; dark recess with coupler head, hoses, yellow warning triangle; valance's right edge steps back in a notch above the coupler recess."
+  },
+  {
+   "id": "s-corner-018",
+   "ref": "g018",
+   "box": [
+    2050,
+    1080,
+    2480,
+    2060
+   ],
+   "feature": "cab corner between cab door and face (fixed cab window?)",
+   "reading": "Plain white bodyside panel from the cab door's front seal to the face corner, which curves away; orange line along the top sweeps up into the cap at the corner; no cab-end livery shape (unlike the 377's green); footstep flap low.",
+   "reading2": "Large cream panel curving to the front corner, black gasket on the left; thin orange line along the top curving down at top right; filler-style flap lower left; yellow starts at the far right near the bottom."
+  },
+  {
+   "id": "s-cabdoor-018",
+   "ref": "g018",
+   "box": [
+    1880,
+    1120,
+    2160,
+    1990
+   ],
+   "feature": "cab door and its window",
+   "reading": "Cab door in body white (no stripe), outlined by a black seal that curves at the bottom with the tumblehome; tall narrow black-framed droplight window split by a horizontal bar at ~40% height; orange cantrail line runs over it.",
+   "reading2": "Cream cab door, rounded top-right corner, long curved right edge, black gasket outline; tall narrow dark window split by a horizontal bar at ~40% height; stickers; no yellow stripe; orange stripe along the top."
+  },
+  {
+   "id": "s-bay1-018",
+   "ref": "g018",
+   "box": [
+    1360,
+    1150,
+    1930,
+    1720
+   ],
+   "feature": "first window bay (cab door to door 1), first-class strip",
+   "reading": "Two individually framed windows with rounded corners and a white pillar between (no continuous black band): small one next to the cab door, wide one behind; the yellow first-class strip runs just below the orange line and ends a few cm behind the cab door with a slanted cut.",
+   "reading2": "Cream bodyside with a thin mustard strip near the top under an orange line; strip ends in a diagonal cut ~82% across; two dark-framed windows with rounded corners (r ~5-8% of width), wide one left, narrow one right, cream pillar between."
+  },
+  {
+   "id": "s-door1-018",
+   "ref": "g018",
+   "box": [
+    1100,
+    1180,
+    1420,
+    1830
+   ],
+   "feature": "first passenger door, leaf colour",
+   "reading": "Double sliding door, both leaves glossy near-black (dark navy-grey) with a tall narrow window in each leaf; the leaves bow out at the bottom; the orange line runs over the door; the first-class strip stops either side of it.",
+   "reading2": "Double-leaf door, dark navy/near-black glossy leaves, central seam, tall narrow window in each leaf; edges bowed at bottom; cream bodyside both sides; orange line across the top; yellow strip interrupted above the door."
+  },
+  {
+   "id": "s-bay2-018",
+   "ref": "g018",
+   "box": [
+    530,
+    1220,
+    1160,
+    1700
+   ],
+   "feature": "4-window bay, first-class strip rear end",
+   "reading": "Four windows behind door 1, each in its own black frame with white pillars; the first-class strip continues over the first part of the bay and ends about a third of the way along (first-class partition); Great Northern logo and a 'First Class' vinyl (not rendered)."
+  },
+  {
+   "id": "s-end-018",
+   "ref": "g018",
+   "box": [
+    200,
+    1250,
+    620,
+    1700
+   ],
+   "feature": "door 2, rear bay, car 1 end, gangway to car 2",
+   "reading": "Car 1 end: a two-window group behind door 2, a white end panel, a dark vertical joint to car 2; the car end has no livery band (white), unlike the 377's dark green end.",
+   "reading2": "Narrow dark vertical joint at left-centre with a small white sensor box at its top; window pair (left pane larger) and dark navy double door at 60-80% width; thin orange/red roofline line; dark grey roof."
+  },
+  {
+   "id": "s-roof-018",
+   "ref": "g018",
+   "box": [
+    600,
+    1000,
+    2600,
+    1260
+   ],
+   "feature": "roof line and cantrail orange line",
+   "reading": "Roof light grey (shows sky reflections), roof edge rounds down to the orange cantrail line; equipment covers on the roof; the orange line runs the whole car and sweeps up round the cab corner into the cap line."
+  },
+  {
+   "id": "s-bogie-018",
+   "ref": "g018",
+   "box": [
+    1500,
+    1850,
+    2300,
+    2450
+   ],
+   "feature": "leading bogie / underframe",
+   "reading": "Leading bogie is dark and mostly hidden behind the platform guard rail and the white valance; one wheel and an axlebox visible; not usable for wheelbase."
+  },
+  {
+   "id": "f-face-003",
+   "ref": "g003",
+   "box": [
+    2050,
+    780,
+    3000,
+    1700
+   ],
+   "feature": "whole face, near head-on from above",
+   "reading": "Whole face from above: symmetric layout, triangle on the left panel only, number '379 003' on the right panel above the lamps, both bezels head outboard/tail inboard; dome with oval lens; lower face white either side of the coupler recess."
+  },
+  {
+   "id": "f-lamps-l-003",
+   "ref": "g003",
+   "box": [
+    2075,
+    1320,
+    2230,
+    1440
+   ],
+   "feature": "left lamp cluster (train's right)",
+   "reading": "Unlit: clear headlamp outboard, red tail inboard, tail centre slightly lower; bezel black with screws."
+  },
+  {
+   "id": "f-lamps-r-003",
+   "ref": "g003",
+   "box": [
+    2490,
+    1320,
+    2640,
+    1440
+   ],
+   "feature": "right lamp cluster (train's left)",
+   "reading": "Mirror: red tail inboard (left), headlamp outboard (right)."
+  },
+  {
+   "id": "s-side-003",
+   "ref": "g003",
+   "box": [
+    1150,
+    780,
+    2050,
+    1350
+   ],
+   "feature": "car 1 side: cab door, door 1, strip, bays",
+   "reading": "Cab car from above: cab door, 2-window bay with strip, door 1, 4-window bay with strip ending part-way, door 2; roof light grey; orange cantrail line."
+  },
+  {
+   "id": "s-end-003",
+   "ref": "g003",
+   "box": [
+    950,
+    700,
+    1350,
+    1250
+   ],
+   "feature": "car 1 end and door 2, car 2 door with red edges",
+   "reading": "Car 1 / car 2 junction: plain white ends, no end bands; car 2 doors near-black like car 1."
+  },
+  {
+   "id": "f-lamps-l-002",
+   "ref": "g002",
+   "box": [
+    640,
+    1450,
+    1000,
+    1760
+   ],
+   "feature": "left lamp cluster head-on, tail lit",
+   "reading": "Dusk, tail lit red: headlamp outboard (left), tail LED inboard; bezel figure-of-eight."
+  },
+  {
+   "id": "f-lamps-r-002",
+   "ref": "g002",
+   "box": [
+    1620,
+    1480,
+    1990,
+    1790
+   ],
+   "feature": "right lamp cluster head-on, tail lit",
+   "reading": "Mirror: tail lit inboard (left), headlamp outboard (right)."
+  },
+  {
+   "id": "f-screen-l-002",
+   "ref": "g002",
+   "box": [
+    620,
+    640,
+    1060,
+    1420
+   ],
+   "feature": "left windscreen and frame, sill, wiper",
+   "reading": "Left screen head-on: thick black frame, wiper pivot low, parked up toward the gangway."
+  },
+  {
+   "id": "f-screen-r-002",
+   "ref": "g002",
+   "box": [
+    1560,
+    640,
+    2000,
+    1420
+   ],
+   "feature": "right windscreen and frame, sill, wiper",
+   "reading": "Right windscreen head-on: thick black frame, orange cap line above; wiper pivots low near the inner (gangway) side and parks up and in, mirror of the left; no destination display on this side.",
+   "reading2": "Tall windscreen, black frame, thin orange stripe above, yellow around; wet glass shows cab interior; wiper black arm at the left, diagonal from lower left up toward upper left, curved linkage at the bottom."
+  },
+  {
+   "id": "f-panel-l-002",
+   "ref": "g002",
+   "box": [
+    600,
+    1340,
+    1000,
+    1760
+   ],
+   "feature": "left panel of 379002 (no triangle?)",
+   "reading": "379002's left panel is plain yellow: no warning triangle (a cable/hose loop crosses the top). Every other unit seen (003, 010, 017, 018, 024, 028, 029) carries the triangle; it is kept fleet-wide, 002 is the exception."
+  },
+  {
+   "id": "f-number-002",
+   "ref": "g002",
+   "box": [
+    1580,
+    1380,
+    2000,
+    1500
+   ],
+   "feature": "unit number on the right panel",
+   "reading": "'379 002' black sans numerals on the right panel above the lamps."
+  },
+  {
+   "id": "f-dome-002",
+   "ref": "g002",
+   "box": [
+    1100,
+    400,
+    1550,
+    580
+   ],
+   "feature": "dome and marker lens",
+   "reading": "White dome over the gangway frame, a raised D/oval panel holding an oval dark-grey translucent marker lens; dome white (body colour), not yellow.",
+   "reading2": "Pale off-white raised oval dome with a darker translucent grey-brown oval lens (~30% of width) with a lighter ring; yellow at lower right/left below the roof line."
+  },
+  {
+   "id": "f-gangway-002",
+   "ref": "g002",
+   "box": [
+    960,
+    500,
+    1600,
+    1900
+   ],
+   "feature": "gangway frame and door, seams, handles",
+   "reading": "Gangway door head-on: yellow, three vertical seams (two hinge lines with knuckles at ~0.23 and ~0.77 of the door width, a plain centre seam at ~0.49), two small recessed handles at mid height; thick near-black/weathered grey frame with large-radius top corners; the opening narrows slightly towards the top.",
+   "reading2": "Mustard yellow door split by a central seam with hinge-like ribs either side, small recessed handle on each leaf at ~50% height plus bolt clusters; thick near-black frame with strongly rounded top corners (15-20% of crop width); frame wider on the right, tapering the door's right edge inward; grey weathering."
+  },
+  {
+   "id": "f-lower-002",
+   "ref": "g002",
+   "box": [
+    560,
+    1780,
+    2150,
+    2400
+   ],
+   "feature": "lower face, valance lip, coupler recess",
+   "reading": "Lower face white either side, rounded bottom corners, a horizontal grey rubbing strip/lip at the top of the valance, coupler recess open at the bottom with rounded corners."
+  },
+  {
+   "id": "f-cap-002",
+   "ref": "g002",
+   "box": [
+    600,
+    480,
+    2050,
+    720
+   ],
+   "feature": "cap top edge and orange cap line across the face",
+   "reading": "Yellow cap across the top of both screens, its bottom edge an orange line (continuous with the bodyside cantrail line, which sweeps up round the corner into it); top edge rises steadily from the outer ends to the centre; the gangway frame's rounded top interrupts it; white dome with an oval grey marker lens above the frame; yellow shows above the frame top at its shoulders.",
+   "reading2": "Yellow band across both sides, outer ends rounded and curving down; orange line along its bottom; warning sticker each side; central black rounded-top arch (~0.38 of width) interrupts it; white roof dome top centre."
+  },
+  {
+   "id": "f-face-024",
+   "ref": "g024",
+   "box": [
+    1430,
+    780,
+    2310,
+    1880
+   ],
+   "feature": "whole face, telephoto head-on",
+   "reading": "Telephoto head-on: symmetric white margins (73 px) outside the panels; used for every face width."
+  },
+  {
+   "id": "f-lamps-l-024",
+   "ref": "g024",
+   "box": [
+    1500,
+    1400,
+    1720,
+    1560
+   ],
+   "feature": "left lamp cluster (train's right), tail lit",
+   "reading": "Same bezel head-on (379024, tail lit): head lens round, 69 px across in both directions (so vertical scale = horizontal at the lamps), unlit grey with a central boss; tail red LED disc inboard and ~20 px lower.",
+   "reading2": "Peanut bezel, larger lens left and smaller right, silver screws (6-7); left a pale grey/white unlit headlamp with a small circular centre boss; right a bright red round LED lamp; lower-left yellow corner rounded (~0.1 of width); black triangle top right."
+  },
+  {
+   "id": "f-lamps-r-024",
+   "ref": "g024",
+   "box": [
+    2020,
+    1400,
+    2240,
+    1560
+   ],
+   "feature": "right lamp cluster (train's left), tail lit",
+   "reading": "Mirror of the left cluster: headlamp outboard (right), red LED tail inboard (left) and slightly lower. Part of the unit number over it.",
+   "reading2": "Mirror of the left: large grey/white headlamp right (outboard), smaller red LED lamp left (inboard); bezel set low; panel's lower-right corner rounded; number cut off at the top edge."
+  },
+  {
+   "id": "f-triangle-024",
+   "ref": "g024",
+   "box": [
+    1600,
+    1340,
+    1720,
+    1450
+   ],
+   "feature": "warning triangle on the left panel",
+   "reading": "Solid black isosceles triangle, point up, flat base, on the left panel only (the right panel carries the number instead), between the screen sill and the lamp bezel, inboard of the headlamp.",
+   "reading2": "Dark navy/black solid triangle, point up, roughly isosceles, flat base, slightly soft edges; ~0.47 of crop width, 0.55 of height."
+  },
+  {
+   "id": "f-coupler-024",
+   "ref": "g024",
+   "box": [
+    1680,
+    1580,
+    2060,
+    1880
+   ],
+   "feature": "coupler recess",
+   "reading": "Coupler recess: dark opening with rounded bottom corners, Dellner head with two ports, yellow-marked box below."
+  },
+  {
+   "id": "f-face-028",
+   "ref": "g028",
+   "box": [
+    140,
+    150,
+    700,
+    820
+   ],
+   "feature": "face, slight three-quarter",
+   "reading": "379028 head-on: same layout; tails lit; number right; triangle left."
+  },
+  {
+   "id": "f-face-l029",
+   "ref": "l029",
+   "box": [
+    2440,
+    880,
+    3000,
+    1650
+   ],
+   "feature": "LE face three-quarter",
+   "reading": "LE three-quarter: same face as GN (white dome, yellow cap with orange line, triangle left)."
+  },
+  {
+   "id": "s-side-l029",
+   "ref": "l029",
+   "box": [
+    1800,
+    950,
+    2700,
+    1550
+   ],
+   "feature": "LE cab side: cab door, door 1, strip, livery",
+   "reading": "LE 379029 (2021): the same scheme as GN: white body, near-black doors, thin yellow first-class strip under an orange cantrail line, plain white cab corner, yellow panel with triangle and peanut bezel; only branding differs (greater anglia vinyl).",
+   "reading2": "White/cream with navy and yellow: navy double door, window pair, cream cab door with tall dark window, front corner; yellow panel under the screen with triangle and headlamp cluster; thin yellow strip ending diagonally above the window pair, thin orange line above; black gasket outlines the cab door."
+  },
+  {
+   "id": "f-face-l017",
+   "ref": "l017",
+   "box": [
+    1850,
+    1000,
+    2700,
+    2050
+   ],
+   "feature": "LE face head-on",
+   "reading": "LE head-on: identical face to GN; number '379 017' right, triangle left."
+  },
+  {
+   "id": "f-lamps-l-017",
+   "ref": "l017",
+   "box": [
+    1890,
+    1580,
+    2060,
+    1720
+   ],
+   "feature": "LE left lamp cluster, headlamp lit",
+   "reading": "LE (379017, 2021): the same bezel and lamps; headlamp lit white outboard, inboard lamp unlit grey disc. Identical hardware to GN.",
+   "reading2": "Peanut bezel, large lens left (lit white with an orange fringe = headlamp lit), smaller right unlit grey; ~7 screws; triangle top right; lower-left yellow corner rounded."
+  },
+  {
+   "id": "f-lamps-r-017",
+   "ref": "l017",
+   "box": [
+    2380,
+    1590,
+    2560,
+    1730
+   ],
+   "feature": "LE right lamp cluster, LED marker lit",
+   "reading": "LE right cluster: inboard unit is an LED grid lit WHITE (the marker/tail unit shows white as a marker, red as a tail), headlamp reflector outboard.",
+   "reading2": "Peanut bezel; large clear reflector right (outboard), smaller lamp left (inboard) is a white rectangular LED grid of ~5 rows, lit white not red; lower-right corner rounded and sweeping diagonally."
+  },
+  {
+   "id": "f-34-010",
+   "ref": "g010",
+   "box": [
+    900,
+    180,
+    1450,
+    860
+   ],
+   "feature": "three-quarter face, lamps lit",
+   "reading": "379010 with headlamps lit: outboard lamps white; inboard LED units lit white as markers; dome marker lit white."
+  },
+  {
+   "id": "d-car1",
+   "ref": "dia",
+   "box": [
+    0,
+    60,
+    620,
+    180
+   ],
+   "feature": "diagram, car 1",
+   "reading": "Diagram car 1: drawn cab, 2-window bay, door, 4-window bay, door, 2-window bay; yellow strip drawn continuous over door 1. Proportions rejected for lengths (see spec)."
+  },
+  {
+   "id": "logo-gn-018",
+   "ref": "g018",
+   "box": [
+    700,
+    1540,
+    850,
+    1665
+   ],
+   "feature": "Great Northern logo, cab car right side",
+   "reading": "Dark purple rectangle with 'Great Northern' in white sans; a light-blue downward triangle hangs below it, under the right-hand (front) part of the box, its apex near the crease line. Box top edge just under the window bottoms."
+  },
+  {
+   "id": "logo-gn-003",
+   "ref": "g003",
+   "box": [
+    1370,
+    1100,
+    1460,
+    1215
+   ],
+   "feature": "Great Northern logo, cab car right side",
+   "reading": "Same purple box, white text, light-blue triangle under its right-hand part; sits between door 2 and the First Class box below the window line."
+  },
+  {
+   "id": "logo-gn-l-027",
+   "ref": "g027",
+   "box": [
+    780,
+    560,
+    900,
+    660
+   ],
+   "feature": "Great Northern logo and the bare panel ahead of it, cab car left side",
+   "reading": "Purple box with the blue triangle again under its right-hand part as seen (the rear on this side); nothing between door 1 and the logo: no First Class box on this side."
+  },
+  {
+   "id": "logo-fc-018",
+   "ref": "g018",
+   "box": [
+    915,
+    1600,
+    1050,
+    1672
+   ],
+   "feature": "First Class vinyl, cab car right side",
+   "reading": "Thin black outline rectangle on the white, 'First Class' in black sans set to its right end (towards the cab), empty space at its left."
+  },
+  {
+   "id": "logo-fc-003",
+   "ref": "g003",
+   "box": [
+    1500,
+    1175,
+    1575,
+    1240
+   ],
+   "feature": "First Class vinyl, cab car right side",
+   "reading": "Same outlined box, text right-aligned, under the window between the GN logo and door 1."
+  },
+  {
+   "id": "logo-gn-next-003",
+   "ref": "g003",
+   "box": [
+    740,
+    890,
+    830,
+    985
+   ],
+   "feature": "Great Northern logo on the next car, right side",
+   "reading": "Purple box with white text and the blue triangle below its right part, mid-panel below the windows between the car's doors."
+  },
+  {
+   "id": "logo-ga-029",
+   "ref": "l029",
+   "box": [
+    1620,
+    1355,
+    1850,
+    1425
+   ],
+   "feature": "greateranglia wordmark and First Class box, cab car right side",
+   "reading": "One lower-case word: 'greater' red, 'anglia' dark grey, on the white below the windows; to its right (towards the cab) the outlined 'First Class' box, text at its right end."
+  },
+  {
+   "id": "logo-ga-l-029b",
+   "ref": "l029b",
+   "box": [
+    2100,
+    1520,
+    2400,
+    1760
+   ],
+   "feature": "greateranglia wordmark, cab car left side",
+   "reading": "Same wordmark reading normally (red 'greater' first, so towards the cab on this side), mid-panel between door 1 and door 2; plain white between door 1 and it, no First Class box."
+  },
+  {
+   "id": "logo-ga-next-029b",
+   "ref": "l029b",
+   "box": [
+    2530,
+    1565,
+    2600,
+    1625
+   ],
+   "feature": "next car mark, left side",
+   "reading": "A small red-then-grey block mid-panel under the windows, the foreshortened greateranglia wordmark."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-018",
+   "ref": "g018",
+   "box": [
+    1372,
+    1640,
+    1395,
+    1690
+   ],
+   "what": "white bodyside below bay 1 windows, behind door 1"
+  },
+  {
+   "id": "door-018",
+   "ref": "g018",
+   "box": [
+    1280,
+    1440,
+    1320,
+    1500
+   ],
+   "what": "door 1 leaf (glossy, reflections)",
+   "neutral": "white-018"
+  },
+  {
+   "id": "strip-018",
+   "ref": "g018",
+   "box": [
+    1420,
+    1213,
+    1470,
+    1222
+   ],
+   "what": "first-class strip",
+   "neutral": "white-018"
+  },
+  {
+   "id": "orange-018",
+   "ref": "g018",
+   "box": [
+    1440,
+    1196,
+    1460,
+    1199
+   ],
+   "what": "cantrail orange line",
+   "neutral": "white-018"
+  },
+  {
+   "id": "roof-018",
+   "ref": "g018",
+   "box": [
+    1600,
+    1060,
+    1700,
+    1090
+   ],
+   "what": "roof (reflects sky, bluish)",
+   "neutral": "white-018"
+  },
+  {
+   "id": "valance-018",
+   "ref": "g018",
+   "box": [
+    2500,
+    2090,
+    2560,
+    2140
+   ],
+   "what": "white lower face"
+  },
+  {
+   "id": "yellow-018",
+   "ref": "g018",
+   "box": [
+    2510,
+    1690,
+    2560,
+    1730
+   ],
+   "what": "left warning panel yellow",
+   "neutral": "valance-018"
+  },
+  {
+   "id": "gwdoor-018",
+   "ref": "g018",
+   "box": [
+    2900,
+    1400,
+    2960,
+    1500
+   ],
+   "what": "gangway door yellow",
+   "neutral": "valance-018"
+  },
+  {
+   "id": "gwframe-018",
+   "ref": "g018",
+   "box": [
+    2835,
+    1400,
+    2855,
+    1600
+   ],
+   "what": "gangway frame grey",
+   "neutral": "valance-018"
+  },
+  {
+   "id": "white-003",
+   "ref": "g003",
+   "box": [
+    1760,
+    1240,
+    1830,
+    1300
+   ],
+   "what": "white bodyside below bay 1, sun"
+  },
+  {
+   "id": "door-003",
+   "ref": "g003",
+   "box": [
+    1680,
+    1035,
+    1700,
+    1100
+   ],
+   "what": "door 1 leaf, sun",
+   "neutral": "white-003"
+  },
+  {
+   "id": "strip-003",
+   "ref": "g003",
+   "box": [
+    1790,
+    915,
+    1830,
+    922
+   ],
+   "what": "first-class strip",
+   "neutral": "white-003"
+  },
+  {
+   "id": "orange-003",
+   "ref": "g003",
+   "box": [
+    1790,
+    903,
+    1830,
+    908
+   ],
+   "what": "cantrail orange line",
+   "neutral": "white-003"
+  },
+  {
+   "id": "roof-003",
+   "ref": "g003",
+   "box": [
+    1750,
+    850,
+    1850,
+    880
+   ],
+   "what": "roof, from above",
+   "neutral": "white-003"
+  },
+  {
+   "id": "valance-003",
+   "ref": "g003",
+   "box": [
+    2050,
+    1500,
+    2120,
+    1540
+   ],
+   "what": "white lower face"
+  },
+  {
+   "id": "yellow-003",
+   "ref": "g003",
+   "box": [
+    2090,
+    1290,
+    2140,
+    1320
+   ],
+   "what": "left panel yellow",
+   "neutral": "valance-003"
+  },
+  {
+   "id": "valance-024",
+   "ref": "g024",
+   "box": [
+    1560,
+    1650,
+    1660,
+    1700
+   ],
+   "what": "white lower face, shade"
+  },
+  {
+   "id": "yellow-024",
+   "ref": "g024",
+   "box": [
+    1530,
+    1360,
+    1600,
+    1395
+   ],
+   "what": "left panel yellow",
+   "neutral": "valance-024"
+  },
+  {
+   "id": "gwdoor-024",
+   "ref": "g024",
+   "box": [
+    1800,
+    1300,
+    1940,
+    1450
+   ],
+   "what": "gangway door yellow",
+   "neutral": "valance-024"
+  },
+  {
+   "id": "cap-024",
+   "ref": "g024",
+   "box": [
+    1600,
+    935,
+    1700,
+    970
+   ],
+   "what": "cap yellow",
+   "neutral": "valance-024"
+  },
+  {
+   "id": "white-l029",
+   "ref": "l029",
+   "box": [
+    2330,
+    1200,
+    2380,
+    1260
+   ],
+   "what": "LE white cab side"
+  },
+  {
+   "id": "door-l029",
+   "ref": "l029",
+   "box": [
+    1900,
+    1360,
+    1940,
+    1420
+   ],
+   "what": "LE door 1 leaf",
+   "neutral": "white-l029"
+  },
+  {
+   "id": "strip-l029",
+   "ref": "l029",
+   "box": [
+    2060,
+    1055,
+    2100,
+    1059
+   ],
+   "what": "LE first-class strip",
+   "neutral": "white-l029"
+  },
+  {
+   "id": "roof-l029",
+   "ref": "l029",
+   "box": [
+    2290,
+    948,
+    2310,
+    972
+   ],
+   "what": "LE roof over the cab front (weathered)",
+   "neutral": "white-l029"
+  },
+  {
+   "id": "valance-l029",
+   "ref": "l029",
+   "box": [
+    2370,
+    1520,
+    2470,
+    1560
+   ],
+   "what": "LE white lower face"
+  },
+  {
+   "id": "yellow-l029",
+   "ref": "l029",
+   "box": [
+    2500,
+    1300,
+    2550,
+    1330
+   ],
+   "what": "LE left panel yellow",
+   "neutral": "valance-l029"
+  },
+  {
+   "id": "gwdoor-l029",
+   "ref": "l029",
+   "box": [
+    2760,
+    1150,
+    2820,
+    1300
+   ],
+   "what": "LE gangway door yellow",
+   "neutral": "valance-l029"
+  },
+  {
+   "id": "valance-l017",
+   "ref": "l017",
+   "box": [
+    1930,
+    1830,
+    2000,
+    1860
+   ],
+   "what": "LE white lower face"
+  },
+  {
+   "id": "yellow-l017",
+   "ref": "l017",
+   "box": [
+    1900,
+    1540,
+    1950,
+    1565
+   ],
+   "what": "LE left panel yellow",
+   "neutral": "valance-l017"
+  },
+  {
+   "id": "orange-024",
+   "ref": "g024",
+   "box": [
+    2040,
+    982,
+    2100,
+    987
+   ],
+   "what": "cap line orange (8 px tall), face",
+   "neutral": "valance-024"
+  },
+  {
+   "id": "orange-l029",
+   "ref": "l029",
+   "box": [
+    2475,
+    983,
+    2505,
+    989
+   ],
+   "what": "LE cap line orange",
+   "neutral": "valance-l029"
+  }
+ ]
+}

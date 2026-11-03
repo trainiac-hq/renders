@@ -1,0 +1,1290 @@
+{
+ "class": "456",
+ "subject": "Class 456 in South West Trains red with South Western Railway branding, as withdrawn (2022-01-17)",
+ "method": "Bodyside from the SWR-era diagram (dia, Benspiersphotos, on the Unisouth template; dias is the template's Southern version), axes calibrated as the 455's (same template, same wheel and door pixels) and checked against 456004 (p004) by a 1D projective fit along the window row; the cab end (cab door, short window) from that fit, where it disagrees with the drawing; face from the nearly head-on part of p004; sweep from the diagram, checked on p004; colours sampled from p004 against the white wordmark and the white front number. No camera match (no Blender in this pass).",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 71.84,
+  "pxPerMVertical": 81.4,
+  "railY": 345,
+  "faceX": 58,
+  "notes": "Same template as the 455 diagram: bogie centres 267 and 1285 px (1018 px = 14.17 m -> 71.84 px/m), rail 345 to roof 38 (307 px = 3.77 m -> 81.4 px/m). x is from the nose's foot (58 px, the lower front, rows 244..300); the face leans back to 88 px at 3.5 m. The cab car reads 58..1524 px = 20.41 m at the foot, 19.99 m at the top of the face (published 19.95 m, so the published length is the upper body's). The second car (DTSO) is the cab car reversed: drawn 1581..3046 px, its doors 438.5 px (6.10 m) and 937.5 px (13.05 m) from its inner end, as the cab car's from its rear."
+ },
+ "model": {
+  "heights": {
+   "bottom": 0.897,
+   "cantrail": 3.55,
+   "roof": 3.77,
+   "window": [
+    2.088,
+    3.047
+   ]
+  },
+  "wheel": 0.84,
+  "wheelbase": 2.6,
+  "cab": {
+   "length": 20.41,
+   "doors": [
+    {
+     "x": 1.98,
+     "w": 0.74,
+     "cab": true,
+     "window": [
+      1.72,
+      3.05
+     ],
+     "span": [
+      1.0,
+      3.33
+     ],
+     "panes": [
+      -0.222,
+      0.076
+     ]
+    },
+    {
+     "x": 7.357,
+     "w": 1.52,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.55
+     ],
+     "window": [
+      2.187,
+      3.096
+     ],
+     "span": [
+      0.97,
+      3.33
+     ]
+    },
+    {
+     "x": 14.303,
+     "w": 1.52,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.55
+     ],
+     "window": [
+      2.187,
+      3.096
+     ],
+     "span": [
+      0.97,
+      3.33
+     ]
+    }
+   ],
+   "windows": [
+    [
+     2.85,
+     3.58
+    ],
+    [
+     4.106,
+     5.776
+    ],
+    [
+     8.936,
+     10.606
+    ],
+    [
+     11.052,
+     12.722
+    ],
+    [
+     15.882,
+     17.552
+    ],
+    [
+     17.998,
+     19.668
+    ]
+   ],
+   "bogies": [
+    2.909,
+    17.079
+   ],
+   "under": [
+    [
+     6.6,
+     14.92
+    ]
+   ]
+  },
+  "next": {
+   "length": 20.41,
+   "doors": [
+    {
+     "x": 6.107,
+     "w": 1.52,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.55
+     ],
+     "window": [
+      2.187,
+      3.096
+     ],
+     "span": [
+      0.97,
+      3.33
+     ]
+    },
+    {
+     "x": 13.053,
+     "w": 1.52,
+     "leaves": 2,
+     "panes": [
+      0.19,
+      0.55
+     ],
+     "window": [
+      2.187,
+      3.096
+     ],
+     "span": [
+      0.97,
+      3.33
+     ]
+    },
+    {
+     "x": 18.43,
+     "w": 0.74,
+     "cab": true,
+     "window": [
+      1.72,
+      3.05
+     ],
+     "span": [
+      1.0,
+      3.33
+     ],
+     "panes": [
+      -0.076,
+      0.222
+     ]
+    }
+   ],
+   "windows": [
+    [
+     0.742,
+     2.412
+    ],
+    [
+     2.858,
+     4.528
+    ],
+    [
+     7.688,
+     9.358
+    ],
+    [
+     9.804,
+     11.474
+    ],
+    [
+     14.634,
+     16.304
+    ],
+    [
+     16.83,
+     17.56
+    ]
+   ],
+   "bogies": [
+    3.331,
+    17.501
+   ],
+   "under": [
+    [
+     5.48,
+     13.81
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.04,
+     0.12,
+     1
+    ],
+    [
+     0.0,
+     0.55
+    ],
+    [
+     0.0,
+     1.24
+    ],
+    [
+     0.097,
+     1.78
+    ],
+    [
+     0.18,
+     2.27
+    ],
+    [
+     0.264,
+     2.76
+    ],
+    [
+     0.306,
+     3.01
+    ],
+    [
+     0.348,
+     3.26
+    ],
+    [
+     0.404,
+     3.5
+    ],
+    [
+     0.445,
+     3.6
+    ],
+    [
+     0.557,
+     3.649
+    ],
+    [
+     0.682,
+     3.698
+    ],
+    [
+     0.877,
+     3.747
+    ],
+    [
+     1.0,
+     3.77,
+     1
+    ]
+   ]
+  },
+  "face": {
+   "halfWidth": 1.41,
+   "bottom": 0.12,
+   "panel": {
+    "rect": [
+     -1.32,
+     1.383,
+     1.32,
+     2.265
+    ],
+    "r": [
+     0.12,
+     0,
+     0,
+     0.12
+    ]
+   },
+   "dark": [
+    {
+     "rect": [
+      -1.275,
+      2.272,
+      1.275,
+      3.237
+     ],
+     "r": [
+      0.04,
+      0.1,
+      0.1,
+      0.04
+     ]
+    },
+    {
+     "rect": [
+      0.045,
+      2.95,
+      1.18,
+      3.216
+     ],
+     "r": [
+      0.02,
+      0.02,
+      0.03,
+      0.02
+     ]
+    },
+    {
+     "rect": [
+      -0.585,
+      0.21,
+      0.585,
+      0.984
+     ],
+     "r": [
+      0.05,
+      0.15,
+      0.15,
+      0.05
+     ]
+    }
+   ],
+   "screens": [
+    {
+     "rect": [
+      0.045,
+      2.303,
+      1.18,
+      2.93
+     ],
+     "r": [
+      0.02,
+      0.02,
+      0.02,
+      0.04
+     ]
+    },
+    {
+     "rect": [
+      -1.18,
+      2.303,
+      -0.045,
+      3.216
+     ],
+     "r": [
+      0.04,
+      0.06,
+      0.02,
+      0.02
+     ]
+    }
+   ],
+   "lights": [
+    {
+     "rect": [
+      0.575,
+      1.445,
+      1.135,
+      1.693
+     ],
+     "r": [
+      0.03,
+      0.03,
+      0.03,
+      0.03
+     ],
+     "mirror": true
+    }
+   ],
+   "lampUnits": [
+    [
+     {
+      "kind": "head",
+      "m": 0.914,
+      "y": 1.575,
+      "r": 0.09
+     },
+     {
+      "kind": "tail",
+      "m": 0.703,
+      "y": 1.575,
+      "r": 0.09
+     }
+    ]
+   ],
+   "shapes": [
+    {
+     "shape": {
+      "rect": [
+       -1.5,
+       1.306,
+       1.5,
+       1.383
+      ],
+      "r": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     "color": "#3356B8"
+    },
+    {
+     "shape": {
+      "rect": [
+       -1.5,
+       1.231,
+       1.5,
+       1.306
+      ],
+      "r": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     "color": "#F19930"
+    },
+    {
+     "shape": {
+      "rect": [
+       -1.5,
+       0.0,
+       1.5,
+       1.231
+      ],
+      "r": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     "color": "#D82018"
+    },
+    {
+     "shape": {
+      "rect": [
+       -1.5,
+       3.24,
+       1.5,
+       3.28
+      ],
+      "r": [
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     "color": "#F19930"
+    }
+   ],
+   "number": {
+    "text": "456004",
+    "m": 0.915,
+    "y": 0.928,
+    "height": 0.1,
+    "color": "#F2F2EE",
+    "both": true
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.245,
+      2.2
+     ],
+     "tip": [
+      1.17,
+      2.42
+     ],
+     "mirror": true
+    }
+   ],
+   "lampRim": "black",
+   "tailLens": "red",
+   "headlamps": "outboard"
+  },
+  "form": {
+   "width": 2.82,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.15
+    ]
+   ],
+   "squareness": 6,
+   "glazing": "gasket"
+  }
+ },
+ "liveries": {
+  "SW": {
+   "body": "#E55349",
+   "roof": "#6A6468",
+   "doors": "#45558D",
+   "panel": "#E7C337",
+   "face": "#3356B8",
+   "surround": "#3C3E41",
+   "shapes": [
+    {
+     "points": [
+      [
+       -0.5,
+       3.6,
+       1
+      ],
+      [
+       4.12,
+       3.55
+      ],
+      [
+       3.99,
+       3.4
+      ],
+      [
+       3.798,
+       3.2
+      ],
+      [
+       3.592,
+       3.0
+      ],
+      [
+       3.376,
+       2.8
+      ],
+      [
+       3.158,
+       2.6
+      ],
+      [
+       2.943,
+       2.4
+      ],
+      [
+       2.737,
+       2.2
+      ],
+      [
+       2.547,
+       2.0
+      ],
+      [
+       2.379,
+       1.8
+      ],
+      [
+       2.224,
+       1.6
+      ],
+      [
+       2.066,
+       1.45
+      ],
+      [
+       1.839,
+       1.3
+      ],
+      [
+       1.521,
+       1.2
+      ],
+      [
+       0.956,
+       1.12
+      ],
+      [
+       0.0,
+       1.08
+      ],
+      [
+       -0.5,
+       1.0,
+       1
+      ]
+     ],
+     "color": "#F19930"
+    },
+    {
+     "points": [
+      [
+       -0.5,
+       3.6,
+       1
+      ],
+      [
+       2.683,
+       3.55
+      ],
+      [
+       2.608,
+       3.4
+      ],
+      [
+       2.515,
+       3.2
+      ],
+      [
+       2.426,
+       3.0
+      ],
+      [
+       2.336,
+       2.8
+      ],
+      [
+       2.24,
+       2.6
+      ],
+      [
+       2.134,
+       2.4
+      ],
+      [
+       2.014,
+       2.2
+      ],
+      [
+       1.881,
+       2.0
+      ],
+      [
+       1.738,
+       1.8
+      ],
+      [
+       1.589,
+       1.6
+      ],
+      [
+       1.436,
+       1.45
+      ],
+      [
+       1.186,
+       1.3
+      ],
+      [
+       0.927,
+       1.2
+      ],
+      [
+       0.647,
+       1.12
+      ],
+      [
+       0.3,
+       1.1
+      ],
+      [
+       0.0,
+       1.1
+      ],
+      [
+       -0.5,
+       1.05,
+       1
+      ]
+     ],
+     "color": "#3356B8"
+    }
+   ],
+   "rects": [
+    {
+     "x": [
+      -0.5,
+      20.41
+     ],
+     "y": [
+      3.455,
+      3.48
+     ],
+     "color": "#F19930"
+    },
+    {
+     "x": [
+      -0.1,
+      20.41
+     ],
+     "y": [
+      3.455,
+      3.48
+     ],
+     "color": "#F19930",
+     "car": "next"
+    },
+    {
+     "x": [
+      12.5,
+      20.41
+     ],
+     "y": [
+      1.46,
+      1.497
+     ],
+     "color": "#F19930"
+    },
+    {
+     "x": [
+      -0.1,
+      8.0
+     ],
+     "y": [
+      1.46,
+      1.497
+     ],
+     "color": "#F19930",
+     "car": "next"
+    },
+    {
+     "x": [
+      6.307,
+      6.597
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337"
+    },
+    {
+     "x": [
+      8.117,
+      8.407
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337"
+    },
+    {
+     "x": [
+      6.307,
+      8.407
+     ],
+     "y": [
+      3.33,
+      3.4
+     ],
+     "color": "#E7C337"
+    },
+    {
+     "x": [
+      13.253,
+      13.543
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337"
+    },
+    {
+     "x": [
+      15.063,
+      15.353
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337"
+    },
+    {
+     "x": [
+      13.253,
+      15.353
+     ],
+     "y": [
+      3.33,
+      3.4
+     ],
+     "color": "#E7C337"
+    },
+    {
+     "x": [
+      5.057,
+      5.347
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337",
+     "car": "next"
+    },
+    {
+     "x": [
+      6.867,
+      7.157
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337",
+     "car": "next"
+    },
+    {
+     "x": [
+      5.057,
+      7.157
+     ],
+     "y": [
+      3.33,
+      3.4
+     ],
+     "color": "#E7C337",
+     "car": "next"
+    },
+    {
+     "x": [
+      12.003,
+      12.293
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337",
+     "car": "next"
+    },
+    {
+     "x": [
+      13.813,
+      14.103
+     ],
+     "y": [
+      0.97,
+      3.33
+     ],
+     "color": "#E7C337",
+     "car": "next"
+    },
+    {
+     "x": [
+      12.003,
+      14.103
+     ],
+     "y": [
+      3.33,
+      3.4
+     ],
+     "color": "#E7C337",
+     "car": "next"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "SW-wordmark-455",
+     "at": [
+      10.9,
+      1.48
+     ],
+     "height": 0.357,
+     "color": "#F2F2EE"
+    },
+    {
+     "logo": "SW-wordmark-455",
+     "at": [
+      9.58,
+      1.48
+     ],
+     "height": 0.357,
+     "color": "#F2F2EE",
+     "car": "next"
+    }
+   ]
+  }
+ },
+ "trace": {
+  "heights": "dia, same template rows as the 455: bottom row 272 -> 0.897, roof band to row 56 -> 3.55, roof row 38 -> 3.77 (published 3.78), glass rows 97..175 -> 3.047..2.088.",
+  "wheel, wheelbase": "As the 455 (same template, BP20-type bogies drawn identically): 0.84, 2.6.",
+  "cab.length": "dia 58..1524 px = 20.41 m from the nose's foot (19.99 m from the face's top, published 19.95 m). p004's fit puts the face corner at the window row (u 2613) at x 0.12 against the profile's 0.18-0.21 there: the drawn nose length holds.",
+  "cab.doors[0]": "Cab door from p004, not the drawing: the 1D fit through six window edges (residuals <= 2.3 cm) puts its edges at 1.61 and 2.35 m (u 2472, 2408), centre 1.98, w 0.74, and the drop light at 1.758..2.056 (u 2459..2433), panes -0.222..0.076 about the centre. The drawing has the door at 1.07..2.05 with its window 1.28..1.70: 35-40 cm further forward and 23 cm wider; extrapolating the fit below 4 m is less sure (held-out window edge at 3.62: -9 cm). Window heights 1.72..3.05 from p004's column at u 2450 scaled by the short window's 1.081 m frame (the drawing: 1.84..2.92).",
+  "cab.doors[1,2]": "dia centres 586.5 and 1085.5 px -> 7.357 and 14.303 m (the 455's spacing, confirmed there on a photo). p004: door 1's near yellow edge at 6.253 m (centre about 7.30 if the surround is the 455's 2.10 m), door 2's at 13.112 (14.16): 6-14 cm ahead of the drawing, read through the door recess; the drawing kept. Leaves, windows and spans as the 455 (same body and doors; see classes/455 trace).",
+  "cab.windows": "Glass, dia row 140 less 58 px: 353..473, 700..820, 852..972, 1199..1319, 1351..1471 px -> 4.106..5.776, 8.936..10.606, 11.052..12.722, 15.882..17.552, 17.998..19.668 (p004 fit: frames within 2.3 cm). The short window behind the cab door from p004: frame 2.81..3.62 (u 2370..2307) -> glass about 2.85..3.58; the drawing has it 2.49..3.65 (0.45 m wider, its front edge 38 cm further forward on the fit).",
+  "cab.bogies, under": "dia: bogies 267, 1285 px -> 2.909, 17.079; underframe boxes 532..1130 px -> 6.60..14.92 (the motor car's).",
+  "next": "DTSO: the cab car reversed (dia 1581..3046 px: doors 6.10/13.05 m from the inner end, wheels at 1708..1930 and 2728..2948 px -> bogies 3.33/17.50); underframe 1975..2573 px -> 5.48..13.81. Its far end is a cab: the pipeline draws the second car's far end plain (needs an option).",
+  "nose.profile": "dia leftmost non-white per row: x 58 px (0) from row 300 to 244 (0.55..1.24 m), then leaning back 65/71/77/80/83/87 px at rows 200/160/120/100/80/60 -> 0.097/0.18/0.264/0.306/0.348/0.404 m at 1.78/2.27/2.76/3.01/3.26/3.50; roof curve rows 52..38 -> 0.445..1.0 m; skirt foot row 335 (0.12 m) at 61 px.",
+  "face.scale": "p004 (Canon 100D, 38 mm, near head-on from the right): horizontal 296 px/m from the red skirt's silhouette (2598..3433 px = 2.82 m, so foreshortened by the yaw, applying equally to both sides), measured as half the distance between mirrored features; vertical 323 px/m from the skirt's foot (0.123 m, dia row 335, at v 2153) to the roof (3.78 at v 971): y = 0.123 + (2153 - v)/323.",
+  "face.panel": "Yellow: v 1461..1746 -> 2.265..1.383 m, edges at 2623/3405 px -> +-1.32; lower outer corners rounded. Its middle section (2841..3177 px, +-0.57) stands proud: not modelled.",
+  "face.dark": "One black windscreen surround 2623..3378 px, v 1147..1459 -> +-1.275, 2.272..3.237. Destination display in the left pane's top (as seen from the front): 2678..2962 px, v 1178..1241 -> -1.04..-0.08, 2.95..3.14, drawn dark across the pane's width from 2.95 up. Coupler recess: 2851..3197 px, v 1875..2124 -> +-0.585, 0.21..0.984, top corners about 0.15. The display is in the +z (train's right) pane, see face.screens.",
+  "face.screens": "Two panes either side of a thin centre pillar (2972..3000 px): glass 2650..2972 and 2999..3346 px, v 1154..1449 -> inner +-0.045, outer +-1.18 (mean of both sides), 2.303..3.216; the left pane ends at the display (2.93). Side: the display pane is the left one as seen from ahead, the train's right (+z, far): p004 and p006 both show it there. Mirrored 2026-10-06 (it had been placed on the near side).",
+  "face.lights": "Recessed yellow lamp boxes: 2688..2851 and 3191..3360 px, v 1646..1726 -> +-0.575..1.135 (mean), 1.445..1.693.",
+  "face.lampUnits": "Head (clear reflector) outboard at 2751/3292 px -> 0.914; LED cluster (marker/tail) inboard at 2813/3229 -> 0.703; centres v 1683 -> 1.575; r 28 px -> 0.09 m each. Same order on p020c and p006 (head outboard). The LED cluster reads red unlit on p004 and lit red on p020c (second reader): tailLens red.",
+  "face.shapes": "Under the yellow: blue strip v 1746..1771 -> 1.383..1.306, orange line 1771..1795 -> 1.306..1.231, red below to the foot (redf-004). Orange line over the screens: v 1133..1146 -> 3.28..3.24, edge to edge, carrying on along the sides.",
+  "face.number": "'456004' in white on the red each side: centres 2754/3296 px -> 0.915 (mean), v 1893 -> 0.928 m, 31 px -> 0.10 m high.",
+  "face.wipers": "Parked flat along the bottom of each pane: pivots 2938/3083 px v 1482 -> 0.245, 2.20 (on the yellow's top edge); blade ends 2654/3346 px v 1416/1400 -> 1.17, 2.42.",
+  "form": "Width 2.82 published; corners rounder than the 455's in plan (p004, p006): setback 0.15, squareness 6; gasket glazing.",
+  "liveries.SW.colours": "Balanced against white-004 (wordmark stroke, overcast): red-004 #E55349, blue-004 #3356B8 (below the cab door's window, out of the reflections; the 455's sample was #325BC9), orange-004 #F19930, yellow-004 #E7C337, doorblue-004 #45558D. Front: redf-004 #D82018 against the white number (the front's lower red is deeper than the bodyside's in this photo); the front yellow saturates (raw #FFCC27), so the door-surround yellow is used for the panel. Surround: surround-004 raw #3C3E41 (glossy black). Roof: no clean sample in these photos; the 455's #6A6468 (same livery).",
+  "liveries.SW.shapes": "Cab-end sweep from dia (per-row extents of #000080/#FF8000 behind the nose, sweep.py), spline-smoothed (max residual 6.7 cm; the orange's rear edge is hidden by the windows between 2.1 and 3.1 m and interpolated) and sampled every 0.2 m. p004 row 1440 (y about 2.6): blue to 2.31, orange 2.39..2.76: the drawing has blue to 2.24 there. The blue's lower edge at the front, about 1.1 m on the drawing, is 1.31 m on the face (p004): left as drawn on the side.",
+  "liveries.SW.rects": "Orange cantrail line: dia rows 61..63 -> 3.455..3.48. Waist line behind door 2 on the cab car and on the DTSO's inner half: p004 (s-waistline crop) at about 1.46..1.50 m (the drawing has it at rows 234..237, 1.33..1.36, the 455's drawing at 1.52..1.55). Door surrounds as the 455's, with the yellow carried over the top of each door (p004, s-door1: a yellow arch 0.07 m deep above the leaves; the drawing omits it).",
+  "liveries.SW.branding": "SWR wordmark between doors 1 and 2: p004 fit 9.43..12.41 m (3.0 m, as on the 455), centre 10.9; y 1.48 from the window frame bottom (2.027) at u 1900 and 194 px/m; height 0.357 from the 3.0 m length and the artwork's aspect (8.4). The DTSO carries it between its doors too (p004 s-dtso), centred 9.58 from its inner end. Artwork: classes/455/logo/SW-wordmark.svg (to move to logos/SW-wordmark.svg)."
+ },
+ "elevation": {
+  "colours": {
+   "glass": "#1B232C",
+   "body": "#E55349",
+   "door": "#45558D",
+   "yellow": "#E7C337",
+   "orange": "#F19930",
+   "blue": "#3356B8"
+  },
+  "colourTol": {
+   "glass": 12,
+   "body": 14,
+   "door": 14,
+   "yellow": 16,
+   "orange": 20,
+   "blue": 14
+  },
+  "checks": [
+   {
+    "kind": "edge",
+    "what": "sweep at 3.5 m above the cab door: blue to orange (dia sweep)",
+    "car": "cab",
+    "y": 3.5,
+    "start": 1.0,
+    "direction": "back",
+    "to": "orange",
+    "x": 2.658,
+    "tol": 0.06
+   },
+   {
+    "kind": "edge",
+    "what": "sweep at 3.5 m: orange to the red bodyside",
+    "car": "cab",
+    "y": 3.5,
+    "start": 3.0,
+    "direction": "back",
+    "to": "body",
+    "x": 4.077,
+    "tol": 0.06
+   },
+   {
+    "kind": "edge",
+    "what": "sweep at 1.2 m ahead of the cab door: blue to orange",
+    "car": "cab",
+    "y": 1.2,
+    "start": 0.3,
+    "direction": "back",
+    "to": "orange",
+    "x": 0.927,
+    "tol": 0.06
+   },
+   {
+    "kind": "edge",
+    "what": "sweep at 1.2 m: orange to red",
+    "car": "cab",
+    "y": 1.2,
+    "start": 1.2,
+    "direction": "back",
+    "to": "body",
+    "x": 1.521,
+    "tol": 0.06
+   },
+   {
+    "kind": "column",
+    "what": "orange cantrail line",
+    "car": "cab",
+    "x": 10.0,
+    "y": [
+     3.455,
+     3.48
+    ],
+    "colour": "orange",
+    "tol": 0.03
+   },
+   {
+    "kind": "column",
+    "what": "orange waist line on the DMSO behind its wordmark",
+    "car": "cab",
+    "x": 16.5,
+    "y": [
+     1.46,
+     1.497
+    ],
+    "colour": "orange",
+    "tol": 0.03
+   },
+   {
+    "kind": "run",
+    "what": "door 1 front surround, yellow",
+    "car": "cab",
+    "y": 2.0,
+    "x": [
+     6.307,
+     6.597
+    ],
+    "colour": "yellow",
+    "tol": 0.04
+   },
+   {
+    "kind": "run",
+    "what": "door 1 rear surround, yellow",
+    "car": "cab",
+    "y": 2.0,
+    "x": [
+     8.117,
+     8.407
+    ],
+    "colour": "yellow",
+    "tol": 0.04
+   },
+   {
+    "kind": "column",
+    "what": "red bodyside, skirt to cantrail line, between window 2 and door 1",
+    "car": "cab",
+    "x": 5.95,
+    "y": [
+     0.897,
+     3.455
+    ],
+    "colour": "body",
+    "tol": 0.05
+   },
+   {
+    "kind": "column",
+    "what": "yellow over the top of door 1",
+    "car": "cab",
+    "x": 7.357,
+    "y": [
+     3.33,
+     3.4
+    ],
+    "colour": "yellow",
+    "tol": 0.03
+   }
+  ]
+ },
+ "views": {
+  "ref-004": {
+   "azimuth": -20,
+   "elevation": 2,
+   "lens": 61,
+   "frame": 12,
+   "size": [
+    1400,
+    930
+   ],
+   "note": "456004 nose nearly head-on, far side (bodyside left of the face); 38 mm APS-C = 61 mm equiv"
+  },
+  "ref-006": {
+   "azimuth": -15,
+   "elevation": 3,
+   "lens": 60,
+   "frame": 3,
+   "size": [
+    1200,
+    900
+   ],
+   "note": "456006 close front, far side visible at the left; no EXIF"
+  },
+  "ref-020c": {
+   "azimuth": 25,
+   "elevation": 2,
+   "lens": 35,
+   "frame": 3,
+   "size": [
+    1200,
+    900
+   ],
+   "note": "456020 close front from the left of the train (near side), wide angle"
+  }
+ },
+ "pairs": [
+  {
+   "id": "corner-door",
+   "crop": "s-corner-door-004",
+   "view": "ref-004",
+   "box": [
+    -0.1,
+    8.6,
+    0.8,
+    3.8,
+    1.1,
+    1.45
+   ]
+  },
+  {
+   "id": "face",
+   "crop": "f-face-004",
+   "view": "ref-004",
+   "box": [
+    -0.1,
+    1.1,
+    0.1,
+    3.85,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "screens",
+   "crop": "f-screens-004",
+   "view": "ref-004",
+   "box": [
+    -0.1,
+    0.6,
+    2.2,
+    3.35,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "panel",
+   "crop": "f-panel-004",
+   "view": "ref-004",
+   "box": [
+    -0.1,
+    0.4,
+    1.2,
+    2.35,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "lamps",
+   "crop": "f-lamps-l-004",
+   "view": "ref-004",
+   "box": [
+    -0.05,
+    0.3,
+    1.4,
+    1.75,
+    0.5,
+    1.2
+   ]
+  },
+  {
+   "id": "lamps-near",
+   "crop": "f-lamps-r-004",
+   "view": "ref-004",
+   "box": [
+    -0.05,
+    0.3,
+    1.4,
+    1.75,
+    -1.2,
+    -0.5
+   ]
+  },
+  {
+   "id": "lower",
+   "crop": "f-lower-004",
+   "view": "ref-004",
+   "box": [
+    -0.1,
+    0.3,
+    0.1,
+    1.45,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "roof",
+   "crop": "f-roof-004",
+   "view": "ref-004",
+   "box": [
+    -0.1,
+    1.5,
+    3.1,
+    3.85,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "front-006",
+   "crop": "f-front-006",
+   "view": "ref-006",
+   "box": [
+    -0.1,
+    1.1,
+    0.1,
+    3.85,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "front-020c",
+   "crop": "f-front-020c",
+   "view": "ref-020c",
+   "box": [
+    -0.1,
+    1.1,
+    0.1,
+    3.85,
+    -1.45,
+    1.45
+   ]
+  },
+  {
+   "id": "cab-door",
+   "crop": "s-cab-004",
+   "view": "ref-004",
+   "box": [
+    0.8,
+    4.0,
+    0.8,
+    3.6,
+    1.1,
+    1.45
+   ]
+  },
+  {
+   "id": "first-door",
+   "crop": "s-door1-004",
+   "view": "ref-004",
+   "box": [
+    6.0,
+    8.7,
+    0.85,
+    3.5,
+    1.2,
+    1.45
+   ]
+  },
+  {
+   "id": "door2",
+   "crop": "s-door2-004",
+   "view": "ref-004",
+   "box": [
+    13.0,
+    15.6,
+    0.85,
+    3.5,
+    1.2,
+    1.45
+   ]
+  },
+  {
+   "id": "windows",
+   "crop": "s-windows-004",
+   "view": "ref-004",
+   "box": [
+    8.7,
+    13.0,
+    1.9,
+    3.2,
+    1.2,
+    1.45
+   ]
+  },
+  {
+   "id": "logo",
+   "crop": "s-wordmark-004",
+   "view": "ref-004",
+   "box": [
+    9.2,
+    12.6,
+    1.2,
+    1.8,
+    1.2,
+    1.45
+   ]
+  },
+  {
+   "id": "waistline",
+   "crop": "s-waistline-004",
+   "view": "ref-004",
+   "box": [
+    12.0,
+    20.4,
+    1.3,
+    1.65,
+    1.2,
+    1.45
+   ]
+  }
+ ]
+}

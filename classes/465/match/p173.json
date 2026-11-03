@@ -1,0 +1,179 @@
+{
+ "ref": "p173",
+ "side": "far",
+ "note": "465173 (465/1) at Meopham, nose to the right: the bodyside seen is the train's right (far, +Y); the left-as-seen lamp box (lit headlamp) is lamp1. Sony DSC-HX60 at 6.26 mm (1/2.3in, 6.17 mm wide): 3701 px at 3648 wide; left to the solve so the wide end's barrel distortion (k1) can be fitted with it.",
+ "points": {
+  "door1-front-top": [
+   1644,
+   800
+  ],
+  "door1-rear-top": [
+   1496,
+   822
+  ],
+  "door0-front-top": [
+   2242,
+   707
+  ],
+  "door0-rear-top": [
+   2069,
+   728
+  ],
+  "door2-front-top": [
+   1033,
+   895
+  ],
+  "lamp1-head": [
+   2575.5,
+   1397.5
+  ],
+  "lamp0-head": [
+   3125,
+   1359
+  ],
+  "screen1-top-far": [
+   2466,
+   752
+  ],
+  "screen1-bottom-far": [
+   2452,
+   1138
+  ],
+  "cw-front-mid": [
+   2205,
+   1028
+  ],
+  "cw-rear-mid": [
+   2098,
+   1028
+  ],
+  "cw-top-mid": [
+   2152,
+   794
+  ],
+  "cw-bottom-mid": [
+   2152,
+   1262
+  ],
+  "wa-front-mid": [
+   1470,
+   1036
+  ],
+  "wa-rear-mid": [
+   1363,
+   1036
+  ],
+  "wb-front-mid": [
+   1351,
+   1035
+  ],
+  "wb-rear-mid": [
+   1259,
+   1035
+  ],
+  "wc-front-mid": [
+   1247.5,
+   1036
+  ],
+  "wc-rear-mid": [
+   1170,
+   1036
+  ],
+  "wd-front-mid": [
+   1164,
+   1035
+  ],
+  "wd-rear-mid": [
+   1094,
+   1035
+  ],
+  "we-front-mid": [
+   1087.5,
+   1034
+  ],
+  "we-rear-mid": [
+   1029,
+   1034
+  ]
+ },
+ "holdout": [
+  "door2-front-top",
+  "wc-rear-mid",
+  "cw-front-mid",
+  "screen1-bottom-far"
+ ],
+ "readings": {
+  "door1-front-top": "pk173a: the door frame's top-front corner under the orange line",
+  "door1-rear-top": "pk173a: the frame's top-rear corner",
+  "door1-front-bottom": "pk173a: the leaf's lower front corner above the step",
+  "door1-rear-bottom": "pk173a: the leaf's lower rear corner",
+  "door0-front-top": "pk173a: the cab door's black front seal where it meets the top seam",
+  "door0-rear-top": "pk173a: the cab door's rear seam meeting the top seam",
+  "door2-front-top": "pk173a: door 2's top-front frame corner",
+  "lamp1-head": "pk173b: centre of the lit headlamp disc, left box",
+  "lamp0-head": "pk173b: centre of the clear headlamp, right box",
+  "screen1-top-far": "pk173c: the left glass's top and outer edges extended through the rounded corner",
+  "screen1-bottom-far": "pk173c: the left glass's bottom and outer edges",
+  "cw-*": "profiles: cab door window rows 794-1262 (cols 2155-2165), x 2098-2205 (rows 1000-1010); edge midpoints",
+  "not used": "door 1's bottom corners (1657,1396), (1510,1367) solve to half-width 1.21-1.24 m at 1.0 m, not 1.305: the lower bodyside turns in (unmodelled tumblehome below the waist)",
+  "w*-mid": "z173win (2x crop 960-1520 x 860-1200): the five window frames between doors 1 and 2, outer edges at their mid height"
+ },
+ "model": {
+  "cw-front-mid": [
+   1.39,
+   2.395
+  ],
+  "cw-rear-mid": [
+   1.99,
+   2.395
+  ],
+  "cw-top-mid": [
+   1.69,
+   3.02
+  ],
+  "cw-bottom-mid": [
+   1.69,
+   1.77
+  ],
+  "wa-front-mid": [
+   7.078,
+   2.375
+  ],
+  "wa-rear-mid": [
+   8.493,
+   2.375
+  ],
+  "wb-front-mid": [
+   8.713,
+   2.375
+  ],
+  "wb-rear-mid": [
+   10.129,
+   2.375
+  ],
+  "wc-front-mid": [
+   10.349,
+   2.375
+  ],
+  "wc-rear-mid": [
+   11.765,
+   2.375
+  ],
+  "wd-front-mid": [
+   11.985,
+   2.375
+  ],
+  "wd-rear-mid": [
+   13.4,
+   2.375
+  ],
+  "we-front-mid": [
+   13.621,
+   2.375
+  ],
+  "we-rear-mid": [
+   15.036,
+   2.375
+  ]
+ }
+}

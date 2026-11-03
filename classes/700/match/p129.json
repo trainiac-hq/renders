@@ -1,0 +1,58 @@
+{
+ "ref": "p129",
+ "side": "far",
+ "focalPx": 2798,
+ "model": {
+  "w1-top-front": [
+   3.48,
+   2.97
+  ],
+  "w1-bottom-front": [
+   3.48,
+   1.97
+  ],
+  "w1-top-rear": [
+   4.988,
+   2.97
+  ],
+  "w1-bottom-rear": [
+   4.988,
+   1.97
+  ]
+ },
+ "points": {
+  "lamp0-tail": [
+   1253.5,
+   634
+  ],
+  "lamp0-head": [
+   1222.5,
+   645
+  ],
+  "lamp1-tail": [
+   850,
+   634
+  ],
+  "lamp1-head": [
+   889,
+   646
+  ],
+  "w1-top-front": [
+   755,
+   462.5
+  ],
+  "w1-top-rear": [
+   725,
+   462.5
+  ],
+  "door1-front-top": [
+   712.5,
+   428.8
+  ]
+ },
+ "holdout": [
+  "lamp0-head",
+  "w1-top-rear"
+ ],
+ "notes": "700129 head-on from the left (Canon R50 at 39 mm: 2798 px across 1600). Lamps from the brightened zoom (centres of the red tail and the headlamp lens); the first window behind the cab door on the far (visible) side."
+}

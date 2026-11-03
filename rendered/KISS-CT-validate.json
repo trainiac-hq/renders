@@ -1,0 +1,314 @@
+[
+ {
+  "check": "corners",
+  "name": "every outline",
+  "ok": true,
+  "detail": "409 outlines, 44381 points, none turning more than 20° at a point"
+ },
+ {
+  "check": "smooth edges",
+  "name": "every paint edge",
+  "ok": true,
+  "detail": "13 paint edges faired; the worst wobble 0.26 mm (limit 0.8), painted area at (1.08, 2.00)"
+ },
+ {
+  "check": "bodyside",
+  "name": "doors and windows on the flat side",
+  "ok": true,
+  "detail": "42 features, all clear of the nose's corner and the car ends"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 350.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 350.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 350.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 195.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 350.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp head",
+  "ok": true,
+  "detail": "closest 12.0 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp tail",
+  "ok": true,
+  "detail": "closest 24.2 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp head",
+  "ok": true,
+  "detail": "closest 12.0 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "lamp tail",
+  "ok": true,
+  "detail": "closest 24.2 mm to its parent's edge (margin 12 mm)"
+ },
+ {
+  "check": "front features",
+  "name": "nothing set into the front overlaps",
+  "ok": true,
+  "detail": "5 features, at least 10 mm apart"
+ },
+ {
+  "check": "on the body",
+  "name": "paint:#EEF0F2",
+  "ok": true,
+  "detail": "spans 1.530 to 4.740 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "on the body",
+  "name": "paint:#EEF0F2",
+  "ok": true,
+  "detail": "spans 0.539 to 1.410 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "on the body",
+  "name": "paint:#6A7076",
+  "ok": true,
+  "detail": "spans 3.500 to 4.740 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 2.100 to 3.740 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 3.700 to 4.190 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "containment",
+  "name": "screen in its panel",
+  "ok": true,
+  "detail": "closest 21.1 mm to its parent's edge (margin 20 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.470 to 3.715 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "containment",
+  "name": "screen in its panel",
+  "ok": true,
+  "detail": "closest 30.0 mm to its parent's edge (margin 20 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 3.780 to 4.160 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.400 to 3.260 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.400 to 3.260 m up; the nose runs 0.530 to 4.800"
+ },
+ {
+  "check": "slivers",
+  "name": "paint:#EEF0F2 left showing",
+  "ok": true,
+  "detail": "3 thin tips where edges cross, the longest 40 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "paint:#EEF0F2 left showing",
+  "ok": true,
+  "detail": "0 thin tips where edges cross, the longest 0 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "paint:#6A7076 left showing",
+  "ok": true,
+  "detail": "4 thin tips where edges cross, the longest 44 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "0 thin tips where edges cross, the longest 0 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "1 thin tips where edges cross, the longest 6 mm (limit 50)"
+ },
+ {
+  "check": "branding",
+  "name": "logos and wordmarks placed",
+  "ok": true,
+  "detail": "8 placed, each on the flat bodyside clear of doors and windows, or on the front"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layer lifts",
+  "ok": true,
+  "detail": "layers between 0.6 and 2.7 mm"
+ },
+ {
+  "check": "surface",
+  "name": "decal vertices laid on the shell",
+  "ok": true,
+  "detail": "0 of 702130 found no shell under them"
+ },
+ {
+  "check": "surface",
+  "name": "decal clearance",
+  "ok": true,
+  "detail": "0.81 to 2.40 mm off the body (allowed 0.4 to 3.1); furthest at (1.493, -0.285, 4.022), closest at (0.494, 1.449, 0.564)"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layers",
+  "ok": true,
+  "detail": "layers at 0.90, 1.20, 2.10, 2.40 mm"
+ },
+ {
+  "check": "gaps",
+  "name": "body colour showing between regions",
+  "ok": true,
+  "detail": "0 pixels in the ID pass at 1800x1400"
+ },
+ {
+  "check": "branding",
+  "name": "logo-0-CT.svg",
+  "ok": true,
+  "detail": "2004 faces on the near and far side, 1.175 x 0.660 m"
+ },
+ {
+  "check": "branding",
+  "name": "logo-1-CT.svg",
+  "ok": true,
+  "detail": "2004 faces on the near and far side, 1.175 x 0.660 m"
+ },
+ {
+  "check": "branding",
+  "name": "logo-2-CT.svg",
+  "ok": true,
+  "detail": "2004 faces on the near and far side, 1.175 x 0.660 m"
+ },
+ {
+  "check": "branding",
+  "name": "logo-3-CT.svg on the front",
+  "ok": true,
+  "detail": "2006 of 2006 points laid on the front, centre at x 0.019, face normal (-0.98, -0.0, 0.19)"
+ },
+ {
+  "check": "branding",
+  "name": "logo-4-CT-dest.svg on the front",
+  "ok": true,
+  "detail": "410148 of 410148 points laid on the front, centre at x 0.984, face normal (-0.74, 0.0, 0.67)"
+ },
+ {
+  "check": "branding",
+  "name": "logo-5-CT-308.svg",
+  "ok": true,
+  "detail": "2357 faces on the near and far side, 0.505 x 0.230 m"
+ },
+ {
+  "check": "branding",
+  "name": "logo-6-CT-308-grey.svg",
+  "ok": true,
+  "detail": "2357 faces on the near and far side, 0.483 x 0.220 m"
+ },
+ {
+  "check": "branding",
+  "name": "logo-7-Stadler.svg",
+  "ok": true,
+  "detail": "5759 faces on the near and far side, 0.338 x 0.055 m"
+ },
+ {
+  "check": "shadow edges",
+  "name": "hero: the shadow fades out before the frame's edges",
+  "ok": true,
+  "detail": "most shadow alpha at each edge (limit 2): top 0, bottom 0, left 0, right 0"
+ },
+ {
+  "check": "shadow edges",
+  "name": "plate: the shadow fades out before the frame's edges",
+  "ok": true,
+  "detail": "most shadow alpha at each edge (limit 2): top 0, bottom 0, left 0, right 0"
+ }
+]

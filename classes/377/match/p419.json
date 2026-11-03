@@ -1,0 +1,141 @@
+{
+ "ref": "p419",
+ "side": "near",
+ "model": {
+  "strip-front-bottom": [
+   1.8,
+   3.109
+  ],
+  "strip-rear-bottom": [
+   4.7,
+   3.109
+  ],
+  "stripe-front-top": [
+   5.325,
+   2.87
+  ],
+  "stripe-front-bottom": [
+   5.325,
+   1.8
+  ],
+  "stripe2-front-top": [
+   5.643,
+   2.87
+  ],
+  "win1-front-bottom": [
+   6.671,
+   1.886
+  ],
+  "st3-top": [
+   14.572,
+   2.87
+  ],
+  "st3-bottom": [
+   14.572,
+   1.8
+  ],
+  "c2-st-top": [
+   26.01,
+   2.87
+  ],
+  "c2-st-bottom": [
+   26.01,
+   1.8
+  ]
+ },
+ "points": {
+  "lamp0-head": [
+   1247,
+   1257
+  ],
+  "lamp0-tail": [
+   1173,
+   1270
+  ],
+  "lamp1-head": [
+   673,
+   1222
+  ],
+  "door1-front-top": [
+   1802,
+   760
+  ],
+  "strip-front-bottom": [
+   1592,
+   772
+  ],
+  "strip-rear-bottom": [
+   1804,
+   792
+  ],
+  "stripe-front-top": [
+   1841,
+   840
+  ],
+  "stripe-front-bottom": [
+   1854,
+   1051
+  ],
+  "stripe2-front-top": [
+   1858,
+   840
+  ],
+  "win1-front-bottom": [
+   1917,
+   1040
+  ],
+  "frame-top-outer": [
+   1321,
+   713
+  ],
+  "door2-front-top": [
+   2148,
+   809
+  ],
+  "st3-top": [
+   2161,
+   857
+  ],
+  "st3-bottom": [
+   2170,
+   989
+  ],
+  "c2-st-top": [
+   2330,
+   873
+  ],
+  "c2-st-bottom": [
+   2337,
+   959
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "stripe-front-bottom",
+  "st3-bottom"
+ ],
+ "readings": {
+  "lamp0-head": "pk zoom: lens circle 1212-1281 x 1226-1287",
+  "lamp0-tail": "LED lens 1144-1202 x 1250-1291",
+  "lamp1-head": "far headlamp lens 638-708 x 1184-1260, edge partly behind the gangway",
+  "door1-front-top": "dark door leaf meets the orange line",
+  "strip-front-bottom": "re-read: the strip's front edge is the cab door's rear edge (dark line at 1598-1600 at the top, 1590 at the strip's bottom); first pick 1580 was the shadow. pside agrees (strip ends 10 px before the door)",
+  "strip-rear-bottom": "strip ends at the door's front edge",
+  "stripe-front-top": "front leaf's yellow stripe, its front top corner",
+  "stripe-front-bottom": "same stripe's front bottom corner",
+  "stripe2-front-top": "rear leaf's stripe, front top corner",
+  "win1-front-bottom": "first saloon window's glass, front bottom corner",
+  "frame-top-outer": "near windscreen's black frame, outer top corner (rounded)",
+  "door2-front-top": "car 1's second door meets the orange line",
+  "st3-top": "its front leaf's stripe, front top",
+  "st3-bottom": "same, front bottom",
+  "c2-st-top": "car 2's first door, front leaf stripe, front top",
+  "c2-st-bottom": "same, front bottom"
+ },
+ "modelFace": {
+  "frame-top-outer": [
+   -1.336,
+   3.27
+  ]
+ }
+}

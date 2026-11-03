@@ -1,0 +1,113 @@
+{
+ "ref": "p142",
+ "side": "far",
+ "focalPx": 2224,
+ "model": {
+  "w1-top-front": [
+   3.48,
+   2.97
+  ],
+  "w1-bottom-front": [
+   3.48,
+   1.97
+  ],
+  "w1-top-rear": [
+   4.988,
+   2.97
+  ],
+  "w1-bottom-rear": [
+   4.988,
+   1.97
+  ]
+ },
+ "points": {
+  "w1-top-front": [
+   697,
+   376
+  ],
+  "w1-bottom-front": [
+   692,
+   536
+  ],
+  "w1-top-rear": [
+   660,
+   380
+  ],
+  "w1-bottom-rear": [
+   655,
+   526
+  ],
+  "lamp1-tail": [
+   842,
+   593
+  ],
+  "lamp1-head": [
+   891,
+   611
+  ],
+  "lamp0-tail": [
+   1355,
+   584
+  ],
+  "lamp0-head": [
+   1320,
+   597
+  ]
+ },
+ "holdout": [
+  "w1-bottom-rear",
+  "lamp0-head"
+ ],
+ "surface": {
+  "yellow-top-left": [
+   910.1,
+   545.6
+  ],
+  "yellow-top-right": [
+   1297.4,
+   541.8
+  ],
+  "yellow-bottom-centre": [
+   1109.5,
+   725.8
+  ],
+  "mask-top-centre": [
+   1109.5,
+   258.0
+  ],
+  "glass-bottom-centre": [
+   1109.5,
+   461.3
+  ],
+  "glass-top-centre": [
+   1109.5,
+   284.9
+  ],
+  "number": [
+   1109.5,
+   589.3
+  ],
+  "pod-outer-top-right": [
+   1377.9,
+   553.3
+  ],
+  "pod-inner-bottom-right": [
+   1285.9,
+   649.1
+  ],
+  "yellow-left-mid": [
+   914.0,
+   641.5
+  ],
+  "mask-left-low": [
+   902.5,
+   534.1
+  ]
+ },
+ "readings": {
+  "focalPx": "EXIF: Canon EOS R50 (APS-C 22.3 mm), 31 mm, 3:2 uncropped at 1600 px",
+  "w1-*": "z23 (12x): the first window's dark glass corners (front at image right)",
+  "lamp*": "g142 (1.3x) and z24: red tails lit, centres of the red discs; the headlamps' centres approximate (dark)",
+  "surface": "g142: face features read off at 1.3x"
+ }
+}

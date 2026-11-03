@@ -1,0 +1,1136 @@
+{
+ "class": "158",
+ "subject": "Class 158 Express Sprinter: geometry (all operators) and the six current liveries (GW, NT, EM, SR, AW, SW)",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-158-Arriva-Northern-2-Car.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_158_Arriva_Northern_2_Car.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-05-28",
+   "kind": "diagram",
+   "unit": "158 (2 cars), Northern livery (current)",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "geometry reference: every 158/159 diagram in this series shares one template, pixel for pixel (wheels, doors, windows, roof at the same pixels in the NT, EMR, GWR, TfW and SWR files)"
+  },
+  "dia-em": {
+   "file": "refs/Class-158-East-Midlands-Railway-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_158_East_Midlands_Railway_Diagram.png",
+   "author": "Vauxhallvauxhall",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-23",
+   "kind": "diagram",
+   "unit": "158, EMR interim (ex-EMT swirl, EMR Regional)",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "OUT OF DATE livery: 2026 photos show EMR purple; kept for the template cross-check only"
+  },
+  "dia-gw": {
+   "file": "refs/Class158-0-GWR.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class158-0_GWR.png",
+   "author": "Smithdo43172",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-11-17",
+   "kind": "diagram",
+   "unit": "158/0, GWR green",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dia-aw": {
+   "file": "refs/Class-158-in-the-Transport-for-Wales-livery.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_158_in_the_Transport_for_Wales_livery.png",
+   "author": "N0thhan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-02-21",
+   "kind": "diagram",
+   "unit": "158, TfW grey/red",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "dia-sr": {
+   "file": "refs/Scotrail-Class-158.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Scotrail_Class_158.png",
+   "author": "TheTransportHub",
+   "licence": "CC BY-SA 4.0",
+   "date": "2020-05-10",
+   "kind": "diagram",
+   "unit": "158/7, ScotRail saltire",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "same template at 0.5528 scale (doors 79-122/828-871 px vs 146-225/1501-1580): livery only"
+  },
+  "dia-sw": {
+   "file": "refs/Class-158-swr-livery.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_158_swr_livery.png",
+   "author": "Benspiersphotos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-10-17",
+   "kind": "diagram",
+   "unit": "158/8, SWR diagonal-stripes livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "pemr": {
+   "file": "refs/Boston-EMR-158866-Skegness-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Boston_-_EMR_158866_Skegness_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-09-03",
+   "kind": "photo",
+   "unit": "158866 (2 cars), EMR purple",
+   "view": "side three-quarter, cab left, near side",
+   "light": "overcast"
+  },
+  "pemr2": {
+   "file": "refs/United-Kingdom-Transport-256.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:United_Kingdom_Transport_256.jpg",
+   "author": "Matthew Black",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-25",
+   "kind": "photo",
+   "unit": "158847, EMR purple",
+   "view": "front three-quarter, close, Liverpool Lime St",
+   "light": "station roof, bright, washed out"
+  },
+  "pemr3": {
+   "file": "refs/Sleaford-EMR-158852-Skegness-to-Nottingham.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Sleaford_-_EMR_158852_Skegness_to_Nottingham.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-09-03",
+   "kind": "photo",
+   "unit": "158852, EMR purple",
+   "view": "front three-quarter",
+   "light": "overcast/bright"
+  },
+  "pgw": {
+   "file": "refs/GWR-Class-158-54407697725-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_158_(54407697725).jpg",
+   "author": "James Petts",
+   "licence": "CC BY-SA 2.0",
+   "date": "2025-03-24",
+   "kind": "photo",
+   "unit": "158798, GWR green",
+   "view": "front three-quarter, cab left, long side",
+   "light": "overcast",
+   "exif": "Galaxy S25 Ultra, 18.6 mm (115 mm equiv), fetched at 3840 of 5712 px"
+  },
+  "pgw2": {
+   "file": "refs/158798-Topsham-060825.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158798_Topsham_060825.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-08-07",
+   "kind": "photo",
+   "unit": "158798, GWR green",
+   "view": "close front three-quarter, wide angle",
+   "light": "sun"
+  },
+  "pgw3": {
+   "file": "refs/Bathpool-GWR-158771-Cardiff-to-Taunton.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bathpool_-_GWR_158771_Cardiff_to_Taunton.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-08",
+   "kind": "photo",
+   "unit": "158771, GWR",
+   "view": "from above, head-on with roof",
+   "light": "hazy sun"
+  },
+  "pgw4": {
+   "file": "refs/Exeter-Central-GWR-158798-arriving-from-Exmouth.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Exeter_Central_-_GWR_158798_arriving_from_Exmouth.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-22",
+   "kind": "photo",
+   "unit": "158798",
+   "view": "front three-quarter",
+   "light": "sun"
+  },
+  "pnt": {
+   "file": "refs/Northern-158-790.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Northern_158_790.jpg",
+   "author": "MissCatTrap",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-06",
+   "kind": "photo",
+   "unit": "158790 (2 cars), Northern",
+   "view": "front three-quarter, cab right",
+   "light": "overcast, processed (HDR look)",
+   "exif": "Nikon D3400, 48 mm (72 mm equiv), probably cropped (5145 of 6000 px)"
+  },
+  "pnt2": {
+   "file": "refs/Northern-158791-54697729214.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Northern_158791_-_54697729214.jpg",
+   "author": "dunsphotos",
+   "licence": "CC BY 4.0",
+   "date": "2025-08-03",
+   "kind": "photo",
+   "unit": "158791, Northern",
+   "view": "close front three-quarter, wide angle",
+   "light": "sun"
+  },
+  "pnt3": {
+   "file": "refs/Class-158-Express-Sprinter-DMU-Northern-158758.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_158_Express_Sprinter_DMU_-_Northern_158758.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-22",
+   "kind": "photo",
+   "unit": "158758, Northern",
+   "view": "front three-quarter",
+   "light": "sun"
+  },
+  "pnt-old": {
+   "file": "refs/158790-Saltaire-September-26th-2022.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158790,_Saltaire,_September_26th_2022.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-09-26",
+   "kind": "photo",
+   "unit": "158790",
+   "view": "nearly head-on",
+   "light": "overcast"
+  },
+  "psr": {
+   "file": "refs/158711-Aberdeen.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158711_Aberdeen.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-02",
+   "kind": "photo",
+   "unit": "158711 (158/7), ScotRail saltire",
+   "view": "front three-quarter, cab left",
+   "light": "overcast, station"
+  },
+  "psr2": {
+   "file": "refs/158730-Kinghorn.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158730_Kinghorn.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-05-17",
+   "kind": "photo",
+   "unit": "158730",
+   "view": "three-quarter",
+   "light": "sun"
+  },
+  "psr3": {
+   "file": "refs/158725-Perth.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158725_Perth.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-02",
+   "kind": "photo",
+   "unit": "158725",
+   "view": "from above",
+   "light": "overcast"
+  },
+  "paw": {
+   "file": "refs/158835-SHR-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158835_SHR_2024.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-10-21",
+   "kind": "photo",
+   "unit": "158835 (158/8), TfW",
+   "view": "front three-quarter, cab right, close",
+   "light": "overcast",
+   "exif": "Canon EOS M5, 45 mm (72 mm equiv), 5699x3799 of 6000x4000 (slightly cropped)"
+  },
+  "paw2": {
+   "file": "refs/158824-at-Llandudno-Junction-Sep-28th-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158824_at_Llandudno_Junction_Sep_28th_2024.jpg",
+   "author": "Spirit of Railways",
+   "licence": "CC BY 4.0",
+   "date": "2024-09-28",
+   "kind": "photo",
+   "unit": "158824, TfW",
+   "view": "front three-quarter, cab right, headlamp lit",
+   "light": "overcast",
+   "exif": "Canon PowerShot SX540 HS, 7.53 mm; 5184x3888 native (uncropped)"
+  },
+  "paw3": {
+   "file": "refs/Class-158-Express-Sprinter-DMU-158829-54647698159.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_158_Express_Sprinter_DMU_(158829)_-_54647698159.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-29",
+   "kind": "photo",
+   "unit": "158829, TfW",
+   "view": "three-quarter, coast",
+   "light": "sun"
+  },
+  "psw": {
+   "file": "refs/158888-and-701504-at-Basingstoke-05-09-25-54767891338-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158888_and_701504_at_Basingstoke_05_09_25_(54767891338).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-05",
+   "kind": "photo",
+   "unit": "158888 (158/8), SWR diagonal-stripes livery",
+   "view": "front three-quarter, cab right",
+   "light": "bright overcast"
+  },
+  "psw2": {
+   "file": "refs/158890-159007-Crewkerne-December-11th-2025-55028971933.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158890_&_159007,_Crewkerne,_December_11th_2025_-_55028971933.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-12-11",
+   "kind": "photo",
+   "unit": "158890, SWR",
+   "view": "head-on, slightly right",
+   "light": "overcast"
+  },
+  "psw3": {
+   "file": "refs/158890-159016-London-Waterloo-December-1st-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:158890_&_159016,_London_Waterloo,_December_1st_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-12-01",
+   "kind": "photo",
+   "unit": "158890, SWR",
+   "view": "front three-quarter",
+   "light": "station, artificial"
+  },
+  "p159012": {
+   "file": "refs/159012-Exeter-St-Davids-050825.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:159012_Exeter_St_Davids_050825.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-08-08",
+   "kind": "photo",
+   "unit": "159012 (same cab as the 158)",
+   "view": "head-on, slightly from the right (we see the right bodyside)",
+   "light": "sun",
+   "note": "the face is measured here: the 159 is a 158 body; used for the 158 face too"
+  }
+ },
+ "crops": [
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    20,
+    720,
+    345
+   ],
+   "feature": "cab end: cab side window, first door, roof grille, bogie",
+   "reading": "Cab car front: gangway frame proud of a vertical face, cab side window (two upper panes, chamfered lower pane, one black outline), then a two-leaf door with a centre seam and one narrow rounded window per leaf, roof box over the door, first saloon window with a hopper line."
+  },
+  {
+   "id": "d-inner",
+   "ref": "dia",
+   "box": [
+    1290,
+    20,
+    1780,
+    345
+   ],
+   "feature": "inner end of the cab car: last window, door, small window, gangway",
+   "reading": "Inner end: last saloon window, two-leaf door, one small narrow window, then the car end and bellows; roof box over the door."
+  },
+  {
+   "id": "d-next",
+   "ref": "dia",
+   "box": [
+    1740,
+    20,
+    2240,
+    345
+   ],
+   "feature": "front (inner end) of the next car",
+   "reading": "Next car's front (inner end): small narrow window, two-leaf door (navy in NT), then the window row; the next car is the mirror of the cab car."
+  },
+  {
+   "id": "s-cabwin-emr",
+   "ref": "pemr",
+   "box": [
+    560,
+    700,
+    760,
+    980
+   ],
+   "feature": "cab side window",
+   "reading": "Cab side window: one black rounded outline, two upper panes split by a vertical bar, lower pane with its rear-bottom corner chamfered. Matches the diagram shape.",
+   "reading2": "two upper panes split by a vertical bar, smaller lower pane with lower right corner cut at an angle; black outline, rounded corners."
+  },
+  {
+   "id": "s-door1-emr",
+   "ref": "pemr",
+   "box": [
+    700,
+    640,
+    1010,
+    1060
+   ],
+   "feature": "first bodyside door",
+   "reading": "First door: TWO leaves, silver, centre seam, one tall narrow rounded window per leaf, yellow step edge. Not a single leaf.",
+   "reading2": "two door leaves in light grey/white with a dark vertical seam, one tall narrow window with rounded ends in each leaf; yellow step edge below."
+  },
+  {
+   "id": "s-door2-emr",
+   "ref": "pemr",
+   "box": [
+    1900,
+    690,
+    2150,
+    990
+   ],
+   "feature": "second door and small window at the inner end",
+   "reading": "Second door: two silver leaves with centre seam, wheelchair sign, then one small narrow window before the car end.",
+   "reading2": "pair of grey/white leaves with central seam, two narrow rounded windows, wheelchair symbol; narrow vertical window to the right."
+  },
+  {
+   "id": "s-windows-emr",
+   "ref": "pemr",
+   "box": [
+    900,
+    730,
+    2000,
+    900
+   ],
+   "feature": "saloon window row, cab car",
+   "reading": "Nine saloon windows of near-equal size in rubber gaskets; the 1st and 6th have a top hopper pane."
+  },
+  {
+   "id": "s-livery-emr",
+   "ref": "pemr",
+   "box": [
+    860,
+    840,
+    2020,
+    1000
+   ],
+   "feature": "EMR lines (split swoosh) along the cab car",
+   "reading": "EMR purple with two thin pale lines that run as one from the doors and split into a lens round the 'EMR REGIONAL' lettering; orange cantrail line.",
+   "reading2": "two thin pale grey lines spread apart into a lens/eye shape around the lettering and come together toward each end; thin orange line at the top edge."
+  },
+  {
+   "id": "s-roof-emr",
+   "ref": "pemr",
+   "box": [
+    560,
+    560,
+    2150,
+    720
+   ],
+   "feature": "roof line: grilles over both doors, cantrail vents",
+   "reading": "Roof light grey; a louvred grille box over each door; small louvred vents in the bodyside just under the cantrail; orange cantrail line."
+  },
+  {
+   "id": "f-face-emr",
+   "ref": "pemr2",
+   "box": [
+    830,
+    200,
+    1520,
+    1066
+   ],
+   "feature": "EMR face, close",
+   "reading": "EMR face: yellow upper face round both screens; purple band across the face from the lower slots down (also on the gangway door's lower part); grey skirt.",
+   "reading2": "yellow front with a purple lower band and grey valance; yellow gangway door with purple bottom panel; left pod clear lamp outer, red LED centre; right pod red centre, clear outer."
+  },
+  {
+   "id": "f-lamps-emr",
+   "ref": "pemr2",
+   "box": [
+    860,
+    660,
+    1060,
+    760
+   ],
+   "feature": "EMR near-left lamp box",
+   "reading": "Black lamp box: round clear headlamp and red LED tail of similar size side by side; headlamp outboard (left box of the face).",
+   "reading2": "clear round reflector lamp on the left, red LED cluster on the right; outer side not decidable from the crop alone, f-face-emr puts clear outer."
+  },
+  {
+   "id": "f-face-gw",
+   "ref": "pgw",
+   "box": [
+    300,
+    410,
+    1060,
+    1600
+   ],
+   "feature": "GWR face",
+   "reading": "GWR: all yellow face including the angular skirt; yellow gangway door with GWR logo and bike sign, no door window; number on the yellow under the right lamp box.",
+   "reading2": "all yellow including the lower valance with angular facets; door with bicycle symbol and GWR lettering; left pod clear outer, red centre; right pod red centre, clear outer."
+  },
+  {
+   "id": "s-corner-door-gw",
+   "ref": "pgw",
+   "box": [
+    300,
+    410,
+    1430,
+    1600
+   ],
+   "feature": "cab corner, cab window and first door, three-quarter",
+   "reading": "Cab corner to first door: yellow wraps only a few cm round the corner, then green; cab window; two grey door leaves with a pale green stripe.",
+   "reading2": "cab window (two panes, angled lower pane), then a pair of greyish door leaves with a central seam and a tall narrow rounded window each, light green stripe across them."
+  },
+  {
+   "id": "f-lamps-gw",
+   "ref": "pgw",
+   "box": [
+    315,
+    1030,
+    510,
+    1125
+   ],
+   "feature": "GWR left lamp box",
+   "reading": "Black box: clear round headlamp outboard, red LED tail inboard.",
+   "reading2": "clear round lamp middle-left, red LED at the right; clear lamp outer, red centre."
+  },
+  {
+   "id": "s-door1-gw",
+   "ref": "pgw",
+   "box": [
+    1250,
+    500,
+    1700,
+    1400
+   ],
+   "feature": "first door and first window (heights)",
+   "reading": "Door: two grey leaves, centre seam, one window each, pale green stripe; next window split by a hopper bar; grey line along the body at the stripe height.",
+   "reading2": "pair of grey leaves with a seam and one narrow rounded window each; light green stripe; window split into smaller upper and larger lower pane; thin light grey line along the body."
+  },
+  {
+   "id": "f-top-gw",
+   "ref": "pgw3",
+   "box": [
+    1000,
+    400,
+    1900,
+    1000
+   ],
+   "feature": "roof from above: grilles, exhausts, eyebrow vents",
+   "reading": "From above: black hooded box cluster on the roof centre behind the cab, louvred vents at both cantrails, front dome all yellow with an orange line."
+  },
+  {
+   "id": "f-face-nt",
+   "ref": "pnt",
+   "box": [
+    2275,
+    768,
+    3146,
+    1980
+   ],
+   "feature": "Northern face",
+   "reading": "Northern: yellow face incl. a yellow bar across the top of each screen (destination pane above); grey skirt on this unit; number white on black at the screen foot.",
+   "reading2": "yellow front with grey/silver lower valance; left pod lit headlamp outer, red tail centre; right pod red centre, clear round middle and a small amber lamp outermost (three elements)."
+  },
+  {
+   "id": "s-livery-nt",
+   "ref": "pnt",
+   "box": [
+    1536,
+    857,
+    2334,
+    1654
+   ],
+   "feature": "Northern blue cab end, its curved rear edge, first door",
+   "reading": "Northern blue cab end with a curved rear edge into white, three 'n' roundels on the blue, first door white/light grey two-leaf.",
+   "reading2": "dark royal blue bodyside, white area at left with an edge curving into the blue; three 'n' arch symbols; pair of light grey door leaves with seam; cab window two panes plus angled lower pane."
+  },
+  {
+   "id": "f-lamps-nt",
+   "ref": "pnt2",
+   "box": [
+    1211,
+    1654,
+    1773,
+    1891
+   ],
+   "feature": "Northern near lamp box (wide angle)",
+   "reading": "Northern box (near side): red tail inboard, round headlamp, and a small rectangular extra lamp outermost.",
+   "reading2": "red round lamp at left, large clear round lamp in middle, small rectangular clear lamp at right; f-face-nt makes the small rectangle outer."
+  },
+  {
+   "id": "f-face-sr",
+   "ref": "psr",
+   "box": [
+    517,
+    487,
+    1448,
+    2068
+   ],
+   "feature": "ScotRail face",
+   "reading": "ScotRail: yellow face and yellow skirt over a rusty brown plough; LED cluster inboard, round headlamp outboard; number black on yellow under the right box.",
+   "reading2": "bright yellow front, yellow lower valance over rusty brown skirt; right pod LED cluster centre, clear round lamp outer; '158711' in black on yellow below the right lamps."
+  },
+  {
+   "id": "s-saltire-sr",
+   "ref": "psr",
+   "box": [
+    1388,
+    680,
+    1773,
+    1654
+   ],
+   "feature": "dotted saltire round the cab window",
+   "reading": "White dots in a saltire arrow round the cab window, larger near the front and smaller towards the rear, on blue.",
+   "reading2": "white dots of varying size sweeping across the cab door area, shrinking toward the bottom right; cab window among the dots."
+  },
+  {
+   "id": "s-diamonds-sr",
+   "ref": "psr",
+   "box": [
+    1950,
+    1152,
+    2659,
+    1477
+   ],
+   "feature": "light blue diamond band low on the bodyside",
+   "reading": "Light blue dots in staggered rows low on the bodyside, large at the door end and fading towards mid-car.",
+   "reading2": "light blue ovals in staggered rows, large at left, shrinking and fading toward the right and bottom."
+  },
+  {
+   "id": "f-face-aw",
+   "ref": "paw",
+   "box": [
+    2127,
+    177,
+    3634,
+    2304
+   ],
+   "feature": "TfW face",
+   "reading": "TfW: grimy yellow face and skirt; round headlamp outboard, white LED marker/tail cluster inboard; number on yellow under the right box.",
+   "reading2": "dull yellow front, all yellow including valance; left pod lit warm-white round lamp outer, white LED cluster centre; '158 835' black below right pod."
+  },
+  {
+   "id": "s-door-aw",
+   "ref": "paw",
+   "box": [
+    1595,
+    591,
+    1861,
+    1772
+   ],
+   "feature": "TfW red door",
+   "reading": "TfW door: two red leaves (open), black edges, one narrow window each, grey body round them.",
+   "reading2": "two tall door leaves, red with black outline and one narrow rounded window each; door open."
+  },
+  {
+   "id": "f-lamps-aw",
+   "ref": "paw2",
+   "box": [
+    2275,
+    1418,
+    2659,
+    1566
+   ],
+   "feature": "TfW lamp box, headlamp lit",
+   "reading": "Lit round headlamp outboard, white LED (5x5 dots) cluster inboard.",
+   "reading2": "large lit warm-white round lamp left, lit white LED cluster right; matches f-face-aw left pod: round outer, LED centre."
+  },
+  {
+   "id": "f-face-sw",
+   "ref": "psw",
+   "box": [
+    1004,
+    886,
+    1920,
+    2127
+   ],
+   "feature": "SWR 158 face",
+   "reading": "SWR 158: yellow upper face, navy/black lower face and skirt, gangway door yellow with navy foot; number white on black at the screen foot.",
+   "reading2": "yellow front with navy/dark lower body and valance, orange line under the roof; left pod lit round lamp outer, LED cluster centre; right pod LED centre, round outer."
+  },
+  {
+   "id": "s-livery-sw",
+   "ref": "psw",
+   "box": [
+    0,
+    975,
+    1004,
+    1891
+   ],
+   "feature": "SWR 158 cab end and silver section",
+   "reading": "SWR 158: dark navy cab end meeting a light silver middle at a long straight diagonal leaning back towards the roof; navy runs on low under the silver.",
+   "reading2": "dark navy at the right/middle and light grey at the left; boundary a long diagonal from high near the roof down and to the left; door pair with light blue at the top."
+  },
+  {
+   "id": "f-face-hd",
+   "ref": "p159012",
+   "box": [
+    1040,
+    380,
+    1920,
+    1420
+   ],
+   "feature": "whole front head-on",
+   "reading": "Head-on 159012: yellow face to a straight line below the lamp boxes, navy below; black screen recesses each one outline from the destination pane to the lamp box; gangway frame black, door yellow with navy foot, no door window.",
+   "reading2": "yellow upper face and dark navy lower half; gangway surround grey/black with yellow door with navy lower panel; each side a dark window panel with a lamp pod: plain round lamp outer, red LED centre on both sides."
+  },
+  {
+   "id": "f-lamps-l-hd",
+   "ref": "p159012",
+   "box": [
+    1050,
+    820,
+    1300,
+    1020
+   ],
+   "feature": "left lamp box head-on",
+   "reading": "Left box head-on: round clear headlamp outboard, red LED tail inboard, same height; box rounded at the outer-bottom corner.",
+   "reading2": "grey/clear round lamp on the left (outer), red LED cluster on the right (centre); black pod with rounded lower corners in a yellow surround."
+  },
+  {
+   "id": "f-lamps-r-hd",
+   "ref": "p159012",
+   "box": [
+    1520,
+    820,
+    1780,
+    1020
+   ],
+   "feature": "right lamp box head-on",
+   "reading": "Right box: red tail inboard, clear headlamp outboard; number panel above.",
+   "reading2": "red LED cluster on the left (centre side), clear round lamp on the right (outer)."
+  },
+  {
+   "id": "f-screen-r-hd",
+   "ref": "p159012",
+   "box": [
+    1520,
+    500,
+    1780,
+    900
+   ],
+   "feature": "right windscreen recess: destination, glass, number panel",
+   "reading": "Right recess: destination display top, wiper housing bar, main glass, black number panel with white '159 012', then the lamp box; all in one black outline with rounded top corners.",
+   "reading2": "orange dot-matrix display in a dark panel with a rounded top; windscreen with wiper; black band with '159 012' in white; yellow surround."
+  },
+  {
+   "id": "f-lower-hd",
+   "ref": "p159012",
+   "box": [
+    1060,
+    980,
+    1460,
+    1400
+   ],
+   "feature": "lower face: slot, ledge, skirt, coupler pocket",
+   "reading": "Lower face: navy band with a black slot each side, a ledge at the body bottom, skirt below sloping inwards, black coupler pocket in the middle.",
+   "reading2": "lower front corner dark navy, bumper-like valance and separate lower skirt, recessed dark slot; yellow meets navy at a straight horizontal line."
+  },
+  {
+   "id": "f-top-hd",
+   "ref": "p159012",
+   "box": [
+    1060,
+    380,
+    1460,
+    700
+   ],
+   "feature": "top of the face: dome, gangway frame top, left screen top",
+   "reading": "Top of the face: yellow dome to the roof edge, orange line across the face, black gangway frame top just below the dome, screen recess top corners rounded."
+  }
+ ],
+ "samples": [
+  {
+   "id": "emr-door",
+   "ref": "pemr",
+   "box": [
+    767,
+    900,
+    793,
+    933
+   ],
+   "what": "EMR silver door (neutral)",
+   "neutralIs": 200
+  },
+  {
+   "id": "emr-body",
+   "ref": "pemr",
+   "box": [
+    993,
+    973,
+    1093,
+    990
+   ],
+   "what": "EMR purple bodyside, cab car",
+   "neutral": "emr-door"
+  },
+  {
+   "id": "emr-roof",
+   "ref": "pemr",
+   "box": [
+    1000,
+    630,
+    1400,
+    650
+   ],
+   "what": "EMR roof grey",
+   "neutral": "emr-door"
+  },
+  {
+   "id": "emr-face",
+   "ref": "pemr2",
+   "box": [
+    862,
+    757,
+    1046,
+    788
+   ],
+   "what": "EMR face yellow under the lamp box"
+  },
+  {
+   "id": "emr-lowface",
+   "ref": "pemr2",
+   "box": [
+    886,
+    905,
+    1046,
+    930
+   ],
+   "what": "EMR purple lower face band"
+  },
+  {
+   "id": "emr-skirt",
+   "ref": "pemr2",
+   "box": [
+    837,
+    960,
+    1034,
+    1022
+   ],
+   "what": "EMR grey skirt"
+  },
+  {
+   "id": "gw-body",
+   "ref": "pgw",
+   "box": [
+    1450,
+    1133,
+    1650,
+    1200
+   ],
+   "what": "GWR green bodyside"
+  },
+  {
+   "id": "gw-door",
+   "ref": "pgw",
+   "box": [
+    1300,
+    1150,
+    1320,
+    1250
+   ],
+   "what": "GWR grey door leaf"
+  },
+  {
+   "id": "gw-line",
+   "ref": "pgw",
+   "box": [
+    1450,
+    1101,
+    1650,
+    1109
+   ],
+   "what": "GWR grey line under the windows"
+  },
+  {
+   "id": "gw-face",
+   "ref": "pgw",
+   "box": [
+    562,
+    658,
+    713,
+    1207
+   ],
+   "what": "GWR gangway door yellow"
+  },
+  {
+   "id": "gw-skirt",
+   "ref": "pgw",
+   "box": [
+    795,
+    1371,
+    905,
+    1508
+   ],
+   "what": "GWR yellow skirt"
+  },
+  {
+   "id": "gw-roof",
+   "ref": "pgw",
+   "box": [
+    1371,
+    507,
+    1920,
+    535
+   ],
+   "what": "GWR roof"
+  },
+  {
+   "id": "nt-white",
+   "ref": "pnt",
+   "box": [
+    886,
+    1359,
+    1182,
+    1447
+   ],
+   "what": "Northern white bodyside (neutral)",
+   "neutralIs": 240
+  },
+  {
+   "id": "nt-blue",
+   "ref": "pnt",
+   "box": [
+    2068,
+    1418,
+    2245,
+    1536
+   ],
+   "what": "Northern blue cab end",
+   "neutral": "nt-white"
+  },
+  {
+   "id": "nt-face",
+   "ref": "pnt",
+   "box": [
+    2686,
+    957,
+    2840,
+    1557
+   ],
+   "what": "Northern face yellow",
+   "neutral": "nt-white"
+  },
+  {
+   "id": "nt-skirt",
+   "ref": "pnt",
+   "box": [
+    2304,
+    1743,
+    2540,
+    1920
+   ],
+   "what": "Northern skirt grey",
+   "neutral": "nt-white"
+  },
+  {
+   "id": "nt-roof",
+   "ref": "pnt",
+   "box": [
+    1477,
+    857,
+    1772,
+    901
+   ],
+   "what": "Northern roof",
+   "neutral": "nt-white"
+  },
+  {
+   "id": "sr-dot",
+   "ref": "psr",
+   "box": [
+    1477,
+    1019,
+    1507,
+    1049
+   ],
+   "what": "ScotRail white saltire dot (neutral)",
+   "neutralIs": 240
+  },
+  {
+   "id": "sr-body",
+   "ref": "psr",
+   "box": [
+    2363,
+    857,
+    2659,
+    901
+   ],
+   "what": "ScotRail blue above the windows",
+   "neutral": "sr-dot"
+  },
+  {
+   "id": "sr-door",
+   "ref": "psr",
+   "box": [
+    1838,
+    1300,
+    1867,
+    1477
+   ],
+   "what": "ScotRail grey door",
+   "neutral": "sr-dot"
+  },
+  {
+   "id": "sr-face",
+   "ref": "psr",
+   "box": [
+    783,
+    827,
+    916,
+    1477
+   ],
+   "what": "ScotRail gangway door yellow",
+   "neutral": "sr-dot"
+  },
+  {
+   "id": "sr-skirt",
+   "ref": "psr",
+   "box": [
+    1093,
+    1743,
+    1270,
+    1832
+   ],
+   "what": "ScotRail yellow skirt",
+   "neutral": "sr-dot"
+  },
+  {
+   "id": "sr-roof",
+   "ref": "psr",
+   "box": [
+    2068,
+    680,
+    2363,
+    709
+   ],
+   "what": "ScotRail roof",
+   "neutral": "sr-dot"
+  },
+  {
+   "id": "aw-body",
+   "ref": "paw",
+   "box": [
+    886,
+    1300,
+    1182,
+    1388
+   ],
+   "what": "TfW grey bodyside"
+  },
+  {
+   "id": "aw-door",
+   "ref": "paw",
+   "box": [
+    1786,
+    1332,
+    1808,
+    1560
+   ],
+   "what": "TfW red door leaf"
+  },
+  {
+   "id": "aw-face",
+   "ref": "paw",
+   "box": [
+    2806,
+    591,
+    3072,
+    1477
+   ],
+   "what": "TfW gangway door yellow"
+  },
+  {
+   "id": "aw-skirt",
+   "ref": "paw",
+   "box": [
+    2245,
+    1920,
+    2600,
+    2068
+   ],
+   "what": "TfW yellow skirt"
+  },
+  {
+   "id": "aw-roof",
+   "ref": "paw",
+   "box": [
+    1214,
+    649,
+    1525,
+    690
+   ],
+   "what": "TfW roof"
+  },
+  {
+   "id": "aw-band",
+   "ref": "paw",
+   "box": [
+    1204,
+    1021,
+    1225,
+    1166
+   ],
+   "what": "TfW black window band"
+  },
+  {
+   "id": "sw-navy",
+   "ref": "psw",
+   "box": [
+    471,
+    1214,
+    600,
+    1250
+   ],
+   "what": "SWR 158 dark cab end, low"
+  },
+  {
+   "id": "sw-silver",
+   "ref": "psw",
+   "box": [
+    214,
+    1471,
+    343,
+    1514
+   ],
+   "what": "SWR 158 silver section"
+  },
+  {
+   "id": "sw-door",
+   "ref": "psw",
+   "box": [
+    806,
+    1471,
+    827,
+    1600
+   ],
+   "what": "SWR 158 first door"
+  },
+  {
+   "id": "sw-face",
+   "ref": "psw",
+   "box": [
+    1433,
+    1152,
+    1580,
+    1713
+   ],
+   "what": "SWR 158 gangway door yellow"
+  },
+  {
+   "id": "sw-lowface",
+   "ref": "psw",
+   "box": [
+    1063,
+    1772,
+    1300,
+    1891
+   ],
+   "what": "SWR 158 lower face"
+  },
+  {
+   "id": "sw-roof",
+   "ref": "psw",
+   "box": [
+    571,
+    1050,
+    857,
+    1071
+   ],
+   "what": "SWR 158 roof"
+  }
+ ]
+}

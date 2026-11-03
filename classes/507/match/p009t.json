@@ -1,0 +1,118 @@
+{
+ "ref": "p009t",
+ "side": "far",
+ "note": "507009 at Town Green, nose right, bodyside left of the face: the train's right side (far, +Y). lamp0 = the pod right as seen. Points placed 2026-10-06 on 4x pick panels (pk009t, pk009t2) and 3-5x gridded crops (g009t-a/b, g009t-face). No EXIF on the Commons file.",
+ "points": {
+  "lamp4-head": [
+   976,
+   661.5
+  ],
+  "lamp4-tail": [
+   1026,
+   689
+  ],
+  "lamp0-head": [
+   1358,
+   657
+  ],
+  "lamp0-tail": [
+   1308,
+   681
+  ],
+  "lamp3-head": [
+   1147.5,
+   304.5
+  ],
+  "lamp1-head": [
+   1207,
+   304.5
+  ],
+  "lamp2-head": [
+   1175,
+   271
+  ],
+  "w1-centre-top": [
+   743.8,
+   418.3
+  ],
+  "w3-centre-top": [
+   649.3,
+   432.5
+  ],
+  "w4-centre-top": [
+   621.3,
+   438.8
+  ],
+  "door1-seal-front-top": [
+   710,
+   394
+  ],
+  "door1-seal-rear-top": [
+   675,
+   403
+  ],
+  "door2-seal-front-top": [
+   605.6,
+   421
+  ],
+  "door2-seal-rear-top": [
+   586.4,
+   425
+  ]
+ },
+ "model": {
+  "w1-centre-top": [
+   4.694,
+   2.709
+  ],
+  "w3-centre-top": [
+   9.36,
+   2.709
+  ],
+  "w4-centre-top": [
+   11.437,
+   2.709
+  ],
+  "door1-seal-front-top": [
+   6.14,
+   2.956
+  ],
+  "door1-seal-rear-top": [
+   7.96,
+   2.956
+  ],
+  "door2-seal-front-top": [
+   12.898,
+   2.956
+  ],
+  "door2-seal-rear-top": [
+   14.718,
+   2.956
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "door1-seal-front-top",
+  "door1-seal-rear-top",
+  "w1-centre-top"
+ ],
+ "readings": {
+  "lamp4-head": "far pod's head lens 954-998 x 640-684, centre (pk009t2)",
+  "lamp4-tail": "far pod's red LED disc 1015-1036 x 678-700 (pk009t)",
+  "lamp0-head": "near pod's head lens 1336-1380 x 633-681 (pk009t2)",
+  "lamp0-tail": "near pod's red LED disc 1297-1320 x 669-692 (pk009t)",
+  "lamp3-head": "left (far) white marker 1135-1160 x 292-317 (pk009t)",
+  "lamp1-head": "right (near) white marker 1195-1220 x 292-317 (pk009t)",
+  "lamp2-head": "roof LED lamp's outer ring 1156-1194 x 252-290, centre (pk009t)",
+  "w1-centre-top": "first saloon window: mean of the dark glass top corners 727,420 / 760.7,416.7 (g009t-a)",
+  "w3-centre-top": "first window behind door 1: mean of 639,434 / 659.6,431 (g009t-b)",
+  "w4-centre-top": "second window behind door 1: mean of 613,440 / 629.6,437.6 (g009t-b)",
+  "door1-seal-front-top": "door 1 orange seal, outer front-top corner under the orange line (g009t-a); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door1-seal-rear-top": "door 1 orange seal, outer rear-top corner (g009t-a); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door2-seal-front-top": "door 2 orange seal, outer front-top corner (g009t-b); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door2-seal-rear-top": "door 2 orange seal, outer rear-top corner (g009t-b); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)"
+ },
+ "findings": {
+  "door1": "with door 1 held out (rms 4.1 px, focal 2382): its seal reads 6.459..8.203 m (centre 7.33, spec 6.989), door 2 12.821..14.487 (13.65, spec 13.808); window 1 centre 4.96 (spec 4.619). Every front-half feature reads 0.25-0.45 m behind the spec here; the bodyside points in the fit span only 9.4-14.6 m, so x is weakly pinned in this 1600 px photo."
+ }
+}

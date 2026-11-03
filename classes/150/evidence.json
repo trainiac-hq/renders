@@ -1,0 +1,1347 @@
+{
+ "class": "150",
+ "subject": "Class 150 Sprinter: 150/2 (GWR, TfW, most-recent NT 150/2s) and 150/1 (Northern majority, LNR Marston Vale), current liveries",
+ "fleet": {
+  "source": "https://en.wikipedia.org/wiki/British_Rail_Class_150 (fleet table, read 2026-10-05)",
+  "GW": "20 x 150/2 (gangwayed)",
+  "AW": "20 x 150/2 (gangwayed)",
+  "NT": "41 x 150/1 + 25 x 150/2 + 2 x 150/0: mostly 150/1 (no front gangway)",
+  "LM": "3 x 150/1 (LNR, Marston Vale line)",
+  "note": "150/1 and 150/2 bodysides are the same (doors, windows; confirmed on 150141, 150139, 150118 against dia2); the fronts differ. Lamp clusters vary within NT: 150218 and 155346 have the three-lamp box (marker, headlamp, red tail), 150210 the two-lamp LED box like GWR."
+ },
+ "refs": {
+  "dia2": {
+   "file": "refs/GWR-Class-150-2.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_150-2.png",
+   "author": "Smithdo43172",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-12-10",
+   "kind": "diagram",
+   "unit": "150/2 (2 cars), GWR green",
+   "view": "side elevation, nose left, both cars",
+   "light": "flat colours",
+   "px": [
+    2984,
+    368
+   ]
+  },
+  "dia1": {
+   "file": "refs/GWR-Class-150-1.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_150-1.png",
+   "author": "Smithdo43172",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-12-10",
+   "kind": "diagram",
+   "unit": "150/1 (2 cars), First Great Western blue (not a current livery)",
+   "view": "side elevation, nose left",
+   "light": "flat colours",
+   "note": "the same drawing as dia2 recoloured, only the front differs (no gangway); used for the 150/1 nose only"
+  },
+  "dia9": {
+   "file": "refs/GWR-Class-150-9.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_150-9.png",
+   "author": "Smithdo43172",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-02-02",
+   "kind": "diagram",
+   "unit": "150/9 (3 cars), GWR",
+   "view": "side elevation",
+   "light": "flat colours",
+   "note": "fetched, not used: the 150/9s are not in any current fleet"
+  },
+  "pT": {
+   "file": "refs/Teignmouth-GWR-150233-Exmouth-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Teignmouth_-_GWR_150233_Exmouth_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-16",
+   "kind": "photo",
+   "unit": "150233 (150/2)",
+   "view": "near head-on from the left, camera above roof level (roof top visible), 90 mm on APS-C",
+   "light": "overcast, under canopy",
+   "exif": "Canon EOS 550D, 90 mm"
+  },
+  "pSB": {
+   "file": "refs/St-Budeaux-Victoria-Road-GWR-150265-Plymouth-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:St_Budeaux_Victoria_Road_-_GWR_150265_Plymouth_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-06-19",
+   "kind": "photo",
+   "unit": "150265 (150/2)",
+   "view": "front three-quarter, near side to the left",
+   "light": "overcast"
+  },
+  "pEx": {
+   "file": "refs/150-216-Exeter-170826.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:150_216_Exeter_170826.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-08-17",
+   "kind": "photo",
+   "unit": "150216 (150/2)",
+   "view": "side three-quarter, cab end to the left",
+   "light": "bright sun"
+  },
+  "pTru": {
+   "file": "refs/Truro-GWR-150265-leaving-for-Falmouth.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Truro_-_GWR_150265_leaving_for_Falmouth.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-03-30",
+   "kind": "photo",
+   "unit": "150265",
+   "view": "front three-quarter",
+   "light": "overcast",
+   "note": "earlier ref, 1280 px"
+  },
+  "pLooe": {
+   "file": "refs/Looe-GWR-150234-approaching-from-Liskeard.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Looe_-_GWR_150234_approaching_from_Liskeard.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-06-29",
+   "kind": "photo",
+   "unit": "150234",
+   "view": "three-quarter, distant",
+   "light": "overcast",
+   "note": "earlier ref, 1280 px"
+  },
+  "p118": {
+   "file": "refs/ALT-150118-1-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:ALT_150118_(1).jpg",
+   "author": "UK bus Image",
+   "licence": "CC0",
+   "date": "2026-07-06",
+   "kind": "photo",
+   "unit": "150118 (150/1) Northern",
+   "view": "front three-quarter, near side to the left, platform level",
+   "light": "bright overcast"
+  },
+  "p108": {
+   "file": "refs/-GBR-Greater-Manchester-Northern-Class-150-150108-Manchester-Piccadilly-2025-06-13.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:(GBR-Greater_Manchester)_Northern_Class_150_150108_@_Manchester_Piccadilly_2025-06-13.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-13",
+   "kind": "photo",
+   "unit": "150108 (150/1) Northern",
+   "view": "front three-quarter, near side to the left",
+   "light": "station roof, bright",
+   "exif": "Canon EOS R50, 70 mm"
+  },
+  "p218": {
+   "file": "refs/150218-at-Manchester-Piccadilly.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:150218_at_Manchester_Piccadilly.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-08-18",
+   "kind": "photo",
+   "unit": "150218 (150/2) Northern",
+   "view": "close head-on, slightly from the left, strong perspective",
+   "light": "station roof",
+   "exif": "iPhone SE (3rd gen), 28 mm equiv"
+  },
+  "p210": {
+   "file": "refs/HAL-150210.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:HAL_150210.jpg",
+   "author": "UK bus Image",
+   "licence": "CC0",
+   "date": "2026-07-07",
+   "kind": "photo",
+   "unit": "150210 (150/2) Northern",
+   "view": "front three-quarter (face ~18 deg), platform level",
+   "light": "sun, under canopy",
+   "exif": "23 mm equiv"
+  },
+  "p787": {
+   "file": "refs/TfW-class-150-at-Cardiff-Queen-Street-station-geograph.org.uk-8248787.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:TfW_class_150_at_Cardiff_Queen_Street_station_-_geograph.org.uk_-_8248787.jpg",
+   "author": "Gareth James",
+   "licence": "CC BY-SA 2.0",
+   "date": "2026-02-01",
+   "kind": "photo",
+   "unit": "150208 (150/2) TfW",
+   "view": "front three-quarter, close, platform level",
+   "light": "overcast, wet",
+   "exif": "SM-A405FN, 26 mm equiv"
+  },
+  "p256": {
+   "file": "refs/Class-150-Sprinter-DMU-Transport-for-Wales-150256.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_150_Sprinter_DMU_-_Transport_for_Wales_150256.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-26",
+   "kind": "photo",
+   "unit": "150256 (150/2) TfW",
+   "view": "side three-quarter, cab end to the left",
+   "light": "overcast, wet",
+   "exif": "Canon EOS R6, 88 mm"
+  },
+  "p251": {
+   "file": "refs/Bae-Caerdydd-TfW-150251-tr-n-i-Heol-y-Frenhines.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bae_Caerdydd_-_TfW_150251_trên_i_Heol_y_Frenhines.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-12-29",
+   "kind": "photo",
+   "unit": "150251 (150/2) TfW",
+   "view": "front three-quarter, headlamps lit",
+   "light": "overcast"
+  },
+  "pB137": {
+   "file": "refs/Class-150-at-Bedford.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_150_at_Bedford.jpg",
+   "author": "Maxopolitan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-02-24",
+   "kind": "photo",
+   "unit": "150137 (150/1) LNR",
+   "view": "head-on, slightly from the left, platform level",
+   "light": "bright overcast, saturated processing"
+  },
+  "pB139": {
+   "file": "refs/LNWR-Class-150-at-Bedford.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:LNWR_Class_150_at_Bedford.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY 4.0",
+   "date": "2024-03-25",
+   "kind": "photo",
+   "unit": "150139 (150/1) LNR",
+   "view": "front three-quarter from the left",
+   "light": "overcast",
+   "exif": "Canon EOS M5, 45 mm"
+  },
+  "p141": {
+   "file": "refs/Class-150-Sprinter-DMU-London-Northwestern-Railway-150141-55110710227-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_150_Sprinter_DMU_-_London_Northwestern_Railway_150141_(55110710227).jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-04-13",
+   "kind": "photo",
+   "unit": "150141 (150/1) LNR",
+   "view": "side three-quarter, cab end to the left, long lens",
+   "light": "overcast",
+   "exif": "Canon EOS R6, 207 mm"
+  },
+  "pBl": {
+   "file": "refs/150139-at-Bletchley.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:150139_at_Bletchley.jpg",
+   "author": "(see SOURCES.md)",
+   "licence": "CC0",
+   "date": "2024-07-30",
+   "kind": "photo",
+   "unit": "150139 (150/1) LNR",
+   "view": "front three-quarter, platform level",
+   "light": "bright sun",
+   "exif": "iPhone 12 Pro, 52 mm equiv"
+  },
+  "pBM": {
+   "file": "refs/150139-Bedford-Midland-September-18th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:150139,_Bedford_Midland,_September_18th_2025.jpg",
+   "author": "Matt Taylor",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-09-18",
+   "kind": "photo",
+   "unit": "150139 (150/1) LNR",
+   "view": "head-on three-quarter",
+   "light": "sun",
+   "exif": "Canon EOS R50, 41 mm"
+  }
+ },
+ "crops": [
+  {
+   "id": "d2-nose",
+   "ref": "dia2",
+   "box": [
+    0,
+    15,
+    260,
+    345
+   ],
+   "feature": "150/2 nose and gangway bellows, side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d1-nose",
+   "ref": "dia1",
+   "box": [
+    0,
+    15,
+    260,
+    345
+   ],
+   "feature": "150/1 flat nose, side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d2-cab",
+   "ref": "dia2",
+   "box": [
+    30,
+    15,
+    720,
+    345
+   ],
+   "feature": "cab end: cab window, cab door, first window, door 1",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d2-door1",
+   "ref": "dia2",
+   "box": [
+    440,
+    40,
+    610,
+    280
+   ],
+   "feature": "diagram door 1",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d2-saloon",
+   "ref": "dia2",
+   "box": [
+    580,
+    15,
+    1470,
+    345
+   ],
+   "feature": "diagram saloon, door 2, inner end",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d1-carend",
+   "ref": "dia1",
+   "box": [
+    1250,
+    15,
+    1600,
+    345
+   ],
+   "feature": "diagram inner end with toilet window (dia1)",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "d2-car2",
+   "ref": "dia2",
+   "box": [
+    1500,
+    15,
+    2984,
+    345
+   ],
+   "feature": "diagram car 2 (DMS)",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-T",
+   "ref": "pT",
+   "box": [
+    1980,
+    820,
+    3200,
+    2300
+   ],
+   "feature": "GW 150/2 whole front",
+   "reading": "",
+   "reading2": "Yellow front, dark grey riveted gangway surround, yellow door with bicycle box and GWR. Left cluster: lit white round lamp outboard, unlit LED-dot inboard; right: LED-dot inboard (lit), clear round outboard. 150233 above right cluster; yellow plough below a black buffer-beam area."
+  },
+  {
+   "id": "f-lamps-l-T",
+   "ref": "pT",
+   "box": [
+    2080,
+    1590,
+    2360,
+    1750
+   ],
+   "feature": "GW left lamp box (headlamp lit)",
+   "reading": "",
+   "reading2": "Black rounded-rectangle cluster: large lit white headlamp outboard (left), smaller unlit LED-dot lamp inboard."
+  },
+  {
+   "id": "f-lamps-r-T",
+   "ref": "pT",
+   "box": [
+    2820,
+    1590,
+    3100,
+    1750
+   ],
+   "feature": "GW right lamp box",
+   "reading": "",
+   "reading2": "Black cluster: lit LED-dot lamp inboard (left), larger unlit clear round lamp outboard (right)."
+  },
+  {
+   "id": "f-screens-T",
+   "ref": "pT",
+   "box": [
+    2030,
+    860,
+    3150,
+    1400
+   ],
+   "feature": "GW windscreens, surrounds, gangway top",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-gangway-T",
+   "ref": "pT",
+   "box": [
+    2340,
+    800,
+    2860,
+    1900
+   ],
+   "feature": "GW gangway frame and door",
+   "reading": "",
+   "reading2": "Tall gangway frame with rounded top corners, dark grey/black weathered riveted metal, framing a yellow door with bicycle pictogram, recessed handle at right, GWR logo."
+  },
+  {
+   "id": "f-lower-T",
+   "ref": "pT",
+   "box": [
+    2000,
+    1700,
+    3170,
+    2300
+   ],
+   "feature": "GW lower front, valance, plough",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-T",
+   "ref": "pT",
+   "box": [
+    1500,
+    850,
+    2100,
+    2000
+   ],
+   "feature": "GW cab side and corner",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-corner-door-T",
+   "ref": "pT",
+   "box": [
+    1100,
+    850,
+    2100,
+    1950
+   ],
+   "feature": "GW cab corner and first doors, three-quarter",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-T",
+   "ref": "pT",
+   "box": [
+    700,
+    900,
+    2050,
+    1900
+   ],
+   "feature": "GW cab car side livery",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-Ex",
+   "ref": "pEx",
+   "box": [
+    768,
+    1015,
+    2743,
+    1892
+   ],
+   "feature": "GW side in sun: cab, doors, windows, lines",
+   "reading": "",
+   "reading2": "Yellow gangwayed front; dark green side, orange cantrail line, thin grey waist line, gold GWR logo; grey/silver single cab-end door and grey double doors with green stripes."
+  },
+  {
+   "id": "s-door-Ex",
+   "ref": "pEx",
+   "box": [
+    2080,
+    1180,
+    2320,
+    1660
+   ],
+   "feature": "GW double door 1",
+   "reading": "",
+   "reading2": "Grey/silver double-leaf door, two tall rounded windows, thin green stripe across both leaves at waist, black central seam, yellow step edge."
+  },
+  {
+   "id": "s-cabdoor-Ex",
+   "ref": "pEx",
+   "box": [
+    1380,
+    1150,
+    1660,
+    1680
+   ],
+   "feature": "GW cab side window and cab door",
+   "reading": "",
+   "reading2": "Single grey/silver leaf with one rounded window, vertical grab handles both sides, green stripe at waist; small rectangular window to its left in dark green."
+  },
+  {
+   "id": "s-corner-door-Ex",
+   "ref": "pEx",
+   "box": [
+    768,
+    1042,
+    2331,
+    1865
+   ],
+   "feature": "GW cab corner to door 1",
+   "reading": "",
+   "reading2": "Yellow front with gangway, dark green side, grey single-leaf door near the cab, large window, grey double doors with green stripes."
+  },
+  {
+   "id": "f-face-118",
+   "ref": "p118",
+   "box": [
+    1824,
+    891,
+    2537,
+    1824
+   ],
+   "feature": "NT 150/1 whole front",
+   "reading": "",
+   "reading2": "Yellow flat front, three windows in a dark band, no gangway; grab rails under outer windows. Left: warm round lamp outboard, lit LED-dot inboard; right: LED-dot inboard, clear round outboard. Black recesses below each cluster."
+  },
+  {
+   "id": "f-lamps-l-118",
+   "ref": "p118",
+   "box": [
+    1860,
+    1440,
+    2040,
+    1560
+   ],
+   "feature": "NT 150/1 left lamp box",
+   "reading": "",
+   "reading2": "Dark grey rounded rectangle: warm-glowing round lamp outboard, lit LED-dot lamp inboard."
+  },
+  {
+   "id": "f-lamps-r-118",
+   "ref": "p118",
+   "box": [
+    2350,
+    1440,
+    2520,
+    1560
+   ],
+   "feature": "NT 150/1 right lamp box",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-118",
+   "ref": "p118",
+   "box": [
+    795,
+    1000,
+    1850,
+    1700
+   ],
+   "feature": "NT 150/1 cab car side livery",
+   "reading": "",
+   "reading2": "Light grey/white body with NORTHERN branding; dark blue/purple section toward the cab separated by a curved white swoosh; purple, cyan, orange circle logos; blue single-leaf door near the yellow cab end; blue double door in the grey section."
+  },
+  {
+   "id": "s-corner-door-118",
+   "ref": "p118",
+   "box": [
+    1179,
+    987,
+    1893,
+    1673
+   ],
+   "feature": "NT 150/1 cab corner and first door",
+   "reading": "",
+   "reading2": "Blue end section by the yellow cab: blue single-leaf door with two silver grab handles and window, large window, purple/cyan/orange n-circles, white swoosh, blue double doors."
+  },
+  {
+   "id": "s-purple-edge-118",
+   "ref": "p118",
+   "box": [
+    1280,
+    1080,
+    1480,
+    1580
+   ],
+   "feature": "NT purple to white curve",
+   "reading": "",
+   "reading2": "White curved swoosh band sweeping down and to the right separating dark blue body from the door area; cyan and purple n-circles on the blue."
+  },
+  {
+   "id": "f-face-108",
+   "ref": "p108",
+   "box": [
+    2276,
+    768,
+    3593,
+    2057
+   ],
+   "feature": "NT 150/1 whole front",
+   "reading": "",
+   "reading2": "Dull yellow flat front, three windows in a dark surround, no gangway; both clusters red LED-dot inboard, unlit grey round lamp outboard; vertical handle left of centre."
+  },
+  {
+   "id": "f-lamps-l-108",
+   "ref": "p108",
+   "box": [
+    2331,
+    1700,
+    2619,
+    1880
+   ],
+   "feature": "NT 150/1 left lamp box",
+   "reading": "",
+   "reading2": "Black rectangle: unlit grey round lamp outboard, lit red LED-dot lamp inboard."
+  },
+  {
+   "id": "f-lamps-r-108",
+   "ref": "p108",
+   "box": [
+    3240,
+    1700,
+    3530,
+    1880
+   ],
+   "feature": "NT 150/1 right lamp box",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-218",
+   "ref": "p218",
+   "box": [
+    471,
+    489,
+    1675,
+    1972
+   ],
+   "feature": "NT 150/2 whole front (close)",
+   "reading": "",
+   "reading2": "Yellow front, dark grey riveted gangway surround, yellow door. Left cluster three lenses: amber rectangle outboard, clear reflector round lamp middle, lit red round lamp inboard."
+  },
+  {
+   "id": "f-lamps-l-218",
+   "ref": "p218",
+   "box": [
+    600,
+    1540,
+    920,
+    1750
+   ],
+   "feature": "NT 150/2 left lamp box",
+   "reading": "",
+   "reading2": "Black cluster with four screws: narrow amber rectangle outboard, clear faceted round headlamp middle, lit red tail inboard."
+  },
+  {
+   "id": "f-gangway-218",
+   "ref": "p218",
+   "box": [
+    930,
+    500,
+    1530,
+    1910
+   ],
+   "feature": "NT 150/2 gangway",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-210",
+   "ref": "p210",
+   "box": [
+    1880,
+    650,
+    2700,
+    1780
+   ],
+   "feature": "NT 150/2 whole front",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-210",
+   "ref": "p210",
+   "box": [
+    1985,
+    1310,
+    2160,
+    1415
+   ],
+   "feature": "NT 150/2 left lamp box",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-cab-210",
+   "ref": "p210",
+   "box": [
+    1500,
+    650,
+    1960,
+    1600
+   ],
+   "feature": "NT 150/2 cab side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-787",
+   "ref": "p787",
+   "box": [
+    1618,
+    987,
+    2715,
+    2194
+   ],
+   "feature": "AW whole front",
+   "reading": "",
+   "reading2": "Yellow front, weathered riveted gangway surround, yellow door. Left: lit round lamp outboard, lit LED-dot inboard; right: LED-dot inboard, clear round outboard."
+  },
+  {
+   "id": "f-lamps-l-787",
+   "ref": "p787",
+   "box": [
+    1700,
+    1830,
+    1970,
+    1990
+   ],
+   "feature": "AW left lamp box",
+   "reading": "",
+   "reading2": "Black rounded rectangle: large bright round lamp outboard, smaller lit LED-dot lamp inboard."
+  },
+  {
+   "id": "s-cab-787",
+   "ref": "p787",
+   "box": [
+    1420,
+    1040,
+    1650,
+    2170
+   ],
+   "feature": "AW cab side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-256",
+   "ref": "p256",
+   "box": [
+    243,
+    443,
+    1457,
+    914
+   ],
+   "feature": "AW cab car side livery",
+   "reading": "",
+   "reading2": "Yellow front, black gangway surround; white/light grey side with pink-red cantrail band, red doors (single near cab, then double), black panels framing the windows, Transport for Wales text."
+  },
+  {
+   "id": "s-corner-door-256",
+   "ref": "p256",
+   "box": [
+    243,
+    471,
+    1029,
+    886
+   ],
+   "feature": "AW cab corner and door 1",
+   "reading": "",
+   "reading2": "Yellow front with gangway, red single-leaf door, small window, black window panel, red double doors."
+  },
+  {
+   "id": "s-door-256",
+   "ref": "p256",
+   "box": [
+    940,
+    540,
+    1025,
+    850
+   ],
+   "feature": "AW door 1",
+   "reading": "",
+   "reading2": "Red double-leaf door with two tall dark windows, yellow/black strips along the inner edges, black seam, yellow step edge, light grey body."
+  },
+  {
+   "id": "s-cabdoor-256",
+   "ref": "p256",
+   "box": [
+    680,
+    520,
+    790,
+    870
+   ],
+   "feature": "AW cab side window and cab door",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-band-256",
+   "ref": "p256",
+   "box": [
+    1021,
+    500,
+    1250,
+    760
+   ],
+   "feature": "AW dark window panel and cantrail band",
+   "reading": "",
+   "reading2": "Large black rectangular panel on light grey containing two windows with top hoppers; pink-red band along the top under the grey roof."
+  },
+  {
+   "id": "f-face-256",
+   "ref": "p256",
+   "box": [
+    243,
+    479,
+    643,
+    1000
+   ],
+   "feature": "AW front, oblique",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-next-256",
+   "ref": "p256",
+   "box": [
+    1443,
+    500,
+    1857,
+    800
+   ],
+   "feature": "AW second car",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-251",
+   "ref": "p251",
+   "box": [
+    507,
+    643,
+    1190,
+    1385
+   ],
+   "feature": "AW front, headlamps lit",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-251",
+   "ref": "p251",
+   "box": [
+    960,
+    1170,
+    1115,
+    1275
+   ],
+   "feature": "AW right lamp box lit",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-251",
+   "ref": "p251",
+   "box": [
+    540,
+    1160,
+    680,
+    1265
+   ],
+   "feature": "AW left lamp box lit",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-B137",
+   "ref": "pB137",
+   "box": [
+    1600,
+    250,
+    3460,
+    2300
+   ],
+   "feature": "LM 150/1 whole front, head-on",
+   "reading": "",
+   "reading2": "Bright yellow flat front, three windows in black riveted surround, no gangway. Three-lens clusters: amber narrow rectangle outboard, round headlamp middle, red round tail inboard (mirrored on the right). Teal-green band below with black recesses holding white strips."
+  },
+  {
+   "id": "f-lamps-l-B137",
+   "ref": "pB137",
+   "box": [
+    1720,
+    1640,
+    2130,
+    1860
+   ],
+   "feature": "LM left lamp box, head-on",
+   "reading": "",
+   "reading2": "Black cluster: lit amber narrow rectangle outboard, lit round headlamp middle, unlit red round lens inboard."
+  },
+  {
+   "id": "f-lamps-r-B137",
+   "ref": "pB137",
+   "box": [
+    2950,
+    1640,
+    3360,
+    1860
+   ],
+   "feature": "LM right lamp box, head-on",
+   "reading": "",
+   "reading2": "Mirror of the left: red round lens inboard, clear round lamp middle, lit amber rectangle outboard."
+  },
+  {
+   "id": "f-screens-B137",
+   "ref": "pB137",
+   "box": [
+    1640,
+    330,
+    3420,
+    1300
+   ],
+   "feature": "LM black band, three windows",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lower-B137",
+   "ref": "pB137",
+   "box": [
+    1600,
+    1800,
+    3460,
+    2300
+   ],
+   "feature": "LM lower front: green band, black panels",
+   "reading": "",
+   "reading2": "Teal-green valance with a stepped-down centre section, flanked by black rectangular recesses with white horizontal strips; coupler and undergear below."
+  },
+  {
+   "id": "f-face-B139",
+   "ref": "pB139",
+   "box": [
+    1558,
+    67,
+    2937,
+    1592
+   ],
+   "feature": "LM 150/1 front",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-l-B139",
+   "ref": "pB139",
+   "box": [
+    1636,
+    1222,
+    1950,
+    1379
+   ],
+   "feature": "LM left lamp box",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-lamps-r-B139",
+   "ref": "pB139",
+   "box": [
+    2611,
+    1222,
+    2892,
+    1379
+   ],
+   "feature": "LM right lamp box",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "s-livery-B139",
+   "ref": "pB139",
+   "box": [
+    964,
+    403,
+    1569,
+    1480
+   ],
+   "feature": "LM cab side",
+   "reading": "",
+   "reading2": ""
+  },
+  {
+   "id": "f-face-Bl",
+   "ref": "pBl",
+   "box": [
+    1090,
+    880,
+    2040,
+    2060
+   ],
+   "feature": "LM front in sun",
+   "reading": "",
+   "reading2": "Mustard-yellow flat front, three windows in dark surround; clusters small dark rectangle outboard, clear round middle, lit red round inboard; worn green valance with black recesses and white strips; green body side."
+  },
+  {
+   "id": "s-livery-Bl",
+   "ref": "pBl",
+   "box": [
+    1950,
+    1000,
+    3840,
+    1900
+   ],
+   "feature": "LM side in sun: green cab section, silver with stripes",
+   "reading": "",
+   "reading2": "First car teal-green near the cab with orange cantrail, white W logo, Marston Vale text, green single-leaf door; then silver/grey with dark double doors; second car white/cream with bright green stripes."
+  },
+  {
+   "id": "s-corner-door-Bl",
+   "ref": "pBl",
+   "box": [
+    1700,
+    950,
+    2900,
+    1900
+   ],
+   "feature": "LM cab corner to door 1",
+   "reading": "",
+   "reading2": "Mustard cab end, cluster red round inboard, clear round, small dark rectangle outboard; teal-green body, orange cantrail, narrow window, single-leaf green door with two grab handles, large window, dark double door beginning."
+  },
+  {
+   "id": "s-greenend-Bl",
+   "ref": "pBl",
+   "box": [
+    2550,
+    1050,
+    2900,
+    1800
+   ],
+   "feature": "LM end of the green cab section at door 1",
+   "reading": "",
+   "reading2": "Teal-green section ends at a straight vertical edge next to silver/grey holding a dark double door; orange cantrail over the green."
+  },
+  {
+   "id": "s-livery-141",
+   "ref": "p141",
+   "box": [
+    600,
+    500,
+    1250,
+    880
+   ],
+   "feature": "LM cab car side, long lens",
+   "reading": "",
+   "reading2": "Dark green end section by the yellow cab with W logo; then cream/white body with irregular green diagonal and vertical stripes, dark double doors; silver-grey roof."
+  },
+  {
+   "id": "s-corner-door-141",
+   "ref": "p141",
+   "box": [
+    240,
+    480,
+    1000,
+    900
+   ],
+   "feature": "LM cab corner to door 1, long lens",
+   "reading": "",
+   "reading2": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "green-Ex",
+   "ref": "pEx",
+   "box": [
+    2400,
+    1452,
+    2616,
+    1512
+   ],
+   "what": "GW body green under the windows, sun"
+  },
+  {
+   "id": "door-Ex",
+   "ref": "pEx",
+   "box": [
+    2124,
+    1560,
+    2172,
+    1632
+   ],
+   "what": "GW door grey, sun"
+  },
+  {
+   "id": "yellow-Ex",
+   "ref": "pEx",
+   "box": [
+    1116,
+    1416,
+    1236,
+    1488
+   ],
+   "what": "GW face yellow, sun, oblique"
+  },
+  {
+   "id": "roof-Ex",
+   "ref": "pEx",
+   "box": [
+    1700,
+    1060,
+    2400,
+    1100
+   ],
+   "what": "GW roof edge"
+  },
+  {
+   "id": "green-T",
+   "ref": "pT",
+   "box": [
+    1880,
+    1300,
+    1960,
+    1500
+   ],
+   "what": "GW cab side green, overcast"
+  },
+  {
+   "id": "yellow-T",
+   "ref": "pT",
+   "box": [
+    2120,
+    1440,
+    2280,
+    1540
+   ],
+   "what": "GW face yellow, overcast"
+  },
+  {
+   "id": "roof-T",
+   "ref": "pT",
+   "box": [
+    2300,
+    700,
+    2700,
+    760
+   ],
+   "what": "GW roof over the cab, seen from above"
+  },
+  {
+   "id": "white-118",
+   "ref": "p118",
+   "box": [
+    800,
+    1320,
+    900,
+    1420
+   ],
+   "what": "NT white bodyside, car 2"
+  },
+  {
+   "id": "purple-118",
+   "ref": "p118",
+   "box": [
+    1700,
+    1320,
+    1797,
+    1426
+   ],
+   "what": "NT purple cab side",
+   "neutral": "white-118"
+  },
+  {
+   "id": "yellow-118",
+   "ref": "p118",
+   "box": [
+    2084,
+    1371,
+    2304,
+    1426
+   ],
+   "what": "NT face yellow",
+   "neutral": "white-118"
+  },
+  {
+   "id": "roof-118",
+   "ref": "p118",
+   "box": [
+    1371,
+    946,
+    1783,
+    987
+   ],
+   "what": "NT roof",
+   "neutral": "white-118"
+  },
+  {
+   "id": "white-256",
+   "ref": "p256",
+   "box": [
+    1086,
+    743,
+    1200,
+    800
+   ],
+   "what": "AW light grey/white bodyside below the window panel"
+  },
+  {
+   "id": "red-256",
+   "ref": "p256",
+   "box": [
+    971,
+    600,
+    1000,
+    800
+   ],
+   "what": "AW red door",
+   "neutral": "white-256"
+  },
+  {
+   "id": "band-256",
+   "ref": "p256",
+   "box": [
+    1028,
+    575,
+    1050,
+    720
+   ],
+   "what": "AW dark grey window panel",
+   "neutral": "white-256"
+  },
+  {
+   "id": "yellow-256",
+   "ref": "p256",
+   "box": [
+    262,
+    714,
+    315,
+    760
+   ],
+   "what": "AW face yellow (front, oblique)",
+   "neutral": "white-256"
+  },
+  {
+   "id": "pink-256",
+   "ref": "p256",
+   "box": [
+    1000,
+    521,
+    1286,
+    536
+   ],
+   "what": "AW cantrail band",
+   "neutral": "white-256"
+  },
+  {
+   "id": "roof-256",
+   "ref": "p256",
+   "box": [
+    857,
+    471,
+    1286,
+    493
+   ],
+   "what": "AW roof",
+   "neutral": "white-256"
+  },
+  {
+   "id": "green-Bl",
+   "ref": "pBl",
+   "box": [
+    2080,
+    1550,
+    2170,
+    1650
+   ],
+   "what": "LM green cab section, sun"
+  },
+  {
+   "id": "silver-Bl",
+   "ref": "pBl",
+   "box": [
+    2860,
+    1540,
+    2890,
+    1620
+   ],
+   "what": "LM silver/white section beside door 1"
+  },
+  {
+   "id": "yellow-Bl",
+   "ref": "pBl",
+   "box": [
+    1300,
+    1600,
+    1500,
+    1660
+   ],
+   "what": "LM face yellow, sun"
+  },
+  {
+   "id": "frontgreen-Bl",
+   "ref": "pBl",
+   "box": [
+    1400,
+    1800,
+    1700,
+    1840
+   ],
+   "what": "LM green band low on the front"
+  },
+  {
+   "id": "roof-Bl",
+   "ref": "pBl",
+   "box": [
+    2200,
+    1000,
+    2600,
+    1030
+   ],
+   "what": "LM roof"
+  },
+  {
+   "id": "yellow-B137",
+   "ref": "pB137",
+   "box": [
+    2300,
+    1400,
+    2700,
+    1450
+   ],
+   "what": "LM face yellow head-on (saturated processing)"
+  },
+  {
+   "id": "frontgreen-B137",
+   "ref": "pB137",
+   "box": [
+    2350,
+    1870,
+    2800,
+    1930
+   ],
+   "what": "LM front green band head-on"
+  }
+ ]
+}

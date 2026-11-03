@@ -1,0 +1,1797 @@
+{
+ "class": "387",
+ "subject": "Class 387 Electrostar: GW, GN, GX, HX, SN (= GX red, by 2026 count), CC (c2c, to 2022)",
+ "refs": {
+  "dia-gw": {
+   "file": "refs/GWR-Class-387.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_387.png",
+   "author": "Smithdo43172",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-12-10",
+   "kind": "diagram",
+   "unit": "387/1 GWR (4 cars)",
+   "livery": "GW",
+   "view": "side elevation, nose left (pixel copy of the Unisouth 377 drawing: livery only)",
+   "light": "flat colours"
+  },
+  "dia-gn": {
+   "file": "refs/Great-Northern-Class-387-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Great_Northern_Class_387_Diagram.png",
+   "author": "Agent Squash",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-11-04",
+   "kind": "diagram",
+   "unit": "387/1 GN",
+   "livery": "GN",
+   "view": "side elevation (377 template copy: livery only)",
+   "light": "flat colours"
+  },
+  "dia-gx": {
+   "file": "refs/Gatwick-Express-Class-387-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Gatwick_Express_Class_387_Diagram.png",
+   "author": "Agent Squash",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-11-04",
+   "kind": "diagram",
+   "unit": "387/2 GX",
+   "livery": "GX",
+   "view": "side elevation (377 template copy: livery only)",
+   "light": "flat colours"
+  },
+  "dia-cc": {
+   "file": "refs/C2c-Class-387-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:C2c_Class_387_Diagram.png",
+   "author": "Agent Squash",
+   "licence": "CC BY-SA 4.0",
+   "date": "2017-11-04",
+   "kind": "diagram",
+   "unit": "387/3 c2c",
+   "livery": "CC",
+   "view": "side elevation (377 template copy: livery only)",
+   "light": "flat colours"
+  },
+  "strip-hx": {
+   "file": "refs/Heathrow-Express-Class-387-1.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Heathrow_Express_Class_387-1.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-06-24",
+   "kind": "diagram",
+   "unit": "387/1 HX",
+   "livery": "HX",
+   "view": "side strip 2438x122, livery only",
+   "light": "flat colours"
+  },
+  "strip-gw": {
+   "file": "refs/GWR-Class-387-1.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_387-1.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019",
+   "kind": "diagram",
+   "unit": "387/1 GWR",
+   "livery": "GW",
+   "view": "side strip, livery only",
+   "light": "flat colours"
+  },
+  "strip-gn": {
+   "file": "refs/Great-Northern-Class-387-1.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Great_Northern_Class_387-1.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019",
+   "kind": "diagram",
+   "unit": "387/1 GN",
+   "livery": "GN",
+   "view": "side strip, livery only",
+   "light": "flat colours"
+  },
+  "strip-gx": {
+   "file": "refs/Gatwick-Express-Class-387-2.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Gatwick_Express_Class_387-2.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019",
+   "kind": "diagram",
+   "unit": "387/2 GX",
+   "livery": "GX",
+   "view": "side strip, livery only",
+   "light": "flat colours"
+  },
+  "strip-cc": {
+   "file": "refs/C2c-Class-387-3.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:C2c_Class_387-3.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019",
+   "kind": "diagram",
+   "unit": "387/3 c2c",
+   "livery": "CC",
+   "view": "side strip, livery only",
+   "light": "flat colours"
+  },
+  "p164": {
+   "file": "refs/387164-at-Didcot-Parkway.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387164_at_Didcot_Parkway.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-08-03",
+   "kind": "photo",
+   "unit": "387164",
+   "livery": "GW",
+   "view": "near head-on, close, camera a little right of the centre line (right bodyside visible, yaw ~10-20 deg)",
+   "light": "overcast daylight, face in shade"
+  },
+  "pldn": {
+   "file": "refs/At-London-2025-838.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:At_London_2025_838.jpg",
+   "author": "Mike Peel",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-11-25",
+   "kind": "photo",
+   "unit": "387145 (car 424145 leading)",
+   "livery": "GW",
+   "view": "front three-quarter from the right, long bodyside of the cab car to the second door",
+   "light": "station roof, artificial light; tail lamps lit"
+  },
+  "p174": {
+   "file": "refs/387-174-at-Southampton-Central.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387_174_at_Southampton_Central.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-07",
+   "kind": "photo",
+   "unit": "387174 (GWR green, debranded, Southern sticker, on a Southern service)",
+   "livery": "GW",
+   "view": "front three-quarter from the left, close",
+   "light": "overcast"
+  },
+  "pbri": {
+   "file": "refs/Bristol-Parkway-GWR-387170-387153-arriving-from-London.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bristol_Parkway_-_GWR_387170%2B387153_arriving_from_London.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-11",
+   "kind": "photo",
+   "unit": "387170",
+   "livery": "GW",
+   "view": "near head-on, slightly right",
+   "light": "sun from behind the camera's left, face partly sunlit"
+  },
+  "p151": {
+   "file": "refs/GWR-387151.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_387151.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-05-27",
+   "kind": "photo",
+   "unit": "387151",
+   "livery": "GW",
+   "view": "three-quarter",
+   "light": "sun"
+  },
+  "pcdf": {
+   "file": "refs/Caerdydd-Canolog-GWR-387149-387164-tr-n-i-Paddington.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Caerdydd_Canolog_-_GWR_387149%2B387164_tr%C3%AAn_i_Paddington.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-25",
+   "kind": "photo",
+   "unit": "387149+387164",
+   "livery": "GW",
+   "view": "rear three-quarter",
+   "light": "sun"
+  },
+  "p159": {
+   "file": "refs/Didcot-GWR-387159.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Didcot_-_GWR_387159.jpg",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2018-02-23",
+   "kind": "photo",
+   "unit": "387159 (2018: body geometry only)",
+   "livery": "GW",
+   "view": "front three-quarter",
+   "light": "daylight"
+  },
+  "pwel": {
+   "file": "refs/387106-387121-Welwyn-North-November-14th-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387106_%26_387121,_Welwyn_North,_November_14th_2024.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-11-14",
+   "kind": "photo",
+   "unit": "387106",
+   "livery": "GN",
+   "view": "front three-quarter from the left, close",
+   "light": "overcast; tail lamps lit"
+  },
+  "pkgx": {
+   "file": "refs/London-King-s-Cross-2024-9.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:London_King%27s_Cross_2024_9.jpg",
+   "author": "Smiley.toerist",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-03-29",
+   "kind": "photo",
+   "unit": "387124",
+   "livery": "GN",
+   "view": "front three-quarter from the right, cab car bodyside to the second door",
+   "light": "station roof, diffuse; tail lamp lit"
+  },
+  "pchi": {
+   "file": "refs/Chichester-Station-geograph.org.uk-8235574.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Chichester_Station_-_geograph.org.uk_-_8235574.jpg",
+   "author": "Peter Trimming",
+   "licence": "CC BY-SA 2.0",
+   "date": "2026-01-16",
+   "kind": "photo",
+   "unit": "387123 (GTR white on a Southern service)",
+   "livery": "GN",
+   "view": "front three-quarter from the left, whole unit",
+   "light": "sun"
+  },
+  "p123": {
+   "file": "refs/387123-Brighton-May-15th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387123,_Brighton,_May_15th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-15",
+   "kind": "photo",
+   "unit": "387123 (GTR white, Southern)",
+   "livery": "GN",
+   "view": "front three-quarter from the right, close",
+   "light": "station roof, diffuse; tail lamp lit"
+  },
+  "p125": {
+   "file": "refs/387125-387211-Lewes-May-15th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387125_%26_387211,_Lewes,_May_15th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-15",
+   "kind": "photo",
+   "unit": "387125 (GTR white, Southern)",
+   "livery": "GN",
+   "view": "front three-quarter from the left",
+   "light": "overcast"
+  },
+  "p205": {
+   "file": "refs/387-205-at-Southampton-Central.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387_205_at_Southampton_Central.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-07",
+   "kind": "photo",
+   "unit": "387205 (Gatwick Express red on a Southern service)",
+   "livery": "GX",
+   "view": "front three-quarter from the right, very close",
+   "light": "overcast; tail lit"
+  },
+  "pcoo": {
+   "file": "refs/387225-387219-387207-Cooksbridge-January-4th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387225,_387219_%26_387207,_Cooksbridge,_January_4th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY 4.0",
+   "date": "2025-01-04",
+   "kind": "photo",
+   "unit": "387225 (Southern service 1F31)",
+   "livery": "GX",
+   "view": "near head-on, slightly left; both face silhouettes visible",
+   "light": "overcast, tail lamps lit"
+  },
+  "p227": {
+   "file": "refs/Class-387-Electrostar-EMU-Gatwick-Express-387227-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_387_Electrostar_EMU_(Gatwick_Express_387227).jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-04-11",
+   "kind": "photo",
+   "unit": "387227",
+   "livery": "GX",
+   "view": "front three-quarter from the left, from above, whole unit",
+   "light": "low sun"
+  },
+  "p220": {
+   "file": "refs/387220-Havant-May-15th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387220,_Havant,_May_15th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-15",
+   "kind": "photo",
+   "unit": "387220 (Southern 1N42)",
+   "livery": "GX",
+   "view": "front three-quarter from the left, close",
+   "light": "overcast"
+  },
+  "pvic": {
+   "file": "refs/387-227-at-Victoria-21-February-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387_227_at_Victoria,_21_February_2026.jpg",
+   "author": "hugh llewelyn",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-02-21",
+   "kind": "photo",
+   "unit": "387227",
+   "livery": "GX",
+   "view": "front three-quarter from the right (nose left), cab car bodyside",
+   "light": "station lighting"
+  },
+  "p223": {
+   "file": "refs/387223-Lewes-April-15th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387223,_Lewes,_April_15th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-15",
+   "kind": "photo",
+   "unit": "387223 (Southern 2C32)",
+   "livery": "GX",
+   "view": "front three-quarter from the left",
+   "light": "overcast"
+  },
+  "p132": {
+   "file": "refs/387132-New-York-at-Paddington.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387132_New_York_at_Paddington.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-09-09",
+   "kind": "photo",
+   "unit": "387132",
+   "livery": "HX",
+   "view": "three-quarter",
+   "light": "station roof"
+  },
+  "p140": {
+   "file": "refs/Heathrow-Express-unit-387140-at-London-Paddington-26-06-25-54621396623-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Heathrow_Express_unit_387140_at_London_Paddington_26_06_25_(54621396623).jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-26",
+   "kind": "photo",
+   "unit": "387140",
+   "livery": "HX",
+   "view": "front three-quarter from above, whole unit",
+   "light": "daylight under the roof"
+  },
+  "p133": {
+   "file": "refs/387133-Seen-here-at-London-Paddington-working-a-Heathrow-Express-Service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387133_Seen_here_at_London_Paddington_working_a_Heathrow_Express_Service.jpg",
+   "author": "Robert.Cutter",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-31",
+   "kind": "photo",
+   "unit": "387133",
+   "livery": "HX",
+   "view": "front three-quarter from the left (cab right), cab car bodyside close",
+   "light": "station roof, bright"
+  },
+  "p302": {
+   "file": "refs/C2C-387302-at-Reading.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:C2C_387302_at_Reading.jpg",
+   "author": "SavageKieran",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-08-24",
+   "kind": "photo",
+   "unit": "387302 (c2c livery, on hire to GWR)",
+   "livery": "CC",
+   "view": "front three-quarter from the left, close",
+   "light": "night, platform lights; tail lit"
+  },
+  "p306r": {
+   "file": "refs/Reading-c2c-387306-GWR-Newbury-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Reading_-_c2c_387306_GWR_Newbury_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-10-08",
+   "kind": "photo",
+   "unit": "387306 (c2c livery)",
+   "livery": "CC",
+   "view": "front three-quarter from the right, cab car bodyside",
+   "light": "overcast"
+  },
+  "p306t": {
+   "file": "refs/Thatcham-c2c-387306-approaching-from-Newbury.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Thatcham_-_c2c_387306_approaching_from_Newbury.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-10-08",
+   "kind": "photo",
+   "unit": "387306 (c2c livery)",
+   "livery": "CC",
+   "view": "front three-quarter, slightly left",
+   "light": "overcast"
+  },
+  "p302n": {
+   "file": "refs/Newbury-c2c-387302-GWR-service-from-Reading.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Newbury_-_c2c_387302_GWR_service_from_Reading.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-10-05",
+   "kind": "photo",
+   "unit": "387302 (c2c livery)",
+   "livery": "CC",
+   "view": "front three-quarter from the right, close",
+   "light": "overcast"
+  },
+  "p169": {
+   "file": "refs/Paddington-GWR-387169-and-387135.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Paddington_-_GWR_387169_and_387135.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-05-25",
+   "kind": "photo",
+   "unit": "387169",
+   "livery": "GW",
+   "view": "front three-quarter from the right (nose right), cab car to window a",
+   "light": "station, sun"
+  },
+  "pgxv": {
+   "file": "refs/Gatwick-Express-at-Victoria-21-February-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Gatwick_Express_at_Victoria,_21_February_2026.jpg",
+   "author": "hugh llewelyn",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-02-21",
+   "kind": "photo",
+   "unit": "387227 (set photographed at Victoria the same day as pvic)",
+   "livery": "GX",
+   "view": "square-on bodyside, door 1 rear to door 2, left side (window spacing and door 2 offset match the cab car)",
+   "light": "station lighting"
+  },
+  "p201": {
+   "file": "refs/387201-Lewes-April-15th-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387201,_Lewes,_April_15th_2026.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-15",
+   "kind": "photo",
+   "unit": "387201 (Southern service)",
+   "livery": "SN",
+   "view": "front three-quarter, left side (nose left)",
+   "light": "overcast"
+  },
+  "p222": {
+   "file": "refs/387222-Southampton-Central-November-29th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:387222,_Southampton_Central,_November_29th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-11-29",
+   "kind": "photo",
+   "unit": "387222 (Southern service)",
+   "livery": "SN",
+   "view": "front three-quarter, left side (nose left), far",
+   "light": "night, station lighting"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-lamps-r-164",
+   "ref": "p164",
+   "box": [
+    840,
+    860,
+    1110,
+    1040
+   ],
+   "feature": "lamp cluster, right side as seen head-on (train's left)",
+   "reading": "One black figure-of-eight (peanut) bezel, bolted rim, not two separate housings: small round red LED tail inboard and lower (centre u 920, v 967, r 29 px), larger clear faceted headlamp outboard and higher (u 1012, v 943, r 43 px). Settled against an earlier reading, 'two separate round lamps': both readers and f-panel-r-164/f-lamps-205/f-lamps-133/f-lamps-302 all show one peanut housing.",
+   "reading2": "One black peanut housing, screws round the rim; smaller red LED lamp inboard and lower, larger clear headlamp outboard (right) and higher; dia 0.20 W vs 0.33 W."
+  },
+  {
+   "id": "f-lamps-l-164",
+   "ref": "p164",
+   "box": [
+    190,
+    830,
+    420,
+    1020
+   ],
+   "feature": "lamp cluster, left side as seen head-on",
+   "reading": "Mirror of the right: one peanut bezel, headlamp outboard (left) and higher (u 282, v 909, r 40 px), red LED tail inboard and lower (u 354, v 938, partly hidden by a bracket).",
+   "reading2": "One peanut housing; larger clear headlamp outboard (left) and higher, smaller red LED inboard and lower; a bracket intrudes lower right."
+  },
+  {
+   "id": "f-panel-r-164",
+   "ref": "p164",
+   "box": [
+    800,
+    750,
+    1125,
+    1060
+   ],
+   "feature": "yellow warning panel under the right screen, its lower edge",
+   "reading": "Yellow from the screen sill down past the bezel; number '387 164' black above the bezel. Lower edge: nearly level (falling slightly outboard) to its lowest point under the headlamp, then a large-radius corner rising into the near-vertical outer edge. No 'wave' beyond that dip-then-rise; settled on yellow-mask columns (trace face.panels).",
+   "reading2": "Number across the top; peanut housing in the lower half; bottom edge roughly flat then the outer corner a large convex sweep (radius ~0.2 W) rising to the outer edge; lowest point near the headlamp."
+  },
+  {
+   "id": "f-panel-l-164",
+   "ref": "p164",
+   "box": [
+    180,
+    720,
+    420,
+    1030
+   ],
+   "feature": "yellow warning panel under the left screen",
+   "reading": "Same as the right, mirrored: outer edge vertical to about lamp-centre height, then a large convex corner down to the lowest point under the headlamp, then level inboard.",
+   "reading2": "Left edge straight down to ~0.78 then a smooth convex curve to the bottom at ~0.35 W, then flat; corner radius large (~0.3 W)."
+  },
+  {
+   "id": "f-screen-l-164",
+   "ref": "p164",
+   "box": [
+    150,
+    270,
+    420,
+    780
+   ],
+   "feature": "left windscreen, destination screen, wiper",
+   "reading": "Tall pane in a black frame, outer top corner rounded; grey LED destination display in the top of the pane, from the inner edge out to ~2/3 across; deep black sill with the wiper base; wiper pivots low near the inner side and parks up the inner (gangway) edge.",
+   "reading2": "Black frame, top outer corner small radius; destination display upper area 0.50-0.92 x 0.13-0.29; wiper pivot bottom right (inboard), arm up toward the inboard edge; sill/hose at the bottom."
+  },
+  {
+   "id": "f-screen-r-164",
+   "ref": "p164",
+   "box": [
+    800,
+    270,
+    1130,
+    790
+   ],
+   "feature": "right windscreen and surround, wiper",
+   "reading": "Tall pane, black frame, top corners rounded (outer slightly more), thick black sill carrying the wiper base; no destination display on this side; wiper parked up the inner edge.",
+   "reading2": "Large dark pane, slightly rounded corners, top-right bigger; wiper pivot lower left (inboard), parked near vertical; no destination display."
+  },
+  {
+   "id": "f-cap-164",
+   "ref": "p164",
+   "box": [
+    180,
+    140,
+    1150,
+    310
+   ],
+   "feature": "yellow over the screens, orange line",
+   "reading": "Yellow cap over each screen, its top a convex arc highest beside the gangway frame and rounding down at the outer corner; thin orange line under it; dark grey/black roof dome over; gangway frame top black, rounded, scuffed silver.",
+   "reading2": "Mustard band each side of the gangway frame, top a convex arc rising towards the gangway, outboard ends curving down; thin orange line beneath; frame top black with large rounded corners."
+  },
+  {
+   "id": "f-gangway-164",
+   "ref": "p164",
+   "box": [
+    370,
+    150,
+    840,
+    1130
+   ],
+   "feature": "gangway door and its frame",
+   "reading": "Yellow two-leaf door, centre seam, hinge rows near each outer edge, two recessed handles at mid height; door very slightly narrower at the top; dark charcoal riveted frame, top corners heavily rounded, bottom square with grey plates; grey bellows ribs on the near side.",
+   "reading2": "Plain yellow door, slight taper to the top, centre seam at 0.47, hinge knuckles at 0.31 and 0.62, handles at ~0.54 H; charcoal riveted frame, top corners rounded ~0.1 W, bottom square; grey ribbed bellows on the right."
+  },
+  {
+   "id": "f-lower-164",
+   "ref": "p164",
+   "box": [
+    150,
+    1060,
+    1300,
+    1420
+   ],
+   "feature": "lower front, coupler",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-dome-164",
+   "ref": "p164",
+   "box": [
+    300,
+    40,
+    1000,
+    200
+   ],
+   "feature": "roof dome over the gangway",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-corner-r-164",
+   "ref": "p164",
+   "box": [
+    1080,
+    250,
+    1300,
+    1150
+   ],
+   "feature": "right cab corner into the bodyside",
+   "reading": "Near (right) corner: mirror pod at the top, cab side window, cab door with droplight, filler cap, grab handle recess, small lamp at the bottom; no sharp edges.",
+   "reading2": "Orange line curving at top; black mirror housing; framed window; door with slit window; round filler cap; vertical grab slot; small lamp at the bottom."
+  },
+  {
+   "id": "f-face-ldn",
+   "ref": "pldn",
+   "box": [
+    580,
+    780,
+    1200,
+    1750
+   ],
+   "feature": "face seen from the side: panel, lamps (tail lit)",
+   "reading": "Seen from the near side at 2025: yellow panel with '387 145', the peanut bezel with the tail lit red, grey bellows and the gangway door's frame standing proud of the face."
+  },
+  {
+   "id": "s-cabdoor-ldn",
+   "ref": "pldn",
+   "box": [
+    1350,
+    850,
+    1850,
+    1700
+   ],
+   "feature": "cab side window and cab door",
+   "reading": "Cab side window ahead of the cab door, rounded, in a black rim; cab door leaf with a tall two-pane droplight (transom about 0.44 down); grey line at about 1.5 m behind the door.",
+   "reading2": "Small rounded cab side window; cab door with tall window and transom; orange line at top; white/silver stripe low down with green below."
+  },
+  {
+   "id": "s-win-ldn",
+   "ref": "pldn",
+   "box": [
+    1850,
+    900,
+    2450,
+    1500
+   ],
+   "feature": "saloon windows ahead of the first door",
+   "reading": "Two separate saloon windows ahead of the first door, each in its own rounded black frame: a narrow one then one about twice as wide; plain green pillar between.",
+   "reading2": "Two separate windows, rounded frames; left narrow, right ~2x wider; green pillar between."
+  },
+  {
+   "id": "s-door1-ldn",
+   "ref": "pldn",
+   "box": [
+    2380,
+    880,
+    2780,
+    1700
+   ],
+   "feature": "first passenger door: leaves, leaf windows, stripe",
+   "reading": "First passenger door: silver-grey leaves (not green), one tall narrow window per leaf, a lime-green stripe across both leaves at about 1.5 m continuing the bodyside's pale grey line.",
+   "reading2": "Two silver-grey leaves, curved seam, one tall narrow window each in the upper middle; lime-green stripe across both at ~0.70; pale grey line on the body either side."
+  },
+  {
+   "id": "s-lines-ldn",
+   "ref": "pldn",
+   "box": [
+    1500,
+    1380,
+    2800,
+    1560
+   ],
+   "feature": "light lines on bodyside and doors at about 1.55 m",
+   "reading": "Pale grey line on the green bodyside at about 1.5 m, broken at the doors where it turns lime green; faint GWR wordmark.",
+   "reading2": "Pale grey/white stripe at ~0.7 broken at seams; GWR lettering; lime line on the door."
+  },
+  {
+   "id": "s-band-ldn",
+   "ref": "pldn",
+   "box": [
+    2700,
+    950,
+    3840,
+    1500
+   ],
+   "feature": "window row behind the first door, second door",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "s-roof-ldn",
+   "ref": "pldn",
+   "box": [
+    1500,
+    700,
+    3000,
+    1000
+   ],
+   "feature": "roof edge, cantrail line",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "s-corner-door-174",
+   "ref": "p174",
+   "box": [
+    700,
+    900,
+    1350,
+    1750
+   ],
+   "feature": "cab corner and cab door (three-quarter)",
+   "reading": "Three-quarter: cab door with a two-pane droplight right behind the cab corner, large-radius corner into the face.",
+   "reading2": "Cab door leaf with tall window and transom, big smooth corner panel into the windscreen and yellow."
+  },
+  {
+   "id": "f-lamps-174",
+   "ref": "p174",
+   "box": [
+    1100,
+    1460,
+    1340,
+    1660
+   ],
+   "feature": "near lamp cluster (left side head-on)",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "s-door1-174",
+   "ref": "p174",
+   "box": [
+    250,
+    950,
+    430,
+    1650
+   ],
+   "feature": "first passenger door",
+   "reading": "387174 (debranded GWR on Southern): silver-grey leaves, tall narrow window each, no lime stripe visible.",
+   "reading2": "Silver/grey two leaves, tall narrow square-cornered windows in upper half; no stripe visible."
+  },
+  {
+   "id": "f-face-bri",
+   "ref": "pbri",
+   "box": [
+    540,
+    500,
+    1350,
+    1420
+   ],
+   "feature": "whole face, 2026",
+   "reading": "GW 2026: dark green face and dome, mint D plate on the dome, yellow cap/panels and gangway door as 387164."
+  },
+  {
+   "id": "f-dome-bri",
+   "ref": "pbri",
+   "box": [
+    780,
+    480,
+    1040,
+    620
+   ],
+   "feature": "dome marker light",
+   "reading": "GWR dome: a mint-green D-shaped plate, flat bottom on the cap, holding a dark oval marker lens.",
+   "reading2": "Pale green D/teardrop plate, flat bottom, dark oval lens inside."
+  },
+  {
+   "id": "f-face-kgx",
+   "ref": "pkgx",
+   "box": [
+    800,
+    320,
+    1860,
+    1790
+   ],
+   "feature": "whole face, GN white",
+   "reading": "GN face: white body and face, black grimy dome; yellow cap and panels as GW; yellow gangway door.",
+   "reading2": "Grey-black roof dome; yellow cap each side with orange line; lower yellow panel with number and peanut housing; black gangway frame, mustard door."
+  },
+  {
+   "id": "s-cab-kgx",
+   "ref": "pkgx",
+   "box": [
+    1800,
+    500,
+    2420,
+    1550
+   ],
+   "feature": "cab side, cab door",
+   "reading": "GN: white cab side; mirror pod; small cab side window; cab door with two-pane window; first saloon windows in thick black rounded frames.",
+   "reading2": "White; rounded cab end; small window; door window with transom; saloon windows with thick dark frames."
+  },
+  {
+   "id": "s-door1-kgx",
+   "ref": "pkgx",
+   "box": [
+    2380,
+    560,
+    2700,
+    1500
+   ],
+   "feature": "first passenger door, GN",
+   "reading": "GN door leaves dark green, full height; yellow grab poles seen through the leaf windows.",
+   "reading2": "Dark green leaves, centre seam, yellow handrails visible; no stripes."
+  },
+  {
+   "id": "s-band-kgx",
+   "ref": "pkgx",
+   "box": [
+    2600,
+    580,
+    3300,
+    1300
+   ],
+   "feature": "window row, GN",
+   "reading": "GN: separate windows in individual black rounded frames with narrow white pillars, not one band; small square vents above; orange cantrail line.",
+   "reading2": "Four separate windows in rounded dark frames, narrow white pillars, vents above, orange line."
+  },
+  {
+   "id": "f-face-123",
+   "ref": "p123",
+   "box": [
+    130,
+    340,
+    600,
+    940
+   ],
+   "feature": "whole face, GTR white 2026",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-lamps-r-123",
+   "ref": "p123",
+   "box": [
+    455,
+    680,
+    590,
+    780
+   ],
+   "feature": "right lamp cluster, tail lit",
+   "reading": "GTR white: peanut bezel, tail lit inboard, headlamp outboard higher.",
+   "reading2": "One peanut housing; red lit inboard; headlamp outboard and higher."
+  },
+  {
+   "id": "f-lamps-205",
+   "ref": "p205",
+   "box": [
+    860,
+    1550,
+    1230,
+    1850
+   ],
+   "feature": "right lamp cluster, tail lit, close",
+   "reading": "GX: same peanut bezel; red tail lit inboard and lower, headlamp outboard higher.",
+   "reading2": "One peanut housing; red lit lamp inboard lower, larger clear headlamp outboard higher."
+  },
+  {
+   "id": "f-panel-205",
+   "ref": "p205",
+   "box": [
+    820,
+    1380,
+    1290,
+    1900
+   ],
+   "feature": "yellow panel, its lower edge into red",
+   "reading": "GX: yellow lower edge level then the large-radius outer corner, the red face below and outside: same shape as GW.",
+   "reading2": "Bottom roughly straight then rises on the right in a large convex curve (r ~0.2-0.3 W) against red."
+  },
+  {
+   "id": "f-screen-205",
+   "ref": "p205",
+   "box": [
+    820,
+    560,
+    1310,
+    1420
+   ],
+   "feature": "right windscreen and surround",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-gangway-205",
+   "ref": "p205",
+   "box": [
+    250,
+    380,
+    920,
+    1960
+   ],
+   "feature": "gangway door, frame, bellows",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-cap-205",
+   "ref": "p205",
+   "box": [
+    800,
+    380,
+    1330,
+    620
+   ],
+   "feature": "yellow cap and orange line",
+   "reading": "GX: yellow cap with arched top, orange line under it, red dome above.",
+   "reading2": "Yellow cap, gentle convex arc, rounded outer corner; orange line under; red above."
+  },
+  {
+   "id": "f-lower-205",
+   "ref": "p205",
+   "box": [
+    700,
+    1900,
+    1600,
+    2500
+   ],
+   "feature": "lower front, red valance",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "s-cab-205",
+   "ref": "p205",
+   "box": [
+    1500,
+    550,
+    1920,
+    2000
+   ],
+   "feature": "cab side, cab door, GX",
+   "reading": "GX cab side: red, mirror pod, rounded cab side window, cab door with transom window, white line starting at the cab door.",
+   "reading2": "Red; mirror; rounded window; door window with transom; cream line from the door rearwards."
+  },
+  {
+   "id": "f-face-coo",
+   "ref": "pcoo",
+   "box": [
+    860,
+    230,
+    1380,
+    880
+   ],
+   "feature": "whole face head-on, GX",
+   "reading": "Near head-on GX 387225: red face, yellow cap and lower panels, black screen surrounds, yellow gangway door in dark frame, white bodyside line ends at each corner at panel height, both peanut bezels with tails lit."
+  },
+  {
+   "id": "f-side-l-coo",
+   "ref": "pcoo",
+   "box": [
+    780,
+    280,
+    960,
+    880
+   ],
+   "feature": "left face corner and white bodyside stripe end",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-face-227",
+   "ref": "p227",
+   "box": [
+    1320,
+    500,
+    1720,
+    1080
+   ],
+   "feature": "face three-quarter, GX",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "s-side-227",
+   "ref": "p227",
+   "box": [
+    800,
+    420,
+    1340,
+    1000
+   ],
+   "feature": "cab car bodyside, doors, white line, GX",
+   "reading": "GX: red body, grey doors, separate black-framed windows, a thin white line low on the bodyside broken at the doors, GX logo.",
+   "reading2": "Red; grey leaves; separate windows; thin white line along lower body broken at doors; GX logo."
+  },
+  {
+   "id": "s-carend-227",
+   "ref": "p227",
+   "box": [
+    480,
+    400,
+    900,
+    900
+   ],
+   "feature": "car ends at the inter-car gangway, GX",
+   "reading": "GX car ends: red to the end, rounded end corners, white line runs to the car end.",
+   "reading2": "Rounded car-end corners; red; white line low; orange line at the top."
+  },
+  {
+   "id": "s-side-vic",
+   "ref": "pvic",
+   "box": [
+    0,
+    300,
+    3840,
+    2600
+   ],
+   "feature": "GX three-quarter, cab car and bodyside",
+   "reading": "GX 387227 three-quarter 2026: red body, grey doors, white low line, separate framed windows, tail lit in the peanut bezel."
+  },
+  {
+   "id": "f-face-133",
+   "ref": "p133",
+   "box": [
+    2830,
+    1150,
+    3630,
+    2400
+   ],
+   "feature": "whole face, HX",
+   "reading": "HX 387133: silver-grey face, yellow cap and panels as GW, gangway door black over yellow, both peanut bezels (tails lit)."
+  },
+  {
+   "id": "f-gangway-133",
+   "ref": "p133",
+   "box": [
+    3200,
+    1180,
+    3520,
+    2120
+   ],
+   "feature": "gangway door: upper dark with logo, lower yellow",
+   "reading": "HX gangway door: upper half black with a white ring-and-X logo, lower half yellow; split near the handles.",
+   "reading2": "Top ~57% black with white ring logo, lower ~43% yellow, split at the handles."
+  },
+  {
+   "id": "f-lamps-133",
+   "ref": "p133",
+   "box": [
+    2870,
+    1850,
+    3090,
+    2020
+   ],
+   "feature": "left lamp cluster, tail lit",
+   "reading": "HX: peanut bezel, headlamp outboard (left) higher, tail lit inboard.",
+   "reading2": "Peanut; left larger clear headlamp higher; right red LED lower."
+  },
+  {
+   "id": "s-cabend-133",
+   "ref": "p133",
+   "box": [
+    2400,
+    1250,
+    2900,
+    2150
+   ],
+   "feature": "cab side: white crescent, cab door",
+   "reading": "HX: grey cab end; a white crescent sweeping up behind the cab door, edged dark grey/purple behind.",
+   "reading2": "Grey cab end; white curved wedge behind the cab door, wide low and tapering to a point at the top."
+  },
+  {
+   "id": "s-purple-133",
+   "ref": "p133",
+   "box": [
+    1100,
+    1300,
+    2500,
+    2100
+   ],
+   "feature": "purple door panels and white crescents",
+   "reading": "HX: large purple panel over the saloon behind the cab, bounded front and rear by white crescents and below by a sweep; grey body elsewhere; city wrap ('TOKYO').",
+   "reading2": "Large purple area bounded by sweeping curves, white crescents at each end; grey doors with purple lower half on one; TOKYO wrap."
+  },
+  {
+   "id": "f-face-140",
+   "ref": "p140",
+   "box": [
+    960,
+    1480,
+    1450,
+    2150
+   ],
+   "feature": "face from above, HX",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "f-face-302",
+   "ref": "p302",
+   "box": [
+    1980,
+    700,
+    3000,
+    2010
+   ],
+   "feature": "whole face, c2c",
+   "reading": "c2c face: white body, yellow cap and panels as GW, black screen surrounds, yellow door in a black frame.",
+   "reading2": "White body; yellow cap with orange line; lower yellow panel with rounded outer bottom; gangway black frame, yellow door, grey bellows."
+  },
+  {
+   "id": "f-lamps-302",
+   "ref": "p302",
+   "box": [
+    2010,
+    1600,
+    2330,
+    1840
+   ],
+   "feature": "left lamp cluster, tail lit",
+   "reading": "c2c: same peanut bezel.",
+   "reading2": "Same peanut layout, left headlamp higher, right red lit."
+  },
+  {
+   "id": "s-side-302",
+   "ref": "p302",
+   "box": [
+    600,
+    800,
+    2000,
+    1800
+   ],
+   "feature": "cab car bodyside, purple door, c2c logo",
+   "reading": "c2c: white body, purple/navy door leaves, separate windows, magenta c2c logo.",
+   "reading2": "White; navy/purple doors with yellow handrails; separate windows; c2c logo."
+  },
+  {
+   "id": "f-face-306",
+   "ref": "p306r",
+   "box": [
+    180,
+    230,
+    470,
+    730
+   ],
+   "feature": "face, c2c",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "s-door-306",
+   "ref": "p306r",
+   "box": [
+    760,
+    320,
+    860,
+    560
+   ],
+   "feature": "passenger door, c2c purple",
+   "reading": "c2c door: navy leaves, white 'Quiet'/'Zone' labels low on each leaf.",
+   "reading2": "Navy leaves, white Quiet/Zone labels at ~0.7, lighter navy band at the bottom."
+  },
+  {
+   "id": "s-side-306",
+   "ref": "p306r",
+   "box": [
+    470,
+    250,
+    1060,
+    600
+   ],
+   "feature": "cab side to first door, c2c",
+   "reading": "c2c: same; 'Quiet Zone' labels low on the doors.",
+   "reading2": "White; navy doors; Quiet Zone labels; c2c logo."
+  },
+  {
+   "id": "d-gw-cab",
+   "ref": "dia-gw",
+   "box": [
+    0,
+    0,
+    1800,
+    369
+   ],
+   "feature": "GW diagram, cab car (livery only)",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "d-gn-cab",
+   "ref": "dia-gn",
+   "box": [
+    0,
+    0,
+    1800,
+    369
+   ],
+   "feature": "GN diagram, cab car (livery only)",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "d-gx-cab",
+   "ref": "dia-gx",
+   "box": [
+    0,
+    0,
+    1800,
+    369
+   ],
+   "feature": "GX diagram, cab car (livery only)",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "d-cc-cab",
+   "ref": "dia-cc",
+   "box": [
+    0,
+    0,
+    1800,
+    369
+   ],
+   "feature": "c2c diagram, cab car (livery only)",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "d-hx-strip",
+   "ref": "strip-hx",
+   "box": [
+    0,
+    0,
+    700,
+    122
+   ],
+   "feature": "HX strip, cab car (livery only)",
+   "reading": "Context crop, looked at on the contact sheet only (not used for a number)."
+  },
+  {
+   "id": "logo-gw-ldn",
+   "ref": "pldn",
+   "box": [
+    2040,
+    1400,
+    2290,
+    1590
+   ],
+   "feature": "GWR logo, cab car left side",
+   "reading": "Grey 'GWR' letters, the W drawn as a tall V with a separate slash; V tips rise above the letters to the bodyside line, which stops either side of the logo. G at the front (left as seen). Under window b, ahead of door 1."
+  },
+  {
+   "id": "logo-gwtext-ldn",
+   "ref": "pldn",
+   "box": [
+    2740,
+    1415,
+    2900,
+    1465
+   ],
+   "feature": "'Great Western Railway' text, cab car left side",
+   "reading": "Small grey italic serif 'Great Western Railway' tucked right under the grey bodyside line, starting just behind door 1."
+  },
+  {
+   "id": "logo-gw-r-169",
+   "ref": "p169",
+   "box": [
+    0,
+    1150,
+    160,
+    1310
+   ],
+   "feature": "GWR logo, cab car right side",
+   "reading": "Only the 'R' end of the GWR logo in frame at the left edge, under window b: the R is the front end on the right side, so the logo reads normally (G at the rear)."
+  },
+  {
+   "id": "logo-gw2-151",
+   "ref": "p151",
+   "box": [
+    1115,
+    770,
+    1185,
+    870
+   ],
+   "feature": "second GWR logo, cab car rear",
+   "reading": "A second grey GWR logo behind door 2, under the pillar between windows 7 and 8, same size as the front one."
+  },
+  {
+   "id": "logo-gw-next-151",
+   "ref": "p151",
+   "box": [
+    1240,
+    770,
+    1300,
+    860
+   ],
+   "feature": "GWR logo, next car",
+   "reading": "Grey GWR logo on the second car ahead of its door 1, under its second window; a second one is faintly visible behind its door 2."
+  },
+  {
+   "id": "logo-gn-kgx",
+   "ref": "pkgx",
+   "box": [
+    2840,
+    1120,
+    2960,
+    1300
+   ],
+   "feature": "Great Northern logo, cab car left side",
+   "reading": "Dark purple box with white 'Great Northern', a light-blue downward triangle hanging under its right-hand (rear) part. Below window 5/6, nearer door 2."
+  },
+  {
+   "id": "logo-gn-r-wel",
+   "ref": "pwel",
+   "box": [
+    605,
+    540,
+    655,
+    605
+   ],
+   "feature": "Great Northern logo, cab car right side",
+   "reading": "Same box and triangle on the right side, in shade (reads greyish); triangle under the right-hand (front) part as seen."
+  },
+  {
+   "id": "logo-gn-next-kgx",
+   "ref": "pkgx",
+   "box": [
+    3720,
+    1040,
+    3800,
+    1150
+   ],
+   "feature": "Great Northern logo, next car",
+   "reading": "Faint purple box under windows 4-5 of the second car, triangle below; heavily foreshortened."
+  },
+  {
+   "id": "logo-gx-pgxv",
+   "ref": "pgxv",
+   "box": [
+    300,
+    880,
+    2100,
+    1800
+   ],
+   "feature": "GX letters, cab car left side",
+   "reading": "Huge white serif 'GX' from just under the orange line to below the windows; the black window band covers their middle, so only the tops and feet show. G starts over window 3. The white bodyside line stops at the G and restarts after the text."
+  },
+  {
+   "id": "logo-gxtext-pgxv",
+   "ref": "pgxv",
+   "box": [
+    2120,
+    1630,
+    3260,
+    1740
+   ],
+   "feature": "'GATWICK EXPRESS' text, left side",
+   "reading": "White spaced capitals 'GATWICK EXPRESS' at the height of the white line (the line is broken for it), from the X's foot almost to door 2."
+  },
+  {
+   "id": "logo-gx-vic",
+   "ref": "pvic",
+   "box": [
+    2190,
+    1220,
+    2620,
+    1600
+   ],
+   "feature": "GX letters and text, cab car left side (second view)",
+   "reading": "Same large GX with GATWICK EXPRESS after it, between door 1 and door 2 on 387227."
+  },
+  {
+   "id": "logo-gx-r-227",
+   "ref": "p227",
+   "box": [
+    1010,
+    760,
+    1105,
+    835
+   ],
+   "feature": "GX logo, cab car right side",
+   "reading": "On the right side the cab car carries a SMALL GX (only below the windows, about 0.4 m tall) with GATWICK EXPRESS after it, reading normally, so the GX is toward door 2 and the text runs forward to window 4."
+  },
+  {
+   "id": "logo-gx-next-r-227",
+   "ref": "p227",
+   "box": [
+    640,
+    500,
+    745,
+    740
+   ],
+   "feature": "GX letters, next car right side",
+   "reading": "The second car's right side has the large GX (tops above the windows, feet below) with GATWICK EXPRESS after it, reading normally: G toward the car's rear."
+  },
+  {
+   "id": "logo-sn-222",
+   "ref": "p222",
+   "box": [
+    690,
+    420,
+    860,
+    630
+   ],
+   "feature": "GX letters on a Southern-worked unit, 2025-11",
+   "reading": "387222 on a Southern service still carries the large GX and GATWICK EXPRESS on the cab car."
+  },
+  {
+   "id": "logo-sn-201",
+   "ref": "p201",
+   "box": [
+    380,
+    420,
+    1000,
+    760
+   ],
+   "feature": "387201 on Southern, 2026-04: debranded",
+   "reading": "Cab car left side red with no GX letters and no white bodyside line; only one small white wordmark ahead of door 2 (illegible at 1600 px, likely Southern's)."
+  },
+  {
+   "id": "logo-sn-220",
+   "ref": "p220",
+   "box": [
+    600,
+    380,
+    1000,
+    720
+   ],
+   "feature": "GX letters on 387220, Southern, 2026-05",
+   "reading": "White GX strokes visible behind door 1 at Havant on 2026-05-15: the GX branding is still on."
+  },
+  {
+   "id": "logo-hx-door1-133",
+   "ref": "p133",
+   "box": [
+    1895,
+    1700,
+    2075,
+    1890
+   ],
+   "feature": "Heathrow Express roundel on door 1 leaves",
+   "reading": "Each door 1 leaf carries a near-black ring with an hourglass X, and 'Heathrow / Express' in two small lines under it, centred on the leaf."
+  },
+  {
+   "id": "logo-hx-door2-133",
+   "ref": "p133",
+   "box": [
+    1300,
+    1700,
+    1390,
+    1790
+   ],
+   "feature": "Heathrow Express roundel on door 2 leaves",
+   "reading": "Same roundel and text on both door 2 leaves."
+  },
+  {
+   "id": "logo-hx-tokyo-133",
+   "ref": "p133",
+   "box": [
+    2125,
+    1760,
+    2290,
+    1925
+   ],
+   "feature": "city wrap 'TOKYO', right side",
+   "reading": "White line art: a skyline and a pagoda with 'TOKYO' in capitals, underlined, on the purple panel under window b. Per unit (387132 has NEW YORK)."
+  },
+  {
+   "id": "logo-hx-plane-133",
+   "ref": "p133",
+   "box": [
+    1575,
+    1740,
+    1700,
+    1865
+   ],
+   "feature": "aircraft symbol, right side",
+   "reading": "A large grey stylised aircraft seen from above, nose down-right, on the purple panel under windows 4-5."
+  },
+  {
+   "id": "logo-hx-rear-133",
+   "ref": "p133",
+   "box": [
+    1180,
+    1720,
+    1270,
+    1815
+   ],
+   "feature": "Heathrow Express logo behind door 2",
+   "reading": "Dark grey roundel with 'Heathrow Express' beside it on the grey bodyside behind door 2 (rear of the cab car)."
+  },
+  {
+   "id": "logo-hx-bf-133",
+   "ref": "p133",
+   "box": [
+    2130,
+    1700,
+    2225,
+    1735
+   ],
+   "feature": "'BUSINESS FIRST' window vinyl",
+   "reading": "White 'BUSINESS FIRST' capitals along the bottom of the glass of window b; the same vinyl on windows 3-6 and on the door 1 leaf windows."
+  },
+  {
+   "id": "logo-hx-face-133",
+   "ref": "p133",
+   "box": [
+    3250,
+    1180,
+    3480,
+    1500
+   ],
+   "feature": "Heathrow Express roundel on the gangway door",
+   "reading": "White ring with the hourglass X on the black upper gangway door (the ring is already a faceShape; the X inside is not)."
+  },
+  {
+   "id": "logo-cc-306r",
+   "ref": "p306r",
+   "box": [
+    935,
+    472,
+    965,
+    510
+   ],
+   "feature": "c2c wordmark, cab car left side",
+   "reading": "Magenta lower-case 'c2c', the 2 dropping below the c's, under window 5, between the doors."
+  },
+  {
+   "id": "logo-cc-r-302",
+   "ref": "p302",
+   "box": [
+    815,
+    1420,
+    875,
+    1510
+   ],
+   "feature": "c2c wordmark, cab car right side",
+   "reading": "Same c2c wordmark under the windows between the doors (night, overexposed)."
+  },
+  {
+   "id": "logo-ccq-306r",
+   "ref": "p306r",
+   "box": [
+    785,
+    470,
+    850,
+    505
+   ],
+   "feature": "Quiet Zone door panels, door 1, left side",
+   "reading": "White rectangles with teal 'Quiet' (front leaf) and 'Zone' (rear leaf) just under the leaf windows; door 2 the same. 387302's right side door 1 has none (Quiet Zone end only)."
+  },
+  {
+   "id": "logo-cctren-306r",
+   "ref": "p306r",
+   "box": [
+    990,
+    485,
+    1015,
+    505
+   ],
+   "feature": "small endorsement mark, left side",
+   "reading": "A small grey/red mark with tiny text behind the c2c wordmark, near door 2: the Trenitalia endorsement (c2c's owner then)."
+  },
+  {
+   "id": "logo-cctren-r-302",
+   "ref": "p302",
+   "box": [
+    955,
+    1505,
+    1015,
+    1565
+   ],
+   "feature": "Trenitalia endorsement, right side",
+   "reading": "Small red emblem with grey text, behind door 1, lower than the c2c wordmark."
+  }
+ ],
+ "samples": [
+  {
+   "id": "green-174",
+   "ref": "p174",
+   "box": [
+    504,
+    1000,
+    528,
+    1024
+   ],
+   "what": "GW green bodyside above the windows (no white on the car: raw)"
+  },
+  {
+   "id": "face-174",
+   "ref": "p174",
+   "box": [
+    1059,
+    1212,
+    1075,
+    1228
+   ],
+   "what": "GW green cab corner"
+  },
+  {
+   "id": "door-174",
+   "ref": "p174",
+   "box": [
+    390,
+    1022,
+    402,
+    1034
+   ],
+   "what": "GW door leaf silver-grey"
+  },
+  {
+   "id": "yellow-174",
+   "ref": "p174",
+   "box": [
+    1215,
+    1411,
+    1239,
+    1435
+   ],
+   "what": "warning yellow, overcast"
+  },
+  {
+   "id": "lime-ldn",
+   "ref": "pldn",
+   "box": [
+    2490,
+    1454,
+    2494,
+    1458
+   ],
+   "what": "GW lime line on the door leaf (sodium light, raw)"
+  },
+  {
+   "id": "yellow-164",
+   "ref": "p164",
+   "box": [
+    952,
+    842,
+    968,
+    858
+   ],
+   "what": "warning yellow, face in shade"
+  },
+  {
+   "id": "frame-164",
+   "ref": "p164",
+   "box": [
+    740,
+    590,
+    780,
+    610
+   ],
+   "what": "gangway frame charcoal"
+  },
+  {
+   "id": "white-kgx",
+   "ref": "pkgx",
+   "box": [
+    2708,
+    696,
+    2732,
+    720
+   ],
+   "what": "GN white bodyside"
+  },
+  {
+   "id": "door-kgx",
+   "ref": "pkgx",
+   "box": [
+    2556,
+    1362,
+    2568,
+    1374
+   ],
+   "what": "GN door leaf (dark green, lit by the roof)",
+   "neutral": "white-kgx"
+  },
+  {
+   "id": "band-kgx",
+   "ref": "pkgx",
+   "box": [
+    2625,
+    845,
+    2635,
+    855
+   ],
+   "what": "GN window glass/frame",
+   "neutral": "white-kgx"
+  },
+  {
+   "id": "yellow-kgx",
+   "ref": "pkgx",
+   "box": [
+    1720,
+    1200,
+    1736,
+    1216
+   ],
+   "what": "warning yellow GN",
+   "neutral": "white-kgx"
+  },
+  {
+   "id": "white-vic",
+   "ref": "pvic",
+   "box": [
+    1355,
+    1649,
+    1361,
+    1655
+   ],
+   "what": "GX white line (neutral)"
+  },
+  {
+   "id": "red-vic",
+   "ref": "pvic",
+   "box": [
+    864,
+    1672,
+    888,
+    1696
+   ],
+   "what": "GX red cab end",
+   "neutral": "white-vic"
+  },
+  {
+   "id": "door-vic",
+   "ref": "pvic",
+   "box": [
+    1972,
+    1192,
+    1988,
+    1208
+   ],
+   "what": "GX door leaf grey",
+   "neutral": "white-vic"
+  },
+  {
+   "id": "red-coo",
+   "ref": "pcoo",
+   "box": [
+    860,
+    590,
+    880,
+    610
+   ],
+   "what": "GX red face, overcast (raw)"
+  },
+  {
+   "id": "red-205",
+   "ref": "p205",
+   "box": [
+    1384,
+    1744,
+    1408,
+    1768
+   ],
+   "what": "GX red cab side, overcast (raw)"
+  },
+  {
+   "id": "white-133",
+   "ref": "p133",
+   "box": [
+    2480,
+    1944,
+    2488,
+    1952
+   ],
+   "what": "HX white crescent (neutral)"
+  },
+  {
+   "id": "grey-133",
+   "ref": "p133",
+   "box": [
+    2668,
+    1552,
+    2692,
+    1576
+   ],
+   "what": "HX silver-grey cab side",
+   "neutral": "white-133"
+  },
+  {
+   "id": "purple-133",
+   "ref": "p133",
+   "box": [
+    2260,
+    1950,
+    2280,
+    1970
+   ],
+   "what": "HX purple panel",
+   "neutral": "white-133"
+  },
+  {
+   "id": "yellow-133",
+   "ref": "p133",
+   "box": [
+    3310,
+    1800,
+    3330,
+    1820
+   ],
+   "what": "HX warning yellow",
+   "neutral": "white-133"
+  },
+  {
+   "id": "white-306",
+   "ref": "p306r",
+   "box": [
+    626,
+    310,
+    638,
+    322
+   ],
+   "what": "c2c white bodyside"
+  },
+  {
+   "id": "door-306",
+   "ref": "p306r",
+   "box": [
+    780,
+    356,
+    788,
+    364
+   ],
+   "what": "c2c door leaf navy/purple",
+   "neutral": "white-306"
+  }
+ ]
+}

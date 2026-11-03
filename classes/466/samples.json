@@ -1,0 +1,72 @@
+{
+ "white-007": {
+  "ref": "p007",
+  "box": [
+   1270,
+   1520,
+   1450,
+   1545
+  ],
+  "what": "white bodyside below the windows, sun",
+  "median": "#E0DBD5",
+  "iqr": [
+   1,
+   2,
+   2
+  ]
+ },
+ "navy-007": {
+  "ref": "p007",
+  "box": [
+   1152,
+   1660,
+   1440,
+   1728
+  ],
+  "what": "navy lower band",
+  "median": "#171313",
+  "iqr": [
+   15,
+   11,
+   8
+  ],
+  "balanced": "#191515",
+  "neutral": "white-007"
+ },
+ "door-007": {
+  "ref": "p007",
+  "box": [
+   1517,
+   1600,
+   1555,
+   1720
+  ],
+  "what": "door leaf",
+  "median": "#656678",
+  "iqr": [
+   16,
+   27,
+   47
+  ],
+  "balanced": "#6C7087",
+  "neutral": "white-007"
+ },
+ "yellow-007": {
+  "ref": "p007",
+  "box": [
+   2784,
+   1690,
+   3034,
+   1766
+  ],
+  "what": "yellow face between lamps, sun",
+  "median": "#D89111",
+  "iqr": [
+   7,
+   10,
+   6
+  ],
+  "balanced": "#E79F13",
+  "neutral": "white-007"
+ }
+}

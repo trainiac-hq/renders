@@ -1,0 +1,162 @@
+{
+ "photo": "p028",
+ "size": [
+  1600,
+  1067
+ ],
+ "fit": [
+  "door0-front-top",
+  "door0-rear-top",
+  "w1-top-front",
+  "w1-bottom-front",
+  "lamp2-head",
+  "lamp0-marker",
+  "gangway-frame-top-near",
+  "gangway-frame-top-far",
+  "gangway-frame-bottom-near"
+ ],
+ "holdout": [
+  "door0-front-bottom",
+  "lamp1-tail"
+ ],
+ "rmsFit": 1.19,
+ "outliers": [],
+ "focalPx": 2860.0,
+ "principal": [
+  800.0,
+  533.5
+ ],
+ "k1": 0.0,
+ "fitErrors": {
+  "door0-front-top": {
+   "px": 0.82,
+   "cm": 0.62,
+   "projected": [
+    1183.8,
+    430.2
+   ]
+  },
+  "door0-rear-top": {
+   "px": 0.73,
+   "cm": 0.55,
+   "projected": [
+    1286.3,
+    430.2
+   ]
+  },
+  "w1-top-front": {
+   "px": 0.73,
+   "cm": 0.56,
+   "projected": [
+    1471.4,
+    488.9
+   ]
+  },
+  "w1-bottom-front": {
+   "px": 1.82,
+   "cm": 1.39,
+   "projected": [
+    1473.1,
+    623.1
+   ]
+  },
+  "lamp2-head": {
+   "px": 1.02,
+   "cm": 0.79,
+   "projected": [
+    1006.5,
+    667.5
+   ]
+  },
+  "lamp0-marker": {
+   "px": 1.5,
+   "cm": 1.13,
+   "projected": [
+    1024.5,
+    671.1
+   ]
+  },
+  "gangway-frame-top-near": {
+   "px": 1.61,
+   "cm": 1.24,
+   "projected": [
+    931.4,
+    403.2
+   ]
+  },
+  "gangway-frame-top-far": {
+   "px": 1.15,
+   "cm": 0.93,
+   "projected": [
+    898.9,
+    404.4
+   ]
+  },
+  "gangway-frame-bottom-near": {
+   "px": 0.7,
+   "cm": 0.54,
+   "projected": [
+    930.6,
+    717.7
+   ]
+  }
+ },
+ "heldOut": {
+  "door0-front-bottom": {
+   "px": 5.97,
+   "cm": 4.53,
+   "projected": [
+    1181.9,
+    754.3
+   ]
+  },
+  "lamp1-tail": {
+   "px": 2.05,
+   "cm": 1.56,
+   "projected": [
+    1015.3,
+    692.0
+   ]
+  }
+ },
+ "worstHeldOutCm": 4.53,
+ "ok": true,
+ "camera": {
+  "matrix": [
+   [
+    0.9857355284263174,
+    0.005574535080223556,
+    -0.16820937119176152,
+    -5.257416845299226
+   ],
+   [
+    -0.16830050357407128,
+    0.03644504081825907,
+    -0.9850617744570487,
+    -22.143778518585247
+   ],
+   [
+    0.000639135981199329,
+    0.9993201106544364,
+    0.036863368630698265,
+    3.424434439554732
+   ],
+   [
+    0.0,
+    0.0,
+    0.0,
+    1.0
+   ]
+  ],
+  "lens": 64.34971650433555,
+  "shift": [
+   0.0,
+   0.0
+  ],
+  "size": [
+   1600,
+   1067
+  ],
+  "k1": 0.0
+ }
+}

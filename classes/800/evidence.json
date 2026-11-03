@@ -1,0 +1,217 @@
+{
+ "class": "800",
+ "subject": "Class 800/0 IET in GWR green, 2026",
+ "refs": {
+  "dia": {
+   "file": "refs/GWR-Class-800-0-revised.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_800_0_revised.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-24",
+   "kind": "diagram",
+   "unit": "800/0 (5 cars)",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p311": {
+   "file": "refs/GWR-800-311-Basingstoke.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_800_311_@_Basingstoke.jpg",
+   "author": "Skye Haynes",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-28",
+   "kind": "photo",
+   "unit": "800311",
+   "view": "front three-quarter, near side to the right",
+   "light": "sun, high"
+  },
+  "p313": {
+   "file": "refs/800-313-at-Exeter-St.-David-s.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:800_313_at_Exeter_St._David%E2%80%99s.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-05-23",
+   "kind": "photo",
+   "unit": "800313",
+   "view": "nose close, from the near side",
+   "light": "overcast"
+  },
+  "p002": {
+   "file": "refs/Slough-GWR-800002-Oxford-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Slough_-_GWR_800002_Oxford_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-03",
+   "kind": "photo",
+   "unit": "800002",
+   "view": "front three-quarter",
+   "light": "bright overcast"
+  },
+  "p008": {
+   "file": "refs/Silk-Mills-GWR-800008-Exeter-to-Bristol.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Silk_Mills_-_GWR_800008_Exeter_to_Bristol.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-05-31",
+   "kind": "photo",
+   "unit": "800008",
+   "view": "from above, three-quarter, whole unit",
+   "light": "sun"
+  },
+  "p307": {
+   "file": "refs/800307-passes-Great-Cheverell-30-04-26-55248379107-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:800307_passes_Great_Cheverell_30-04-26_(55248379107).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-04-30",
+   "kind": "photo",
+   "unit": "800307 (800/3)",
+   "view": "three-quarter, long side",
+   "light": "sun"
+  },
+  "p004": {
+   "file": "refs/GWR-Class-800-800-004-at-London-Paddington.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:GWR_Class_800_(800_004)_at_London_Paddington.jpg",
+   "author": "TheTransportHub",
+   "licence": "CC BY-SA 4.0",
+   "date": "",
+   "kind": "photo",
+   "unit": "800004",
+   "view": "cab three-quarter close",
+   "light": "station"
+  },
+  "pbry": {
+   "file": "refs/-Open-wide-IET-at-Bryncae-level-crossing-53899364671-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:%27Open_wide!%27_IET_at_Bryncae_level_crossing_(53899364671).jpg",
+   "author": "Jeremy Segrott",
+   "licence": "CC BY 2.0",
+   "date": "",
+   "kind": "photo",
+   "unit": "800 (GWR)",
+   "view": "head-on from above, coupler cover open",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-nose-311",
+   "ref": "p311",
+   "box": [
+    713,
+    602,
+    1591,
+    1918
+   ],
+   "feature": "the whole nose head-on-ish",
+   "reading": ""
+  },
+  {
+   "id": "f-yellow-311",
+   "ref": "p311",
+   "box": [
+    795,
+    1150,
+    1420,
+    1836
+   ],
+   "feature": "yellow: band and cone",
+   "reading": "Yellow band across between the lamp recesses under the screen frame, then the cone below its arched seam; 'GWR' logo on the band (not drawn)."
+  },
+  {
+   "id": "f-lamps-r-311",
+   "ref": "p311",
+   "box": [
+    1289,
+    1123,
+    1536,
+    1397
+   ],
+   "feature": "near lamp cluster",
+   "reading": "Slanted black recess under clear cover: headlamp high and outboard, round LED tail low and inboard."
+  },
+  {
+   "id": "f-screen-311",
+   "ref": "p311",
+   "box": [
+    823,
+    684,
+    1536,
+    1205
+   ],
+   "feature": "windscreen, frame, wiper, orange line",
+   "reading": ""
+  },
+  {
+   "id": "f-camera-311",
+   "ref": "p311",
+   "box": [
+    1097,
+    640,
+    1317,
+    807
+   ],
+   "feature": "camera box over the screen",
+   "reading": "Not a camera: an LED marker lamp in a grey recess over the screen."
+  },
+  {
+   "id": "s-cabzone-311",
+   "ref": "p311",
+   "box": [
+    1481,
+    700,
+    2300,
+    1600
+   ],
+   "feature": "cab side window, cab door, first door",
+   "reading": "Every door is body green with silver grab rails; vertical 'GWR' lettering behind the cab door (not drawn)."
+  },
+  {
+   "id": "s-saloon-311",
+   "ref": "p311",
+   "box": [
+    2000,
+    800,
+    3400,
+    1500
+   ],
+   "feature": "saloon windows, under-window line, doors",
+   "reading": "A light grey line under the standard-class windows; individual rounded windows."
+  },
+  {
+   "id": "s-roof-311",
+   "ref": "p311",
+   "box": [
+    1536,
+    650,
+    2743,
+    1013
+   ],
+   "feature": "roof line",
+   "reading": ""
+  },
+  {
+   "id": "f-face-bry",
+   "ref": "pbry",
+   "box": [
+    715,
+    430,
+    925,
+    750
+   ],
+   "feature": "face head-on: yellow band, cone (open), lamps",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-311",
+   "ref": "p311",
+   "box": [
+    1300,
+    700,
+    2150,
+    1600
+   ],
+   "feature": "cab front corner and the first doors, three-quarter",
+   "reading": ""
+  }
+ ],
+ "samples": []
+}

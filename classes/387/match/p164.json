@@ -1,0 +1,72 @@
+{
+ "ref": "p164",
+ "side": "near",
+ "points": {
+  "lamp0-head": [
+   1012,
+   943
+  ],
+  "lamp0-tail": [
+   920,
+   967
+  ],
+  "lamp1-head": [
+   282,
+   909
+  ],
+  "lamp1-tail": [
+   354,
+   938
+  ],
+  "screen0-top-near": [
+   1079,
+   325
+  ],
+  "screen0-top-far": [
+   849,
+   325
+  ],
+  "screen0-bottom-near": [
+   1079,
+   686
+  ],
+  "screen0-bottom-far": [
+   849,
+   686
+  ],
+  "screen1-top-far": [
+   243,
+   342
+  ],
+  "screen1-bottom-far": [
+   243,
+   678
+  ],
+  "marker": [
+   630,
+   120
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "screen1-bottom-far",
+  "screen0-top-far"
+ ],
+ "modelFace": {
+  "marker": [
+   0.0,
+   3.68
+  ]
+ },
+ "readings": {
+  "lamp0-head": "near side = train's left = image right. Lens circle centre from f-panel-r-164 (crop 1.477x): (313,285) -> u 1012, v 943, r 43 px",
+  "lamp0-tail": "red LED disc centre (178,320) in f-panel-r-164 -> (920.5, 966.6)",
+  "lamp1-head": "f-panel-l-164 (1.548x): (158,292) -> (282, 909)",
+  "lamp1-tail": "(270,337) -> (354, 938); lower half hidden by a bracket: weakest point",
+  "screen0-*": "glass edges from measure.py runs: row 450 glass 849-1079, col 960 glass 325-686 (corners are rounded: the corner point is where the straight edges meet)",
+  "screen1-*-far": "row 450 glass from 243; col 300 glass 342-678 (outer edge; inner edge hidden by the proud gangway)",
+  "marker": "dome marker lens centre, rough (col 590 dark 119-170): +-10 px",
+  "note": "all points but the marker lie on the face (planar to ~0.1 m: screen glass rakes back); the solve needs pldn for depth. Not every point re-picked on a pick.py panel (pk164 panels were too dark to read the glass corners): +-5 px",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side near (bodyside right of the face) correct; lamps and screen0 (right as seen) / screen1 correct. No change."
+ }
+}

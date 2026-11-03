@@ -1,0 +1,188 @@
+{
+ "white-003": {
+  "ref": "p003",
+  "box": [
+   890,
+   470,
+   902,
+   620
+  ],
+  "what": "white door leaf (neutral)",
+  "median": "#B9BBB5",
+  "iqr": [
+   28,
+   32,
+   32
+  ]
+ },
+ "purple-003": {
+  "ref": "p003",
+  "box": [
+   745,
+   575,
+   800,
+   615
+  ],
+  "what": "EMR purple cab side",
+  "median": "#3A282D",
+  "iqr": [
+   12,
+   10,
+   7
+  ],
+  "balanced": "#4B333C",
+  "neutral": "white-003"
+ },
+ "silver-003": {
+  "ref": "p003",
+  "box": [
+   1065,
+   609,
+   1111,
+   655
+  ],
+  "what": "EMR silver sweep",
+  "median": "#666462",
+  "iqr": [
+   15,
+   12,
+   10
+  ],
+  "balanced": "#848082",
+  "neutral": "white-003"
+ },
+ "yellow-003": {
+  "ref": "p003",
+  "box": [
+   270,
+   488,
+   400,
+   510
+  ],
+  "what": "EMR yellow front",
+  "median": "#F8CA6B",
+  "iqr": [
+   32,
+   31,
+   45
+  ],
+  "balanced": "#FFFF8E",
+  "neutral": "white-003"
+ },
+ "blue-lu": {
+  "ref": "plu",
+  "box": [
+   1700,
+   1500,
+   1780,
+   1580
+  ],
+  "what": "Lumo blue cab side (no neutral)",
+  "median": "#25508D",
+  "iqr": [
+   4,
+   3,
+   3
+  ]
+ },
+ "yellow-lu": {
+  "ref": "plu",
+  "box": [
+   470,
+   1580,
+   540,
+   1650
+  ],
+  "what": "Lumo yellow front (no neutral)",
+  "median": "#E89F35",
+  "iqr": [
+   13,
+   13,
+   13
+  ]
+ },
+ "grey-pr": {
+  "ref": "ppr",
+  "box": [
+   2200,
+   1090,
+   2235,
+   1240
+  ],
+  "what": "Lumo grey door (no neutral)",
+  "median": "#6E7986",
+  "iqr": [
+   31,
+   35,
+   40
+  ]
+ },
+ "blue-pr": {
+  "ref": "ppr",
+  "box": [
+   1830,
+   930,
+   1880,
+   980
+  ],
+  "what": "Lumo blue bodyside, Preston (no neutral)",
+  "median": "#2E67C0",
+  "iqr": [
+   7,
+   6,
+   3
+  ]
+ },
+ "white-ukt": {
+  "ref": "pukt",
+  "box": [
+   1214,
+   730,
+   1240,
+   770
+  ],
+  "what": "white cab-car door leaf, overcast (neutral)",
+  "median": "#94927D",
+  "iqr": [
+   13,
+   13,
+   17
+  ]
+ },
+ "silver-ukt": {
+  "ref": "pukt",
+  "box": [
+   700,
+   690,
+   780,
+   720
+  ],
+  "what": "EMR silver lower bodyside",
+  "median": "#575A4D",
+  "iqr": [
+   2,
+   2,
+   1
+  ],
+  "balanced": "#8D9494",
+  "neutral": "white-ukt"
+ },
+ "purple-ukt": {
+  "ref": "pukt",
+  "box": [
+   1160,
+   730,
+   1200,
+   770
+  ],
+  "what": "EMR purple cab end",
+  "median": "#322B24",
+  "iqr": [
+   5,
+   5,
+   3
+  ],
+  "balanced": "#514745",
+  "neutral": "white-ukt"
+ }
+}

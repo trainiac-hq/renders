@@ -1,0 +1,71 @@
+{
+ "ref": "p022",
+ "side": "near",
+ "focalPx": 3946,
+ "model": {
+  "w1-top-front": [
+   3.48,
+   2.97
+  ],
+  "w1-bottom-front": [
+   3.48,
+   1.97
+  ],
+  "w1-top-rear": [
+   4.988,
+   2.97
+  ],
+  "w1-bottom-rear": [
+   4.988,
+   1.97
+  ]
+ },
+ "points": {
+  "w1-top-front": [
+   649,
+   478
+  ],
+  "w1-bottom-front": [
+   650,
+   590
+  ],
+  "w1-top-rear": [
+   686,
+   481
+  ],
+  "w1-bottom-rear": [
+   686,
+   586
+  ],
+  "door1-front-top": [
+   706,
+   452
+  ],
+  "lamp1-tail": [
+   208.5,
+   607.5
+  ],
+  "lamp1-head": [
+   233.5,
+   615
+  ],
+  "lamp0-tail": [
+   543.5,
+   609
+  ],
+  "lamp0-head": [
+   510,
+   622.5
+  ]
+ },
+ "holdout": [
+  "w1-bottom-rear",
+  "lamp1-head"
+ ],
+ "readings": {
+  "focalPx": "EXIF: Canon EOS R50 (APS-C 22.3 mm), 55 mm, 3:2 uncropped at 1600 px",
+  "w1-*": "g7022b (7.6x): the first window's glass corners (front at image left)",
+  "door1-front-top": "the blue leaf's front edge at the top of the opening",
+  "lamp*": "g7022 (2x): red tail centres, headlamp centres"
+ }
+}

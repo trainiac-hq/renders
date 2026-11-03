@@ -1,0 +1,226 @@
+{
+ "white-rye": {
+  "ref": "rye",
+  "box": [
+   825,
+   603,
+   878,
+   626
+  ],
+  "what": "white bodyside below the windows",
+  "median": "#99997A",
+  "iqr": [
+   4,
+   5,
+   10
+  ]
+ },
+ "green-rye": {
+  "ref": "rye",
+  "box": [
+   744,
+   648,
+   760,
+   666
+  ],
+  "what": "cab-end green, first class side",
+  "median": "#415533",
+  "iqr": [
+   15,
+   16,
+   17
+  ],
+  "balanced": "#668564",
+  "neutral": "white-rye"
+ },
+ "door-rye": {
+  "ref": "rye",
+  "box": [
+   765,
+   612,
+   773,
+   652
+  ],
+  "what": "door dark green",
+  "median": "#383A29",
+  "iqr": [
+   20,
+   27,
+   19
+  ],
+  "balanced": "#585A51",
+  "neutral": "white-rye"
+ },
+ "strip-rye": {
+  "ref": "rye",
+  "box": [
+   672,
+   451,
+   742,
+   462
+  ],
+  "what": "first-class cantrail strip",
+  "median": "#9A9002",
+  "iqr": [
+   4,
+   4,
+   7
+  ],
+  "balanced": "#F2E204",
+  "neutral": "white-rye"
+ },
+ "skirt-rye": {
+  "ref": "rye",
+  "box": [
+   830,
+   648,
+   900,
+   658
+  ],
+  "what": "light grey skirt",
+  "median": "#655636",
+  "iqr": [
+   12,
+   14,
+   12
+  ],
+  "balanced": "#9E876A",
+  "neutral": "white-rye"
+ },
+ "roof-rye": {
+  "ref": "rye",
+  "box": [
+   660,
+   402,
+   760,
+   420
+  ],
+  "what": "roof",
+  "median": "#91918A",
+  "iqr": [
+   77,
+   107,
+   116
+  ],
+  "balanced": "#E3E3FF",
+  "neutral": "white-rye"
+ },
+ "yellow-rye": {
+  "ref": "rye",
+  "box": [
+   395,
+   636,
+   450,
+   654
+  ],
+  "what": "face yellow (faces the camera; no neutral on the face)",
+  "median": "#C7AC08",
+  "iqr": [
+   5,
+   7,
+   5
+  ]
+ },
+ "white-u2": {
+  "ref": "u2",
+  "box": [
+   540,
+   1295,
+   950,
+   1340
+  ],
+  "what": "white bodyside below the windows",
+  "median": "#DED1C1",
+  "iqr": [
+   5,
+   5,
+   7
+  ]
+ },
+ "green-u2": {
+  "ref": "u2",
+  "box": [
+   60,
+   735,
+   200,
+   800
+  ],
+  "what": "green arc at the car end",
+  "median": "#5DB199",
+  "iqr": [
+   10,
+   18,
+   17
+  ],
+  "balanced": "#65CBBE",
+  "neutral": "white-u2"
+ },
+ "door-u2": {
+  "ref": "u2",
+  "box": [
+   1160,
+   1000,
+   1195,
+   1200
+  ],
+  "what": "door dark green",
+  "median": "#1E2A34",
+  "iqr": [
+   13,
+   16,
+   17
+  ],
+  "balanced": "#203041",
+  "neutral": "white-u2"
+ },
+ "stripe-u2": {
+  "ref": "u2",
+  "box": [
+   1394,
+   990,
+   1410,
+   1185
+  ],
+  "what": "door yellow stripe",
+  "median": "#CEAE51",
+  "iqr": [
+   13,
+   12,
+   16
+  ],
+  "balanced": "#DEC865",
+  "neutral": "white-u2"
+ },
+ "yellow-727": {
+  "ref": "p727",
+  "box": [
+   345,
+   590,
+   420,
+   615
+  ],
+  "what": "face yellow, head-on",
+  "median": "#EFB542",
+  "iqr": [
+   11,
+   4,
+   27
+  ]
+ },
+ "green-727": {
+  "ref": "p727",
+  "box": [
+   240,
+   525,
+   255,
+   555
+  ],
+  "what": "face green beside the screen",
+  "median": "#7DB38D",
+  "iqr": [
+   6,
+   8,
+   13
+  ]
+ }
+}

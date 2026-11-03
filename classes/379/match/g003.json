@@ -1,0 +1,65 @@
+{
+ "ref": "g003",
+ "side": "far",
+ "points": {
+  "lamp1-head": [
+   2126,
+   1380
+  ],
+  "lamp1-tail": [
+   2182,
+   1398
+  ],
+  "lamp0-tail": [
+   2533,
+   1399
+  ],
+  "lamp0-head": [
+   2590,
+   1381
+  ],
+  "screen1-bottom-far": [
+   2077,
+   1273
+  ],
+  "screen0-bottom-near": [
+   2636,
+   1276
+  ],
+  "door0-front-top": [
+   1983,
+   946
+  ],
+  "door0-rear-top": [
+   1928,
+   933
+  ],
+  "door1-front-top": [
+   1740,
+   900
+  ],
+  "door1-rear-top": [
+   1648,
+   882
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "door1-rear-top",
+  "screen1-bottom-far"
+ ],
+ "readings": {
+  "_side": "Train's RIGHT bodyside visible (nose right) = 'far'. Image-left lamp/screen are m<0 = +Y = lamp1/screen1; image-right are lamp0/screen0 (m>0, -Y). Both lamps visible: off-plane points on both sides of the face.",
+  "lamp1-head": "n1 zoom: lens circle 2097-2154 x 1349-1410, centre 2126,1380",
+  "lamp1-tail": "red lens 2162-2201 x 1378-1418",
+  "lamp0-tail": "red lens 2516-2550 x 1380-1417",
+  "lamp0-head": "lens 2561-2621 (right edge under the bezel) x 1350-1412",
+  "screen1-bottom-far": "black frame's outer edge 2077, bottom (panel yellow starts) 1273",
+  "screen0-bottom-near": "far-right screen: black ends 2636 (white body beyond), bottom 1276",
+  "door0-front-top": "n2: front seal 1982-1990, leaf top 946",
+  "door0-rear-top": "rear seal 1926-1928, top 933",
+  "door1-front-top": "dark leaf front edge 1740, top 900",
+  "door1-rear-top": "leaf rear edge 1648, top 882",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side far, lamps (lamp1 left as seen), screen0/1 near/far correct. No change."
+ }
+}

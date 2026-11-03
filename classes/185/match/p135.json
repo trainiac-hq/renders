@@ -1,0 +1,57 @@
+{
+ "ref": "p135",
+ "side": "near",
+ "model": {
+  "s1-top-front": [
+   8.0,
+   2.96
+  ],
+  "s1-bottom-front": [
+   8.0,
+   1.99
+  ]
+ },
+ "points": {
+  "lamp0-tail": [
+   237,
+   396
+  ],
+  "lamp0-head": [
+   223,
+   408
+  ],
+  "lamp1-tail": [
+   113,
+   391
+  ],
+  "lamp1-head": [
+   123,
+   402
+  ],
+  "door1-front-top": [
+   538,
+   259
+  ],
+  "door1-rear-top": [
+   588,
+   260
+  ],
+  "s1-top-front": [
+   610,
+   289.5
+  ],
+  "s1-bottom-front": [
+   610,
+   355
+  ]
+ },
+ "holdout": [
+  "lamp1-head",
+  "s1-bottom-front"
+ ],
+ "readings": {
+  "lamp*": "z28 (12x): red tail and dark headlamp centres in each teardrop housing",
+  "door1-*": "z15: door 1's white frame line at the top of the opening",
+  "s1-*": "z15: the first saloon window's glass front corners"
+ }
+}

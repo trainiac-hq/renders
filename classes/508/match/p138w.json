@@ -1,0 +1,125 @@
+{
+ "ref": "p138w",
+ "side": "far",
+ "note": "508138 at Walton from the footbridge, nose right, bodyside left of the face: the train's right side (far, +Y). lamp0 = the pod right as seen. The train is on a curve: leading car only. Points placed 2026-10-06 on 4x pick panels (pk138a) and 5x gridded crops (g138a-c). No EXIF on the Commons file.",
+ "points": {
+  "lamp2-head": [
+   1208.5,
+   469
+  ],
+  "lamp3-head": [
+   1189,
+   507
+  ],
+  "lamp1-head": [
+   1238,
+   507
+  ],
+  "lamp4-head": [
+   1040,
+   776
+  ],
+  "lamp4-tail": [
+   1081,
+   799
+  ],
+  "lamp0-head": [
+   1333,
+   768
+  ],
+  "lamp0-tail": [
+   1295,
+   789
+  ],
+  "w1-centre-top": [
+   790.5,
+   467
+  ],
+  "w3-centre-top": [
+   642.5,
+   386
+  ],
+  "w4-centre-top": [
+   596,
+   360.5
+  ],
+  "door1-seal-front-top": [
+   740,
+   408
+  ],
+  "door1-seal-rear-top": [
+   683,
+   386
+  ],
+  "door2-seal-front-top": [
+   565,
+   324
+  ],
+  "door2-seal-rear-top": [
+   531,
+   309
+  ]
+ },
+ "model": {
+  "w1-centre-top": [
+   4.694,
+   2.709
+  ],
+  "w3-centre-top": [
+   9.36,
+   2.709
+  ],
+  "w4-centre-top": [
+   11.437,
+   2.709
+  ],
+  "door1-seal-front-top": [
+   6.14,
+   2.956
+  ],
+  "door1-seal-rear-top": [
+   7.96,
+   2.956
+  ],
+  "door2-seal-front-top": [
+   12.898,
+   2.956
+  ],
+  "door2-seal-rear-top": [
+   14.718,
+   2.956
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "door1-seal-front-top",
+  "door1-seal-rear-top",
+  "w1-centre-top"
+ ],
+ "readings": {
+  "lamp2-head": "roof LED lamp's black disc, centre (pk138a)",
+  "lamp3-head": "left (far) white marker disc 1177-1201 x 495-520 (pk138a)",
+  "lamp1-head": "right (near) white marker disc 1226-1250 x 495-519 (pk138a)",
+  "lamp4-head": "far pod's head lens (lit, overexposed) 1025-1054 x 758-794, centre (pk138a)",
+  "lamp4-tail": "far pod's LED disc 1071-1091 x 789-810 (pk138a)",
+  "lamp0-head": "near pod's head lens ring 1318-1347 x 753-783 (pk138a)",
+  "lamp0-tail": "near pod's LED disc 1284-1306 x 778-800 (pk138a)",
+  "w1-centre-top": "first saloon window: mean of the dark glass top corners 767,456 / 814,478 (g138a)",
+  "w3-centre-top": "first window behind door 1: mean of 626,379 / 659,393 (g138b)",
+  "w4-centre-top": "second window behind door 1: mean of 582,354 / 610,367 (g138b)",
+  "door0-rear-top": "cab door's rear seam (dark, 881-891) at the top of the rain-strip recess (g138c); uncertain which edge is the opening",
+  "door1-seal-front-top": "door 1 orange seal, outer front-top corner, just under the orange cantrail line (g138a); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door1-seal-rear-top": "door 1 orange seal, outer rear-top corner (g138a); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door2-seal-front-top": "door 2 orange seal, outer front-top corner (g138b); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door2-seal-rear-top": "door 2 orange seal, outer rear-top corner (g138b); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)"
+ },
+ "dropped": {
+  "door0-rear-top": {
+   "pick": [
+    883,
+    485
+   ],
+   "why": "cab door rear seam at the top of the rain-strip recess: reads 2.47 m against the spec 2.117 (14 cm held out); which edge of the recess is the opening is unclear at 1600 px, so not used"
+  }
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "ref": "p622",
+ "side": "far",
+ "note": "375622 (375/6), bodyside to the left of the face: the train's right side (far, +Y). Left-as-seen face cluster is z>0 (lamp1). Sony DSC-HX60 at 26.11 mm (1/2.3in, 6.17 mm wide): about 15440 px if the 3648 width is the full sensor. The /6 face has an extra round tail lamp inboard of each peanut; not picked.",
+ "points": {
+  "door1-rear-top": [
+   1571,
+   693
+  ],
+  "door1-front-top": [
+   1639,
+   680
+  ],
+  "door1-rear-bottom": [
+   1600,
+   1433
+  ],
+  "door1-front-bottom": [
+   1655,
+   1437
+  ],
+  "door2-rear-top": [
+   1225,
+   757
+  ],
+  "door2-front-top": [
+   1283,
+   749
+  ],
+  "lw1r-bottom-rear": [
+   1552,
+   1160
+  ],
+  "lw1r-bottom-front": [
+   1569,
+   1160
+  ],
+  "lw1f-bottom-rear": [
+   1590,
+   1162
+  ],
+  "lw1f-bottom-front": [
+   1606,
+   1162
+  ],
+  "lamp1-head": [
+   2039,
+   1282
+  ],
+  "lamp1-tail": [
+   2105,
+   1316
+  ],
+  "lamp0-head": [
+   2859,
+   1240
+  ],
+  "lamp0-tail": [
+   2800,
+   1279
+  ],
+  "gangway-frame-top-far": [
+   2240,
+   533
+  ],
+  "frame-number-far": [
+   2112,
+   1185
+  ],
+  "frame-number-near": [
+   2783,
+   1155
+  ],
+  "frame-panel-top-out": [
+   1966,
+   1132
+  ],
+  "frame-panel-top-out-near": [
+   2911,
+   1083
+  ],
+  "frame-cap-end": [
+   1968,
+   647
+  ],
+  "frame-screen-top-in": [
+   2227,
+   639
+  ],
+  "frame-screen-top-in-near": [
+   2630,
+   619
+  ]
+ },
+ "model": {
+  "lw1r-bottom-rear": [
+   6.442,
+   1.9
+  ],
+  "lw1r-bottom-front": [
+   6.032,
+   1.9
+  ],
+  "lw1f-bottom-rear": [
+   5.532,
+   1.9
+  ],
+  "lw1f-bottom-front": [
+   5.122,
+   1.9
+  ]
+ },
+ "modelFace": {
+  "frame-number-far": [
+   0.898,
+   1.843
+  ],
+  "frame-number-near": [
+   -0.898,
+   1.843
+  ],
+  "frame-panel-top-out": [
+   1.262,
+   2.0
+  ],
+  "frame-panel-top-out-near": [
+   -1.262,
+   2.0
+  ],
+  "frame-cap-end": [
+   1.185,
+   3.285
+  ],
+  "frame-screen-top-in": [
+   0.523,
+   3.26
+  ],
+  "frame-screen-top-in-near": [
+   -0.523,
+   3.26
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "door2-rear-top",
+  "lw1f-bottom-front"
+ ],
+ "readings": {
+  "door1-rear-top": "cyan leaf's seal, rear-top corner under the orange line (h3)",
+  "door1-front-top": "leaf seal front-top corner (h3)",
+  "door1-rear-bottom": "rear leaf edge meets the leaf bottom above the white step (h5)",
+  "door1-front-bottom": "front leaf edge at the leaf bottom (h5)",
+  "door2-rear-top": "door 2 leaf seal rear-top corner (h7)",
+  "door2-front-top": "door 2 leaf seal front-top corner (h7)",
+  "lw1r-bottom-rear": "door 1 rear-leaf window, bottom rear corner (h4)",
+  "lw1r-bottom-front": "door 1 rear-leaf window, bottom front corner (h4)",
+  "lw1f-bottom-rear": "door 1 front-leaf window, bottom rear corner (h4)",
+  "lw1f-bottom-front": "door 1 front-leaf window, bottom front corner (h4)",
+  "lamp1-head": "outer (larger) peanut lens, lit: ring 2002-2076 x 1249-1316, centre (pk622a)",
+  "lamp1-tail": "inner peanut lens 2082-2127 x 1294-1339, centre (pk622a); the 375/6's separate round tail at 2195,1323 is not this",
+  "lamp0-head": "far peanut's outer lens (unlit) 2827-2891 x 1205-1275, centre (pk622a)",
+  "lamp0-tail": "far peanut's inner lens (lit white) 2780-2821 x 1257-1302, centre (pk622a)",
+  "gangway-frame-top-far": "dark frame's left edge 2240 and top 533 extended past the rounded corner (h12)",
+  "frame-number-far": "centre of the left '375 622' digits' box 2012-2212 x 1165-1205 (h1)",
+  "frame-number-near": "centre of the right digits' box 2690-2875 x 1135-1175 (h1)",
+  "frame-panel-top-out": "left yellow panel's outer top corner under the black rail (pk622a)",
+  "frame-panel-top-out-near": "right yellow panel's outer top corner (pk622a)",
+  "frame-cap-end": "left cap's outer lower end on the orange line (pk622a)",
+  "frame-screen-top-in": "left screen's dark area, inner top corner under the orange line beside the yellow strip (pk622a)",
+  "frame-screen-top-in-near": "right screen's dark area, inner top corner (pk622a)",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side far, lamps (lamp0 right as seen), modelFace signs and names (-far = z>0, left as seen) all correct. No change.",
+  "_shift": "cab-car model points moved back 0.20 m with the spec"
+ },
+ "focalPx": 15438,
+ "focalNote": "focalPx from EXIF: 26.11 mm on the HX60's 6.17 mm-wide sensor x 3648 px; the bodyside points are near coplanar on this long lens and cannot fix it"
+}

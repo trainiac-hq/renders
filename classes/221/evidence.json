@@ -1,0 +1,338 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-221-CrossCountry-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_221_CrossCountry_Diagram.png",
+   "author": "FuSSionZ",
+   "licence": "CC BY-SA 3.0",
+   "date": "2014",
+   "kind": "diagram",
+   "unit": "221 (5 cars), CrossCountry",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "ptr": {
+   "file": "refs/Trains-2-054.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Trains_2_054.JPG",
+   "author": "Britishrailclass91",
+   "licence": "CC BY-SA 4.0",
+   "date": "unknown (Virgin era, before 2007)",
+   "kind": "photo",
+   "unit": "221133 coupled to 220018 (Virgin red)",
+   "view": "side on: the 221 nose about 0.2 m behind the image centre, the best profile",
+   "light": "overcast"
+  },
+  "p133": {
+   "file": "refs/20190329-XC-221133.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20190329-XC-221133.jpg",
+   "author": "Alex Noble",
+   "licence": "CC0",
+   "date": "2019-03-29",
+   "kind": "photo",
+   "unit": "221133 (maroon and silver)",
+   "view": "three-quarter front from above, long lens",
+   "light": "sun"
+  },
+  "pso": {
+   "file": "refs/221-113-at-Southampton-Central.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:221_113_at_Southampton_Central.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-06",
+   "kind": "photo",
+   "unit": "221113 (maroon, worn yellow)",
+   "view": "three-quarter front, very close",
+   "light": "canopy shade"
+  },
+  "pdo": {
+   "file": "refs/221-122-Dore-and-Totley-140125.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:221_122_Dore_and_Totley_140125.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2025-01-14",
+   "kind": "photo",
+   "unit": "221122 (maroon and silver), headlamps lit",
+   "view": "near head-on from right",
+   "light": "overcast"
+  },
+  "pst": {
+   "file": "refs/221132-at-Stafford.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:221132_at_Stafford.jpg",
+   "author": "Tutenkhamun Sleeping",
+   "licence": "CC BY 2.0",
+   "date": "unknown",
+   "kind": "photo",
+   "unit": "221132 (maroon and silver)",
+   "view": "three-quarter front",
+   "light": "diffuse"
+  },
+  "pbw": {
+   "file": "refs/Bridgwater-railway-station-MMB-15-221135.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Bridgwater_railway_station_MMB_15_221135.jpg",
+   "author": "mattbuck (category)",
+   "licence": "CC BY-SA 3.0",
+   "date": "unknown",
+   "kind": "photo",
+   "unit": "221135 (maroon and silver)",
+   "view": "three-quarter front, long view",
+   "light": "sun"
+  },
+  "ppg": {
+   "file": "refs/Paignton-GWR-166216-and-CrossCountry-221135.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Paignton_-_GWR_166216_and_CrossCountry_221135.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-08-22",
+   "kind": "photo",
+   "unit": "221135 (maroon and silver)",
+   "view": "near head-on beside a 166",
+   "light": "sun"
+  },
+  "pgc1": {
+   "file": "refs/Grand-Central-221142-at-London-Kings-Cross-after-working-1A63-1120-from-Wakefield-Kirkgate-271023-53289101147-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Grand_Central_221142_at_London_Kings_Cross_after_working_1A63_1120_from_Wakefield_Kirkgate_271023_%2853289101147%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2023-10-27",
+   "kind": "photo",
+   "unit": "221142 (Grand Central)",
+   "view": "three-quarter front, close",
+   "light": "station roof, diffuse"
+  },
+  "pgc2": {
+   "file": "refs/Grand-Central-221142-at-London-Kings-Cross-after-working-1A63-1120-from-Wakefield-Kirkgate-271023-53290449015-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Grand_Central_221142_at_London_Kings_Cross_after_working_1A63_1120_from_Wakefield_Kirkgate_271023_%2853290449015%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2023-10-27",
+   "kind": "photo",
+   "unit": "221142 (Grand Central)",
+   "view": "three-quarter front",
+   "light": "station roof, diffuse"
+  },
+  "pgc3": {
+   "file": "refs/Grand-Central-221142-at-London-Kings-Cross-after-working-1A63-1120-from-Wakefield-Kirkgate-271023-53290232378-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Grand_Central_221142_at_London_Kings_Cross_after_working_1A63_1120_from_Wakefield_Kirkgate_271023_%2853290232378%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2023-10-27",
+   "kind": "photo",
+   "unit": "221142 (Grand Central), intermediate cars",
+   "view": "side, oblique",
+   "light": "station roof, diffuse"
+  },
+  "pgcx": {
+   "file": "refs/Grand-Central-class-221-at-King-s-Cross-dec-23.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Grand_Central_class_221_at_King%E2%80%99s_Cross_dec_23.jpg",
+   "author": "Secretlondon",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-12",
+   "kind": "photo",
+   "unit": "221142/143 (Grand Central)",
+   "view": "three-quarter front, portrait",
+   "light": "station roof"
+  },
+  "pcr": {
+   "file": "refs/221109-at-Crewe-04-05-24-53696968162-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:221109_at_Crewe_04-05-24_%2853696968162%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-05-04",
+   "kind": "photo",
+   "unit": "221109 (Avanti West Coast)",
+   "view": "three-quarter front",
+   "light": "overcast"
+  },
+  "phh": {
+   "file": "refs/221103-at-Holyhead-300424-53690115501-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:221103_at_Holyhead_300424_%2853690115501%29.jpg",
+   "author": "Foulger Rail Photos from Basingstoke, UK",
+   "licence": "CC BY-SA 2.0",
+   "date": "2024-04-30",
+   "kind": "photo",
+   "unit": "221103 (Avanti West Coast)",
+   "view": "side, distant",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-133",
+   "ref": "p133",
+   "box": [
+    2700,
+    1450,
+    3700,
+    2100
+   ],
+   "feature": "whole front from above, maroon",
+   "reading": ""
+  },
+  {
+   "id": "f-pods-133",
+   "ref": "p133",
+   "box": [
+    2700,
+    1780,
+    3700,
+    1950
+   ],
+   "feature": "lamp pods",
+   "reading": ""
+  },
+  {
+   "id": "f-face-dore",
+   "ref": "pdo",
+   "box": [
+    250,
+    150,
+    900,
+    942
+   ],
+   "feature": "front near head-on, headlamps lit",
+   "reading": ""
+  },
+  {
+   "id": "s-profile-tr",
+   "ref": "ptr",
+   "box": [
+    1400,
+    450,
+    2400,
+    1650
+   ],
+   "feature": "221 nose in profile, side on",
+   "reading": ""
+  },
+  {
+   "id": "s-cabwin-tr",
+   "ref": "ptr",
+   "box": [
+    1900,
+    680,
+    2200,
+    900
+   ],
+   "feature": "cab side window, side on",
+   "reading": ""
+  },
+  {
+   "id": "s-roofvent-tr",
+   "ref": "ptr",
+   "box": [
+    2300,
+    520,
+    2700,
+    640
+   ],
+   "feature": "cab roof grille behind the dome (221 only)",
+   "reading": ""
+  },
+  {
+   "id": "s-bogie-tr",
+   "ref": "ptr",
+   "box": [
+    2000,
+    1250,
+    3072,
+    1700
+   ],
+   "feature": "tilting bogie, outside frame",
+   "reading": ""
+  },
+  {
+   "id": "s-gc-side",
+   "ref": "pgc1",
+   "box": [
+    1400,
+    1100,
+    3300,
+    2000
+   ],
+   "feature": "Grand Central cab car side: logo, orange band",
+   "reading": ""
+  },
+  {
+   "id": "f-gc-face",
+   "ref": "pgc1",
+   "box": [
+    300,
+    1100,
+    1500,
+    2200
+   ],
+   "feature": "Grand Central front",
+   "reading": ""
+  },
+  {
+   "id": "s-gc-logo",
+   "ref": "pgc1",
+   "box": [
+    1950,
+    1250,
+    2300,
+    1500
+   ],
+   "feature": "Grand Central logo lockup",
+   "reading": ""
+  },
+  {
+   "id": "s-vt-side",
+   "ref": "pcr",
+   "box": [
+    1600,
+    1300,
+    3840,
+    2150
+   ],
+   "feature": "Avanti 221 cab car (historical livery)",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "yellow-133",
+   "ref": "p133",
+   "box": [
+    2880,
+    1775,
+    3000,
+    1825
+   ],
+   "what": "yellow front, sunlit (no neutral)"
+  },
+  {
+   "id": "black-gc",
+   "ref": "pgc1",
+   "box": [
+    2217,
+    1200,
+    2267,
+    1267
+   ],
+   "what": "Grand Central black bodyside (no neutral)"
+  },
+  {
+   "id": "orange-gc",
+   "ref": "pgc1",
+   "box": [
+    1260,
+    1980,
+    1310,
+    2030
+   ],
+   "what": "Grand Central orange band (no neutral)"
+  },
+  {
+   "id": "face-gc",
+   "ref": "pgc1",
+   "box": [
+    650,
+    1450,
+    750,
+    1550
+   ],
+   "what": "Grand Central front orange-yellow (no neutral)"
+  }
+ ]
+}

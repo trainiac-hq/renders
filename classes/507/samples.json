@@ -1,0 +1,174 @@
+{
+ "white-009o": {
+  "ref": "p009o",
+  "box": [
+   419,
+   322,
+   429,
+   334
+  ],
+  "what": "marker lamp lens, unlit (grey-white diffuser)",
+  "median": "#868493",
+  "iqr": [
+   26,
+   27,
+   32
+  ]
+ },
+ "yellow-009o": {
+  "ref": "p009o",
+  "box": [
+   222,
+   560,
+   262,
+   600
+  ],
+  "what": "yellow face",
+  "median": "#C29005",
+  "iqr": [
+   5,
+   4,
+   2
+  ],
+  "balanced": "#FFDA07",
+  "neutral": "white-009o"
+ },
+ "silver-009o": {
+  "ref": "p009o",
+  "box": [
+   765,
+   470,
+   780,
+   520
+  ],
+  "what": "grey bodyside at the cab corner",
+  "median": "#6E726F",
+  "iqr": [
+   10,
+   11,
+   14
+  ],
+  "balanced": "#A5AD97",
+  "neutral": "white-009o"
+ },
+ "orange-009o": {
+  "ref": "p009o",
+  "box": [
+   300,
+   316,
+   400,
+   320
+  ],
+  "what": "orange line over the window band",
+  "median": "#BD3E08",
+  "iqr": [
+   21,
+   64,
+   12
+  ],
+  "balanced": "#FF5E0B",
+  "neutral": "white-009o"
+ },
+ "disc-009o": {
+  "ref": "p009o",
+  "box": [
+   305,
+   560,
+   325,
+   567
+  ],
+  "what": "logo disc, dark grey",
+  "median": "#343C41",
+  "iqr": [
+   3,
+   5,
+   5
+  ],
+  "balanced": "#4D5B58",
+  "neutral": "white-009o"
+ },
+ "mlogo-009o": {
+  "ref": "p009o",
+  "box": [
+   292,
+   585,
+   300,
+   605
+  ],
+  "what": "logo M, orange",
+  "median": "#D87C01",
+  "iqr": [
+   4,
+   3,
+   8
+  ],
+  "balanced": "#FFBC01",
+  "neutral": "white-009o"
+ },
+ "black-009o": {
+  "ref": "p009o",
+  "box": [
+   300,
+   370,
+   380,
+   390
+  ],
+  "what": "window band, black",
+  "median": "#17181C",
+  "iqr": [
+   3,
+   3,
+   3
+  ],
+  "balanced": "#222426",
+  "neutral": "white-009o"
+ },
+ "yellow-014": {
+  "ref": "p014",
+  "box": [
+   1800,
+   1300,
+   1950,
+   1360
+  ],
+  "what": "yellow gangway door, low sun",
+  "median": "#E6C03A",
+  "iqr": [
+   4,
+   4,
+   7
+  ]
+ },
+ "disc-014": {
+  "ref": "p014",
+  "box": [
+   1436,
+   1290,
+   1466,
+   1330
+  ],
+  "what": "logo disc, low sun",
+  "median": "#828380",
+  "iqr": [
+   4,
+   4,
+   4
+  ]
+ },
+ "mlogo-014": {
+  "ref": "p014",
+  "box": [
+   1500,
+   1280,
+   1550,
+   1300
+  ],
+  "what": "logo M, low sun",
+  "median": "#F9BF56",
+  "iqr": [
+   3,
+   2,
+   5
+  ]
+ }
+}

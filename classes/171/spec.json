@@ -1,0 +1,530 @@
+{
+ "class": "171",
+ "subject": "Class 171/7-8, Southern",
+ "method": "stage A 168+171+172",
+ "model": {
+  "heights": {
+   "bottom": 0.967,
+   "cantrail": 3.28,
+   "roof": 3.78,
+   "window": [
+    1.995,
+    2.9
+   ]
+  },
+  "wheel": 0.836,
+  "wheelbase": 2.51,
+  "cab": {
+   "length": 23.62,
+   "doors": [
+    {
+     "x": 1.675,
+     "w": 0.99,
+     "cab": true
+    },
+    {
+     "x": 6.724,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    },
+    {
+     "x": 18.0465,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    }
+   ],
+   "windows": [
+    [
+     2.358,
+     3.66
+    ],
+    [
+     3.975,
+     5.497
+    ],
+    [
+     7.951,
+     9.472
+    ],
+    [
+     9.788,
+     11.309
+    ],
+    [
+     11.624,
+     13.146
+    ],
+    [
+     13.461,
+     14.983
+    ],
+    [
+     15.298,
+     16.82
+    ],
+    [
+     19.273,
+     20.795
+    ],
+    [
+     21.11,
+     22.632
+    ]
+   ],
+   "bogies": [
+    3.605,
+    20.781
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 5.5,
+     "w": 2.4
+    },
+    {
+     "kind": "pod",
+     "x": 16.4,
+     "w": 2.4
+    }
+   ],
+   "under": [
+    [
+     6.48,
+     18.25
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.62,
+   "doors": [
+    {
+     "x": 5.573,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    },
+    {
+     "x": 16.895,
+     "w": 1.96,
+     "leaves": 2,
+     "window": [
+      1.995,
+      2.9
+     ],
+     "panes": [
+      0.295,
+      0.733
+     ]
+    }
+   ],
+   "windows": [
+    [
+     1.0,
+     2.95
+    ],
+    [
+     3.15,
+     4.5
+    ],
+    [
+     6.9,
+     8.42
+    ],
+    [
+     8.74,
+     10.26
+    ],
+    [
+     10.58,
+     12.1
+    ],
+    [
+     12.42,
+     13.94
+    ],
+    [
+     14.26,
+     15.78
+    ],
+    [
+     18.2,
+     19.7
+    ],
+    [
+     20.0,
+     21.5
+    ]
+   ],
+   "bogies": [
+    2.84,
+    20.02
+   ],
+   "under": [
+    [
+     6.0,
+     18.0
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.35,
+     0.62,
+     1
+    ],
+    [
+     0.05,
+     0.64
+    ],
+    [
+     0.0,
+     0.65
+    ],
+    [
+     0.0,
+     1.33
+    ],
+    [
+     0.11,
+     1.92
+    ],
+    [
+     0.22,
+     2.31
+    ],
+    [
+     0.44,
+     3.0
+    ],
+    [
+     0.59,
+     3.39
+    ],
+    [
+     0.69,
+     3.59
+    ],
+    [
+     0.75,
+     3.68
+    ],
+    [
+     0.99,
+     3.78,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.7,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0.5,
+     0.22
+    ]
+   ],
+   "squareness": 5,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.345,
+   "depth": 1.5,
+   "panel": [
+    {
+     "pts": [
+      [
+       0,
+       1.92
+      ],
+      [
+       0.93,
+       1.92,
+       1
+      ],
+      [
+       0.93,
+       1.4
+      ],
+      [
+       0.8,
+       1.28
+      ],
+      [
+       0.5,
+       1.25
+      ],
+      [
+       0,
+       1.25
+      ]
+     ],
+     "mirror": true
+    },
+    {
+     "m": [
+      -0.98,
+      0.98
+     ],
+     "y": [
+      3.29,
+      3.525
+     ],
+     "r": [
+      0,
+      0.15,
+      0.15,
+      0
+     ]
+    }
+   ],
+   "dark": [
+    {
+     "m": [
+      -1.03,
+      1.03
+     ],
+     "y": [
+      2.03,
+      3.28
+     ],
+     "r": [
+      0.08,
+      0.14,
+      0.14,
+      0.08
+     ]
+    },
+    {
+     "m": [
+      0.48,
+      1.165
+     ],
+     "y": [
+      0.64,
+      1.01
+     ],
+     "mirror": true
+    }
+   ],
+   "screens": [
+    {
+     "m": [
+      0.035,
+      0.97
+     ],
+     "y": [
+      2.09,
+      3.26
+     ],
+     "r": [
+      0.04,
+      0.1,
+      0.1,
+      0.04
+     ],
+     "mirror": true
+    }
+   ],
+   "lamps": {
+    "units": [
+     {
+      "kind": "head",
+      "m": 0.955,
+      "y": 1.484,
+      "r": 0.115
+     },
+     {
+      "kind": "tail",
+      "m": 0.733,
+      "y": 1.44,
+      "r": 0.087
+     }
+    ],
+    "order": "head outboard",
+    "rim": 0.05
+   },
+   "number": {
+    "text": "171727",
+    "m": -0.52,
+    "y": 1.8,
+    "height": 0.1,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      0.54,
+      2.05
+     ],
+     "tip": [
+      0.05,
+      2.9
+     ],
+     "mirror": true
+    }
+   ]
+  }
+ },
+ "liveries": {
+  "SN": {
+   "body": "#D9D9D7",
+   "roof": "#5F5F5A",
+   "doors": "#203041",
+   "panel": "#EFB542",
+   "face": "#7DB38D",
+   "surround": "#1A1A1A",
+   "under": "#9E876A",
+   "bands": [
+    {
+     "y": [
+      3.28,
+      3.305
+     ],
+     "color": "#E07A2C"
+    },
+    {
+     "y": [
+      0.967,
+      1.06
+     ],
+     "color": "#9E876A"
+    }
+   ],
+   "shapes": [
+    {
+     "car": "cab",
+     "pts": [
+      [
+       -0.1,
+       0.967
+      ],
+      [
+       6.2,
+       0.967
+      ],
+      [
+       7.6,
+       1.6
+      ],
+      [
+       8.6,
+       2.13
+      ],
+      [
+       8.97,
+       2.6
+      ],
+      [
+       8.6,
+       3.1
+      ],
+      [
+       7.9,
+       3.28
+      ],
+      [
+       -0.1,
+       3.28
+      ]
+     ],
+     "color": "#668564",
+     "layer": "under"
+    },
+    {
+     "car": "cab",
+     "pts": [
+      [
+       2.358,
+       3.18
+      ],
+      [
+       5.497,
+       3.18
+      ],
+      [
+       5.497,
+       3.27
+      ],
+      [
+       2.358,
+       3.27
+      ]
+     ],
+     "color": "#F2E204"
+    }
+   ],
+   "doorStripes": [
+    {
+     "from": -0.281,
+     "to": -0.062,
+     "lo": 1.91,
+     "hi": 2.99,
+     "color": "#DEC865"
+    },
+    {
+     "from": 0.062,
+     "to": 0.281,
+     "lo": 1.91,
+     "hi": 2.99,
+     "color": "#DEC865"
+    }
+   ],
+   "branding": [
+    {
+     "logo": "SN",
+     "at": [
+      12.4,
+      1.659
+     ],
+     "height": 0.379
+    },
+    {
+     "logo": "SN-first",
+     "at": [
+      4.14,
+      1.634
+     ],
+     "height": 0.25
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "171 diagram: 72.95 px/m along (nose px 46, end 1769 = 23.62 m), 81.7 px/m up (rail row 340)",
+  "model.cab": "cab door 1.18-2.17; door 1 5.744-7.704, door 2 17.066-19.027 (two-leaf, panes 0.295-0.733 from the centre); windows [2.358,3.66], [3.975,5.497], [7.951,9.472], [9.788,11.309], [11.624,13.146], [13.461,14.983], [15.298,16.82], [19.273,20.795], [21.11,22.632]; bogies 3.605, 20.781, wheelbase 2.51, wheel 0.836",
+  "model.next": "doors centred 5.573 and 16.895 from its inner end (diagram); windows at the cab car's pitch shifted to the doors (not read)",
+  "model.heights": "bottom 0.967, cantrail line 3.28-3.305, roof 3.77-3.78, glass 1.995-2.90, frame 1.91-2.99",
+  "model.nose.profile": "(0,0.65) .. (0,1.33), (0.11,1.92), (0.22,2.31), (0.44,3.0), (0.59,3.39), (0.69,3.59), (0.75,3.68), (0.99,3.78) (diagram)",
+  "model.face": "171727 head-on (151.8 px/m): head m 0.955 y 1.484 r 0.115 outboard, tail m 0.733 y 1.44 r 0.087 in one black figure-of-eight a side (bezel ~0.05 round each); the lower yellow panel top 1.92, corners +-0.93, bottom 1.25; glass +-0.035-0.97 y 2.09-3.26 (dark surround drawn round it to 2.03-3.28); upper yellow band 3.29-3.525; number m 0.52 y 1.80 h 0.10 on the near side; wiper pivot (0.54,2.05) tip (0.05,2.90); valance boxes m 0.48-1.165 y 0.64-1.01",
+  "liveries.SN": "rye (Southern 171807, balanced against the white bodyside) and u2: white body white-u2 #DED1C1, pale green cab end green-rye balanced #668564 ending in an arc behind door 1 (the arc's end 8.97 m at ~2.13, its shape drawn through that from the diagram), dark green doors door-u2 balanced #203041 with yellow stripes stripe-u2 #DEC865 at +-0.062-0.281 m y 1.91-2.99, the first-class cantrail strip strip-rye #F2E204 over the first-class windows (its extent assumed: the cab car's first two windows), light grey skirt skirt-rye #9E876A, orange cantrail line 3.28-3.305; face yellow yellow-727 #EFB542, the face green green-727 #7DB38D; roof roof-rye /2.5 (iqr 77-116: poor)",
+  "notes": "Not drawn: the green arc at the inner car ends, the small round fitting above the right cluster, the 171/2 diagonal clusters.",
+  "liveries.SN.body": "white: white-u2 #DED1C1 is the white bodyside itself, i.e. the neutral, so its warm cast is the light's: drawn as the grey of its luminance #D9D9D7 (the first build rendered cream)",
+  "liveries.SN.branding": "Southern roundel from the 171 diagram (72.95 px/m from the nose at px 46, 81.7 px/m up from rail row 340): green pixels x 918-983, rows 189-220: 11.95-12.84 m, 1.47-1.85 m, height 0.379 (its width 0.89 agrees with the artwork's aspect to 2%); 'First class' on the green cab section traced from the same diagram (logos/SN-first.svg): px 290-406, rows 197-216: 3.35-4.94 m, 1.52-1.75 m; height by the diagram 0.23, by width at the traced aspect 0.27: 0.25. Not checked on a photo"
+ },
+ "views": {}
+}

@@ -1,0 +1,97 @@
+{
+ "ref": "g018",
+ "side": "far",
+ "model": {
+  "strip-front-bottom": [
+   2.23,
+   3.205
+  ],
+  "strip-rear-bottom": [
+   12.0,
+   3.205
+  ]
+ },
+ "modelFace": {
+  "tri-apex": [
+   0.712,
+   1.981
+  ]
+ },
+ "points": {
+  "lamp1-head": [
+   2545,
+   1843
+  ],
+  "lamp1-tail": [
+   2614,
+   1860
+  ],
+  "screen1-top-far": [
+   2467,
+   1155
+  ],
+  "screen1-bottom-far": [
+   2470,
+   1659
+  ],
+  "door0-front-top": [
+   2119,
+   1151
+  ],
+  "door0-rear-top": [
+   1919,
+   1162
+  ],
+  "door1-front-top": [
+   1380,
+   1210
+  ],
+  "door1-rear-top": [
+   1165,
+   1233
+  ],
+  "door2-front-top": [
+   555,
+   1290
+  ],
+  "door2-rear-top": [
+   471,
+   1299
+  ],
+  "strip-front-bottom": [
+   1831,
+   1194
+  ],
+  "strip-rear-bottom": [
+   670,
+   1290
+  ],
+  "tri-apex": [
+   2636,
+   1691
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "door2-rear-top",
+  "strip-rear-bottom"
+ ],
+ "readings": {
+  "_side": "Photo shows the train's RIGHT bodyside (nose to the right of the frame) = Blender +Y = 'far'. The visible lamp/screen are on m<0 (left as seen head-on), i.e. lamp1/screen1 (lamps and screens sort by Y, near = -Y = m>0); the screen's outer corners are therefore its -far corners. modelFace z = -m.",
+  "lamp1-head": "m1 zoom: clear headlamp lens 2512-2580 x 1802-1887 (cut by the bezel at the top), centre 2545,1843",
+  "lamp1-tail": "red tail lens 2594-2634 x 1830-1890, centre 2614,1860",
+  "screen1-top-far": "outer top corner of the screen's black frame under the orange cap line; corner rounded, taken where the frame's outer edge (2467) meets the line's bottom (1155)",
+  "screen1-bottom-far": "outer bottom corner: frame's outer edge 2470, yellow panel starts 1659",
+  "door0-front-top": "m2: cab door leaf (white) top-front corner at the black front seal, 2119,1151",
+  "door0-rear-top": "m4: rear black seal 1911-1919, door leaf to its right (towards the nose); top 1162",
+  "door1-front-top": "dark leaf's front edge 1380, top under the orange line 1210",
+  "door1-rear-top": "dark leaf's rear edge 1165, top 1233",
+  "door2-front-top": "m3: dark leaf ends 555, top 1290",
+  "door2-rear-top": "leaf starts 470.5, top 1299",
+  "strip-front-bottom": "m3: yellow strip's front end 1831, bottom 1194 (the slanted cut's lower corner)",
+  "strip-rear-bottom": "strip rear end 670, bottom 1290",
+  "tri-apex": "m4: warning triangle apex 2636,1691",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side far, lamp1 = the visible left-as-seen cluster, tri-apex z +0.712 (spec m -0.712, left as seen) correct. No change.",
+  "_shift": "cab-car model points moved back 0.20 m with the spec"
+ }
+}

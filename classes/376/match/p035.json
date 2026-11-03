@@ -1,0 +1,119 @@
+{
+ "ref": "p035",
+ "side": "far",
+ "size": [
+  1600,
+  1067
+ ],
+ "modelFace": {
+  "iron-top": [
+   -0.33,
+   1.44
+  ],
+  "number-start-bottom": [
+   1.19,
+   1.77
+  ]
+ },
+ "points": {
+  "lamp0-head": [
+   1365,
+   640
+  ],
+  "lamp0-tail": [
+   1308,
+   665
+  ],
+  "lamp1-head": [
+   830,
+   655
+  ],
+  "lamp1-tail": [
+   902,
+   670
+  ],
+  "screen2-top-far": [
+   778,
+   172
+  ],
+  "screen2-bottom-far": [
+   778,
+   478
+  ],
+  "screen1-top-far": [
+   1008,
+   172
+  ],
+  "screen1-top-near": [
+   1207,
+   172
+  ],
+  "screen0-top-near": [
+   1405,
+   170
+  ],
+  "screen0-bottom-near": [
+   1405,
+   478
+  ],
+  "iron-top": [
+   1201,
+   681
+  ],
+  "number-start-bottom": [
+   786,
+   592
+  ],
+  "ring-front-top": [
+   628.5,
+   224
+  ],
+  "ring-front-bottom": [
+   599.5,
+   533.5
+  ],
+  "ring-rear-bottom": [
+   512,
+   506
+  ]
+ },
+ "holdout": [
+  "lamp1-tail",
+  "ring-rear-bottom",
+  "iron-top"
+ ],
+ "readings": {
+  "lamp0-head": "c376/w/l035R.png: lens 1328-1402 x 603-678",
+  "lamp0-tail": "l035R: LED lens 1288-1328 x 640-690",
+  "lamp1-head": "c376/w/l035L.png: lens 795-865 x 615-695",
+  "lamp1-tail": "l035L: lens 880-925 x 640-700",
+  "screen2-top-far": "c376/w/b035a.png: glass corner under the orange line (780,172)",
+  "screen2-bottom-far": "row 470-480 runs: glass ends 478",
+  "screen1-top-far": "m035.png: centre pane glass top-left 1008,172",
+  "screen1-top-near": "m035.png: centre pane top-right 1207,172",
+  "screen0-top-near": "b035c.png: right pane outer top",
+  "screen0-bottom-near": "row 470 runs: glass to 1416, bottom 478",
+  "iron-top": "f-iron-035: rounded top of the bracket",
+  "number-start-bottom": "f-number-035: '3' bottom left",
+  "ring-front-top": "i.png (12x): orange ring panel's front edge 628-629 meets its sloping top at 224",
+  "ring-front-bottom": "i.png: front bar's front edge 600 meets the bottom bar's bottom 533-534",
+  "ring-rear-bottom": "i.png: bottom bar's rear end 512 (door 1 open, its blue leaf edge behind), bottom 506-508",
+  "_audit": "2026-10-05 convention audit: side far correct; lamps correct (lamp0 = right as seen); screens 0..2 run right to left as seen, correct; modelFace signs correct (number m -0.93 is left as seen, so its start at z +1.19; lamp iron m +0.33 -> z -0.33, right of centre). Fixed: renamed number-left-bottom -> number-start-bottom ('left' read as the train's left, which is the other side). Coordinates unchanged."
+ },
+ "notes": "camera 28.6 deg off the face normal towards the train's right side (side far); lamp0 = image-right cluster (train's left). Side: only the orange ring is sharp enough on this very oblique bodyside (door 1 stands open; the cab door's seals are lost in reflections).",
+ "model": {
+  "ring-front-top": [
+   2.3,
+   3.13
+  ],
+  "ring-front-bottom": [
+   2.3,
+   1.72
+  ],
+  "ring-rear-bottom": [
+   4.98,
+   1.72
+  ]
+ },
+ "focalPx": 2152
+}

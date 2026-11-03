@@ -1,0 +1,508 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Crossrail-Class-345.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Crossrail_Class_345.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022",
+   "kind": "diagram",
+   "unit": "345 (9 cars), Elizabeth line livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p041": {
+   "file": "refs/345041-Seven-Kings-October-7th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:345041,_Seven_Kings,_October_7th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-10-07",
+   "kind": "photo",
+   "unit": "345041",
+   "view": "near head-on, slightly from the left (driver's right side visible)",
+   "light": "bright overcast",
+   "exif": "Canon EOS R50 (APS-C 22.3 mm), 25 mm, frame 1600 px wide as uploaded"
+  },
+  "p042": {
+   "file": "refs/Elizabeth-Line-Class-345-EMU.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Elizabeth_Line_Class_345_EMU.jpg",
+   "author": "LadyJetA1",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023",
+   "kind": "photo",
+   "unit": "345042",
+   "view": "three-quarter front, nose left, bodyside to the right",
+   "light": "sunny, front in light"
+  },
+  "p049": {
+   "file": "refs/Elizabeth-Line-Class-345-Low-Angle-Photo.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Elizabeth_Line_Class_345_Low_Angle_Photo.jpg",
+   "author": "LadyJetA1",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023",
+   "kind": "photo",
+   "unit": "345049",
+   "view": "low three-quarter front, wide angle, nose right",
+   "light": "overcast"
+  },
+  "p019": {
+   "file": "refs/Class-345-Aventra-EMU.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_345_Aventra_EMU.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-04-27",
+   "kind": "photo",
+   "unit": "345019",
+   "view": "from above, three-quarter front, nose right",
+   "light": "evening sun",
+   "exif": "Canon EOS R6 (36 mm), 72 mm, frame 2000 px wide as uploaded"
+  },
+  "p010": {
+   "file": "refs/Elizabeth-Line-Class-345-at-Reading.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Elizabeth_Line_Class_345_at_Reading.jpg",
+   "author": "DavidTDC3377",
+   "licence": "CC BY 4.0",
+   "date": "2023",
+   "kind": "photo",
+   "unit": "345010",
+   "view": "three-quarter front, nose right",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-041",
+   "ref": "p041",
+   "box": [
+    740,
+    200,
+    1360,
+    1000
+   ],
+   "feature": "whole front head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-041",
+   "ref": "p041",
+   "box": [
+    930,
+    600,
+    1030,
+    740
+   ],
+   "feature": "lamp pod, image left",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-041",
+   "ref": "p041",
+   "box": [
+    1230,
+    600,
+    1320,
+    740
+   ],
+   "feature": "lamp pod, image right",
+   "reading": ""
+  },
+  {
+   "id": "f-grille-041",
+   "ref": "p041",
+   "box": [
+    1030,
+    590,
+    1250,
+    760
+   ],
+   "feature": "centre of the lower mask: wiper housing, grille, roundel",
+   "reading": ""
+  },
+  {
+   "id": "f-screen-041",
+   "ref": "p041",
+   "box": [
+    820,
+    220,
+    1360,
+    640
+   ],
+   "feature": "windscreen, its black surround, the orange line over it",
+   "reading": ""
+  },
+  {
+   "id": "f-bumper-041",
+   "ref": "p041",
+   "box": [
+    740,
+    720,
+    1360,
+    1000
+   ],
+   "feature": "white strip and black bumper below the mask",
+   "reading": ""
+  },
+  {
+   "id": "f-face-042",
+   "ref": "p042",
+   "box": [
+    300,
+    450,
+    1800,
+    2550
+   ],
+   "feature": "whole front, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-042",
+   "ref": "p042",
+   "box": [
+    420,
+    1560,
+    680,
+    1940
+   ],
+   "feature": "lamp pod, image left",
+   "reading": ""
+  },
+  {
+   "id": "f-cheek-042",
+   "ref": "p042",
+   "box": [
+    1150,
+    1350,
+    1850,
+    2050
+   ],
+   "feature": "the white cheek moulding beside the lower mask",
+   "reading": ""
+  },
+  {
+   "id": "f-corner-door-042",
+   "ref": "p042",
+   "box": [
+    1500,
+    420,
+    2450,
+    2100
+   ],
+   "feature": "cab corner, cab side window and cab door",
+   "reading": ""
+  },
+  {
+   "id": "s-cabdoor-042",
+   "ref": "p042",
+   "box": [
+    2060,
+    480,
+    2400,
+    1720
+   ],
+   "feature": "cab door",
+   "reading": ""
+  },
+  {
+   "id": "s-band-042",
+   "ref": "p042",
+   "box": [
+    2280,
+    520,
+    2700,
+    1700
+   ],
+   "feature": "behind the cab door: window band's front end and the purple",
+   "reading": ""
+  },
+  {
+   "id": "s-door1-042",
+   "ref": "p042",
+   "box": [
+    2540,
+    560,
+    2980,
+    1680
+   ],
+   "feature": "first passenger door",
+   "reading": ""
+  },
+  {
+   "id": "s-purple-042",
+   "ref": "p042",
+   "box": [
+    1900,
+    1200,
+    2700,
+    2050
+   ],
+   "feature": "purple wedge and blue band low on the cab",
+   "reading": ""
+  },
+  {
+   "id": "s-bogie-042",
+   "ref": "p042",
+   "box": [
+    1950,
+    1900,
+    2950,
+    2550
+   ],
+   "feature": "leading bogie and skirt",
+   "reading": ""
+  },
+  {
+   "id": "s-number-042",
+   "ref": "p042",
+   "box": [
+    1760,
+    1740,
+    2040,
+    1920
+   ],
+   "feature": "unit number on the bodyside",
+   "reading": ""
+  },
+  {
+   "id": "f-face-049",
+   "ref": "p049",
+   "box": [
+    1600,
+    380,
+    3420,
+    2700
+   ],
+   "feature": "whole front, low three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-049",
+   "ref": "p049",
+   "box": [
+    2160,
+    1420,
+    2440,
+    1860
+   ],
+   "feature": "lamp pod, near",
+   "reading": ""
+  },
+  {
+   "id": "f-cheek-049",
+   "ref": "p049",
+   "box": [
+    1600,
+    1350,
+    2250,
+    2050
+   ],
+   "feature": "cheek moulding, low",
+   "reading": ""
+  },
+  {
+   "id": "f-cab-049",
+   "ref": "p049",
+   "box": [
+    900,
+    380,
+    2000,
+    2150
+   ],
+   "feature": "cab side: side window, cab door, purple",
+   "reading": ""
+  },
+  {
+   "id": "f-face-019",
+   "ref": "p019",
+   "box": [
+    1340,
+    580,
+    1730,
+    1110
+   ],
+   "feature": "whole front from above",
+   "reading": ""
+  },
+  {
+   "id": "s-roof-019",
+   "ref": "p019",
+   "box": [
+    900,
+    420,
+    1730,
+    680
+   ],
+   "feature": "roof of the cab car: dark cap over the cab, roof kit",
+   "reading": ""
+  },
+  {
+   "id": "f-corner-door-019",
+   "ref": "p019",
+   "box": [
+    1150,
+    580,
+    1430,
+    1000
+   ],
+   "feature": "cab corner and first doors from above",
+   "reading": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    55,
+    200,
+    188
+   ],
+   "feature": "diagram: nose, cab door, first door",
+   "reading": "Nose raked back 1.6 m at the roof; a triangular cab side window in the nose; cab door with a small window and a step; a black band starting diagonally behind it; bright purple diagonal under the cab door; blue band behind; white door."
+  },
+  {
+   "id": "d-car1",
+   "ref": "dia",
+   "box": [
+    0,
+    55,
+    790,
+    188
+   ],
+   "feature": "diagram: leading car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-042",
+   "ref": "p042",
+   "box": [
+    1880,
+    1300,
+    1990,
+    1480
+   ],
+   "what": "white bodyside, cab side ahead of the cab door, sunlit",
+   "neutralIs": 240
+  },
+  {
+   "id": "blue-042",
+   "ref": "p042",
+   "box": [
+    2986,
+    1493,
+    3200,
+    1578
+   ],
+   "what": "blue lower band behind the first door, sunlit",
+   "neutral": "white-042"
+  },
+  {
+   "id": "purple-042",
+   "ref": "p042",
+   "box": [
+    2218,
+    1640,
+    2290,
+    1740
+   ],
+   "what": "bright purple wedge under the cab door",
+   "neutral": "white-042"
+  },
+  {
+   "id": "door-042",
+   "ref": "p042",
+   "box": [
+    2613,
+    1536,
+    2641,
+    1813
+   ],
+   "what": "door leaf",
+   "neutral": "white-042"
+  },
+  {
+   "id": "mask-042",
+   "ref": "p042",
+   "box": [
+    619,
+    1643,
+    665,
+    1771
+   ],
+   "what": "lower mask beside the grille",
+   "neutral": "white-042"
+  },
+  {
+   "id": "orange-019",
+   "ref": "p019",
+   "box": [
+    1596,
+    639,
+    1606,
+    642
+   ],
+   "what": "orange line over the screen (2-3 px thick: its brightest rows)",
+   "neutral": "white-019"
+  },
+  {
+   "id": "white-019",
+   "ref": "p019",
+   "box": [
+    1355,
+    860,
+    1385,
+    950
+   ],
+   "what": "white cab side in sun",
+   "neutralIs": 240
+  },
+  {
+   "id": "blue-019",
+   "ref": "p019",
+   "box": [
+    1000,
+    700,
+    1060,
+    740
+   ],
+   "what": "blue lower band, car 1",
+   "neutral": "white-019"
+  },
+  {
+   "id": "roof-019",
+   "ref": "p019",
+   "box": [
+    1100,
+    520,
+    1200,
+    560
+   ],
+   "what": "roof",
+   "neutral": "white-019"
+  },
+  {
+   "id": "black-042",
+   "ref": "p042",
+   "box": [
+    900,
+    2380,
+    1100,
+    2420
+   ],
+   "what": "black bumper/skirt",
+   "neutral": "white-042"
+  },
+  {
+   "id": "roofcap-019",
+   "ref": "p019",
+   "box": [
+    1500,
+    600,
+    1560,
+    618
+   ],
+   "what": "dark cap over the cab roof",
+   "neutral": "white-019"
+  }
+ ]
+}

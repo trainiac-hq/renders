@@ -1,0 +1,428 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-320-Scotrail.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_320_Scotrail.png",
+   "author": "MinecraftBacon499",
+   "licence": "CC BY-SA 4.0",
+   "date": "2021-10-19",
+   "kind": "diagram",
+   "unit": "320 (3 cars), ScotRail Saltire",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p316": {
+   "file": "refs/Motherwell-ScotRail-320316-Dalmuir-service.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Motherwell_-_ScotRail_320316_Dalmuir_service.JPG",
+   "author": "Geof Sheppard",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-07",
+   "kind": "photo",
+   "unit": "320316 (320/3)",
+   "view": "side on, long lens, nose right",
+   "light": "overcast, hazy"
+  },
+  "pglc": {
+   "file": "refs/320411-GLC.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:320411_-_GLC.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-07-07",
+   "kind": "photo",
+   "unit": "320411 (320/4)",
+   "view": "nearly head-on, slightly from the left",
+   "light": "station roof, diffuse"
+  },
+  "p411": {
+   "file": "refs/320411-Dalmuir.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:320411_-_Dalmuir.jpg",
+   "author": "TheDullName",
+   "licence": "Public domain",
+   "date": "2024-08-06",
+   "kind": "photo",
+   "unit": "320411 (320/4)",
+   "view": "close three-quarter, nose right",
+   "light": "bright overcast"
+  },
+  "p304": {
+   "file": "refs/320304-Dalreoch.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:320304_-_Dalreoch.jpg",
+   "author": "TheDullName",
+   "licence": "Public domain",
+   "date": "2024-08-06",
+   "kind": "photo",
+   "unit": "320304 (320/3)",
+   "view": "front three-quarter, long lens, nose right",
+   "light": "sun"
+  },
+  "p404": {
+   "file": "refs/Scotrail-s-320404-Leaving-Cathcart.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Scotrail%E2%80%99s_320404_Leaving_Cathcart.jpg",
+   "author": "Railfan670",
+   "licence": "CC BY-SA 4.0",
+   "date": "2024-10-29",
+   "kind": "photo",
+   "unit": "320404 (320/4)",
+   "view": "front three-quarter, nose left",
+   "light": "overcast"
+  },
+  "p311": {
+   "file": "refs/320311-GRL-2C34.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:320311_-_GRL_-_2C34.jpg",
+   "author": "SmoIchopper",
+   "licence": "CC BY 2.0",
+   "date": "2023-02-11",
+   "kind": "photo",
+   "unit": "320311 (320/3)",
+   "view": "head-on, slightly from the left",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-glc",
+   "ref": "pglc",
+   "box": [
+    1690,
+    400,
+    2970,
+    2000
+   ],
+   "feature": "whole front, head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-screens-glc",
+   "ref": "pglc",
+   "box": [
+    1700,
+    650,
+    2950,
+    1220
+   ],
+   "feature": "windscreens and surround",
+   "reading": ""
+  },
+  {
+   "id": "f-dome-glc",
+   "ref": "pglc",
+   "box": [
+    1700,
+    400,
+    2960,
+    730
+   ],
+   "feature": "dome over the screens, orange line",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-l-411",
+   "ref": "p411",
+   "box": [
+    1880,
+    1480,
+    2560,
+    1690
+   ],
+   "feature": "lamp housing, image left",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-411",
+   "ref": "p411",
+   "box": [
+    2880,
+    1480,
+    3430,
+    1690
+   ],
+   "feature": "lamp housing, image right",
+   "reading": ""
+  },
+  {
+   "id": "f-panel-glc",
+   "ref": "pglc",
+   "box": [
+    1720,
+    1180,
+    2940,
+    1600
+   ],
+   "feature": "yellow panel and lamp housings",
+   "reading": ""
+  },
+  {
+   "id": "f-lower-glc",
+   "ref": "pglc",
+   "box": [
+    1700,
+    1560,
+    2960,
+    2000
+   ],
+   "feature": "below the lamps: ledge, slots, number, coupler",
+   "reading": ""
+  },
+  {
+   "id": "f-face-404",
+   "ref": "p404",
+   "box": [
+    520,
+    140,
+    1010,
+    890
+   ],
+   "feature": "front three-quarter from the left",
+   "reading": ""
+  },
+  {
+   "id": "f-face-304",
+   "ref": "p304",
+   "box": [
+    2100,
+    880,
+    3110,
+    2280
+   ],
+   "feature": "front three-quarter from the right, headlamp lit",
+   "reading": ""
+  },
+  {
+   "id": "s-cab-316",
+   "ref": "p316",
+   "box": [
+    1050,
+    560,
+    1660,
+    1520
+   ],
+   "feature": "cab side: cab door and saltire dots",
+   "reading": ""
+  },
+  {
+   "id": "s-saltire-411",
+   "ref": "p411",
+   "box": [
+    1550,
+    450,
+    1900,
+    1720
+   ],
+   "feature": "saltire dots behind the corner, close",
+   "reading": ""
+  },
+  {
+   "id": "s-windows-316",
+   "ref": "p316",
+   "box": [
+    150,
+    680,
+    1060,
+    1120
+   ],
+   "feature": "first two saloon-side windows",
+   "reading": ""
+  },
+  {
+   "id": "s-bluedots-316",
+   "ref": "p316",
+   "box": [
+    150,
+    1050,
+    1000,
+    1400
+   ],
+   "feature": "light blue dot band under the windows",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-404",
+   "ref": "p404",
+   "box": [
+    700,
+    180,
+    1350,
+    800
+   ],
+   "feature": "cab corner, cab door and first door, three-quarter",
+   "reading": ""
+  },
+  {
+   "id": "s-door1-404",
+   "ref": "p404",
+   "box": [
+    1180,
+    300,
+    1340,
+    700
+   ],
+   "feature": "first passenger door",
+   "reading": ""
+  },
+  {
+   "id": "s-roof-316",
+   "ref": "p316",
+   "box": [
+    300,
+    380,
+    1700,
+    640
+   ],
+   "feature": "roof line and cantrail",
+   "reading": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    50,
+    30,
+    1530,
+    350
+   ],
+   "feature": "diagram cab car",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-316",
+   "ref": "p316",
+   "box": [
+    1523,
+    911,
+    1537,
+    923
+   ],
+   "what": "white saltire dot (white paint), side"
+  },
+  {
+   "id": "navy-316",
+   "ref": "p316",
+   "box": [
+    1075,
+    900,
+    1105,
+    1000
+   ],
+   "what": "navy bodyside",
+   "neutral": "white-316"
+  },
+  {
+   "id": "yellow-316",
+   "ref": "p316",
+   "box": [
+    1800,
+    1080,
+    1900,
+    1180
+   ],
+   "what": "yellow panel (face, other light)",
+   "neutral": "white-316"
+  },
+  {
+   "id": "orange-316",
+   "ref": "p316",
+   "box": [
+    1100,
+    602,
+    1300,
+    605
+   ],
+   "what": "orange cantrail line",
+   "neutral": "white-316"
+  },
+  {
+   "id": "blue-316",
+   "ref": "p316",
+   "box": [
+    262,
+    1120,
+    272,
+    1130
+   ],
+   "what": "light blue dot",
+   "neutral": "white-316"
+  },
+  {
+   "id": "roof-316",
+   "ref": "p316",
+   "box": [
+    700,
+    430,
+    1000,
+    460
+   ],
+   "what": "roof grey",
+   "neutral": "white-316"
+  },
+  {
+   "id": "white-411",
+   "ref": "p411",
+   "box": [
+    1838,
+    690,
+    1866,
+    722
+   ],
+   "what": "white saltire dot, side, p411"
+  },
+  {
+   "id": "navy-411",
+   "ref": "p411",
+   "box": [
+    1785,
+    1845,
+    1830,
+    1875
+   ],
+   "what": "navy bodyside low",
+   "neutral": "white-411"
+  },
+  {
+   "id": "yellow-glc",
+   "ref": "pglc",
+   "box": [
+    1900,
+    1250,
+    2200,
+    1400
+   ],
+   "what": "yellow panel head-on (no neutral on the face)"
+  },
+  {
+   "id": "door-411",
+   "ref": "p411",
+   "box": [
+    1150,
+    1300,
+    1175,
+    1360
+   ],
+   "what": "saloon door leaf (open), p411",
+   "neutral": "white-411"
+  },
+  {
+   "id": "yellow-411",
+   "ref": "p411",
+   "box": [
+    2370,
+    1320,
+    2430,
+    1380
+   ],
+   "what": "yellow panel, p411 (no neutral on the face)"
+  },
+  {
+   "id": "navy-glc",
+   "ref": "pglc",
+   "box": [
+    2600,
+    1880,
+    2700,
+    1940
+   ],
+   "what": "navy lower front head-on, beside the number"
+  }
+ ]
+}

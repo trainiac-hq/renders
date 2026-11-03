@@ -1,0 +1,34 @@
+{
+ "navy-013": {
+  "ref": "p013",
+  "box": [
+   838,
+   420,
+   842,
+   430
+  ],
+  "what": "navy, sunlit (raw)",
+  "median": "#101A68",
+  "iqr": [
+   4,
+   4,
+   17
+  ]
+ },
+ "yellow-002": {
+  "ref": "p002",
+  "box": [
+   1800,
+   700,
+   1840,
+   900
+  ],
+  "what": "gangway door yellow, weathered",
+  "median": "#AC7B43",
+  "iqr": [
+   16,
+   13,
+   9
+  ]
+ }
+}

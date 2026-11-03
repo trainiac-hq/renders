@@ -1,0 +1,636 @@
+{
+ "class": "323",
+ "subject": "Class 323 in West Midlands Railway livery (as run to September 2024, and by ex-WMR units at Northern after)",
+ "refs": {
+  "dia": {
+   "file": "refs/323-REWORK-WMR.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:323_REWORK_WMR.png",
+   "author": "Chiltern006",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-12-19",
+   "kind": "diagram",
+   "unit": "323 (3 cars), WMR livery",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "pcov": {
+   "file": "refs/20240924-West-Midlands-Trains-323222-Coventry-1.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20240924_West_Midlands_Trains_323222_Coventry_1.jpg",
+   "author": "Alex Noble",
+   "licence": "CC0",
+   "date": "2024-09-24",
+   "kind": "photo",
+   "unit": "323222 (farewell tour, headboard)",
+   "view": "head-on, slightly from the left",
+   "light": "overcast, bright"
+  },
+  "p219": {
+   "file": "refs/323219-323209-Northfield-November-8th-2023.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:323219_%26_323209,_Northfield,_November_8th_2023.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2023-11-08",
+   "kind": "photo",
+   "unit": "323219",
+   "view": "front, slightly right",
+   "light": "overcast"
+  },
+  "p210": {
+   "file": "refs/323210-AST.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:323210_AST.jpg",
+   "author": "Vanmanyo",
+   "licence": "CC BY 4.0",
+   "date": "2023",
+   "kind": "photo",
+   "unit": "323210",
+   "view": "front three-quarter, near side to the left",
+   "light": "overcast"
+  },
+  "p222": {
+   "file": "refs/323222-at-Four-Oaks-05-03-23-52728551468-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:323222_at_Four_Oaks_05_03_23_(52728551468).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 2.0",
+   "date": "2023-03-05",
+   "kind": "photo",
+   "unit": "323222",
+   "view": "three-quarter, long side",
+   "light": "overcast"
+  },
+  "p214": {
+   "file": "refs/323214-Aston-crop-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:323214_Aston_(crop).jpg",
+   "author": "PeterSkuce",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019-03-18",
+   "kind": "photo",
+   "unit": "323214",
+   "view": "three-quarter, near side to the left",
+   "light": "overcast"
+  },
+  "p220": {
+   "file": "refs/West-Midlands-Railway-Class-323-220-at-Birmingham-New-Street-Platform-5A.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:West_Midlands_Railway_Class_323_220_at_Birmingham_New_Street_Platform_5A.jpg",
+   "author": "davwheat",
+   "licence": "CC BY-SA 2.0",
+   "date": "2022-10-01",
+   "kind": "photo",
+   "unit": "323220",
+   "view": "front three-quarter, tail lamps lit",
+   "light": "station, artificial"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-210",
+   "ref": "p210",
+   "box": [
+    1900,
+    280,
+    2900,
+    1650
+   ],
+   "feature": "whole front",
+   "reading": "All-yellow face, one black band round both screens with a yellow divider, lamp boxes low, dark valance; cab side gold."
+  },
+  {
+   "id": "f-lamps-r-210",
+   "ref": "p210",
+   "box": [
+    2630,
+    1100,
+    2840,
+    1215
+   ],
+   "feature": "near lamp box",
+   "reading": "A yellow box with a dark rim; LED tail inboard, clear headlamp outboard, each in its own black ring, same size and height."
+  },
+  {
+   "id": "f-lamps-l-210",
+   "ref": "p210",
+   "box": [
+    2030,
+    1095,
+    2250,
+    1215
+   ],
+   "feature": "far lamp box, headlamp lit",
+   "reading": ""
+  },
+  {
+   "id": "f-number-210",
+   "ref": "p210",
+   "box": [
+    2330,
+    1150,
+    2550,
+    1225
+   ],
+   "feature": "unit number",
+   "reading": ""
+  },
+  {
+   "id": "s-cab-210",
+   "ref": "p210",
+   "box": [
+    1790,
+    470,
+    2010,
+    1360
+   ],
+   "feature": "cab side and corner",
+   "reading": ""
+  },
+  {
+   "id": "s-door1-210",
+   "ref": "p210",
+   "box": [
+    1320,
+    540,
+    1500,
+    1290
+   ],
+   "feature": "first passenger door",
+   "reading": ""
+  },
+  {
+   "id": "s-shards-210",
+   "ref": "p210",
+   "box": [
+    1460,
+    520,
+    1830,
+    1300
+   ],
+   "feature": "gold to silver diamond transition, cab side windows",
+   "reading": ""
+  },
+  {
+   "id": "s-windows-210",
+   "ref": "p210",
+   "box": [
+    960,
+    680,
+    1360,
+    1060
+   ],
+   "feature": "saloon windows",
+   "reading": ""
+  },
+  {
+   "id": "f-screens-cov",
+   "ref": "pcov",
+   "box": [
+    1900,
+    600,
+    3200,
+    1400
+   ],
+   "feature": "windscreens, surround, divider, wiper bar",
+   "reading": "Two panes, outer corners rounded, a black wiper bar across with a strip of glass below it; wipers park towards the centre."
+  },
+  {
+   "id": "f-lamps-l-cov",
+   "ref": "pcov",
+   "box": [
+    1990,
+    1500,
+    2320,
+    1690
+   ],
+   "feature": "left lamp box head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-cov",
+   "ref": "pcov",
+   "box": [
+    2860,
+    1490,
+    3140,
+    1670
+   ],
+   "feature": "right lamp box head-on",
+   "reading": ""
+  },
+  {
+   "id": "f-hatches-cov",
+   "ref": "pcov",
+   "box": [
+    2080,
+    1360,
+    2240,
+    1500
+   ],
+   "feature": "small panel above the lamp box",
+   "reading": ""
+  },
+  {
+   "id": "f-lower-cov",
+   "ref": "pcov",
+   "box": [
+    1950,
+    1640,
+    3150,
+    2280
+   ],
+   "feature": "valance and coupler",
+   "reading": ""
+  },
+  {
+   "id": "f-dome-cov",
+   "ref": "pcov",
+   "box": [
+    2000,
+    350,
+    3200,
+    640
+   ],
+   "feature": "dome, top of the yellow",
+   "reading": ""
+  },
+  {
+   "id": "f-corner-cov",
+   "ref": "pcov",
+   "box": [
+    1800,
+    500,
+    2010,
+    1760
+   ],
+   "feature": "cab corner: where the yellow ends",
+   "reading": "The face's yellow wraps a little round the corner and stops ahead of the cab door; behind it WMR gold."
+  },
+  {
+   "id": "s-cabside-cov",
+   "ref": "pcov",
+   "box": [
+    1300,
+    620,
+    1960,
+    1760
+   ],
+   "feature": "cab side: door, windows, gold",
+   "reading": ""
+  },
+  {
+   "id": "f-face-219",
+   "ref": "p219",
+   "box": [
+    225,
+    165,
+    820,
+    950
+   ],
+   "feature": "whole front",
+   "reading": ""
+  },
+  {
+   "id": "f-lamps-r-219",
+   "ref": "p219",
+   "box": [
+    625,
+    640,
+    760,
+    705
+   ],
+   "feature": "near lamp box",
+   "reading": ""
+  },
+  {
+   "id": "f-number-219",
+   "ref": "p219",
+   "box": [
+    440,
+    660,
+    565,
+    715
+   ],
+   "feature": "unit number",
+   "reading": ""
+  },
+  {
+   "id": "s-side-219",
+   "ref": "p219",
+   "box": [
+    800,
+    250,
+    1300,
+    700
+   ],
+   "feature": "bodyside receding",
+   "reading": ""
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    0,
+    20,
+    190,
+    377
+   ],
+   "feature": "diagram nose",
+   "reading": ""
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    40,
+    40,
+    460,
+    300
+   ],
+   "feature": "diagram cab end",
+   "reading": ""
+  },
+  {
+   "id": "d-shards",
+   "ref": "dia",
+   "box": [
+    330,
+    40,
+    470,
+    280
+   ],
+   "feature": "diagram diamond transition",
+   "reading": ""
+  },
+  {
+   "id": "d-door1",
+   "ref": "dia",
+   "box": [
+    440,
+    40,
+    600,
+    280
+   ],
+   "feature": "diagram first door",
+   "reading": ""
+  },
+  {
+   "id": "d-saloon",
+   "ref": "dia",
+   "box": [
+    580,
+    40,
+    1180,
+    300
+   ],
+   "feature": "diagram saloon windows",
+   "reading": ""
+  },
+  {
+   "id": "d-carend",
+   "ref": "dia",
+   "box": [
+    1600,
+    20,
+    1800,
+    377
+   ],
+   "feature": "diagram car joint",
+   "reading": ""
+  },
+  {
+   "id": "s-livery-214",
+   "ref": "p214",
+   "box": [
+    900,
+    580,
+    1900,
+    1150
+   ],
+   "feature": "cab end livery: gold, diamonds, door",
+   "reading": "Gold cab end back past three windows; a band of silver shards with gold diamonds ahead of door 1; gold doors; silver beyond with a dark panel under the windows."
+  },
+  {
+   "id": "s-silver-214",
+   "ref": "p214",
+   "box": [
+    400,
+    650,
+    1000,
+    1050
+   ],
+   "feature": "silver car: windows, dark panel, logo",
+   "reading": ""
+  },
+  {
+   "id": "s-corner-door-214",
+   "ref": "p214",
+   "box": [
+    1000,
+    560,
+    2050,
+    1160
+   ],
+   "feature": "cab front corner and the first doors, three-quarter",
+   "reading": ""
+  }
+ ],
+ "samples": [
+  {
+   "id": "silver-210",
+   "ref": "p210",
+   "box": [
+    1085,
+    647,
+    1252,
+    678
+   ],
+   "what": "silver bodyside, car 1",
+   "neutralIs": 200
+  },
+  {
+   "id": "gold-210",
+   "ref": "p210",
+   "box": [
+    1600,
+    1050,
+    1700,
+    1150
+   ],
+   "what": "cab side gold",
+   "neutral": "silver-210"
+  },
+  {
+   "id": "door-210",
+   "ref": "p210",
+   "box": [
+    1370,
+    1045,
+    1460,
+    1170
+   ],
+   "what": "door gold",
+   "neutral": "silver-210"
+  },
+  {
+   "id": "yellow-210",
+   "ref": "p210",
+   "box": [
+    2300,
+    1045,
+    2600,
+    1085
+   ],
+   "what": "face yellow above the lamps",
+   "neutral": "silver-210"
+  },
+  {
+   "id": "valance-210",
+   "ref": "p210",
+   "box": [
+    2296,
+    1242,
+    2589,
+    1284
+   ],
+   "what": "valance",
+   "neutral": "silver-210"
+  },
+  {
+   "id": "roof-210",
+   "ref": "p210",
+   "box": [
+    2090,
+    335,
+    2500,
+    365
+   ],
+   "what": "roof",
+   "neutral": "silver-210"
+  },
+  {
+   "id": "yellow-cov",
+   "ref": "pcov",
+   "box": [
+    2700,
+    1430,
+    2800,
+    1480
+   ],
+   "what": "face yellow"
+  },
+  {
+   "id": "gold-cov",
+   "ref": "pcov",
+   "box": [
+    1500,
+    1450,
+    1580,
+    1520
+   ],
+   "what": "cab side gold"
+  },
+  {
+   "id": "valance-cov",
+   "ref": "pcov",
+   "box": [
+    2300,
+    1700,
+    2600,
+    1750
+   ],
+   "what": "valance"
+  },
+  {
+   "id": "darkband-210",
+   "ref": "p210",
+   "box": [
+    1150,
+    1050,
+    1250,
+    1090
+   ],
+   "what": "dark band under the saloon windows (logo band)",
+   "neutral": "silver-210"
+  },
+  {
+   "id": "silver-214",
+   "ref": "p214",
+   "box": [
+    866,
+    943,
+    975,
+    975
+   ],
+   "what": "silver bodyside, car 2",
+   "neutralIs": 200
+  },
+  {
+   "id": "gold-214",
+   "ref": "p214",
+   "box": [
+    1332,
+    974,
+    1409,
+    1021
+   ],
+   "what": "cab side gold",
+   "neutral": "silver-214"
+  },
+  {
+   "id": "door-214",
+   "ref": "p214",
+   "box": [
+    1020,
+    912,
+    1080,
+    985
+   ],
+   "what": "door gold",
+   "neutral": "silver-214"
+  },
+  {
+   "id": "yellow-214",
+   "ref": "p214",
+   "box": [
+    2108,
+    936,
+    2186,
+    975
+   ],
+   "what": "face yellow (faces the camera, same light?)",
+   "neutral": "silver-214"
+  },
+  {
+   "id": "valance-214",
+   "ref": "p214",
+   "box": [
+    1953,
+    1083,
+    2186,
+    1114
+   ],
+   "what": "valance",
+   "neutral": "silver-214"
+  },
+  {
+   "id": "darkband-214",
+   "ref": "p214",
+   "box": [
+    710,
+    866,
+    866,
+    912
+   ],
+   "what": "dark panel under the saloon windows",
+   "neutral": "silver-214"
+  },
+  {
+   "id": "roof-214",
+   "ref": "p214",
+   "box": [
+    866,
+    633,
+    1176,
+    656
+   ],
+   "what": "roof",
+   "neutral": "silver-214"
+  }
+ ]
+}

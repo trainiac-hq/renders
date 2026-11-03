@@ -1,0 +1,608 @@
+{
+ "refs": {
+  "dia": {
+   "file": "refs/Class-455-South-West-Trains-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_455_South_West_Trains_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "undated (Unisouth series)",
+   "kind": "diagram",
+   "unit": "455/8 (4 cars), South West Trains red",
+   "view": "side elevation, nose left",
+   "light": "flat colours"
+  },
+  "p861": {
+   "file": "refs/-GBR-London-South-Western-Railway-Class-455-455861-Vauxhall-2025-06-16.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:%28GBR-London%29_South_Western_Railway_Class_455_455861_%40_Vauxhall_2025-06-16.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-16",
+   "kind": "photo",
+   "unit": "455861 (455/8)",
+   "view": "front, nearly head-on (yaw about 14 deg), long lens 93 mm APS-C",
+   "light": "sun"
+  },
+  "p701": {
+   "file": "refs/SWR-455-701-55146890749.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:SWR_455_701_-_55146890749.jpg",
+   "author": "MissCatTrap",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-08-16",
+   "kind": "photo",
+   "unit": "455701 (455/7)",
+   "view": "front three-quarter from the left, 93 mm-equiv",
+   "light": "overcast, evening"
+  },
+  "p864": {
+   "file": "refs/20220912-SWR-455864.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:20220912_SWR_455864.jpg",
+   "author": "Alex Noble",
+   "licence": "CC0",
+   "date": "2022-09-12",
+   "kind": "photo",
+   "unit": "455864 (455/8)",
+   "view": "front three-quarter, nose right, cab car and MSO bodyside, 46 mm APS-C",
+   "light": "sun"
+  },
+  "puh": {
+   "file": "refs/A-Class-455-unit-departs-Upper-Halliford-station-in-June-2024.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:A_Class_455_unit_departs_Upper_Halliford_station_in_June_2024.jpg",
+   "author": "Mertbiol",
+   "licence": "CC0",
+   "date": "2024-06-09",
+   "kind": "photo",
+   "unit": "455 (77808 cab car, 455/8)",
+   "view": "front three-quarter, nose right",
+   "light": "low sun"
+  },
+  "p733": {
+   "file": "refs/455733-at-Horsley-railway-station-Surrey-June-2025-01.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:455733_at_Horsley_railway_station%2C_Surrey_-_June_2025_-_01.jpg",
+   "author": "Mertbiol",
+   "licence": "CC0",
+   "date": "2025-06-16",
+   "kind": "photo",
+   "unit": "455733 (455/7)",
+   "view": "close front, from the right, wide angle",
+   "light": "sun"
+  },
+  "p920": {
+   "file": "refs/5920-Clapham-Junction-July-20th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:5920%2C_Clapham_Junction%2C_July_20th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-20",
+   "kind": "photo",
+   "unit": "455920 (455/9)",
+   "view": "close front three-quarter from the left, 36 mm-equiv",
+   "light": "dusk, station lights"
+  },
+  "pvx": {
+   "file": "refs/5708-5729-Vauxhall-April-26th-2022.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:5708_%26_5729%2C_Vauxhall%2C_April_26th_2022.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2022-04-26",
+   "kind": "photo",
+   "unit": "455708 (77742 cab car, 455/7)",
+   "view": "side on, slightly from the front, nose right",
+   "light": "sun"
+  },
+  "pwm": {
+   "file": "refs/Class-455-December-25-cf-01.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_455_December_25_cf_01.jpg",
+   "author": "Secretlondon",
+   "licence": "CC BY 4.0",
+   "date": "2025-12-15",
+   "kind": "photo",
+   "unit": "455 (unknown unit), bodyside",
+   "view": "close-up of the bodyside wordmark, oblique",
+   "light": "station lights"
+  },
+  "pej": {
+   "file": "refs/455732-and-455712-at-Effingham-Junction-station-Surrey-March-2026.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:455732_and_455712_at_Effingham_Junction_station%2C_Surrey_-_March_2026.jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-03-20",
+   "kind": "photo",
+   "unit": "455732 + 455712, last day",
+   "view": "front three-quarter from above, far",
+   "light": "overcast"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-face-861",
+   "ref": "p861",
+   "box": [
+    2380,
+    280,
+    3600,
+    1480
+   ],
+   "feature": "whole front, nearly head-on",
+   "reading": "Flat upright front: blue upper face and roof dome; two destination displays in raised blue surrounds over two windscreens with blue moulded frames; a bare studded steel gangway frame (round-topped) from the roof to below the headstock with the door set back in it; yellow lower half either side; '5861' black above each lamp box; red band at the bottom; orange jumper sockets and black hoses."
+  },
+  {
+   "id": "f-roof-861",
+   "ref": "p861",
+   "box": [
+    2300,
+    280,
+    3600,
+    540
+   ],
+   "feature": "roof dome over the face: horns, orange line ends at the corners",
+   "reading": "Blue dome over the face, two black horns pointing up and out either side of the centre, cameras/aerials; a short orange line at each top corner, level with the displays' tops."
+  },
+  {
+   "id": "f-screens-861",
+   "ref": "p861",
+   "box": [
+    2480,
+    480,
+    3520,
+    960
+   ],
+   "feature": "windscreens, destination displays, wipers",
+   "reading": "Two screens with blue moulded surrounds, each with its display box above the glass in the same surround; wipers pivoted at the top of each screen, blades hanging down and outwards."
+  },
+  {
+   "id": "f-gangway-861",
+   "ref": "p861",
+   "box": [
+    2780,
+    420,
+    3270,
+    1450
+   ],
+   "feature": "gangway frame and door",
+   "reading": "Door recessed inside a deep unpainted steel frame (studs, rust); door blue above with a window in a blue frame, yellow below with a handle, red strip at the bottom."
+  },
+  {
+   "id": "f-panel-861",
+   "ref": "p861",
+   "box": [
+    2440,
+    930,
+    3570,
+    1420
+   ],
+   "feature": "yellow panel, lamp housings, red band below",
+   "reading": "Yellow to the corners, squared top at the screens' bottom; a recessed yellow lamp box low on each side; red band below the yellow across the whole face."
+  },
+  {
+   "id": "f-lamps-l-861",
+   "ref": "p861",
+   "box": [
+    2500,
+    1190,
+    2750,
+    1330
+   ],
+   "feature": "lamp housing, image left",
+   "reading": "Two round lamps in a yellow rounded-rectangle box: lit white headlamp outboard (left), dark LED cluster inboard."
+  },
+  {
+   "id": "f-lamps-r-861",
+   "ref": "p861",
+   "box": [
+    3260,
+    1190,
+    3500,
+    1330
+   ],
+   "feature": "lamp housing, image right",
+   "reading": "Same box: LED cluster (lit white dots) inboard (left), clear unlit headlamp reflector outboard (right)."
+  },
+  {
+   "id": "f-number-861",
+   "ref": "p861",
+   "box": [
+    2570,
+    1120,
+    2710,
+    1215
+   ],
+   "feature": "unit number on the yellow",
+   "reading": "'5861' in black sans numerals on the yellow."
+  },
+  {
+   "id": "f-front-920",
+   "ref": "p920",
+   "box": [
+    700,
+    100,
+    1330,
+    760
+   ],
+   "feature": "front three-quarter from the left: how far the gangway frame stands out",
+   "reading": "From the left: the gangway frame stands well proud of the face and the door sits back inside it; the inboard LED lit red (tail), clear headlamp outboard; thin orange line along the top of the cab side."
+  },
+  {
+   "id": "f-front-701",
+   "ref": "p701",
+   "box": [
+    1900,
+    650,
+    3200,
+    1950
+   ],
+   "feature": "front three-quarter from the left, 455/7",
+   "reading": "455/7 front, identical to the 455/8 and 455/9: frame proud, door recessed, head outboard, LED inboard, orange stub at each top corner."
+  },
+  {
+   "id": "s-cab-864",
+   "ref": "p864",
+   "box": [
+    2080,
+    1060,
+    2420,
+    1800
+   ],
+   "feature": "cab side: fixed window, cab door, blue and orange sweep",
+   "reading": "Cab side from the front: blue corner, tall narrow fixed window, cab door (hinged, tall window), then red; orange band sweeping down and forward across the cab door, blue ahead of it."
+  },
+  {
+   "id": "s-corner-door-864",
+   "ref": "p864",
+   "box": [
+    1700,
+    1040,
+    2420,
+    1800
+   ],
+   "feature": "cab corner, cab door and first door, three-quarter",
+   "reading": "Corner, fixed window, cab door, one large window with a hopper, then passenger door 1 (blue leaves, yellow surround)."
+  },
+  {
+   "id": "s-door1-864",
+   "ref": "p864",
+   "box": [
+    1745,
+    1090,
+    1935,
+    1690
+   ],
+   "feature": "first passenger door",
+   "reading": "Two blue leaves with narrow tall windows, yellow bands on the body either side and over the top, a dark seal between yellow and leaf; grey step plate."
+  },
+  {
+   "id": "s-door2-864",
+   "ref": "p864",
+   "box": [
+    1425,
+    1120,
+    1565,
+    1610
+   ],
+   "feature": "second passenger door",
+   "reading": "As door 1, seen more obliquely; the orange waist line runs to its edge on the far side."
+  },
+  {
+   "id": "s-windows-864",
+   "ref": "p864",
+   "box": [
+    1540,
+    1140,
+    2080,
+    1450
+   ],
+   "feature": "windows between the doors and ahead of door 1",
+   "reading": "Two windows between the doors and one ahead of door 1, each with a top hopper and grey frame; pictograms beside door 1."
+  },
+  {
+   "id": "s-wordmark-864",
+   "ref": "p864",
+   "box": [
+    1545,
+    1440,
+    1735,
+    1575
+   ],
+   "feature": "bodyside wordmark, cab car",
+   "reading": "White arrow mark + 'South Western Railway' under the windows between doors 1 and 2."
+  },
+  {
+   "id": "s-mso-864",
+   "ref": "p864",
+   "box": [
+    850,
+    1150,
+    1310,
+    1450
+   ],
+   "feature": "second car (MSO): front end, windows, door, orange waist line",
+   "reading": "Second car: louvre vent by its front end, paired windows, yellow-surround doors, thin orange line under the windows, wordmark between its doors."
+  },
+  {
+   "id": "s-roof-864",
+   "ref": "p864",
+   "box": [
+    1300,
+    1000,
+    2150,
+    1180
+   ],
+   "feature": "roof and cantrail over the cab car",
+   "reading": "Red carries up over the cantrail to the roof's curve (sky reflection band); the roof itself is grey."
+  },
+  {
+   "id": "s-bogie-864",
+   "ref": "p864",
+   "box": [
+    1300,
+    1550,
+    1750,
+    1900
+   ],
+   "feature": "trailing bogie of the cab car",
+   "reading": "Trailing bogie and underframe equipment, dark grime."
+  },
+  {
+   "id": "s-side-vx",
+   "ref": "pvx",
+   "box": [
+    640,
+    690,
+    1360,
+    880
+   ],
+   "feature": "cab car side on (455/7 77742)",
+   "reading": "Cab car side on: sweep, cab door, fixed window, window, door 1, two windows, wordmark low, door 2, two windows; no waist line between doors 1 and 2."
+  },
+  {
+   "id": "s-sweep-vx",
+   "ref": "pvx",
+   "box": [
+    1070,
+    700,
+    1265,
+    860
+   ],
+   "feature": "cab end sweep, side on",
+   "reading": "Blue ahead, orange band from the roof line down through the cab door to the front foot, red behind; orange crosses the cab door."
+  },
+  {
+   "id": "s-wordmark-wm",
+   "ref": "pwm",
+   "box": [
+    600,
+    2650,
+    3840,
+    3350
+   ],
+   "feature": "wordmark close-up",
+   "reading": "Arrow of three strokes and 'South Western Railway', white vinyl on red, upright sans (the photo's angle shears it)."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    90,
+    30,
+    1530,
+    350
+   ],
+   "feature": "diagram cab car",
+   "reading": "Diagram cab car: same template as the 317/320 drawings; SWT logo and an orange line where SWR put the wordmark."
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    90,
+    30,
+    420,
+    345
+   ],
+   "feature": "diagram nose and cab end",
+   "reading": "Diagram nose: old rubber gangway 22 px ahead of the face, the yellow front lamp patch wrapping the corner (old front), blue/orange sweep."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-864",
+   "ref": "p864",
+   "box": [
+    1663,
+    1478,
+    1667,
+    1482
+   ],
+   "what": "white wordmark stroke (R stem), bodyside, sun"
+  },
+  {
+   "id": "red-864",
+   "ref": "p864",
+   "box": [
+    1960,
+    1460,
+    2040,
+    1540
+   ],
+   "what": "red bodyside below window 1, sun",
+   "neutral": "white-864"
+  },
+  {
+   "id": "blue-864",
+   "ref": "p864",
+   "box": [
+    2290,
+    1300,
+    2340,
+    1380
+   ],
+   "what": "blue cab side ahead of the cab door",
+   "neutral": "white-864"
+  },
+  {
+   "id": "orange-864",
+   "ref": "p864",
+   "box": [
+    2194,
+    1445,
+    2208,
+    1458
+   ],
+   "what": "orange sweep band across the cab door",
+   "neutral": "white-864"
+  },
+  {
+   "id": "yellow-864",
+   "ref": "p864",
+   "box": [
+    1885,
+    1290,
+    1900,
+    1380
+   ],
+   "what": "yellow door surround, door 1 near side",
+   "neutral": "white-864"
+  },
+  {
+   "id": "doorblue-864",
+   "ref": "p864",
+   "box": [
+    1835,
+    1420,
+    1848,
+    1480
+   ],
+   "what": "blue door leaf, door 1",
+   "neutral": "white-864"
+  },
+  {
+   "id": "yellow-l-861",
+   "ref": "p861",
+   "box": [
+    2772,
+    984,
+    2789,
+    1052
+   ],
+   "what": "yellow panel, face left (no neutral on the face)"
+  },
+  {
+   "id": "yellow-r-861",
+   "ref": "p861",
+   "box": [
+    3481,
+    1009,
+    3515,
+    1060
+   ],
+   "what": "yellow panel, face right (no neutral on the face)"
+  },
+  {
+   "id": "blue-861",
+   "ref": "p861",
+   "box": [
+    2560,
+    455,
+    2680,
+    495
+   ],
+   "what": "blue upper face above the left display"
+  },
+  {
+   "id": "red-861",
+   "ref": "p861",
+   "box": [
+    3270,
+    1339,
+    3397,
+    1381
+   ],
+   "what": "red band under the yellow"
+  },
+  {
+   "id": "frame-861",
+   "ref": "p861",
+   "box": [
+    3175,
+    700,
+    3215,
+    900
+   ],
+   "what": "gangway frame, unpainted grey"
+  },
+  {
+   "id": "door-861",
+   "ref": "p861",
+   "box": [
+    2920,
+    1000,
+    3100,
+    1200
+   ],
+   "what": "gangway door yellow"
+  },
+  {
+   "id": "roof-uh",
+   "ref": "puh",
+   "box": [
+    750,
+    872,
+    850,
+    882
+   ],
+   "what": "roof grey over the second car"
+  },
+  {
+   "id": "white-wm",
+   "ref": "pwm",
+   "box": [
+    1960,
+    2902,
+    1964,
+    2906
+   ],
+   "what": "white wordmark letter, close (station light)"
+  },
+  {
+   "id": "red-wm",
+   "ref": "pwm",
+   "box": [
+    1300,
+    3300,
+    1500,
+    3350
+   ],
+   "what": "red bodyside beside the wordmark, close",
+   "neutral": "white-wm"
+  }
+ ],
+ "secondReader": {
+  "crops": [
+   "f-face-861",
+   "f-gangway-861",
+   "f-lamps-l-861",
+   "f-lamps-r-861",
+   "f-front-920",
+   "f-front-701",
+   "f-roof-861",
+   "s-cab-864",
+   "s-corner-door-864",
+   "s-sweep-vx",
+   "s-door1-864",
+   "s-mso-864",
+   "s-wordmark-864"
+  ],
+  "agreed": [
+   "door set back in a bare steel frame; door blue/yellow/red",
+   "head outboard, LED inboard, both sides",
+   "two roof horns; orange stubs at the top corners",
+   "orange band crosses the cab door; blue ahead; red behind",
+   "yellow surround on the body, not the leaves, and over the top of the door",
+   "wordmark: arrow + 'South Western Railway', white"
+  ],
+  "differed": [
+   "frame depth: reader estimates 0.5-1 door widths (0.3-0.6 m) from p920/p701; spec keeps the drawing's 0.30 m (p861's head-on shift suggests 0.14-0.21): open",
+   "orange line on the cab side near the front at window-top height (p701, p920): matches the face stubs at 3.13 m, not the drawing's 3.44 m cantrail line: open",
+   "MSO line 'near window-sill level' per reader; the spec's 1.52 m (drawing) is below the sills (2.03): the s-mso crop shows it below the windows; kept",
+   "reader saw the wordmark as italic: perspective shear; the tighter close-up (pwm) is upright"
+  ]
+ }
+}

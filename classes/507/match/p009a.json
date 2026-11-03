@@ -1,0 +1,142 @@
+{
+ "ref": "p009a",
+ "side": "near",
+ "note": "507009 near Aintree, long lens, nose left, bodyside right of the face: the train's left side (near, -Y). lamp0 = the pod right as seen. Points placed 2026-10-06 on 3-4x gridded crops (g009a-f, g009a-s). No EXIF on the Commons file.",
+ "points": {
+  "lamp2-head": [
+   645.7,
+   387.3
+  ],
+  "lamp3-head": [
+   626.7,
+   409.3
+  ],
+  "lamp1-head": [
+   661.7,
+   411
+  ],
+  "lamp4-head": [
+   532.3,
+   607.3
+  ],
+  "lamp4-tail": [
+   561,
+   624
+  ],
+  "lamp0-head": [
+   756.7,
+   609.3
+  ],
+  "lamp0-tail": [
+   728,
+   625
+  ],
+  "w1-centre-top": [
+   863.1,
+   463.4
+  ],
+  "w3-centre-top": [
+   917.5,
+   469
+  ],
+  "w4-centre-top": [
+   937.5,
+   469.6
+  ],
+  "w5-centre-top": [
+   980.4,
+   472.25
+  ],
+  "w6-centre-top": [
+   995.9,
+   472.75
+  ],
+  "end-top": [
+   1008.75,
+   450.5
+  ],
+  "door1-seal-front-top": [
+   878.75,
+   443.25
+  ],
+  "door1-seal-rear-top": [
+   900,
+   445.75
+  ],
+  "door2-seal-front-top": [
+   950,
+   451.25
+  ],
+  "door2-seal-rear-top": [
+   966.25,
+   453.75
+  ]
+ },
+ "model": {
+  "w1-centre-top": [
+   4.694,
+   2.709
+  ],
+  "w3-centre-top": [
+   9.36,
+   2.709
+  ],
+  "w4-centre-top": [
+   11.437,
+   2.709
+  ],
+  "w5-centre-top": [
+   16.179,
+   2.709
+  ],
+  "w6-centre-top": [
+   18.256,
+   2.709
+  ],
+  "end-top": [
+   19.8,
+   2.985
+  ],
+  "door1-seal-front-top": [
+   6.14,
+   2.956
+  ],
+  "door1-seal-rear-top": [
+   7.96,
+   2.956
+  ],
+  "door2-seal-front-top": [
+   12.898,
+   2.956
+  ],
+  "door2-seal-rear-top": [
+   14.718,
+   2.956
+  ]
+ },
+ "holdout": [
+  "lamp4-tail",
+  "w1-centre-top",
+  "door1-seal-front-top",
+  "door1-seal-rear-top"
+ ],
+ "readings": {
+  "lamp2-head": "roof LED lamp's black disc, centre (g009a-f)",
+  "lamp3-head": "left (far) white marker disc 619-635 x 401-418 (g009a-f)",
+  "lamp1-head": "right (near) white marker disc 653-670 x 403-419 (g009a-f)",
+  "lamp4-head": "far pod's head lens 520-545 x 595-620 (g009a-f)",
+  "lamp4-tail": "far pod's red LED 553-569 x 616-632 (g009a-f)",
+  "lamp0-head": "near pod's head lens 744-770 x 597-622 (g009a-f)",
+  "lamp0-tail": "near pod's red LED 720-736 x 617-633 (g009a-f)",
+  "w1-centre-top": "first saloon window: mean of the dark glass top corners (g009a-s)",
+  "w3-centre-top": "mean of the dark glass top corners (g009a-s)",
+  "w4-centre-top": "mean of the dark glass top corners (g009a-s)",
+  "w5-centre-top": "mean of the dark glass top corners (g009a-s)",
+  "w6-centre-top": "mean of the dark glass top corners (g009a-s)",
+  "end-top": "cab car rear end: the orange cantrail line's step at the gangway (g009a-s)",
+  "door1-seal-front-top": "door 1 orange seal, outer front-top corner (g009a-s); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door1-seal-rear-top": "door 1 orange seal, outer rear-top corner (g009a-s); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door2-seal-front-top": "door 2 orange seal, outer front-top corner (g009a-s); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)",
+  "door2-seal-rear-top": "door 2 orange seal, outer rear-top corner (g009a-s); model point: the seal outer corner (spec door edge -/+ 0.05, top 2.891 + 0.05)"
+ }
+}

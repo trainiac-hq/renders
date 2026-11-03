@@ -1,0 +1,84 @@
+{
+ "ref": "pldn",
+ "side": "near",
+ "points": {
+  "door1-front-top": [
+   2425,
+   943
+  ],
+  "door1-rear-top": [
+   2693,
+   961
+  ],
+  "lamp0-tail": [
+   990,
+   1610
+  ],
+  "win-a-front-top": [
+   1950,
+   1080
+  ],
+  "win-b-rear-top": [
+   2393,
+   1065
+  ],
+  "win3-front-bottom": [
+   2770,
+   1372
+  ],
+  "win4-rear-top": [
+   3215,
+   1100
+  ],
+  "win6-rear-top": [
+   3575,
+   1115
+  ],
+  "door2-front-top": [
+   3590,
+   1000
+  ]
+ },
+ "holdout": [
+  "lamp0-tail",
+  "door1-rear-top",
+  "win4-rear-top"
+ ],
+ "model": {
+  "win-a-front-top": [
+   2.18,
+   2.79
+  ],
+  "win-b-rear-top": [
+   4.7,
+   2.79
+  ],
+  "win3-front-bottom": [
+   6.871,
+   1.76
+  ],
+  "win4-rear-top": [
+   10.261,
+   2.79
+  ],
+  "win6-rear-top": [
+   13.933,
+   2.79
+  ]
+ },
+ "readings": {
+  "note": "pldn shows the train's LEFT side (nose image-left). door<k>: k=0 is the cab door, so the first passenger door is door1",
+  "door1-front-top": "pkldn panel d1ft: light leaf meets the dark seal at (2425, 943) under the orange line",
+  "door1-rear-top": "pkldn panel d1rt: leaf top rear corner (2693, 961)",
+  "lamp0-tail": "pkldn panel 'lamp': centre of the lit red tail's glow (990,1610), +-6 px (bloom). Off the bodyside plane",
+  "win-a-front-top": "narrow window glass, front top corner, atl-cd grid (glass 1945-2040 x 1075-1345): +-6 px",
+  "win-b-rear-top": "wide window glass rear top, row 1210 run edge 2393 and glass top ~1065 (+-6 px)",
+  "win3-front-bottom": "first window behind door1, glass front-bottom (row-run edge 2765, bottom ~1372)",
+  "win4-rear-top": "row-run edge 3215, top ~1100 (atl-right grid)",
+  "win6-rear-top": "row-run edge 3575, top ~1115",
+  "door2-front-top": "second door's front edge 3590 (row run), top under the orange line ~1000",
+  "weak": "only one off-plane point (the tail lamp); axles were not picked (dark underframe). Re-pick on pick.py panels before solving",
+  "_audit": "2026-10-05 convention audit (z = -m, side by where the bodyside shows, lamp0 = train's left): side near, lamp0 correct. No change.",
+  "_shift": "cab-car model points moved back 0.20 m with the spec"
+ }
+}

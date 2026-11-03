@@ -1,0 +1,1102 @@
+{
+ "class": "378",
+ "subject": "Class 378/2 Capitalstar, London Overground, 2024-2026 (original and refreshed liveries)",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-378-London-Overground-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_378_London_Overground_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "c. 2009-2010",
+   "kind": "diagram",
+   "unit": "378 (4 cars, no pantograph drawn; original livery with solid orange doors)",
+   "view": "side elevation, nose left, whole unit, 6852x369",
+   "light": "flat colours (not paint samples)"
+  },
+  "diadet": {
+   "file": "refs/Class-378-London-Overground-Diagram-detail.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_378_London_Overground_Diagram-detail.PNG",
+   "author": "Unisouth, cropped by DanielRigal",
+   "licence": "CC BY-SA 3.0",
+   "date": "c. 2009-2010",
+   "kind": "diagram",
+   "unit": "378 cab car",
+   "view": "crop of dia (cab car), same scale",
+   "light": "flat colours"
+  },
+  "p224": {
+   "file": "refs/-GBR-London-London-Overground-Class-378-378224-Hackney-Wick-2025-06-13.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:(GBR-London)_London_Overground_Class_378_378224_@_Hackney_Wick_2025-06-13.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-13",
+   "kind": "photo",
+   "unit": "378224 (378/2), original livery",
+   "view": "near head-on, slightly from the left, sharp, 3840x3072",
+   "light": "bright sun"
+  },
+  "p207": {
+   "file": "refs/Overground-Class-378-No-207.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Overground_Class_378_No_207.jpg",
+   "author": "Sümeyra Balıkçı",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025 (uploaded 2025-08-14; Commons category: revised livery)",
+   "kind": "photo",
+   "unit": "378207 (378/2), refreshed livery",
+   "view": "front three-quarter, near head-on, slightly from the left, 3840x2880",
+   "light": "overcast"
+  },
+  "p231": {
+   "file": "refs/378-231-Finchley-Rd-Frognall.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378_231_Finchley_Rd_%26_Frognall.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-19",
+   "kind": "photo",
+   "unit": "378231 (378/2), refreshed livery",
+   "view": "front three-quarter, near side to the left, 3840x2515",
+   "light": "sun, tunnel mouth behind"
+  },
+  "p204": {
+   "file": "refs/378204-at-Clapham-Junction-21-11-25-54940465640-.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378204_at_Clapham_Junction_21_11_25_(54940465640).jpg",
+   "author": "Foulger Rail Photos",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-11-21",
+   "kind": "photo",
+   "unit": "378204, original livery",
+   "view": "long side, cab left, distant, 3840x2560",
+   "light": "low sun"
+  },
+  "p208": {
+   "file": "refs/378208-Stratford-300725.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378208_Stratford_300725.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-07-30",
+   "kind": "photo",
+   "unit": "378208 (378/2), original livery",
+   "view": "front three-quarter from the left, near side (train's right) bodyside of the whole DMOS visible, 3798x2448, strong perspective",
+   "light": "bright overcast / hazy sun"
+  },
+  "p230": {
+   "file": "refs/378230-Stratford-300725.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378230_Stratford_300725.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2025-07-30",
+   "kind": "photo",
+   "unit": "378230 (378/2), original livery",
+   "view": "side, panoramic 3696x1344, cab right, a gantry hides the car 1/2 gap; perspective too strong to fit car 2",
+   "light": "sun"
+  },
+  "p228": {
+   "file": "refs/378228-Clapham-Junction-November-12th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378228,_Clapham_Junction,_November_12th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-11-12",
+   "kind": "photo",
+   "unit": "378228, refreshed livery",
+   "view": "front three-quarter, 1600x1067",
+   "light": "overcast"
+  },
+  "p223": {
+   "file": "refs/378223-Richmond-June-26th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378223,_Richmond,_June_26th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-26",
+   "kind": "photo",
+   "unit": "378223, original livery",
+   "view": "front three-quarter, 1600x1067",
+   "light": "sun"
+  },
+  "p137": {
+   "file": "refs/378137-Clapham-Junction-July-20th-2025.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378137,_Clapham_Junction,_July_20th_2025.jpg",
+   "author": "Southsea_Matt",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-07-20",
+   "kind": "photo",
+   "unit": "378137 (378/1, DC only)",
+   "view": "front three-quarter, 1600x1067",
+   "light": "station roof"
+  },
+  "p255": {
+   "file": "refs/378-255-New-Cross-080224.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378_255_New_Cross_080224.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 2.0",
+   "date": "2024-02-08",
+   "kind": "photo",
+   "unit": "378255, original livery",
+   "view": "front three-quarter, 1280x1020 (where the lamps were first read)",
+   "light": "overcast"
+  },
+  "p207hw": {
+   "file": "refs/-GBR-London-London-Overground-Class-378-378207-Hackney-Wick-2025-06-13.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:(GBR-London)_London_Overground_Class_378_378207_@_Hackney_Wick_2025-06-13.jpg",
+   "author": "S5A-0043",
+   "licence": "CC BY 4.0",
+   "date": "2025-06-13",
+   "kind": "photo",
+   "unit": "378207, ORIGINAL livery (yellow cab top) on 2025-06-13: repainted to the refreshed livery between June and August 2025 (p207)",
+   "view": "front three-quarter, 1280x720 (low resolution, not measured)",
+   "light": "sun"
+  },
+  "tmd": {
+   "file": "refs/2026-01-23-New-Cross-Gate-TMD-01.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:2026-01-23_-_New_Cross_Gate_TMD_-_01.jpg",
+   "author": "tompagenet",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-01-23",
+   "kind": "photo",
+   "unit": "378255, original livery",
+   "view": "cab end close, from the left, inside the depot shed, 3840x2560",
+   "light": "depot"
+  },
+  "pside": {
+   "file": "refs/C-378017-DMSO-Vehicle-38117.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:C_378017_DMSO_Vehicle_38117.JPG",
+   "author": "Peter Skuce",
+   "licence": "Public domain",
+   "date": "2009-09-23",
+   "kind": "photo",
+   "unit": "378017 (as built, now 378217) DMOS 38117, original livery as delivered",
+   "view": "bodyside of the DMOS, nose left, oblique (vanishing point ~830 px left of the frame), 2576x1932; body geometry only (2009)",
+   "light": "overcast"
+  },
+  "p017": {
+   "file": "refs/B-378017-Richmond.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:B_378017_Richmond.JPG",
+   "author": "Peter Skuce",
+   "licence": "Public domain",
+   "date": "2009-09-23",
+   "kind": "photo",
+   "unit": "378017 (now 378217)",
+   "view": "front three-quarter, distant, 2576x1932 (context only, not measured)",
+   "light": "overcast"
+  },
+  "tmd07": {
+   "file": "refs/2026-01-23-New-Cross-Gate-TMD-07.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:2026-01-23_-_New_Cross_Gate_TMD_-_07.jpg",
+   "author": "tompagenet",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-01-23",
+   "kind": "photo",
+   "unit": "a 378 at New Cross Gate depot (number not visible)",
+   "view": "close-up of one closed bodyside door, square-on, 3840x2160",
+   "light": "depot fluorescent"
+  },
+  "p210l": {
+   "file": "refs/378210-Clapham-Junction.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:378210_Clapham_Junction.jpg",
+   "author": "Mice2021",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-01-25",
+   "kind": "photo",
+   "unit": "378210 (378/2), original livery",
+   "view": "front three-quarter from the train's left, cab left; LEFT bodyside of the cab car and the next car, 3840x2560 (fetched at 2400 request, served 3840)",
+   "light": "low winter sun, glossy bodyside reflections"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-screen-l-224",
+   "ref": "p224",
+   "box": [
+    2380,
+    1050,
+    2900,
+    1450
+   ],
+   "feature": "left screen (as seen), cap, orange line, door top-left",
+   "reading": "Orange line over the screens (y~1150-1175 at x 2520), curving down at the corner onto the cab side. Black screen surround from 2512 px; destination display (amber dot matrix) in the top of the left screen, 2564-2768 x 1252-1320 px. Door outline is a thick black rubber seal (2832-2846 px) whose top bar (y~1110) sits ABOVE the orange line; inside it the door's upper half is glossy black. Outer top corner of the surround rounded (r ~0.10 m), inner (door side) corners near square.",
+   "reading2": "Curved yellow dome, orange stripe following the curve down the left side; dark frame; orange dot-matrix display upper-middle; wiper bottom-right; black door with danger sign at far right."
+  },
+  {
+   "id": "f-screen-r-224",
+   "ref": "p224",
+   "box": [
+    3040,
+    1050,
+    3560,
+    1450
+   ],
+   "feature": "right screen, face corner",
+   "reading": "Right door seal 3163-3178 px; black surround 3186-3482; yellow face corner beyond. Glass inset ~0.04 m at the sides, a deeper black strip (~0.23 m) under the glass. Outer top corner rounded, inner near square. Wiper parked up the inner (door) edge, pivot low inboard, mirrored from the left.",
+   "reading2": "Orange stripe curves down at the right corner along the window top; black door panel left; frame rounded top-right; wiper bottom-left; yellow pillar curving at right edge."
+  },
+  {
+   "id": "f-lamps-l-224",
+   "ref": "p224",
+   "box": [
+    2380,
+    1550,
+    2900,
+    2100
+   ],
+   "feature": "left lamp cluster, spotlight, bands",
+   "reading": "One black bezel per side, an irregular quadrilateral: top edge rises from the outboard end, dips with an S-step in the middle, then rises again inboard; inboard edge slopes down-outwards to a rounded point at the lower inboard corner; ~8 screws. Larger headlamp OUTBOARD and slightly higher (centre 2612,1852 px), smaller LED lamp inboard and lower (2709,1875). A separate round lamp in a thick black ring above the INBOARD lamp (2719,1762). Below: orange line then blue band, then a dark gap and the blue skirt.",
+   "reading2": "Black angular-rounded housing, ~8 screws, top edge stepped (higher left, dips ~55% across, up to the right). Outboard (left) lamp large round white headlight, higher; inboard smaller round LED lens, slightly lower. Separate small round black-ringed lamp above and right of the housing. Orange stripe then blue band below."
+  },
+  {
+   "id": "f-lamps-r-224",
+   "ref": "p224",
+   "box": [
+    3040,
+    1550,
+    3560,
+    2100
+   ],
+   "feature": "right lamp cluster, number",
+   "reading": "Mirror of the left bezel: headlamp outboard and higher (3397,1835), LED lamp inboard and lower (3308,1864); no round lamp above this side. '378 224' in dark blue on yellow above the cluster, 3251-3456 x 1697-1741 px. Door seal runs down through the orange line and the blue band to ~y2032.",
+   "reading2": "'378 224' dark blue digits. Housing top edge high at right sloping down left, notched lower-left, rounded bulge right; ~8 screws. Outboard (right) large clear lens, higher; inboard smaller LED lens, lower. Orange stripe curving up right, blue band, blue bumper."
+  },
+  {
+   "id": "f-face-207",
+   "ref": "p207",
+   "box": [
+    1100,
+    600,
+    2700,
+    2400
+   ],
+   "feature": "whole face, refreshed livery",
+   "reading": "Same face geometry as p224 (door, screens, bezels, round lamp above the left cluster, blue skirt, coupler recess) but the cab top (dome, cap above the screens, pillars beside the screens down to the screen bottoms) is dark (black/navy, glossy); orange line over the screens continues round the corners and down the cab side as a widening orange wedge; yellow only below the screens; at the bottom an orange band, then a white line at the sides, then blue. No unit number on the face."
+  },
+  {
+   "id": "f-door-224",
+   "ref": "p224",
+   "box": [
+    2780,
+    1050,
+    3240,
+    2080
+   ],
+   "feature": "front detrainment door, seal, upper dark / lower yellow",
+   "reading": "Front detrainment door: a thick dark-grey rubber seal outlines it from just above the cap orange line (top bar ~0.05 m above it) down through the orange line and the blue band to the blue band's bottom. Upper part (to the screen bottom line) glossy black with two small 'Danger overhead line' stickers at the top corners; lower part yellow with a tall rounded-rectangle handle recess (rounded bottom notch). Corners of the seal near square (r ~0.03 m).",
+   "reading2": "Large black rectangular panel with a thin dark-grey rail frame that also runs the full height at both sides; two danger stickers at the top corners; yellow below with an outlined rectangular hatch with a notch; orange stripe then blue band at the bottom."
+  },
+  {
+   "id": "f-dome-224",
+   "ref": "p224",
+   "box": [
+    2780,
+    900,
+    3250,
+    1180
+   ],
+   "feature": "dome marker lamp housing, cap orange line, door top bar",
+   "reading": "Single D-shaped marker lamp housing on the dome centre (flat bottom, rounded top), black rim, clear lens with a round LED cluster left of centre. Below it the seal's top bar, then the orange cap line.",
+   "reading2": "Single black D/dome-shaped housing (flat bottom, rounded top), clear lens with a round LED-dot lamp left-centre; below, the door frame top and the orange stripe."
+  },
+  {
+   "id": "f-lower-224",
+   "ref": "p224",
+   "box": [
+    2440,
+    1900,
+    3560,
+    2420
+   ],
+   "feature": "lower face: orange line, blue band, skirt panels, coupler recess",
+   "reading": "Orange line, then a blue band across the whole face; seal lines continue through both. Below a dark shadow gap, two blue skirt panels with large-radius outer bottom corners either side of a black coupler recess (Dellner coupler, rounded lower corners). Small stud on the blue band left of centre.",
+   "reading2": "Orange stripe then thick blue band; two vertical grab rails (door seal) at ~37% and 66%; blue glossy bumper with two big rounded lobes either side of a dark recess holding a Dellner-type coupler."
+  },
+  {
+   "id": "f-corner-l-224",
+   "ref": "p224",
+   "box": [
+    2300,
+    1000,
+    2620,
+    2150
+   ],
+   "feature": "left face corner and cab side edge",
+   "reading": "Left face corner: yellow wraps round the corner onto the cab side and ends at a black seam just ahead of the bodyside (silver). Cap orange line runs over the corner and turns down at the screen's top outer corner. Lower orange line steps down onto the face and widens slightly under the lamps; blue band below; blue skirt below a dark gap.",
+   "reading2": "Yellow cab end separated from the silver bodyside by a black bowed seam; top orange line curves down at the corner where the windscreen starts; lower orange line widens beneath the headlight; blue band, black gap, blue skirt."
+  },
+  {
+   "id": "f-number-224",
+   "ref": "p224",
+   "box": [
+    3200,
+    1670,
+    3480,
+    1760
+   ],
+   "feature": "unit number on the face",
+   "reading": "'378 224' in dark blue (indigo) sans-serif, wider gap between 378 and 224; digit height ~0.12 m.",
+   "reading2": "Dark blue/indigo '378 224', sans-serif, wider gap between 378 and 224."
+  },
+  {
+   "id": "f-spot-224",
+   "ref": "p224",
+   "box": [
+    2640,
+    1700,
+    2800,
+    1830
+   ],
+   "feature": "round lamp above the left cluster",
+   "reading": "Round lamp: thick black ring (~10% of diameter) round a grey disc with a small hatched lens upper-left and flat grey panels (lamp plus sensor/camera). Only on the left (as seen) side.",
+   "reading2": "Circular unit, thick black ring ~10% of diameter, grey disc with a small hatched lens upper-left and flat grey panels: a lamp plus sensor/panel."
+  },
+  {
+   "id": "s-doors-open-224",
+   "ref": "p224",
+   "box": [
+    1500,
+    900,
+    2350,
+    2150
+   ],
+   "feature": "passenger doors (open) and bodyside, original livery",
+   "reading": "Bodyside silver (reflective) with the doors OPEN: what shows is the white/cream aperture surround with an orange inner edge and grey pocket, which is what made the leaves look 'silver with orange edges'. Settled on s-door-tmd07: the leaves are solid orange.",
+   "reading2": "Doors open: cream/white aperture edges with an orange inner edge and grey panel; leaves not visible. Silver bodyside, dark window band, orange waist stripe, blue band."
+  },
+  {
+   "id": "f-face-208",
+   "ref": "p208",
+   "box": [
+    2400,
+    950,
+    3798,
+    2200
+   ],
+   "feature": "whole face, original livery, three-quarter",
+   "reading": "Original livery three-quarter: yellow everywhere above the waist except the black screens/door upper; cap orange line just above the screens, curving down at the corners; orange line then blue band at the waist; '378 208' in black/dark blue above the right cluster; round lamp above the left cluster's inboard lamp; tail lamps red, headlamps clear.",
+   "reading2": "Solid yellow upper, thin orange line above the screens dipping at the corners; screens with rounded top corners; central black door with yellow lower leaf and handle recess; orange line, thin blue band, blue skirt with coupler; round marker lamp left; red tails beside white heads; '378 208' on the right yellow."
+  },
+  {
+   "id": "s-cabend-208",
+   "ref": "p208",
+   "box": [
+    2240,
+    950,
+    2620,
+    1950
+   ],
+   "feature": "cab side: yellow wrap rear edge, cab door front",
+   "reading": "Cab side: the yellow nose module wraps back to a black seam that bows slightly (x 1.24 m at 3.14 m, 1.35 m from 2.0 m down, p208 fit); behind it the white cab door. Cantrail orange line runs straight over both and curves down onto the face at the screen corner. Waist orange line continues from the body onto the yellow, sloping down and widening towards the face. Yellow handle recess and blue round cover low on the yellow.",
+   "reading2": "Yellow right half bounded by a black curved seal bowing slightly; white bodyside left; orange cantrail line across both curving down at the windscreen; orange waist stripe straight on the white, sloping down and widening across the yellow; blue below; yellow handle recess and blue round cover lower left of the yellow."
+  },
+  {
+   "id": "s-cab-208",
+   "ref": "p208",
+   "box": [
+    2120,
+    1000,
+    2330,
+    1900
+   ],
+   "feature": "cab door and its window",
+   "reading": "Cab door: body colour (white), full-height outline in a black seam, one tall narrow window with a black frame and a horizontal mid-bar (glass 1.52-1.96 m along, ~1.79-3.04 m high, approximate); front edge is the seam against the yellow. Orange waist line and blue band run across it.",
+   "reading2": "White door leaf with black outlined edges, one tall narrow black-framed window with a mid-rail; black curved edge then yellow on the right; orange stripe and blue at the bottom."
+  },
+  {
+   "id": "s-door1-208",
+   "ref": "p208",
+   "box": [
+    1590,
+    1100,
+    1790,
+    1850
+   ],
+   "feature": "first passenger door, closed",
+   "reading": "First passenger door, closed: both leaves solid orange with a black centre seal flanked by yellow/black zigzag strips; one tall black-framed window per leaf; cream aperture surround with tumblehome at the bottom; step plate below. Settled: reader 2 called it open; the orange leaves fill the aperture, so it is closed (and s-door-tmd07 square-on agrees).",
+   "reading2": "Both leaves bright orange with black central seal and yellow/black zigzag strips, two black-framed windows; cream frame curving in at the bottom; step plate. (Reader called it open; it is closed: the leaves are visible.)"
+  },
+  {
+   "id": "s-first-208",
+   "ref": "p208",
+   "box": [
+    1760,
+    1100,
+    2180,
+    1800
+   ],
+   "feature": "between cab door and first door: windows",
+   "reading": "Between the cab door and door 1 (original): a white pillar then one wide window (2.62-3.86 m) and a narrow window (4.24-4.72 m) in the black band, band runs from behind the cab door (2.2 m)."
+  },
+  {
+   "id": "s-windows-208",
+   "ref": "p208",
+   "box": [
+    1100,
+    1150,
+    1620,
+    1650
+   ],
+   "feature": "saloon window row",
+   "reading": "Saloon row between doors: narrow window, three wide windows, narrow window, black band continuous, windows with small corner radii (~0.04 m) and a top hopper bar."
+  },
+  {
+   "id": "s-carend-208",
+   "ref": "p208",
+   "box": [
+    840,
+    1150,
+    1000,
+    1850
+   ],
+   "feature": "car end of DMOS: livery at the gangway end",
+   "reading": "DMOS rear end: black band ends ~0.2 m before the car end; white above/below; orange waist line and blue band run to the end; vertical end seam; vehicle number '38008' in black under the last window.",
+   "reading2": "White upper with orange cantrail line, black-framed window with horizontal bar, vertical car-end seam, number '38008'-like, orange stripe and blue band, bogie below."
+  },
+  {
+   "id": "s-roof-208",
+   "ref": "p208",
+   "box": [
+    900,
+    950,
+    2600,
+    1280
+   ],
+   "feature": "roof line, cantrail orange line",
+   "reading": "Roof light grey; a thin orange cantrail line along the top of the bodyside, straight; roof equipment pods; no pantograph on the DMOS."
+  },
+  {
+   "id": "s-bogie-208",
+   "ref": "p208",
+   "box": [
+    1800,
+    1780,
+    2500,
+    2230
+   ],
+   "feature": "leading bogie of the DMOS",
+   "reading": "Leading bogie of the DMOS (powered, inboard frame-like Electrostar bogie) with the blue skirt and the round blue cover above; wheels mostly hidden in shadow."
+  },
+  {
+   "id": "s-door-tmd07",
+   "ref": "tmd07",
+   "box": [
+    900,
+    100,
+    2900,
+    2000
+   ],
+   "feature": "closed bodyside door, square-on",
+   "reading": "Closed door pair square-on (depot, 2026): BOTH LEAVES SOLID ORANGE, black centre seal with yellow/black zigzag strips, a tall black-framed window per leaf, cream surround tapering inwards to the top (tumblehome), white header above. Settles the door colour: orange leaves, not silver.",
+   "reading2": "Both leaves bright orange, black central seal with yellow/black zigzag strips and caution stickers, tall black-bordered window per leaf, cream frame tapering inward to the top, white header, orange stripe at ~73% height then blue beside."
+  },
+  {
+   "id": "s-door1-228",
+   "ref": "p228",
+   "box": [
+    700,
+    450,
+    810,
+    730
+   ],
+   "feature": "first passenger door, closed, refreshed livery",
+   "reading": "Refreshed livery door: same solid orange leaves with zigzag centre strips; surround cream; bodyside black above the window bottoms.",
+   "reading2": "Orange leaves with black zigzag centre seam and two black window panes; tan/grey frame curving at the bottom; body black above the window bottoms, cream below, orange stripe, blue."
+  },
+  {
+   "id": "s-cabend-228",
+   "ref": "p228",
+   "box": [
+    895,
+    430,
+    1110,
+    760
+   ],
+   "feature": "cab side and front corner, refreshed: wedge, black upper, white line",
+   "reading": "Refreshed cab corner: orange stripe from the cantrail line turns down the front corner as a vertical stripe, sweeps forward and widens at the bottom into the face's orange band under the lamps; thin white line below it; black pillar and cab window ahead of it; white below the window band on the side; number '378 228' white italic in the blue band on the cab side.",
+   "reading2": "Orange roof line bending down into a vertical stripe at the corner, broadening at the bottom into the orange under the lamps; wide black pillar; yellow below the window; white bodyside behind; orange, thin white, blue at the bottom; '378 228' white italic in the blue."
+  },
+  {
+   "id": "s-side-228",
+   "ref": "p228",
+   "box": [
+    420,
+    430,
+    900,
+    760
+   ],
+   "feature": "bodyside refreshed: black upper, white lower, orange line, blue",
+   "reading": "Refreshed bodyside: black from the cantrail line down to the window bottoms (windows framed grey in it), cream/white below, orange waist line, blue skirt; doors orange; roundel on the white.",
+   "reading2": "Black upper body (window band) from the roof line down to the window bottoms; cream/white below; straight orange line; royal-blue band; orange doors with zigzag seams; roundel on the white."
+  },
+  {
+   "id": "f-face-228",
+   "ref": "p228",
+   "box": [
+    960,
+    380,
+    1360,
+    880
+   ],
+   "feature": "face, refreshed, three-quarter",
+   "reading": "Refreshed face three-quarter: black cap and pillars, yellow only below the screens, orange band and white line under the yellow, blue below."
+  },
+  {
+   "id": "f-face-231",
+   "ref": "p231",
+   "box": [
+    2150,
+    650,
+    3200,
+    2200
+   ],
+   "feature": "face, refreshed, near head-on",
+   "reading": "Refreshed, near head-on (June 2026): black/navy dome and cap; orange line over the screens turning down both corners; yellow lower face; orange band, white line at the sides, blue band, blue skirt; no number on the face.",
+   "reading2": "Dark navy upper cab with lamp housing; orange line over the screens turning down the left corner as a vertical stripe; yellow lower face; thick orange stripe, white line at the sides, blue band, bulbous blue skirt; black door, yellow lower leaf; round marker lamp left; no number seen."
+  },
+  {
+   "id": "s-cab-231",
+   "ref": "p231",
+   "box": [
+    1950,
+    850,
+    2350,
+    1750
+   ],
+   "feature": "cab corner from the side, refreshed: orange wedge, black cab side",
+   "reading": "Refreshed cab corner from the side: orange stripe vertical down the corner from the cantrail, curving forward and widening from about window-bottom height into the lower face; black cab door upper and silver lower; white bar beside the stripe.",
+   "reading2": "Orange vertical stripe just behind the cab window frame, vertical to ~53% height then curving forward and widening into the lower orange; yellow below the window ahead of it; silver body behind with a white bar; black door upper; white '378 2..' on the blue."
+  },
+  {
+   "id": "f-top-207",
+   "ref": "p207",
+   "box": [
+    1400,
+    700,
+    2600,
+    1000
+   ],
+   "feature": "refreshed: navy dome and cap, orange line over the screens",
+   "reading": "Refreshed: glossy dark (charcoal/navy) dome and cap; D-shaped marker lamp; thin orange line over the screens turning sharply down at each corner.",
+   "reading2": "Glossy dark charcoal/black dome with silver highlight; D-shaped lamp panel; thin orange stripe rising gently, horizontal across the centre, kinking sharply down at the corners; small white segment at the kink."
+  },
+  {
+   "id": "f-lamps-l-207",
+   "ref": "p207",
+   "box": [
+    1400,
+    1600,
+    1690,
+    1850
+   ],
+   "feature": "left lamp cluster, refreshed",
+   "reading": "Refreshed left cluster: same bezel, headlamp outboard and higher (lit), LED lamp inboard; round lamp above inboard; yellow ends at an orange band sweeping up the corner, white then blue below.",
+   "reading2": "Outboard lens large and lit, higher; inboard smaller, grey, lower. Small round black-ringed lamp above and inboard. Orange band runs diagonally down along the housing's lower edge and sweeps up the left corner; white then blue below."
+  },
+  {
+   "id": "f-lamps-r-207",
+   "ref": "p207",
+   "box": [
+    2120,
+    1620,
+    2480,
+    1900
+   ],
+   "feature": "right lamp cluster, refreshed",
+   "reading": "Refreshed right cluster: headlamp outboard/higher, LED inboard/lower (lit white-violet); orange band curving up the right corner, white widening outwards, blue.",
+   "reading2": "Outboard (right) large clear lens, higher; inboard LED cluster lit, lower. Orange band along the bottom curving up the right side; white band widening to the right; blue."
+  },
+  {
+   "id": "f-lower-207",
+   "ref": "p207",
+   "box": [
+    1380,
+    1700,
+    2600,
+    1990
+   ],
+   "feature": "refreshed lower face: orange band, white line, blue",
+   "reading": "Refreshed lower face: orange band ~0.12 m deep at the centre (thicker than the original's ~0.06 m), curving up at both corners; a white strip under it that tapers to nothing towards the centre; blue band; blue skirt panels.",
+   "reading2": "Yellow, orange (straight across the centre, ~18% of crop height, curving up at both ends), white only at the sides tapering to a point towards the centre, blue band, blue skirt blocks; two seal lines; faint white italic '378..' in the blue at right."
+  },
+  {
+   "id": "s-corner-207",
+   "ref": "p207",
+   "box": [
+    2380,
+    900,
+    2700,
+    1950
+   ],
+   "feature": "refreshed right corner: orange wedge",
+   "reading": "Refreshed right corner: orange stripe on the front corner, vertical to about window-bottom height then sweeping forward and widening into the lower orange band; white bodyside behind it; black window pillar above.",
+   "reading2": "Bold orange stripe vertical down to about half height, then sweeping in a curve to the lower left (toward the face), widening, merging into the bottom orange; yellow front panel under the window ahead of it; white bodyside behind it; thin orange then white then blue at the bottom."
+  },
+  {
+   "id": "s-side-204",
+   "ref": "p204",
+   "box": [
+    400,
+    1000,
+    2300,
+    1700
+   ],
+   "feature": "DMOS and car 2 side, long view",
+   "reading": "Long view of 378204 (original, Nov 2025): door positions on DMOS and car 2 used for the 1D fit; both doors per car; cab yellow wrap visible."
+  },
+  {
+   "id": "s-nose-side",
+   "ref": "pside",
+   "box": [
+    100,
+    450,
+    700,
+    1450
+   ],
+   "feature": "nose and cab end from the side (2009)",
+   "reading": "2009 side view of the nose: upright face, rounded dome, the yellow wrap ending at the seam before the cab door."
+  },
+  {
+   "id": "s-doors-side",
+   "ref": "pside",
+   "box": [
+    300,
+    500,
+    1500,
+    1250
+   ],
+   "feature": "cab door and both passenger doors (2009)",
+   "reading": "2009 side view: cab door just behind the yellow seam, door 1 and door 2 with orange leaves; used for the 1D fit (leaves 1.5 m)."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    1760,
+    369
+   ],
+   "feature": "diagram cab car",
+   "reading": "Unisouth 378 diagram, cab car. Door columns 442-585/1198-1341 px and windows identical to the 377 drawing (442-586/1198-1341): a pixel copy, NOT independent evidence for door/window positions."
+  },
+  {
+   "id": "d-car2",
+   "ref": "dia",
+   "box": [
+    1700,
+    0,
+    3460,
+    369
+   ],
+   "feature": "diagram car 2",
+   "reading": "Diagram car 2: doors 2132-2275/2888-3031 px, identical to the 377 drawing's car 2; not used for positions."
+  },
+  {
+   "id": "f-top-228",
+   "ref": "p228",
+   "box": [
+    1000,
+    390,
+    1180,
+    470
+   ],
+   "feature": "refreshed cab top colour vs the bodyside black",
+   "reading": "Settled on f-top-228 + samples navy-228/black-228 (same photo, same light): the cab top is darker and blue-tinted (#15171F raw, balanced #181B28) against the warm black of the upper bodyside (#2C2726 raw); so a very dark navy, not the body black. Readers had 'navy' (f-face-231) vs 'charcoal/black' (f-top-207, glossy reflection of grey sky).",
+   "reading2": "(see f-top-207 / f-face-231 reader 2: 'dark charcoal/black' vs 'dark navy blue')"
+  },
+  {
+   "id": "logo-ro-208",
+   "ref": "p208",
+   "box": [
+    1240,
+    1470,
+    1360,
+    1610
+   ],
+   "feature": "Overground roundel, cab car right side",
+   "reading": "London Overground roundel: an orange ring (open centre showing the bodyside white) with a dark blue bar across its middle carrying 'OVERGROUND' in white capitals; the bar overhangs the ring a little each side. Sits in the white panel between the window band and the orange waist line, about midway between doors 1 and 2."
+  },
+  {
+   "id": "logo-ro-230",
+   "ref": "p230",
+   "box": [
+    1750,
+    670,
+    1840,
+    770
+   ],
+   "feature": "Overground roundel, cab car right side",
+   "reading": "Same roundel, same place: orange ring, blue bar with white OVERGROUND, the ring's top just under the window band and its bottom a little above the orange waist line."
+  },
+  {
+   "id": "logo-ro-l-210",
+   "ref": "p210l",
+   "box": [
+    1440,
+    1350,
+    1550,
+    1490
+   ],
+   "feature": "Overground roundel, cab car LEFT side",
+   "reading": "Same roundel on the left side, heavily foreshortened: orange ring, dark blue bar, text reads normally left to right (not mirrored). Between doors 1 and 2, in the same white panel."
+  },
+  {
+   "id": "logo-ro-next-210",
+   "ref": "p210l",
+   "box": [
+    2290,
+    1350,
+    2370,
+    1470
+   ],
+   "feature": "Overground roundel, next car LEFT side",
+   "reading": "Roundel on the next (second) car's left side, between its two doors, same height as on the cab car."
+  },
+  {
+   "id": "logo-ro-next-230",
+   "ref": "p230",
+   "box": [
+    790,
+    650,
+    860,
+    730
+   ],
+   "feature": "Overground roundel, next car right side",
+   "reading": "Roundel on the next car's right side between its two doors, same height; small (12 px wide) in strong perspective."
+  },
+  {
+   "id": "logo-face-224",
+   "ref": "p224",
+   "box": [
+    2250,
+    1050,
+    3750,
+    2350
+   ],
+   "feature": "cab face, original livery",
+   "reading": "No logo or wordmark on the face: the unit number on the yellow (right of the door as seen) is the only marking besides warning stickers."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-208",
+   "ref": "p208",
+   "box": [
+    1880,
+    1580,
+    1960,
+    1640
+   ],
+   "what": "bodyside white/silver below the window band (cab car, original)",
+   "neutralIs": 225
+  },
+  {
+   "id": "door-208",
+   "ref": "p208",
+   "box": [
+    1715,
+    1540,
+    1740,
+    1640
+   ],
+   "what": "door leaf orange (original)",
+   "neutral": "white-208"
+  },
+  {
+   "id": "blue-208",
+   "ref": "p208",
+   "box": [
+    1900,
+    1725,
+    1990,
+    1765
+   ],
+   "what": "blue skirt band, bodyside",
+   "neutral": "white-208"
+  },
+  {
+   "id": "band-208",
+   "ref": "p208",
+   "box": [
+    1860,
+    1300,
+    1886,
+    1440
+   ],
+   "what": "black window band between windows",
+   "neutral": "white-208"
+  },
+  {
+   "id": "roof-208",
+   "ref": "p208",
+   "box": [
+    1400,
+    1080,
+    1600,
+    1120
+   ],
+   "what": "roof grey above the cantrail line",
+   "neutral": "white-208"
+  },
+  {
+   "id": "yellow-208",
+   "ref": "p208",
+   "box": [
+    2900,
+    1620,
+    2990,
+    1800
+   ],
+   "what": "face yellow (door lower half); no neutral on the face plane"
+  },
+  {
+   "id": "yellowside-208",
+   "ref": "p208",
+   "box": [
+    2330,
+    1250,
+    2440,
+    1500
+   ],
+   "what": "yellow wrap on the cab side (same plane as white-208)",
+   "neutral": "white-208"
+  },
+  {
+   "id": "white-tmd07",
+   "ref": "tmd07",
+   "box": [
+    100,
+    1100,
+    600,
+    1300
+   ],
+   "what": "bodyside white under the band, depot light"
+  },
+  {
+   "id": "door-tmd07",
+   "ref": "tmd07",
+   "box": [
+    1150,
+    1300,
+    1500,
+    1600
+   ],
+   "what": "door leaf orange, depot light",
+   "neutral": "white-tmd07"
+  },
+  {
+   "id": "blue-tmd07",
+   "ref": "tmd07",
+   "box": [
+    100,
+    1600,
+    700,
+    1850
+   ],
+   "what": "blue skirt band, depot light",
+   "neutral": "white-tmd07"
+  },
+  {
+   "id": "white-228",
+   "ref": "p228",
+   "box": [
+    505,
+    642,
+    550,
+    660
+   ],
+   "what": "refreshed bodyside white below the black upper body",
+   "neutralIs": 235
+  },
+  {
+   "id": "black-228",
+   "ref": "p228",
+   "box": [
+    560,
+    500,
+    600,
+    520
+   ],
+   "what": "refreshed black upper body (between windows)",
+   "neutral": "white-228"
+  },
+  {
+   "id": "door-228",
+   "ref": "p228",
+   "box": [
+    744,
+    570,
+    756,
+    630
+   ],
+   "what": "refreshed door leaf orange",
+   "neutral": "white-228"
+  },
+  {
+   "id": "blue-228",
+   "ref": "p228",
+   "box": [
+    565,
+    668,
+    635,
+    688
+   ],
+   "what": "refreshed blue skirt band",
+   "neutral": "white-228"
+  },
+  {
+   "id": "wedge-228",
+   "ref": "p228",
+   "box": [
+    1003,
+    570,
+    1015,
+    630
+   ],
+   "what": "refreshed orange wedge on the front corner",
+   "neutral": "white-228"
+  },
+  {
+   "id": "navy-207",
+   "ref": "p207",
+   "box": [
+    1560,
+    850,
+    1740,
+    900
+   ],
+   "what": "refreshed navy cap above the screens (gloss, reflections); no neutral on the face"
+  },
+  {
+   "id": "yellow-207",
+   "ref": "p207",
+   "box": [
+    1880,
+    1650,
+    1960,
+    1800
+   ],
+   "what": "refreshed face yellow, door lower half"
+  },
+  {
+   "id": "orange-207",
+   "ref": "p207",
+   "box": [
+    1880,
+    1858,
+    1980,
+    1895
+   ],
+   "what": "refreshed face orange band at the centre"
+  },
+  {
+   "id": "yellow-224",
+   "ref": "p224",
+   "box": [
+    2880,
+    1750,
+    2990,
+    1900
+   ],
+   "what": "original face yellow, door lower half, sun"
+  },
+  {
+   "id": "orange-224",
+   "ref": "p224",
+   "box": [
+    2900,
+    1978,
+    2990,
+    1992
+   ],
+   "what": "original face orange line at the centre"
+  },
+  {
+   "id": "blue-224",
+   "ref": "p224",
+   "box": [
+    2900,
+    2001,
+    2990,
+    2022
+   ],
+   "what": "original face blue band at the centre"
+  },
+  {
+   "id": "navy-228",
+   "ref": "p228",
+   "box": [
+    1040,
+    430,
+    1080,
+    445
+   ],
+   "what": "refreshed cab top (dome above the cap line), same photo and light as white-228",
+   "neutral": "white-228"
+  },
+  {
+   "id": "white-r208",
+   "ref": "p208",
+   "box": [
+    1240,
+    1505,
+    1268,
+    1528
+   ],
+   "what": "bodyside white just left of the roundel (same panel, same light)"
+  },
+  {
+   "id": "ring-208",
+   "ref": "p208",
+   "box": [
+    1294,
+    1503,
+    1302,
+    1510
+   ],
+   "what": "roundel ring orange, top of the ring",
+   "neutral": "white-r208"
+  },
+  {
+   "id": "bar-208",
+   "ref": "p208",
+   "box": [
+    1294,
+    1533,
+    1308,
+    1536
+   ],
+   "what": "roundel bar blue, top edge band above the text",
+   "neutral": "white-r208"
+  },
+  {
+   "id": "white-r230",
+   "ref": "p230",
+   "box": [
+    1820,
+    700,
+    1850,
+    725
+   ],
+   "what": "bodyside white right of the roundel (same panel)"
+  },
+  {
+   "id": "ring-230",
+   "ref": "p230",
+   "box": [
+    1786,
+    694,
+    1794,
+    700
+   ],
+   "what": "roundel ring orange, top of the ring",
+   "neutral": "white-r230"
+  },
+  {
+   "id": "bar-230",
+   "ref": "p230",
+   "box": [
+    1782,
+    730,
+    1800,
+    733
+   ],
+   "what": "roundel bar blue, bottom band under the text",
+   "neutral": "white-r230"
+  }
+ ]
+}

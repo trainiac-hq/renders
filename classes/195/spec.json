@@ -1,0 +1,561 @@
+{
+ "class": "195",
+ "subject": "Class 195 Civity DMU, Northern, 2024",
+ "method": "Body, nose and livery from the Northern Civity diagram (one template for 195/0 and 331/0), face from 331003; every number's source in `trace`.",
+ "calibration": {
+  "ref": "dia",
+  "pxPerM": 34.3,
+  "pxPerMVertical": 32.2,
+  "railY": 186.5,
+  "faceX": 0,
+  "notes": "dia Northern 331/0 (188 px tall; the 195/0's rows are the same 60 px higher): car 1 0-824 px = 24.026 m (published DM, 34.3 px/m), car 2 842-1644 = 23.35 m; vertical 32.2 px/m from the rail at row 186.5 (roof row 62 at 3.87 m)"
+ },
+ "model": {
+  "heights": {
+   "bottom": 1.04,
+   "cantrail": 3.59,
+   "roof": 3.85,
+   "window": [
+    1.85,
+    2.83
+   ]
+  },
+  "wheel": 0.78,
+  "wheelbase": 2.25,
+  "windowRadius": 0.12,
+  "cab": {
+   "length": 24.026,
+   "doors": [
+    {
+     "x": 1.997,
+     "w": 0.787,
+     "cab": true,
+     "window": [
+      2.3,
+      2.85
+     ],
+     "panes": [
+      -0.1,
+      0.1
+     ],
+     "span": [
+      1.06,
+      3.2
+     ]
+    },
+    {
+     "x": 7.625,
+     "w": 1.545,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    },
+    {
+     "x": 17.043,
+     "w": 1.545,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    }
+   ],
+   "windows": [
+    [
+     3.178,
+     4.49
+    ],
+    [
+     5.015,
+     6.327
+    ],
+    [
+     8.922,
+     10.234
+    ],
+    [
+     10.759,
+     12.071
+    ],
+    [
+     12.596,
+     13.908
+    ],
+    [
+     14.433,
+     15.745
+    ],
+    [
+     18.34,
+     19.652
+    ],
+    [
+     20.177,
+     21.489
+    ],
+    [
+     22.014,
+     22.918
+    ]
+   ],
+   "bogies": [
+    4.126,
+    20.542
+   ],
+   "roof": [
+    {
+     "kind": "pod",
+     "x": 2.6,
+     "w": 4.0
+    },
+    {
+     "kind": "pod",
+     "x": 12.3,
+     "w": 3.2
+    }
+   ],
+   "under": [
+    [
+     6.4,
+     15.6
+    ]
+   ]
+  },
+  "next": {
+   "length": 23.35,
+   "doors": [
+    {
+     "x": 6.973,
+     "w": 1.544,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    },
+    {
+     "x": 16.377,
+     "w": 1.544,
+     "leaves": 2,
+     "panes": [
+      0.2,
+      0.55
+     ],
+     "window": [
+      1.9,
+      2.75
+     ],
+     "span": [
+      1.06,
+      3.12
+     ],
+     "paneRadius": 0.12
+    }
+   ],
+   "windows": [
+    [
+     0.699,
+     2.009
+    ],
+    [
+     2.533,
+     3.843
+    ],
+    [
+     4.367,
+     5.677
+    ],
+    [
+     8.269,
+     9.579
+    ],
+    [
+     10.103,
+     11.413
+    ],
+    [
+     11.937,
+     13.247
+    ],
+    [
+     13.771,
+     15.081
+    ],
+    [
+     17.673,
+     18.983
+    ],
+    [
+     19.507,
+     20.817
+    ],
+    [
+     21.341,
+     22.651
+    ]
+   ],
+   "bogies": [
+    3.479,
+    19.871
+   ],
+   "roof": [
+    {
+     "kind": "pantograph",
+     "x": 3.3
+    },
+    {
+     "kind": "pod",
+     "x": 11.5,
+     "w": 3.2
+    }
+   ],
+   "under": [
+    [
+     6.5,
+     15.5
+    ]
+   ]
+  },
+  "nose": {
+   "profile": [
+    [
+     0.99,
+     0.3,
+     1
+    ],
+    [
+     0.0,
+     0.62,
+     1
+    ],
+    [
+     0.0,
+     1.13,
+     1
+    ],
+    [
+     0.06,
+     1.26
+    ],
+    [
+     0.09,
+     1.44
+    ],
+    [
+     0.15,
+     1.75
+    ],
+    [
+     0.23,
+     2.07
+    ],
+    [
+     0.35,
+     2.38
+    ],
+    [
+     0.47,
+     2.69
+    ],
+    [
+     0.61,
+     3.0
+    ],
+    [
+     0.82,
+     3.31
+    ],
+    [
+     1.11,
+     3.62
+    ],
+    [
+     1.4,
+     3.82
+    ],
+    [
+     1.6,
+     3.87,
+     1
+    ]
+   ]
+  },
+  "form": {
+   "width": 2.712,
+   "tumblehome": 0.1,
+   "setback": [
+    [
+     0,
+     0.35
+    ]
+   ],
+   "squareness": 4,
+   "glazing": "bonded"
+  },
+  "face": {
+   "halfWidth": 1.356,
+   "mask": [
+    [
+     0,
+     3.5
+    ],
+    [
+     0.9,
+     3.5
+    ],
+    [
+     1.12,
+     3.4
+    ],
+    [
+     1.2,
+     3.0
+    ],
+    [
+     1.12,
+     2.3
+    ],
+    [
+     1.04,
+     2.0
+    ],
+    [
+     0.9,
+     1.94,
+     1
+    ],
+    [
+     0,
+     1.94,
+     1
+    ]
+   ],
+   "darkCentre": [
+    {
+     "half": 1.45,
+     "lo": 0.4,
+     "hi": 1.12,
+     "r": 0
+    }
+   ],
+   "screen": {
+    "half": 0.98,
+    "halfTop": 1.08,
+    "lo": 2.02,
+    "hi": 3.42,
+    "r": [
+     0.08,
+     0.2,
+     0.2,
+     0.08
+    ]
+   },
+   "pods": [
+    {
+     "inner": 0.87,
+     "outer": 1.32,
+     "lo": 1.28,
+     "hi": 1.75,
+     "r": [
+      0.06,
+      0.15,
+      0.06,
+      0.06
+     ]
+    }
+   ],
+   "lampRim": "black",
+   "shapes": [
+    {
+     "half": true,
+     "color": "#8C9096",
+     "pts": [
+      [
+       0,
+       1.13
+      ],
+      [
+       1.36,
+       1.13
+      ],
+      [
+       1.36,
+       1.27
+      ],
+      [
+       0,
+       1.27
+      ]
+     ]
+    },
+    {
+     "color": "#7E8288",
+     "pts": [
+      [
+       0.66,
+       0.45,
+       1
+      ],
+      [
+       0.66,
+       1.1,
+       1
+      ],
+      [
+       1.32,
+       1.1,
+       1
+      ],
+      [
+       1.32,
+       0.45,
+       1
+      ]
+     ]
+    },
+    {
+     "color": "#7E8288",
+     "pts": [
+      [
+       -1.32,
+       0.45,
+       1
+      ],
+      [
+       -1.32,
+       1.1,
+       1
+      ],
+      [
+       -0.66,
+       1.1,
+       1
+      ],
+      [
+       -0.66,
+       0.45,
+       1
+      ]
+     ]
+    }
+   ],
+   "number": {
+    "text": "195 023",
+    "m": 0.57,
+    "y": 1.8,
+    "height": 0.12,
+    "color": "#1A1A1A"
+   },
+   "wipers": [
+    {
+     "pivot": [
+      -0.55,
+      2.05
+     ],
+     "tip": [
+      -0.95,
+      3.1
+     ]
+    }
+   ]
+  },
+  "livery": {
+   "white": "#F1F2F3",
+   "blue": "#1E2C7C",
+   "yellow": "#F2B819",
+   "roof": "#3C3E42",
+   "band": "#1C1E24",
+   "under": "#1C1E22",
+   "cabBlue": [
+    [
+     6.73,
+     3.59
+    ],
+    [
+     6.65,
+     3.21
+    ],
+    [
+     6.53,
+     2.84
+    ],
+    [
+     6.44,
+     2.66
+    ],
+    [
+     6.2,
+     2.2
+    ],
+    [
+     5.6,
+     1.72
+    ],
+    [
+     5.31,
+     1.54
+    ],
+    [
+     4.93,
+     1.35
+    ],
+    [
+     4.37,
+     1.16
+    ]
+   ],
+   "branding": [
+    {
+     "logo": "NT",
+     "at": [
+      12.43,
+      1.4
+     ],
+     "height": 0.6
+    }
+   ]
+  }
+ },
+ "trace": {
+  "calibration": "dia Northern 331/0 (188 px tall; the 195/0's rows are the same 60 px higher): car 1 0-824 px = 24.026 m (published DM, 34.3 px/m), car 2 842-1644 = 23.35 m; vertical 32.2 px/m from the rail at row 186.5 (roof row 62 at 3.87 m)",
+  "heights": "dia col 700: window glass rows 95-126 -> 1.85-2.83 m; body's foot row 153 -> 1.04 m; roof cap rows 63-71 -> cantrail 3.59",
+  "cab.doors": "dia row 110: cab door 55-82 px (its window 63-76); doors 235-288, 558-611 (blue #15247C)",
+  "cab.windows": "dia row 110 glass runs 109-154 ... 755-786 px",
+  "cab.bogies": "dia wheel row 172: wheels 95-116/167-188, 658-679/730-751 px",
+  "next": "dia from 842: windows 866-911 ... 1575-1620, doors 1055-1108, 1378-1431, wheels 915-936/987-1008, 1478-1499/1550-1571",
+  "nose.profile": "dia leftmost pixel per row (rows 60-177): the face raked back from 0 at the bumper (1.13 m) to 1.11 m at 3.62, the grey ledge at 1.13-1.27 m, the chin back to 0.99 m at 0.30",
+  "face": "331003 three-quarter (Leeds, 1280 px), scaled across by the face's width at the lamps (317 px for 2.712 m: 117 px/m), up from the ledge (1.13 m): the whole face yellow; a black frame round one trapezoid screen (+-0.98 m at its foot 2.02 m, +-1.08 at 3.42); lamp pods at the lower corners 0.87-1.32 m out, 1.28-1.75; the grey ledge 1.13-1.27; dark below with grey skirt boxes 0.66-1.32 m out; number on the yellow at the right, 0.12 m tall at 1.80 m. A three-quarter view: the widths and heights read to about 5 cm",
+  "livery": "dia: white, blue cab end back to a curved edge (6.73 m at 3.59, 6.44 at 2.66, 5.60 at 1.72, 4.37 at 1.16: blue's last pixel per row), blue doors; colours the diagram's toned to the photos by eye",
+  "livery.branding": "NT (the Northern logo, navy, on the white) between door 1 and door 2, low on the side: 195023 (Leeds) read along by a projective fit through eight door and window edges (residuals to 25 cm), 11.18-13.69 m; up its side from door 2's top and foot (3.12/1.06 m, 71 px/m) 1.04-1.60 m; the width (2.5 m at the artwork's 3.37 aspect: 0.75 m tall) and the height disagree, so 0.60 m tall centred 1.40 m. The orange and blue 'n' roundels on the cab end not drawn"
+ },
+ "views": {}
+}

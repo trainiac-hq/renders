@@ -1,0 +1,200 @@
+[
+ {
+  "check": "corners",
+  "name": "every outline",
+  "ok": true,
+  "detail": "172 outlines, 16449 points, none turning more than 20° at a point"
+ },
+ {
+  "check": "smooth edges",
+  "name": "every paint edge",
+  "ok": true,
+  "detail": "8 paint edges faired; the worst wobble 0.77 mm (limit 0.8), warning panel at (0.29, 0.50)"
+ },
+ {
+  "check": "bodyside",
+  "name": "doors and windows on the flat side",
+  "ok": true,
+  "detail": "25 features, all clear of the nose's corner and the car ends"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 100.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "containment",
+  "name": "door window in its door",
+  "ok": true,
+  "detail": "closest 90.0 mm to its parent's edge (margin 40 mm)"
+ },
+ {
+  "check": "front features",
+  "name": "nothing set into the front overlaps",
+  "ok": true,
+  "detail": "4 features, at least 10 mm apart"
+ },
+ {
+  "check": "on the body",
+  "name": "panel",
+  "ok": true,
+  "detail": "spans 0.518 to 1.990 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "on the body",
+  "name": "paint:under",
+  "ok": true,
+  "detail": "spans 0.451 to 0.533 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 3.420 to 3.560 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 2.569 to 3.275 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "on the body",
+  "name": "dark",
+  "ok": true,
+  "detail": "spans 2.569 to 3.275 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "front lines",
+  "name": "joints run to the paint's edge or stop clear of it",
+  "ok": true,
+  "detail": "2 joints: every end on the paint's edge, on another joint, or clear of the edge"
+ },
+ {
+  "check": "line continuity",
+  "name": "cantrail line at the nose",
+  "ok": true,
+  "detail": "meets the bodyside line 0.00 mm off its centre, width 48 mm both sides, slope 0.03 at the seam"
+ },
+ {
+  "check": "line continuity",
+  "name": "cantrail line at the nose",
+  "ok": true,
+  "detail": "meets the bodyside line 0.00 mm off its centre, width 48 mm both sides, slope 0.03 at the seam"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.000 to 3.330 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "containment",
+  "name": "screen in its panel",
+  "ok": true,
+  "detail": "closest 35.3 mm to its parent's edge (margin 20 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 3.459 to 3.521 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "containment",
+  "name": "cab window",
+  "ok": true,
+  "detail": "closest 20.9 mm to its parent's edge (margin 10 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.788 to 3.135 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "containment",
+  "name": "cab window",
+  "ok": true,
+  "detail": "closest 20.9 mm to its parent's edge (margin 10 mm)"
+ },
+ {
+  "check": "on the body",
+  "name": "glass",
+  "ok": true,
+  "detail": "spans 2.788 to 3.135 m up; the nose runs 0.440 to 3.600"
+ },
+ {
+  "check": "slivers",
+  "name": "panel left showing",
+  "ok": true,
+  "detail": "0 thin tips where edges cross, the longest 0 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "paint:under left showing",
+  "ok": true,
+  "detail": "2 thin tips where edges cross, the longest 8 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "2 thin tips where edges cross, the longest 14 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "3 thin tips where edges cross, the longest 13 mm (limit 50)"
+ },
+ {
+  "check": "slivers",
+  "name": "dark left showing",
+  "ok": true,
+  "detail": "2 thin tips where edges cross, the longest 13 mm (limit 50)"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layer lifts",
+  "ok": true,
+  "detail": "layers between 0.6 and 2.7 mm"
+ },
+ {
+  "check": "surface",
+  "name": "decal vertices laid on the shell",
+  "ok": true,
+  "detail": "0 of 264695 found no shell under them"
+ },
+ {
+  "check": "surface",
+  "name": "decal clearance",
+  "ok": true,
+  "detail": "0.60 to 2.40 mm off the body (allowed 0.4 to 3.1); furthest at (2.541, 0.057, 2.986), closest at (0.465, -0.54, 0.595)"
+ },
+ {
+  "check": "z-fighting",
+  "name": "decal layers",
+  "ok": true,
+  "detail": "layers at 0.60, 0.90, 1.20, 1.80, 2.10, 2.40 mm"
+ },
+ {
+  "check": "gaps",
+  "name": "body colour showing between regions",
+  "ok": true,
+  "detail": "0 pixels in the ID pass at 1800x1400"
+ }
+]

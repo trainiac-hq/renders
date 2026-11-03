@@ -1,0 +1,82 @@
+{
+ "yellow-105": {
+  "ref": "p105",
+  "box": [
+   900,
+   500,
+   940,
+   520
+  ],
+  "what": "face yellow (overcast, raw)",
+  "median": "#C5A911",
+  "iqr": [
+   3,
+   2,
+   2
+  ]
+ },
+ "purple-105": {
+  "ref": "p105",
+  "box": [
+   1226,
+   470,
+   1236,
+   520
+  ],
+  "what": "purple at the corner (raw)",
+  "median": "#361922",
+  "iqr": [
+   42,
+   34,
+   34
+  ]
+ },
+ "dome-105": {
+  "ref": "p105",
+  "box": [
+   950,
+   130,
+   1030,
+   150
+  ],
+  "what": "dome grey",
+  "median": "#59585C",
+  "iqr": [
+   22,
+   22,
+   22
+  ]
+ },
+ "yellow-115": {
+  "ref": "p115",
+  "box": [
+   1050,
+   600,
+   1100,
+   620
+  ],
+  "what": "face yellow, sunlit",
+  "median": "#FCC500",
+  "iqr": [
+   5,
+   6,
+   2
+  ]
+ },
+ "purple-115": {
+  "ref": "p115",
+  "box": [
+   905,
+   612,
+   925,
+   625
+  ],
+  "what": "purple low on the side, shaded",
+  "median": "#534545",
+  "iqr": [
+   6,
+   5,
+   5
+  ]
+ }
+}

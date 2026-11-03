@@ -1,0 +1,140 @@
+{
+ "w-white": {
+  "ref": "p002",
+  "box": [
+   2245,
+   1137,
+   2541,
+   1196
+  ],
+  "what": "white bodyside (neutral)",
+  "median": "#E1DDCD",
+  "iqr": [
+   3,
+   3,
+   7
+  ]
+ },
+ "w-navy": {
+  "ref": "p002",
+  "box": [
+   1843,
+   1329,
+   2014,
+   1363
+  ],
+  "what": "navy lower bodyside, cab car",
+  "median": "#465361",
+  "iqr": [
+   17,
+   16,
+   21
+  ],
+  "balanced": "#4B5A72",
+  "neutral": "w-white"
+ },
+ "w-door": {
+  "ref": "p002",
+  "box": [
+   1598,
+   1123,
+   1620,
+   1311
+  ],
+  "what": "first door (light)",
+  "median": "#F2F0E8",
+  "iqr": [
+   3,
+   2,
+   7
+  ],
+  "balanced": "#FFFFFF",
+  "neutral": "w-white"
+ },
+ "w-face": {
+  "ref": "p002",
+  "box": [
+   768,
+   650,
+   975,
+   1300
+  ],
+  "what": "gangway door yellow (dirty)",
+  "median": "#8A7037",
+  "iqr": [
+   35,
+   34,
+   21
+  ],
+  "balanced": "#937A40",
+  "neutral": "w-white"
+ },
+ "w-lowface": {
+  "ref": "p002",
+  "box": [
+   1123,
+   1388,
+   1359,
+   1477
+  ],
+  "what": "navy lower face",
+  "median": "#141820",
+  "iqr": [
+   19,
+   19,
+   21
+  ],
+  "balanced": "#151A25",
+  "neutral": "w-white"
+ },
+ "w-roof": {
+  "ref": "p002",
+  "box": [
+   1671,
+   540,
+   2014,
+   574
+  ],
+  "what": "roof",
+  "median": "#99ADD3",
+  "iqr": [
+   17,
+   15,
+   13
+  ],
+  "balanced": "#A3BCF7",
+  "neutral": "w-white"
+ },
+ "h-face": {
+  "ref": "p012",
+  "box": [
+   1100,
+   985,
+   1240,
+   1008
+  ],
+  "what": "face yellow under the left lamp box, head-on",
+  "median": "#DFBA43",
+  "iqr": [
+   4,
+   4,
+   6
+  ]
+ },
+ "h-skirt": {
+  "ref": "p012",
+  "box": [
+   1135,
+   1155,
+   1260,
+   1255
+  ],
+  "what": "navy skirt head-on",
+  "median": "#192942",
+  "iqr": [
+   4,
+   4,
+   5
+  ]
+ }
+}

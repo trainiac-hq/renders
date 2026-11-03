@@ -1,0 +1,1241 @@
+{
+ "class": "357",
+ "subject": "Class 357 Electrostar, c2c 2024+ magenta livery, as running in 2026",
+ "refs": {
+  "dia": {
+   "file": "refs/Class-357-c2c-Diagram.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_357_c2c_Diagram.PNG",
+   "author": "Unisouth",
+   "licence": "CC BY-SA 3.0",
+   "date": "2008-03-12",
+   "kind": "diagram",
+   "unit": "357 (4 cars)",
+   "livery": "c2c blue/magenta vinyl (2002-2011), not current",
+   "view": "side elevation, nose left, whole unit",
+   "light": "flat colours"
+  },
+  "dia2": {
+   "file": "refs/C2c-Class-357-w-pantograph.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:C2c_Class_357_w-pantograph.png",
+   "author": "WestRail642fan",
+   "licence": "CC BY-SA 4.0",
+   "date": "2019",
+   "kind": "diagram",
+   "unit": "357 (4 cars)",
+   "livery": "c2c white/dark doors",
+   "view": "side elevation, small (180 px tall)",
+   "light": "flat colours"
+  },
+  "p024": {
+   "file": "refs/357-024-at-Fenchurch-Street.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_024_at_Fenchurch_Street.jpg",
+   "author": "Three76Five43Nine72",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-14",
+   "kind": "photo",
+   "unit": "357024 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "close front three-quarter; visible bodyside = train RIGHT (looking forward from the cab), on the image left; tail lamps lit",
+   "light": "station roof, diffuse daylight"
+  },
+  "p012": {
+   "file": "refs/357-012-barking.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_012_barking.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357012 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "front three-quarter, face right; visible bodyside = train RIGHT, on the image left; long side",
+   "light": "bright sun, face lit, side in sun"
+  },
+  "p013": {
+   "file": "refs/357-013-Limehouse.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_013_Limehouse.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357013 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "front three-quarter, face left; visible bodyside = train LEFT, to the image right",
+   "light": "overcast, wet"
+  },
+  "p045": {
+   "file": "refs/357-045-Woodgrange-Park.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_045_Woodgrange_Park.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357045 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "front three-quarter, face left, straight track; visible bodyside = train LEFT",
+   "light": "sun"
+  },
+  "p033": {
+   "file": "refs/357033-Seen-waiting-to-depart-Stratford-in-London.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357033_Seen_waiting_to_depart_Stratford_in_London.jpg",
+   "author": "Robert Cutter",
+   "licence": "CC BY-SA 4.0",
+   "date": "2026-02-23",
+   "kind": "photo",
+   "unit": "357033 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "near head-on, telephoto",
+   "light": "station, heavily processed (tilt-shift blur, HDR): geometry only"
+  },
+  "p001": {
+   "file": "refs/357001-Limehouse-viaduct.png",
+   "commons": "https://commons.wikimedia.org/wiki/File:357001_Limehouse_viaduct.png",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357001 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "near head-on, telephoto, slight right three-quarter",
+   "light": "overcast"
+  },
+  "p019": {
+   "file": "refs/357-019-Shadwell.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_019_Shadwell.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357019 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "near head-on, slight three-quarter; train LEFT bodyside visible",
+   "light": "rain"
+  },
+  "p207": {
+   "file": "refs/357-207-Limehouse.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_207_Limehouse.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357207 (357/2)",
+   "livery": "CC (2024+ magenta)",
+   "view": "front three-quarter, face left; visible bodyside = train LEFT",
+   "light": "bright overcast"
+  },
+  "p042": {
+   "file": "refs/357-042-Shadwell.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:357_042_Shadwell.jpg",
+   "author": "kitmasterbloke",
+   "licence": "CC BY 4.0",
+   "date": "2026-06-17",
+   "kind": "photo",
+   "unit": "357042 (357/0)",
+   "livery": "CC (2024+ magenta)",
+   "view": "shallow three-quarter, nearly side-on, cab right; visible bodyside = train RIGHT",
+   "light": "overcast, rain"
+  },
+  "p205": {
+   "file": "refs/Class-357-Electrostar-EMU-c2c-357205.jpg",
+   "commons": "https://commons.wikimedia.org/wiki/File:Class_357_Electrostar_EMU_-_c2c_357205.jpg",
+   "author": "Samson Ng . D201@EAL",
+   "licence": "CC BY-SA 4.0",
+   "date": "2025-06-20",
+   "kind": "photo",
+   "unit": "357205 (357/2)",
+   "livery": "CC-old (white, yellow cap, dark doors)",
+   "view": "front three-quarter, face right, 1280 px",
+   "light": "sun"
+  }
+ },
+ "crops": [
+  {
+   "id": "f-lamps-l-024",
+   "ref": "p024",
+   "box": [
+    1820,
+    1680,
+    2160,
+    1990
+   ],
+   "feature": "near (left as seen head-on) lamp housing: head + marker",
+   "reading": "Left (as seen head-on) cluster, on WHITE: one body-colour figure-of-eight (peanut) bezel with a thin raised rim and four bolts; large clear headlamp lens upper-outboard, small clear lens (marker) lower-inboard, the big lens flattened where the small lobe meets it. No black bezel (the 377's is black).",
+   "reading2": "White figure-8 (peanut) bezel with a thin raised rim and four screws; large lamp upper left (dark lens, black ring), small lamp lower right, the large lens flattened where the small one bulges in. Yellow panel at the top right with a straight diagonal edge."
+  },
+  {
+   "id": "f-tail-l-024",
+   "ref": "p024",
+   "box": [
+    2150,
+    1800,
+    2320,
+    1960
+   ],
+   "feature": "near red tail lamp on the yellow edge",
+   "reading": "Separate red tail lens, slightly taller than wide, thin dark seal ring and no bezel, set on the yellow just inside its curved lower-outboard edge; white body beyond the curve. Lit.",
+   "reading2": "A single red oval lamp, taller than wide, thin dark outline ring, set in the yellow; pale grey body at the bottom left beyond a convex curved edge. No bezel."
+  },
+  {
+   "id": "f-lamps-r-024",
+   "ref": "p024",
+   "box": [
+    2880,
+    1520,
+    3080,
+    1840
+   ],
+   "feature": "far (right) lamps, foreshortened",
+   "reading": "Right cluster foreshortened: same peanut bezel mirrored (big lens outboard/higher, small inboard/lower); the red tail sits on the yellow, inboard of the bezel and outside it.",
+   "reading2": "Foreshortened: figure-8 bezel on grey-white body, taller big lens upper right, smaller lower left, screws on the rim; yellow with '24' and a red round tail lamp outside the bezel at lower left. Bigger lamp outboard/upper, small inboard/lower."
+  },
+  {
+   "id": "f-screen-024",
+   "ref": "p024",
+   "box": [
+    1700,
+    440,
+    3000,
+    1520
+   ],
+   "feature": "windscreen, pillar, destination display",
+   "reading": "settled on f-face-033 and f-face-001 (head-on, one crop each, grid g033a/g001): the second reader read the 024 wipers as leaning outwards; head-on both arms run from a low pivot at |m|~0.6 up to the pillar: an inverted V. One black-framed screen opening, two panes behind a thin central pillar (a white interior post shows through the left pane), orange LED destination behind the top left, black sill strip with the wiper pivots across the bottom, orange line along the top edge over the glass.",
+   "reading2": "Black glass with an orange pinstripe along the top, magenta at left; destination display upper left; central vertical pillar; two wipers parked from the bottom edge forming an inverted V; black lower rim; yellow at the bottom."
+  },
+  {
+   "id": "f-band-l-024",
+   "ref": "p024",
+   "box": [
+    1340,
+    420,
+    2010,
+    1540
+   ],
+   "feature": "near magenta band beside the screen",
+   "reading": "settled on f-face-033: reader 2's 'tapers to the bottom' is the corner-wrap triangle on the side; head-on the face band is a constant 0.20-0.38 m wide strip from 3.30 to ~1.97 m. Magenta band from the orange line down beside the screen, inner edge following the screen frame, lower inner corner rounded small; in this three-quarter view it also wraps the corner onto the cab side as a triangle whose rear edge slants down-forward, so the band looks widest at the top.",
+   "reading2": "Magenta band, orange pinstripe along the top; outer edge a straight diagonal; inner edge a gentle curve along the screen frame; widest at the top, tapering to a rounded point at the bottom right."
+  },
+  {
+   "id": "f-yellow-024",
+   "ref": "p024",
+   "box": [
+    1900,
+    1360,
+    3010,
+    2010
+   ],
+   "feature": "yellow warning panel and its lower curve",
+   "reading": "Yellow only under the screen: straight top along the black sill, sides curving in to a flat bottom with large rounded corners (a shield shape); number top right; red tails just inside the curved sides; white below and outboard.",
+   "reading2": "Mustard-ochre panel: straight wide top, sides curving in to a rounded bottom (large corner radii); '357 024' upper right; two red round tail lamps near the lower corners; black sill above; magenta at the top corners."
+  },
+  {
+   "id": "f-number-024",
+   "ref": "p024",
+   "box": [
+    2680,
+    1540,
+    2980,
+    1700
+   ],
+   "feature": "number on the yellow",
+   "reading": "'357 024' in dark grey sans-serif on the yellow, right of centre (as seen head-on), upper part of the yellow. Only on the right side."
+  },
+  {
+   "id": "f-dome-024",
+   "ref": "p024",
+   "box": [
+    1300,
+    150,
+    2800,
+    600
+   ],
+   "feature": "black dome, orange line over the screen",
+   "reading": "Black dome over the whole cab top down to the orange line, which runs along the top of the screen and the magenta bands and continues as the cantrail line on the side. Faint panel seams on the dome.",
+   "reading2": "Glossy black convex dome; orange pinstripe on the screen frame below it, continuing on the side above the magenta; faint seam on the dome; no other colour."
+  },
+  {
+   "id": "f-lower-024",
+   "ref": "p024",
+   "box": [
+    1340,
+    1950,
+    3080,
+    2800
+   ],
+   "feature": "lower face: rubbing strip, valance, coupler recess",
+   "reading": "White lower face ends in a lip with a shadow line; under it two white valance halves either side of a deep coupler recess (Dellner coupler); a black rubber pad along the top front edge of each valance half; valance outer bottom corner rounded.",
+   "reading2": "White bumper skirt, black rubber pad on a ledge near its top, bulbous side with rounded corner, recessed gap with a grey Dellner-type coupler."
+  },
+  {
+   "id": "f-wiper-024",
+   "ref": "p024",
+   "box": [
+    2160,
+    780,
+    2900,
+    1450
+   ],
+   "feature": "wipers and their pivots",
+   "reading": "Both wipers pivot low on the black sill (left one near the left of the screen's middle, right one near the right) and park slanting up to meet near the central pillar: an inverted V.",
+   "reading2": "Two black wiper arms rising from lower pivots to a shared head near the centre; a vertical screen post down the middle; flat black sill with pivot caps."
+  },
+  {
+   "id": "f-corner-door-024",
+   "ref": "p024",
+   "box": [
+    0,
+    400,
+    2300,
+    2300
+   ],
+   "feature": "cab corner, cab door and first passenger door, three-quarter",
+   "reading": "Cab corner: magenta band wraps the corner, white cab door with a tall droplight (dark frame, one transom), no magenta on the cab door; then the (open) magenta first passenger door and the swoosh low beside it.",
+   "reading2": "Magenta wedge on the cab front corner bounded by a slanted straight edge ending at the screen bottom; yellow below; cab door plain white; the open magenta first door beyond, swoosh low beside it."
+  },
+  {
+   "id": "s-cabdoor-024",
+   "ref": "p024",
+   "box": [
+    1000,
+    460,
+    1360,
+    2080
+   ],
+   "feature": "cab door (near side)",
+   "reading": "Cab door all white, full-height dark seal, front edge follows the cab's curve at the bottom; tall droplight in a dark frame with a transom about 40% down; two small slots below; warning stickers above.",
+   "reading2": "White cab door, dark seal outline; front edge curves with the cab; tall narrow window with a dark frame divided by one horizontal bar; stickers above; no magenta."
+  },
+  {
+   "id": "s-door1-024",
+   "ref": "p024",
+   "box": [
+    300,
+    760,
+    700,
+    1840
+   ],
+   "feature": "first passenger door from close",
+   "reading": "First passenger door, open: two magenta leaves full height from the orange line to the step, each with a tall narrow window; leaves curve in at the bottom with the tumblehome; 'Quiet'/'Zone' labels on this car.",
+   "reading2": "Open first door: magenta leaves full height from the roof edge to the step, narrow tall windows, 'Quiet'/'Zone' labels; leaves curve in at the bottom."
+  },
+  {
+   "id": "f-face-033",
+   "ref": "p033",
+   "box": [
+    1090,
+    440,
+    1800,
+    1350
+   ],
+   "feature": "whole face head-on",
+   "reading": "Head-on: black dome with a raised marker housing at the centre top; orange line; magenta bands either side of a two-pane screen; yellow shield below; lamps on white either side; white lower face with lip; two valance halves round the coupler recess."
+  },
+  {
+   "id": "f-lamps-l-033",
+   "ref": "p033",
+   "box": [
+    1140,
+    950,
+    1290,
+    1060
+   ],
+   "feature": "left lamp cluster head-on",
+   "reading": "Left cluster head-on: peanut bezel on white, big lens outboard and higher, small lens inboard and lower; red tail inboard again, on the yellow near its edge, a little lower than the small lens.",
+   "reading2": "White figure-8 bezel; large dark lamp upper left, smaller lower right (lower and more inboard); yellow with a convex curved edge containing a red tail lamp at lower right."
+  },
+  {
+   "id": "f-lamps-r-033",
+   "ref": "p033",
+   "box": [
+    1625,
+    960,
+    1735,
+    1065
+   ],
+   "feature": "right lamp cluster head-on",
+   "reading": "Mirror of the left: big outboard/higher, small inboard/lower, red tail further inboard on the yellow.",
+   "reading2": "Mirror of the left: large lamp upper right, smaller lower left (lower and inboard); waist notch upper left; four screws; yellow at top left with diagonal edge."
+  },
+  {
+   "id": "f-screen-033",
+   "ref": "p033",
+   "box": [
+    1180,
+    560,
+    1720,
+    930
+   ],
+   "feature": "windscreen head-on",
+   "reading": "settled on f-face-001: reader 2 saw the left pane narrower; that is roll/perspective in 033 (1.7 deg roll), p001 puts the pillar at the centre within 0.02 m. Screen frame from band to band, glass in two panes split by a thin central pillar, top corners of the glass rounded, bottom near square; black sill with three slots below the glass; LED destination top left; wipers park in an inverted V meeting near the pillar.",
+   "reading2": "Rounded-rectangle black glass, orange pinstripe at top, magenta side panels, yellow below; top corners rounded more than bottom; central divider (left pane looks narrower); wipers from outer-bottom pivots leaning toward the centre at the top; lit amber destination top left; black sill with three slots."
+  },
+  {
+   "id": "f-yellow-033",
+   "ref": "p033",
+   "box": [
+    1180,
+    890,
+    1700,
+    1090
+   ],
+   "feature": "yellow panel head-on",
+   "reading": "Yellow shield: straight top under the black sill, near-vertical then curving sides, flat bottom with large corner radii; number on the right; tails at the lower corners inside the edge.",
+   "reading2": "Mustard panel with large rounded bottom corners, slightly narrower toward the bottom; '357 033' upper right; red tails at lower left and right at the same height; black top edge with three slots; small black hook bottom centre-right."
+  },
+  {
+   "id": "f-dome-033",
+   "ref": "p033",
+   "box": [
+    1140,
+    440,
+    1790,
+    620
+   ],
+   "feature": "dome and marker head-on",
+   "reading": "Dome black, a small raised D-shaped housing with a lens at the top centre (dome marker)."
+  },
+  {
+   "id": "f-lower-033",
+   "ref": "p033",
+   "box": [
+    1110,
+    1070,
+    1765,
+    1340
+   ],
+   "feature": "lower face head-on",
+   "reading": "Lip shadow line at ~1.20 m; black pads on top of each valance half; coupler recess U-shaped, open full height of the valance, bottom corners rounded."
+  },
+  {
+   "id": "f-face-001",
+   "ref": "p001",
+   "box": [
+    840,
+    430,
+    1290,
+    890
+   ],
+   "feature": "whole face near head-on",
+   "reading": "Second head-on: confirms the central pillar (within 0.02 m of the lamp centre), lamp order and the yellow shape; a tiny red dot just inboard of the left tail (not on the right; ignored)."
+  },
+  {
+   "id": "f-lamps-l-012",
+   "ref": "p012",
+   "box": [
+    2390,
+    1380,
+    2700,
+    1570
+   ],
+   "feature": "left lamp cluster (near side)",
+   "reading": "Near (left) cluster in sun: big headlamp shows an amber reflector and bulb, small clear lens lower-inboard, unlit grey tail on the yellow inboard.",
+   "reading2": "Figure-8 bezel, hairline outline, white on white; large lamp left with amber ribbed lens and bulb, smaller lamp right and lower; a third round grey (unlit) tail lamp in the yellow, separate from the bezel."
+  },
+  {
+   "id": "f-lamps-r-012",
+   "ref": "p012",
+   "box": [
+    3210,
+    1370,
+    3490,
+    1545
+   ],
+   "feature": "right lamp cluster (far side)",
+   "reading": "Far (right) cluster: mirror image; tail inboard on the yellow."
+  },
+  {
+   "id": "f-band-012",
+   "ref": "p012",
+   "box": [
+    2260,
+    660,
+    2500,
+    1320
+   ],
+   "feature": "near magenta band from the side",
+   "reading": "settled on f-face-033 (same as f-band-l-024). Band from the side: wraps the corner, top edge under the orange line, rear edge a straight slant down-forward to the corner at about screen-bottom height.",
+   "reading2": "Magenta/pink band, orange pinstripe at the top, outer edge straight diagonal, inner edge along the screen frame, small rounded bottom corner; widest at the top."
+  },
+  {
+   "id": "s-cabdoor-012",
+   "ref": "p012",
+   "box": [
+    2140,
+    690,
+    2280,
+    1740
+   ],
+   "feature": "cab door",
+   "reading": "Cab door, white, tall droplight; no magenta."
+  },
+  {
+   "id": "s-door1-012",
+   "ref": "p012",
+   "box": [
+    1830,
+    710,
+    2010,
+    1670
+   ],
+   "feature": "first passenger door",
+   "reading": "First door: two magenta leaves, tall narrow windows, dark centre seal."
+  },
+  {
+   "id": "s-swoosh-012",
+   "ref": "p012",
+   "box": [
+    1700,
+    700,
+    2060,
+    1700
+   ],
+   "feature": "magenta swoosh by the first door",
+   "reading": "Swoosh: magenta diagonal rising rearward, low ahead of the door, high behind it, passing behind the door leaves."
+  },
+  {
+   "id": "s-carend-012",
+   "ref": "p012",
+   "box": [
+    1190,
+    780,
+    1350,
+    1570
+   ],
+   "feature": "car 1 rear end livery",
+   "reading": "Car 1 rear end: plain white, dark gangway gap; no magenta at the car end."
+  },
+  {
+   "id": "s-bogie-012",
+   "ref": "p012",
+   "box": [
+    2040,
+    1700,
+    2560,
+    2150
+   ],
+   "feature": "leading bogie",
+   "reading": "Leading bogie under the cab, black/grey frame, yellow axlebox covers."
+  },
+  {
+   "id": "s-roof-012",
+   "ref": "p012",
+   "box": [
+    1240,
+    580,
+    2400,
+    800
+   ],
+   "feature": "roof line",
+   "reading": "Light grey roof over the white body, orange cantrail line; black dome only on the cab."
+  },
+  {
+   "id": "f-lamps-r-013",
+   "ref": "p013",
+   "box": [
+    780,
+    1450,
+    990,
+    1640
+   ],
+   "feature": "near lamp cluster (right as seen head-on)",
+   "reading": "Near (right) cluster, overcast: peanut bezel on white, big lens outboard/higher, small inboard/lower, grey tail beyond on the yellow.",
+   "reading2": "Figure-8 bezel; large lamp upper right, smaller lower left; yellow with a digit at top left; edge of a grey tail lamp at far left."
+  },
+  {
+   "id": "s-cabdoor-013",
+   "ref": "p013",
+   "box": [
+    1220,
+    880,
+    1420,
+    1740
+   ],
+   "feature": "cab door",
+   "reading": "Cab door white, tall droplight with transom; no magenta."
+  },
+  {
+   "id": "s-door1-013",
+   "ref": "p013",
+   "box": [
+    1770,
+    930,
+    2010,
+    1620
+   ],
+   "feature": "first passenger door",
+   "reading": "Magenta two-leaf door with 'Quiet Zone' labels, tall narrow windows."
+  },
+  {
+   "id": "s-swoosh-013",
+   "ref": "p013",
+   "box": [
+    1620,
+    920,
+    2200,
+    1680
+   ],
+   "feature": "swoosh by the first door",
+   "reading": "Swoosh: wide straight-edged diagonal, low and forward of the door (ending at the body bottom), passing behind the door, reappearing above window 2 up to the cantrail line, cut there; edges straight, slope ~30 deg.",
+   "reading2": "Magenta diagonal stripe low on one side of the door rising into the door's lower third; on the other side a straight-edged parallelogram high above the window, cut at the roofline; the door sits over the stripe."
+  },
+  {
+   "id": "s-carend-013",
+   "ref": "p013",
+   "box": [
+    2580,
+    970,
+    2750,
+    1460
+   ],
+   "feature": "car 1 rear end livery",
+   "reading": "Car end white with the dark end post / gangway gap; no livery shape at the car end.",
+   "reading2": "Car end silver-grey/white, no magenta; dark vertical gangway gap; orange line near the top; small fleet number."
+  },
+  {
+   "id": "s-window-013",
+   "ref": "p013",
+   "box": [
+    1400,
+    1000,
+    2600,
+    1450
+   ],
+   "feature": "window row of car 1",
+   "reading": "Car 1: one large window between cab door and door 1; between the doors one long flush glazed band with thin mullions (four panes); 'c2c' logo in magenta below it.",
+   "reading2": "One large window, magenta door, a wide window of four panes with thin dividers and 'c2c' below, second magenta door; magenta wedge above the middle window; stripe low at lower left."
+  },
+  {
+   "id": "s-cabdoor-045",
+   "ref": "p045",
+   "box": [
+    1500,
+    490,
+    1690,
+    1240
+   ],
+   "feature": "cab door",
+   "reading": "Cab door white, tall droplight in a dark frame with a transom ~40% down; follows the cab curve at the bottom.",
+   "reading2": "White cab door, dark seal, tall dark window with a bar roughly 40% down; no magenta."
+  },
+  {
+   "id": "s-door1-045",
+   "ref": "p045",
+   "box": [
+    1940,
+    540,
+    2130,
+    1150
+   ],
+   "feature": "first passenger door",
+   "reading": "Magenta door, both leaves full height, narrow tall windows (dark, square corners) in the upper half, flaring with the tumblehome at the bottom.",
+   "reading2": "Closed magenta double door, dark centre seam, narrow tall square-cornered windows in the upper half; door flares at the bottom; magenta swoosh continues past the door's left edge at the bottom."
+  },
+  {
+   "id": "s-swoosh-045",
+   "ref": "p045",
+   "box": [
+    1800,
+    520,
+    2300,
+    1200
+   ],
+   "feature": "swoosh",
+   "reading": "Swoosh in sun: magenta diagonal, front/lower part ahead of the door down to the body bottom, upper part above window 2 up to the orange line; it tapers (narrower at the bottom).",
+   "reading2": "Swoosh starts at the door's lower edge and runs down away from it, tapering; at the other side a wedge above the window wider at the top, cut at the roofline; stripes pass behind the door."
+  },
+  {
+   "id": "s-bogie-045",
+   "ref": "p045",
+   "box": [
+    1340,
+    1170,
+    1930,
+    1560
+   ],
+   "feature": "leading bogie",
+   "reading": "Leading bogie; axle end caps visible on the near wheels."
+  },
+  {
+   "id": "f-face-045",
+   "ref": "p045",
+   "box": [
+    540,
+    280,
+    1560,
+    1560
+   ],
+   "feature": "face three-quarter",
+   "reading": "Face in sun from the train's left: same layout; the face is in shade (colours there not usable)."
+  },
+  {
+   "id": "s-car1-042",
+   "ref": "p042",
+   "box": [
+    1170,
+    860,
+    2930,
+    1590
+   ],
+   "feature": "whole leading car near side-on",
+   "reading": "Whole leading car near side-on: cab door, large window, door 1, glazed band with mullions, door 2, window, car end; swoosh by door 1 only; c2c logo between the doors."
+  },
+  {
+   "id": "s-door1-042",
+   "ref": "p042",
+   "box": [
+    1890,
+    960,
+    2090,
+    1360
+   ],
+   "feature": "first door near side-on",
+   "reading": "Door 1 side-on: magenta leaves, dark seam, narrow windows, 'Quiet/Zone' labels; swoosh leaves the door's front edge low and its rear edge high.",
+   "reading2": "Magenta double door side-on; at the lower right a magenta diagonal stripe slants from the door bottom; on the left a swoosh goes from the door edge, its upper side meeting the window's lower edge."
+  },
+  {
+   "id": "s-carend-042",
+   "ref": "p042",
+   "box": [
+    1150,
+    960,
+    1300,
+    1360
+   ],
+   "feature": "car 1 rear end near side-on",
+   "reading": "Car end plain white, dark end post; no magenta.",
+   "reading2": "Pale grey/white car end, dark gap seal, orange line at the top, fleet number; no magenta."
+  },
+  {
+   "id": "s-nose-042",
+   "ref": "p042",
+   "box": [
+    2280,
+    880,
+    2930,
+    1560
+   ],
+   "feature": "nose from the side",
+   "reading": "Nose from the train's right: magenta band wraps the corner; lit headlamp is the big outboard lens; yellow shield; white lower face, valance and coupler."
+  },
+  {
+   "id": "f-face-207",
+   "ref": "p207",
+   "box": [
+    100,
+    540,
+    1470,
+    2360
+   ],
+   "feature": "357/2 face, for /0 vs /2",
+   "reading": "357/2 face (357207): identical layout to the 357/0 (screen, bands, yellow, lamps, valance). No /0 vs /2 difference visible."
+  },
+  {
+   "id": "f-face-205",
+   "ref": "p205",
+   "box": [
+    860,
+    340,
+    1125,
+    670
+   ],
+   "feature": "old c2c face",
+   "reading": "Old c2c scheme (357205, June 2025): white face; a yellow CAP over the screen (from the orange line up onto the dome front, its top edge curved); yellow shield under the screen as on the new scheme but reaching the face edges at the top; no magenta; same lamps; grey dome top.",
+   "reading2": "Older livery: yellow cap above the screen as a curved band, orange pinstripe at its edges; black screen with V wipers, LED display upper left, centre divider; yellow shield below with '357 205'; lamp clusters both sides; small dark (unlit) tail lamps on the yellow near the lower corners; off-white body, dark skirt."
+  },
+  {
+   "id": "s-door1-205",
+   "ref": "p205",
+   "box": [
+    735,
+    370,
+    800,
+    590
+   ],
+   "feature": "old c2c first door",
+   "reading": "Old scheme door: dark navy/charcoal leaves, narrow windows, white body round it.",
+   "reading2": "Dark navy double door, narrow windows, white body around; orange line at the top."
+  },
+  {
+   "id": "d-nose",
+   "ref": "dia",
+   "box": [
+    0,
+    0,
+    260,
+    369
+   ],
+   "feature": "diagram nose (redrawn for the 357)",
+   "reading": "Diagram nose redrawn for the 357: straight rake from 1.1 m to the orange line at 3.3 m, then the dome; valance drawn set back below ~1.0 m."
+  },
+  {
+   "id": "d-cab",
+   "ref": "dia",
+   "box": [
+    100,
+    40,
+    620,
+    300
+   ],
+   "feature": "diagram cab and first door (copy of the 377)",
+   "reading": "Diagram cab and first door: pixel-identical to the 377 drawing (doors 442-586 px, windows, cab door 137-204 px): not independent evidence."
+  },
+  {
+   "id": "logo-c2c-cab-045",
+   "ref": "p045",
+   "box": [
+    2290,
+    880,
+    2410,
+    1000
+   ],
+   "feature": "cab car c2c wordmark, train left side",
+   "reading": "Lower-case 'c2c' in magenta on the white bodyside, below the window band and well above the bodyside crease; the 2 taller than the c's and its foot dropping below them; no outline, no box."
+  },
+  {
+   "id": "logo-c2c-cab-013",
+   "ref": "p013",
+   "box": [
+    2210,
+    1290,
+    2320,
+    1430
+   ],
+   "feature": "cab car c2c wordmark, train left side",
+   "reading": "Magenta 'c2c', c-2-c, the 2 rising above and dropping below the c's; plain white around it; sits under the window band, about mid-panel between door 1 and door 2."
+  },
+  {
+   "id": "logo-c2c-cab-r-042",
+   "ref": "p042",
+   "box": [
+    1600,
+    1190,
+    1720,
+    1300
+   ],
+   "feature": "cab car c2c wordmark, train right side",
+   "reading": "The same 'c2c' reading normally (not mirrored) on the right side, same height under the windows."
+  },
+  {
+   "id": "logo-c2c-next-042",
+   "ref": "p042",
+   "box": [
+    870,
+    1150,
+    950,
+    1230
+   ],
+   "feature": "next car c2c wordmark, right side",
+   "reading": "Smaller in the frame (further away): magenta 'c2c' mid-panel between the two doors, under the windows."
+  },
+  {
+   "id": "logo-c2c-next-045",
+   "ref": "p045",
+   "box": [
+    2870,
+    830,
+    2930,
+    905
+   ],
+   "feature": "next car c2c wordmark, left side",
+   "reading": "Foreshortened magenta c2c between the car's two doors below the windows."
+  },
+  {
+   "id": "logo-quiet-013",
+   "ref": "p013",
+   "box": [
+    1820,
+    1320,
+    2000,
+    1430
+   ],
+   "feature": "Quiet Zone panels on cab door 1, left side",
+   "reading": "Each magenta leaf carries a white rectangle under its window: 'Quiet' on the front leaf, 'Zone' on the rear leaf, thin teal/blue-grey sans text; the panel nearly half the leaf width, centred on it."
+  },
+  {
+   "id": "logo-quiet-r-042",
+   "ref": "p042",
+   "box": [
+    1900,
+    1210,
+    2060,
+    1280
+   ],
+   "feature": "Quiet Zone panels on cab door 1, right side",
+   "reading": "Same white panels, but 'Quiet' on the rear leaf and 'Zone' on the front leaf, so it still reads Quiet Zone left to right."
+  },
+  {
+   "id": "logo-quiet-d2-013",
+   "ref": "p013",
+   "box": [
+    2440,
+    1260,
+    2540,
+    1340
+   ],
+   "feature": "Quiet Zone panels on cab door 2, left side",
+   "reading": "Door 2 carries the same pair of white panels under its leaf windows (foreshortened)."
+  },
+  {
+   "id": "logo-noqz-045",
+   "ref": "p045",
+   "box": [
+    1940,
+    820,
+    2140,
+    1060
+   ],
+   "feature": "cab door 1 on 357045 (left side)",
+   "reading": "Plain magenta leaves, no white panels: this unit's leading car is not the Quiet Zone car."
+  }
+ ],
+ "samples": [
+  {
+   "id": "white-013",
+   "ref": "p013",
+   "box": [
+    1470,
+    1420,
+    1600,
+    1480
+   ],
+   "what": "white bodyside below the first window, car 1 (overcast)"
+  },
+  {
+   "id": "door-013",
+   "ref": "p013",
+   "box": [
+    1830,
+    1430,
+    1890,
+    1510
+   ],
+   "what": "door leaf magenta, lower leaf",
+   "neutral": "white-013"
+  },
+  {
+   "id": "swoosh-013",
+   "ref": "p013",
+   "box": [
+    2060,
+    1000,
+    2130,
+    1035
+   ],
+   "what": "swoosh magenta above window 2",
+   "neutral": "white-013"
+  },
+  {
+   "id": "white-cab-013",
+   "ref": "p013",
+   "box": [
+    1000,
+    1230,
+    1070,
+    1340
+   ],
+   "what": "white cab side just behind the face corner"
+  },
+  {
+   "id": "band-013",
+   "ref": "p013",
+   "box": [
+    950,
+    1050,
+    1000,
+    1200
+   ],
+   "what": "magenta band on the cab corner",
+   "neutral": "white-face-013"
+  },
+  {
+   "id": "white-face-013",
+   "ref": "p013",
+   "box": [
+    1000,
+    1400,
+    1100,
+    1470
+   ],
+   "what": "white lower face below the yellow"
+  },
+  {
+   "id": "yellow-013",
+   "ref": "p013",
+   "box": [
+    400,
+    1410,
+    570,
+    1450
+   ],
+   "what": "yellow warning panel",
+   "neutral": "white-face-013"
+  },
+  {
+   "id": "dome-013",
+   "ref": "p013",
+   "box": [
+    450,
+    810,
+    600,
+    840
+   ],
+   "what": "black dome",
+   "neutral": "white-face-013"
+  },
+  {
+   "id": "roof-013",
+   "ref": "p013",
+   "box": [
+    1540,
+    876,
+    1720,
+    900
+   ],
+   "what": "roof",
+   "neutral": "white-013"
+  },
+  {
+   "id": "white-045",
+   "ref": "p045",
+   "box": [
+    1680,
+    960,
+    1900,
+    1010
+   ],
+   "what": "white bodyside below the first window (sun)"
+  },
+  {
+   "id": "door-045",
+   "ref": "p045",
+   "box": [
+    2000,
+    925,
+    2030,
+    955
+   ],
+   "what": "door leaf magenta",
+   "neutral": "white-045"
+  },
+  {
+   "id": "swoosh-045",
+   "ref": "p045",
+   "box": [
+    2165,
+    612,
+    2200,
+    640
+   ],
+   "what": "swoosh magenta above window 2",
+   "neutral": "white-045"
+  },
+  {
+   "id": "orange-045",
+   "ref": "p045",
+   "box": [
+    1880,
+    552,
+    1920,
+    556
+   ],
+   "what": "cantrail orange line",
+   "neutral": "white-045"
+  },
+  {
+   "id": "band-045",
+   "ref": "p045",
+   "box": [
+    1385,
+    600,
+    1420,
+    700
+   ],
+   "what": "magenta band on the cab side",
+   "neutral": "white-045"
+  },
+  {
+   "id": "white-face-045",
+   "ref": "p045",
+   "box": [
+    1300,
+    970,
+    1390,
+    1020
+   ],
+   "what": "white face beside/below the yellow (sun)"
+  },
+  {
+   "id": "yellow-045",
+   "ref": "p045",
+   "box": [
+    760,
+    960,
+    880,
+    1000
+   ],
+   "what": "yellow warning panel",
+   "neutral": "white-face-045"
+  },
+  {
+   "id": "dome-045",
+   "ref": "p045",
+   "box": [
+    850,
+    385,
+    1150,
+    420
+   ],
+   "what": "black dome",
+   "neutral": "white-face-045"
+  },
+  {
+   "id": "white-024",
+   "ref": "p024",
+   "box": [
+    1390,
+    1160,
+    1530,
+    1330
+   ],
+   "what": "white cab side (diffuse)"
+  },
+  {
+   "id": "band-024",
+   "ref": "p024",
+   "box": [
+    1540,
+    580,
+    1720,
+    760
+   ],
+   "what": "magenta band on the cab corner",
+   "neutral": "white-024"
+  },
+  {
+   "id": "white-face-024",
+   "ref": "p024",
+   "box": [
+    2115,
+    2040,
+    2205,
+    2090
+   ],
+   "what": "white lower face"
+  },
+  {
+   "id": "yellow-024",
+   "ref": "p024",
+   "box": [
+    2310,
+    1640,
+    2590,
+    1820
+   ],
+   "what": "yellow warning panel",
+   "neutral": "white-face-024"
+  },
+  {
+   "id": "dome-024",
+   "ref": "p024",
+   "box": [
+    1730,
+    290,
+    2110,
+    380
+   ],
+   "what": "black dome",
+   "neutral": "white-face-024"
+  },
+  {
+   "id": "door-024",
+   "ref": "p024",
+   "box": [
+    540,
+    870,
+    575,
+    1150
+   ],
+   "what": "open door leaf magenta",
+   "neutral": "white-024"
+  },
+  {
+   "id": "white-205",
+   "ref": "p205",
+   "box": [
+    785,
+    515,
+    830,
+    540
+   ],
+   "what": "old livery white bodyside"
+  },
+  {
+   "id": "door-205",
+   "ref": "p205",
+   "box": [
+    750,
+    525,
+    775,
+    570
+   ],
+   "what": "old livery dark door",
+   "neutral": "white-205"
+  },
+  {
+   "id": "yellow-205",
+   "ref": "p205",
+   "box": [
+    935,
+    520,
+    1010,
+    540
+   ],
+   "what": "old livery yellow panel",
+   "neutral": "white-face-205"
+  },
+  {
+   "id": "white-face-205",
+   "ref": "p205",
+   "box": [
+    875,
+    505,
+    900,
+    525
+   ],
+   "what": "old livery face white beside the yellow"
+  },
+  {
+   "id": "cap-205",
+   "ref": "p205",
+   "box": [
+    935,
+    355,
+    1060,
+    370
+   ],
+   "what": "old livery yellow cap over the screen",
+   "neutral": "white-face-205"
+  },
+  {
+   "id": "c2c-013",
+   "ref": "p013",
+   "box": [
+    2257,
+    1388,
+    2268,
+    1396
+   ],
+   "what": "c2c wordmark: foot of the 2",
+   "neutral": "c2c-white-013"
+  },
+  {
+   "id": "c2c-white-013",
+   "ref": "p013",
+   "box": [
+    2300,
+    1355,
+    2312,
+    1370
+   ],
+   "what": "white bodyside beside the c2c wordmark"
+  }
+ ]
+}

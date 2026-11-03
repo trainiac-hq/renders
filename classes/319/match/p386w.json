@@ -1,0 +1,297 @@
+{
+ "ref": "p386w",
+ "side": "near",
+ "note": "319386 nearly head-on from the train's left, nose left: the near side (-Y) to the right of the face; the face's right-as-seen cluster is lamp0 (near). Sony DSC-HX60V at 4.3 mm (6.17 mm sensor, 5184 px original, same aspect as this copy): 2676 px.",
+ "points": {
+  "wA-front-top": [
+   1787.8,
+   911.5
+  ],
+  "wA-rear-top": [
+   1851.2,
+   921.8
+  ],
+  "wA-front-bottom": [
+   1792.3,
+   1168.5
+  ],
+  "wA-rear-bottom": [
+   1860.9,
+   1158.5
+  ],
+  "wB-front-top": [
+   1885.3,
+   907.8
+  ],
+  "wB-rear-top": [
+   1992.1,
+   926.6
+  ],
+  "wB-front-bottom": [
+   1890.2,
+   1153.9
+  ],
+  "wB-rear-bottom": [
+   2001.5,
+   1137.2
+  ],
+  "wC-front-top": [
+   2123.7,
+   962.2
+  ],
+  "wC-front-bottom": [
+   2125.5,
+   1116.0
+  ],
+  "wC-rear-top": [
+   2174.9,
+   970.6
+  ],
+  "wC-rear-bottom": [
+   2180.6,
+   1108.8
+  ],
+  "wD-front-top": [
+   2187.5,
+   972.6
+  ],
+  "wD-front-bottom": [
+   2189.2,
+   1107.5
+  ],
+  "wD-rear-top": [
+   2227.8,
+   979.3
+  ],
+  "wD-rear-bottom": [
+   2232.4,
+   1101.1
+  ],
+  "d1c-top": [
+   2061.7,
+   911.2
+  ],
+  "d2c-top": [
+   2255.4,
+   955.4
+  ],
+  "lamp1-head": [
+   770.6,
+   1336.6
+  ],
+  "hl-far": [
+   816.5,
+   1338.8
+  ],
+  "lamp1-tail": [
+   873.1,
+   1342.6
+  ],
+  "lamp0-tail": [
+   1262.8,
+   1358.5
+  ],
+  "hl-near": [
+   1330.0,
+   1359.3
+  ],
+  "lamp0-head": [
+   1377.5,
+   1354.9
+  ],
+  "sc-far-out-top": [
+   738.1,
+   790.3
+  ],
+  "sc-far-in-top": [
+   941.9,
+   786.4
+  ],
+  "sc-far-out-bottom": [
+   717.5,
+   1141.7
+  ],
+  "sc-far-in-bottom": [
+   922.3,
+   1145.5
+  ],
+  "gw-far-top": [
+   1014.4,
+   787.2
+  ],
+  "gw-near-top": [
+   1170.3,
+   784.9
+  ],
+  "gw-far-bottom": [
+   995.2,
+   1148.2
+  ],
+  "gw-near-bottom": [
+   1150.2,
+   1151.3
+  ],
+  "sc-near-in-top": [
+   1249.2,
+   781.0
+  ],
+  "sc-near-out-top": [
+   1476.0,
+   776.5
+  ],
+  "sc-near-in-bottom": [
+   1225.3,
+   1151.8
+  ],
+  "sc-near-out-bottom": [
+   1459.2,
+   1155.2
+  ]
+ },
+ "model": {
+  "wA-front-top": [
+   2.326,
+   3.05
+  ],
+  "wA-front-bottom": [
+   2.326,
+   2.11
+  ],
+  "wA-rear-top": [
+   3.036,
+   3.05
+  ],
+  "wA-rear-bottom": [
+   3.036,
+   2.11
+  ],
+  "wB-front-top": [
+   3.496,
+   3.05
+  ],
+  "wB-front-bottom": [
+   3.496,
+   2.11
+  ],
+  "wB-rear-top": [
+   5.167,
+   3.05
+  ],
+  "wB-rear-bottom": [
+   5.167,
+   2.11
+  ],
+  "wC-front-top": [
+   8.329,
+   3.05
+  ],
+  "wC-front-bottom": [
+   8.329,
+   2.11
+  ],
+  "wC-rear-top": [
+   10.0,
+   3.05
+  ],
+  "wC-rear-bottom": [
+   10.0,
+   2.11
+  ],
+  "wD-front-top": [
+   10.446,
+   3.05
+  ],
+  "wD-front-bottom": [
+   10.446,
+   2.11
+  ],
+  "wD-rear-top": [
+   12.117,
+   3.05
+  ],
+  "wD-rear-bottom": [
+   12.117,
+   2.11
+  ],
+  "d1c-top": [
+   6.73,
+   3.25
+  ],
+  "d2c-top": [
+   13.68,
+   3.25
+  ]
+ },
+ "modelFace": {
+  "hl-far": [
+   0.78,
+   1.7
+  ],
+  "hl-near": [
+   -0.78,
+   1.7
+  ],
+  "sc-far-out-top": [
+   1.14,
+   3.284
+  ],
+  "sc-far-out-bottom": [
+   1.14,
+   2.263
+  ],
+  "sc-far-in-top": [
+   0.474,
+   3.284
+  ],
+  "sc-far-in-bottom": [
+   0.474,
+   2.263
+  ],
+  "sc-near-in-top": [
+   -0.474,
+   3.284
+  ],
+  "sc-near-in-bottom": [
+   -0.474,
+   2.263
+  ],
+  "sc-near-out-top": [
+   -1.14,
+   3.284
+  ],
+  "sc-near-out-bottom": [
+   -1.14,
+   2.263
+  ],
+  "gw-far-top": [
+   0.24,
+   3.28
+  ],
+  "gw-near-top": [
+   -0.24,
+   3.28
+  ],
+  "gw-far-bottom": [
+   0.24,
+   2.265
+  ],
+  "gw-near-bottom": [
+   -0.24,
+   2.265
+  ]
+ },
+ "holdout": [
+  "wC-rear-bottom",
+  "sc-near-out-top",
+  "hl-near",
+  "d2c-top"
+ ],
+ "readings": {
+  "w*": "saloon windows A-D: glass edges (hopper glass top, lower glass bottom, inside the silver frame) as lines fitted along scanlines (edgefit/eline, rms 0.1-0.8 px), virtual corners; front = left (nose left)",
+  "d*c-top": "door leaf top's midpoint between the navy leaves' fitted front and rear edges: the centre, because the navy leaves read 1.33 m wide, not the spec's 1.5 m (see notes)",
+  "lamp*/hl-*": "lens centres at 4x (pk386): lamp*-head = marker (m 0.925), hl-* = round headlamp (m 0.78), lamp*-tail = red tail (m 0.59)",
+  "sc-*": "windscreens: yellow-to-black-rubber edges, lines fitted along scanlines (rms 0.1-0.6 px), virtual corners",
+  "gw-*": "gangway door window opening, lines fitted along scanlines, virtual corners"
+ },
+ "focalPx": 2676
+}

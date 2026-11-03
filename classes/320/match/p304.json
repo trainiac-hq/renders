@@ -1,0 +1,141 @@
+{
+ "ref": "p304",
+ "side": "far",
+ "model": {
+  "wa-front-top": [
+   2.303,
+   3.104
+  ],
+  "wa-rear-top": [
+   3.623,
+   3.104
+  ],
+  "wa-front-bottom": [
+   2.303,
+   2.044
+  ],
+  "wa-rear-bottom": [
+   3.623,
+   2.044
+  ],
+  "wb-front-top": [
+   4.374,
+   3.104
+  ],
+  "wb-rear-top": [
+   5.694,
+   3.104
+  ],
+  "wb-front-bottom": [
+   4.374,
+   2.044
+  ],
+  "wb-rear-bottom": [
+   5.694,
+   2.044
+  ]
+ },
+ "modelFace": {
+  "yellow-top-far": [
+   1.274,
+   2.364
+  ],
+  "tongue-bottom-far": [
+   0.365,
+   1.601
+  ],
+  "tongue-bottom-near": [
+   -0.365,
+   1.601
+  ]
+ },
+ "points": {
+  "wa-front-top": [
+   1972.5,
+   1200
+  ],
+  "wa-rear-top": [
+   1931,
+   1201.5
+  ],
+  "wa-front-bottom": [
+   1970,
+   1540
+  ],
+  "wa-rear-bottom": [
+   1926,
+   1537.5
+  ],
+  "wb-front-top": [
+   1900,
+   1207.5
+  ],
+  "wb-rear-top": [
+   1862.5,
+   1209
+  ],
+  "wb-front-bottom": [
+   1897.5,
+   1545
+  ],
+  "wb-rear-bottom": [
+   1852.5,
+   1540
+  ],
+  "lamp1-head": [
+   2276.5,
+   1696.5
+  ],
+  "lamp0-tail": [
+   2837,
+   1685
+  ],
+  "yellow-top-far": [
+   2140,
+   1470
+  ],
+  "tongue-bottom-far": [
+   2471,
+   1741
+  ],
+  "tongue-bottom-near": [
+   2736,
+   1736
+  ]
+ },
+ "holdout": [
+  "wb-rear-bottom",
+  "lamp0-tail",
+  "tongue-bottom-near"
+ ],
+ "readings": {
+  "wa-*": "window frames behind the cab door, outer edge of the light frame, read off a 2x zoom (heavily foreshortened: +-2 px across)",
+  "lamp1-head": "lit headlamp, far-side housing (image left), centre of the glow",
+  "lamp0-tail": "LED tail cluster, near-side housing, centre of the cluster",
+  "yellow-top-far": "yellow panel's top outer corner beside the dots",
+  "tongue-bottom-*": "yellow tongue's bottom corners between the lamp housings"
+ },
+ "surface": {
+  "lamp1-head": [
+   2276.5,
+   1696.5
+  ],
+  "lamp0-tail": [
+   2837,
+   1685
+  ],
+  "yellow-top-far": [
+   2140,
+   1470
+  ],
+  "tongue-bottom-far": [
+   2471,
+   1741
+  ],
+  "tongue-bottom-near": [
+   2736,
+   1736
+  ]
+ },
+ "focalPx": 23215.4
+}
